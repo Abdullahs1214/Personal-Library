@@ -1,0 +1,1185 @@
+[
+    {
+        "question": "A progressive, chronic inflammatory disease which causes pain in the joints of the hands, wrists, elbows, knees as well as mouth ulcers on the roof of the mouth, a facial rash that stretches over the cheeks and nose, headaches, and kidney & lung problems is likely:",
+        "options": ["Rheumatoid arthritis", "Lupus", "Osteoarthritis", "Ankylosing spondylitis"],
+        "correctAnswer": "Lupus",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following arthritic disorders is a crystal-induced arthropathy in which weight bearing & movement worsens the pain?",
+        "options": ["Rheumatoid arthritis", "Osteoarthritis", "Fibromyalgia", "Gout"],
+        "correctAnswer": "Gout",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is a clinically significant diagnostic feature for a suspected fibromyalgia diagnosis in a patient presenting with persistent body aches?",
+        "options": ["Chronic low back pain", "Laboratory creatinine kinase elevation", "Cognitive difficulties", "Multiple tender points"],
+        "correctAnswer": "Cognitive difficulties",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following disease conditions could be classified as autoimmune diseases affecting the connective tissue, EXCEPT:",
+        "options": ["Carpal tunnel syndrome", "Psoriatic arthritis", "Systemic sclerosis", "Sjogren's syndrome"],
+        "correctAnswer": "Carpal tunnel syndrome",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following options is considered to have the least therapeutic evidence for the treatment of carpal tunnel syndrome?",
+        "options": ["High-dose pyridoxine", "Immobilization", "Steroid injection", "Surgery"],
+        "correctAnswer": "High-dose pyridoxine",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following are considered evidence-based risk factors for knee osteoarthritis, EXCEPT:",
+        "options": ["Muscle weakness", "Female sex", "Cold weather", "Overweight"],
+        "correctAnswer": "Cold weather",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Lifestyle factors contributing to osteoarthritis identified a number of occupations associated with a high risk of osteoarthritis, which include all of the following, EXCEPT:",
+        "options": ["Commercial driving", "Farming", "Carpet fitting", "Coal mining"],
+        "correctAnswer": "Commercial driving",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following are useful advice to P.Z., EXCEPT:",
+        "options": ["Sleeping on a firm mattress and placing a pillow between the legs are expected to reduce stress on the joints while sleeping.", "Achieving a weight loss of 5% of total body weight is expected to effectively reduce symptoms and improve function.", "A cane held in the contralateral hand can be used to unload painful joints.", "Consider hydrotherapy as it has a proven benefit for knee osteoarthritis."],
+        "correctAnswer": "Consider hydrotherapy as it has a proven benefit for knee osteoarthritis.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following questions is the least suitable to ask P.Z. in order to assess her risk factors for developing chronicity?",
+        "options": ["Do you think other tests should be done before implementing a treatment plan?", "What treatments or activities do you think will help you recover?", "How are you emotionally coping with your joint pain?", "Do you think your pain will improve or become worse?"],
+        "correctAnswer": "Do you think other tests should be done before implementing a treatment plan?",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following signs and symptoms would least require a pharmacist to refer a patient diagnosed with moderate osteoarthritis to the family physician?",
+        "options": ["Escalating doses of pain medications", "Pain significantly worse at night", "Persistent conjunctivitis", "Piercing pain triggered by activity"],
+        "correctAnswer": "Piercing pain triggered by activity",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is the most useful non-drug measure for an 87-year-old patient suffering from symptomatic knee and hip osteoarthritis?",
+        "options": ["Transcutaneous electrical nerve stimulation", "Weight loss", "Hydrotherapy", "Custom orthotic solutions"],
+        "correctAnswer": "Hydrotherapy",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following daily activities might be affected the most in a patient with hip osteoarthritis?",
+        "options": ["Entering or exiting a vehicle", "Racking and carrying leaves", "Vacuuming", "Washing dishes"],
+        "correctAnswer": "Entering or exiting a vehicle",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is the most appropriate exercise for a 62-year-old male to help him with his knee osteoarthritis?",
+        "options": ["Using elliptical machines", "Jumping rope", "Badminton", "Fishing"],
+        "correctAnswer": "Using elliptical machines",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following leisure, recreational or sport activities might be the least suitable for a knee osteoarthritic patient?",
+        "options": ["Ice skating", "Ballroom dancing", "Step aerobics", "Horse riding"],
+        "correctAnswer": "Step aerobics",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following might be an initially helpful intervention for a 64-year-old woman suffering from mild right knee osteoarthritis?",
+        "options": ["Diclofenac 1.5% solution (PENNSAID) 50 drops per knee tid", "Acetaminophen tablets up to 4 grams per day", "Reduce your weight and walk", "Capsaicin 0.25% cream (ZOSTRIX) qid"],
+        "correctAnswer": "Reduce your weight and walk",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "I.L. is concerned about the use of topical NSAIDs for her knee osteoarthritis pain because of the risk of stomach ulcers and bleeding. Which of the following is an adequate advice by the pharmacist?",
+        "options": ["The incidence of serious events with this product resembles those of placebo in postmarketing reports.", "Systemic serious side effects are rare and would be relevant to patients with predisposing factors.", "The benefit of pain relief provided by this product outweighs the potential risk.", "This product might result in local itching and erythema but not in systemic adverse reactions."],
+        "correctAnswer": "Systemic serious side effects are rare and would be relevant to patients with predisposing factors.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "I.L. was started on capsaicin 0.05% cream but complained of tingling and burning. All of the following are acceptable recommendations by the pharmacist, EXCEPT:",
+        "options": ["Local skin reactions diminish with repeated and continuous use after the first week of treatment.", "Cover the application site with a wet cloth for 30 minutes after applying topical capsaicin until the burning sensation disappears.", "Apply EMLA cream 30 minutes before applying topical capsaicin.", "Be aware that hot shower, extensive perspiration and exposure to hot weather immediately prior to or after applying the cream may intensify this sensation."],
+        "correctAnswer": "Cover the application site with a wet cloth for 30 minutes after applying topical capsaicin until the burning sensation disappears.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following counseling instructions that could be given to I.L. about the use and administration of topical capsaicin for osteoarthritis are correct, EXCEPT:",
+        "options": ["A local tingling side effect usually decreases within 72 hours with repeated use.", "Gently rub into painful area 4 times per day until thoroughly absorbed and wash hands with soap and water immediately after each application.", "Consider wearing gloves to apply capsaicin.", "Apply for a minimum of 4 weeks to see beneficial effects."],
+        "correctAnswer": "Apply for a minimum of 4 weeks to see beneficial effects.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "I.L. asks the pharmacist as to when she should expect to feel the ultimate pain relief outcome in her sore knee after applying capsaicin cream. An accurate response by the pharmacist would be:",
+        "options": ["30-60 minutes", "1-2 weeks", "4-6 weeks", "2-4 weeks"],
+        "correctAnswer": "1-2 weeks",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following are possible adverse reactions to topical capsaicin, EXCEPT:",
+        "options": ["Sneezing", "Erythema", "Burning"],
+        "correctAnswer": "Sneezing",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "C.O., a 69-year-old obese female with moderate-severe osteoarthritis of both knees who has been taking nonprescription Advil 2,400 mg daily over the last few months, reports a barely agreeable relief of her knee pain on Advil but has developed an 'upset tummy' over the last two weeks. The most appropriate advice by the pharmacist is:",
+        "options": ["Recommend to the patient a trial of nonprescription Nexium 24H for 14 days", "Suggest to the patient to talk to her primary care physician regarding opioid prescription medications", "Suggest to the patient to try a lower Advil dose of 1200 mg per day", "Advise the patient to try a Tylenol dose of 4 grams per day instead of the Advil"],
+        "correctAnswer": "Suggest to the patient to talk to her primary care physician regarding opioid prescription medications",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is false regarding intra-articular hyaluronic acid?",
+        "options": ["It is only indicated for elderly patients who did not respond to non-drug measures and to simple analgesics such as ibuprofen.", "The molecular weights and degree of cross-linkage of commercially available hyaluronic acid preparations may impact the clinical outcomes.", "It is at least equally effective to intra-articular steroids for knee osteoarthritis patients.", "It can inactivate intra-articular steroids and parenteral administration should be spaced by at least 24 hours."],
+        "correctAnswer": "It can inactivate intra-articular steroids and parenteral administration should be spaced by at least 24 hours.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is true regarding intra-articular steroid injections for osteoarthritis?",
+        "options": ["Intra-articular steroids are an effective option for elderly people with osteoarthritis of the hand.", "The number of intra-articular steroid injections should not exceed 5 in any given year.", "The effect of intra-articular steroids wanes after 6 weeks in the majority of osteoarthritis patients.", "Intra-articular steroids offer significant functional benefits over therapeutic exercise programs alone."],
+        "correctAnswer": "The effect of intra-articular steroids wanes after 6 weeks in the majority of osteoarthritis patients.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following differences between rheumatoid arthritis (RA) and osteoarthritis (OA) is true?",
+        "options": ["OA is less likely to affect the ankle and wrist joints compared to RA.", "OA is more likely to be associated with systemic symptoms compared to RA.", "OA is more likely to be associated with pain at rest compared to RA."],
+        "correctAnswer": "OA is less likely to affect the ankle and wrist joints compared to RA.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following statements regarding the symptoms of rheumatoid arthritis (RA) and osteoarthritis (OA) are true, EXCEPT:",
+        "options": ["RA tends, on radiographic imaging, to be associated with osteophytes, whereas OA is likely to be associated with osteopenia.", "RA is less likely to be associated with worsening pain upon moving joints when compared to OA.", "RA tends to affect smaller joints symmetrically, whereas OA is more commonly involved in an asymmetric pattern.", "RA is more likely to be associated with an elevated erythrocyte sedimentation rate than OA."],
+        "correctAnswer": "RA tends, on radiographic imaging, to be associated with osteophytes, whereas OA is likely to be associated with osteopenia.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following drugs or natural health supplements does NOT carry a therapeutic indication for knee osteoarthritis?",
+        "options": ["Tramadol-acetaminophen", "Glucosamine-chondroitin", "Lidocaine", "Capsaicin"],
+        "correctAnswer": "Lidocaine",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "D.K. is a 79-year-old overweight woman diagnosed with moderate-severe osteoarthritis of the hip and knees. Her acetaminophen 1000 mg Q6H did not help her sore knees. The most appropriate treatment regimen for D.K.'s osteoarthritis is:",
+        "options": ["Hydromorphone 2 mg Q4-6H PRN", "Topical diclofenac 5% cream TID PRN to the affected joints", "Tramadol 25 mg TID PRN", "Celecoxib 200 mg/day"],
+        "correctAnswer": "Tramadol 25 mg TID PRN",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "For D.K., what is the HAS-BLED score?",
+        "options": ["3", "2", "1", "4"],
+        "correctAnswer": "2",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is the most appropriate treatment option for knee osteoarthritis in an HIV patient who complains of antiretroviral toxic neuropathy?",
+        "options": ["Duloxetine", "Lamotrigine", "Amitriptyline", "Acetaminophen"],
+        "correctAnswer": "Duloxetine",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "The most significant clinical criterion that would increase the likelihood for the diagnosis of rheumatoid arthritis is:",
+        "options": ["The extent of joint space narrowing on radiographic imaging.", "The number of small joints involved.", "The duration of morning joint stiffness.", "The joint pain score using a numeric pain rating scale."],
+        "correctAnswer": "The number of small joints involved.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following statements are true about rheumatoid arthritis pathology and treatment, EXCEPT:",
+        "options": ["Patients should start immediately on methotrexate after diagnosis even if the symptoms are not disabling or bothersome.", "A total weekly dose of 12.5 mg methotrexate given as 2.5 mg daily over 5 days is an acceptable initial dose.", "Rheumatoid arthritis is an incurable chronic disease; therefore, patients with rheumatoid arthritis typically require life-long treatment.", "Rest and energy conservation can be helpful for locally inflamed joints during a flare up."],
+        "correctAnswer": "Patients should start immediately on methotrexate after diagnosis even if the symptoms are not disabling or bothersome.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following statements about methotrexate use for rheumatoid arthritis is true?",
+        "options": ["In case of inadvertent methotrexate overdose, high dose folic acid should be administered as soon as possible.", "Alcohol restriction while on methotrexate is advisable.", "Patients using oral methotrexate tablets should be advised to handle the product as a biohazard and to wear gloves when taking their dose.", "Response usually begins within 2-4 weeks and may continue to improve for another 12 weeks or more."],
+        "correctAnswer": "Alcohol restriction while on methotrexate is advisable.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is an appropriate initial action by the pharmacist for a patient experiencing bothersome perianal and mouth sores after starting methotrexate?",
+        "options": ["To recommend the patient to see her physician", "To offer an over-the-counter analgesic and confirm that the patient is using folic acid", "To advise the patient to talk to her doctor to reduce methotrexate dose to 5 mg/week", "To explain to the patient that this is a common side effect that is expected to subside within 2 weeks."],
+        "correctAnswer": "To recommend the patient to see her physician",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "T.O.'s methotrexate dose was increased every 2 weeks by 5 mg, and she was stable on a total weekly dose of 25 mg/week. Three months later, T.O. visits her rheumatologist and explains that her arthritis pain is somewhat better; however, it takes her more than an hour every morning before her joints feel loose. What is an appropriate action?",
+        "options": ["Increase methotrexate dose and continue for another 12 weeks", "Switch methotrexate to adalimumab", "Add hydroxychloroquine and sulfasalazine to current methotrexate", "Add adalimumab to current methotrexate"],
+        "correctAnswer": "Add hydroxychloroquine and sulfasalazine to current methotrexate",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is an appropriate recommendation for the management of a patient with moderate-severe rheumatoid arthritis?",
+        "options": ["The shortest duration to assess for clinical remission is 6 weeks from start of therapy.", "After diagnosis, patients should delay starting methotrexate until after failure of simple analgesics to control the arthritis pain.", "Triple therapy with methotrexate, hydroxychloroquine and sulfasalazine should be considered after failure of other combinations due to the risk of significant adverse reactions.", "Flu and pneumococcal vaccines shots are recommended for rheumatoid arthritis patients on TNFα antagonists and methotrexate combination."],
+        "correctAnswer": "Flu and pneumococcal vaccines shots are recommended for rheumatoid arthritis patients on TNFα antagonists and methotrexate combination.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "A 54-year-old diabetic female patient was diagnosed with rheumatoid arthritis and was titrated up on oral methotrexate to a dose of 20 mg per week in 2 divided doses 12 hours apart. After 3 months, the patient visits the rheumatologist who decides that the disease is still active based on the patient's blood work and symptoms. What is an appropriate next step to control the patient's rheumatoid disease activity?",
+        "options": ["Add tofacitinib", "Add adalimumab", "Add hydroxychloroquine", "Add sulfasalazine"],
+        "correctAnswer": "Add adalimumab",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following are recommended screening tests before starting methotrexate as a disease-modifying antirheumatic drug, EXCEPT:",
+        "options": ["Chest X ray", "Serum triglycerides", "Serum creatinine", "Alanine aminotransferase"],
+        "correctAnswer": "Serum triglycerides",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following screening tests are essentially recommended before starting biologic therapy in a rheumatoid arthritis patient, EXCEPT:",
+        "options": ["Hepatitis B screening", "Tuberculin skin test", "D-dimer", "Complete Blood Count (CBC)"],
+        "correctAnswer": "D-dimer",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following conditions will warrant to consider withholding biological therapy treatment in a 76-year-old rheumatoid arthritis patient, EXCEPT:",
+        "options": ["An acute coronary syndrome treated medically", "C. difficile colitis treated with vancomycin and metronidazole", "The appearance of anti-drug antibodies", "Elective knee replacement arthroplasty"],
+        "correctAnswer": "An acute coronary syndrome treated medically",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is NOT an appropriate vaccination practice for a 56-year-old patient with moderate to severe rheumatoid arthritis who has just been started on methotrexate, sulfasalazine, & hydroxychloroquine and who is a known drug addict to amphetamine?",
+        "options": ["Recommend herpes zoster vaccine", "Recommend annual quadrivalent, live attenuated, thiomersal-free influenza vaccine", "Recommend pneumonia vaccine with a booster dose in 3 years", "Recommend hepatitis B vaccine"],
+        "correctAnswer": "Recommend annual quadrivalent, live attenuated, thiomersal-free influenza vaccine",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is false regarding leflunomide?",
+        "options": ["The most common side effect is diarrhea.", "Leflunomide is contraindicated in women who are not using reliable contraception before, during, and for a period of two years after treatment.", "Leflunomide is a prodrug which is rapidly converted following oral administration and absorption to teriflunomide, its active metabolite.", "It may affect male but not female fertility."],
+        "correctAnswer": "It may affect male but not female fertility.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "A 43-year-old man who has a history of rheumatoid arthritis visits your pharmacy today and asks your advice regarding measures needed regarding his arthritis medications as he is contemplating parenting a child. The patient is on subcutaneous methotrexate 25 mg per week and oral leflunomide 20 mg per day. What is the correct advice?",
+        "options": ["Discuss with your rheumatologist a switch to biological therapy and cholestyramine washout before planning fatherhood.", "Discuss with your rheumatologist the omission of leflunomide alone before planning fatherhood.", "Discuss with your rheumatologist the possibility of holding off both methotrexate and leflunomide for 2 years before planning fatherhood.", "Discuss with your rheumatologist a 3-month drug holiday that includes both methotrexate and leflunomide before planning fatherhood."],
+        "correctAnswer": "Discuss with your rheumatologist a switch to biological therapy and cholestyramine washout before planning fatherhood.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is true regarding polymyalgia rheumatica (PMR)?",
+        "options": ["PMR responds immediately to methotrexate considerably more than corticosteroids.", "PMR is an inflammatory disorder that causes widespread muscle aches, stiffness and flu-like symptoms, especially in the shoulders.", "PMR is almost always associated with polymyositis.", "PMR is characterized by persistently elevated creatine phosphokinase."],
+        "correctAnswer": "PMR is an inflammatory disorder that causes widespread muscle aches, stiffness and flu-like symptoms, especially in the shoulders.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is NOT true regarding giant-cell arteritis (GCA)?",
+        "options": ["The major symptoms of GCA are persistent headaches, jaw pain upon chewing, scalp tenderness and double vision.", "GCA can result in an increased risk of permanent blindness, stroke or aortic aneurysm.", "GCA is characterized by vasculitis of large arteries.", "GCA constantly responds to lower doses of corticosteroids than polymyalgia rheumatica does."],
+        "correctAnswer": "GCA constantly responds to lower doses of corticosteroids than polymyalgia rheumatica does.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Drug-induced lupus-like syndrome can be triggered by all of the following drugs, EXCEPT:",
+        "options": ["Hydralazine", "Isoniazid", "Primaquine", "Trimethoprim/sulfamethoxazole"],
+        "correctAnswer": "Primaquine",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is NOT true about systemic lupus erythematosus (SLE)?",
+        "options": ["Hydroxychloroquine is first-line therapy for the most common disease manifestations of SLE, including the photosensitive rashes, arthritis and fatigue.", "Nonsteroidal anti-inflammatory drugs are appropriate initial options for musculoskeletal symptom control in SLE", "The disease is a multisystem autoimmune connective tissue disorder characterized by skin rashes, arthritis, pleuritis, nephritis, vasculitis and neuropathy.", "Hydroxychloroquine is unsafe in pregnant and breastfeeding females with SLE."],
+        "correctAnswer": "Hydroxychloroquine is unsafe in pregnant and breastfeeding females with SLE.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following statements regarding systemic lupus erythematosus (SLE)-associated rash are true, EXCEPT:",
+        "options": ["Wearing sunscreens with SPF 230 is highly recommended to reduce SLE rash on sun exposure.", "SLE rash may be treated locally with topical corticosteroids or topical calcineurin inhibitors.", "SLE rash is highly pruritic and painful.", "A butterfly rash across the bridge of the nose and on the cheeks occurs in 60-70% of patients with SLE."],
+        "correctAnswer": "SLE rash is highly pruritic and painful.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is NOT true regarding congenital muscular dystrophy?",
+        "options": ["Breathing and feeding problems warranting the use of mechanical ventilation devices or feeding tubes are uncommon.", "A social worker is among the multidisciplinary team that manages the care of a child with congenital muscular dystrophy.", "Early symptoms may include muscle weakness and contractures.", "The disease can be a potentially life-limiting and discussion of end-of-life care is appropriate."],
+        "correctAnswer": "Breathing and feeding problems warranting the use of mechanical ventilation devices or feeding tubes are uncommon.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following advice regarding healthy eating and lifestyle modifications for managing gout in an obese male patient are appropriate, EXCEPT:",
+        "options": ["Dairy products have high purine content and may increase uric acid levels and the risk of gout attack.", "Losing weight too fast may increase your risk for a gout attack.", "Drink 9 to 12 cups of fluid every day", "Choose vegetable protein sources more often such as beans, lentils, tofu while limiting lean meat or meat alternatives to just one serving each of 2.5 oz. (75 grams) per day."],
+        "correctAnswer": "Dairy products have high purine content and may increase uric acid levels and the risk of gout attack.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following should be avoided the most during intercritical gout?",
+        "options": ["Carbonated beverages", "Tomatoes", "Caffeinated beverages", "Sardines"],
+        "correctAnswer": "Sardines",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following drugs might trigger an acute gout attack the least?",
+        "options": ["Interferon alfa-2b", "Pyrazinamide", "Nicardipine", "Aspirin"],
+        "correctAnswer": "Nicardipine",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Comorbidity checklist for gouty arthritis includes all of the following, EXCEPT:",
+        "options": ["Low HDL", "Diabetes", "A history of hypertension", "History of liver disease"],
+        "correctAnswer": "History of liver disease",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following conditions are risk factors that are likely associated with gout, EXCEPT:",
+        "options": ["Rheumatic disorder", "Diuretic use", "Trauma", "Kidney disease"],
+        "correctAnswer": "Rheumatic disorder",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is an initial goal of therapy in acute gout?",
+        "options": ["To reduce time-to-resolution of symptoms", "To reduce serum urate to below 360 pmol/L", "To avoid recurrence", "To prevent tophi formation"],
+        "correctAnswer": "To reduce time-to-resolution of symptoms",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is NOT a correct care plan for acute gout associated with hyperuricemia?",
+        "options": ["Both nonselective NSAIDs and selective COX-2 inhibitors impart an increased risk of GI bleeding.", "Conventional NSAIDs such as indomethacin and selective COX-2 inhibitors such as celecoxib are equally effective.", "Apply ice to the affected joint in order to reduce pain.", "Combination of colchicine and NSAIDs should be avoided regardless of the gout attack severity."],
+        "correctAnswer": "Combination of colchicine and NSAIDs should be avoided regardless of the gout attack severity.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following drugs is NOT used to manage an acutely severe gout flare?",
+        "options": ["Oxycodone", "Celecoxib", "Triamcinolone", "Probenecid"],
+        "correctAnswer": "Probenecid",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "The least likely indication to initiate allopurinol therapy in a patient with a single acute gout episode is:",
+        "options": ["Comorbid congestive heart failure", "Sustained hyperuricemia", "A synovial tophus", "A GFR of 80 mL/min/1.73 m²"],
+        "correctAnswer": "Sustained hyperuricemia",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following statements about allopurinol is NOT true?",
+        "options": ["Allopurinol does not affect tophi.", "Allopurinol can be used in pregnant women with secondary hyperuricemia if the potential benefit outweighs the possible risk to the fetus.", "Allopurinol starting dose should not exceed 100 mg per day to be taken with meals.", "Patients on allopurinol should be advised to drink 3 L of water per day."],
+        "correctAnswer": "Allopurinol does not affect tophi.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following statements are valid considerations regarding the use of allopurinol in an Asian 58-year-old female patient of Thai descent who has endured her third acute flare of gouty arthritis this year and who is a kidney disease patient, EXCEPT:",
+        "options": ["Consider PCR-based HLA-B*5801 pharmacogenetic screening before allopurinol initiation.", "Allopurinol is less appropriate than febuxostat in dialysis patients with chronic gout.", "Allopurinol should be started concomitantly with anti-inflammatory gout attack prophylaxis therapy for at least 6 months.", "The dose of allopurinol can be raised above 300 mg daily, even in patients with renal impairment, if the drug toxicity is adequately monitored."],
+        "correctAnswer": "Allopurinol is less appropriate than febuxostat in dialysis patients with chronic gout.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following are advisable ongoing monitoring parameters for allopurinol, EXCEPT:",
+        "options": ["Alanine aminotransferase", "Serum urate", "Complete blood count", "Creatinine kinase"],
+        "correctAnswer": "Creatinine kinase",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is the most common adverse drug reaction with allopurinol?",
+        "options": ["Diarrhea", "Rash", "Elevated liver enzymes", "Neuropathy"],
+        "correctAnswer": "Rash",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following differences between allopurinol and febuxostat is NOT true?",
+        "options": ["Unlike febuxostat, allopurinol significantly increases the half-life of azathioprine and 6-mercaptopurine.", "Unlike febuxostat, allopurinol is considered compatible with breastfeeding.", "Unlike allopurinol, febuxostat is only publicly funded in exceptional circumstances because it is substantially more expensive.", "Unlike allopurinol, febuxostat is associated with an increased risk of cardiovascular mortality."],
+        "correctAnswer": "Unlike febuxostat, allopurinol significantly increases the half-life of azathioprine and 6-mercaptopurine.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following statements regarding urate-lowering therapy in the management of chronic gouty arthritis is NOT true?",
+        "options": ["When initiating uricosuric urate-lowering therapy, patients should be instructed to consider urine alkalinization using potassium citrate to reduce the risk of urolithiasis.", "The use of drugs with uricosuric effects such as losartan or fenofibrate should be generally discouraged in patients with gouty arthritis.", "Combination of a xanthine oxidase inhibitor (XOI) drug and a uricosuric agent is appropriate when gout flares are not controlled by the XOI.", "Allopurinol should be started concomitantly with anti-inflammatory gout attack prophylaxis for at least 6 months."],
+        "correctAnswer": "The use of drugs with uricosuric effects such as losartan or fenofibrate should be generally discouraged in patients with gouty arthritis.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following options would be the most appropriate option to control pain in an acute gout flare for a 56-year-old patient presenting within 24 hours from the attack and whose medical history is remarkable for a duodenal bleeding ulcer?",
+        "options": ["Colchicine", "Acetaminophen", "Prednisone", "Celecoxib"],
+        "correctAnswer": "Colchicine",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following drugs would be the safest option for an acute flare of gout in a 64-year-old female patient with NYHA-III heart failure?",
+        "options": ["Celecoxib", "Colchicine", "Naproxen", "Prednisone"],
+        "correctAnswer": "Colchicine",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following drugs would be the least appropriate option for an acute flare of knee gouty arthritis in an adult male patient with Crohn's disease and asthma with nasal polyps who is stable on oral azathioprine, budesonide/formoterol turbuhaler, and oral montelukast?",
+        "options": ["Colchicine", "Triamcinolone acetonide", "Celecoxib", "Prednisone"],
+        "correctAnswer": "Celecoxib",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following agents is the most appropriate drug for an acute gout attack in a patient with a history of angioedema to indomethacin?",
+        "options": ["Naproxen", "Colchicine", "Sulindac", "Acetaminophen-codeine"],
+        "correctAnswer": "Colchicine",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following painkillers would be the best option to treat an acute gout flare in a patient with a history of stage-4 chronic kidney disease who is also stable on bupropion, verapamil, and rosuvastatin?",
+        "options": ["Etodolac", "Prednisone", "Fentanyl", "Colchicine"],
+        "correctAnswer": "Prednisone",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following are adverse drug reactions associated with colchicine, EXCEPT:",
+        "options": ["Neutropenia", "Edema", "Axonal neuropathy", "Myopathy"],
+        "correctAnswer": "Edema",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following manifestations are expected to represent typical early signs of colchicine toxicity or overdose?",
+        "options": ["Myoneuropathies", "Bone marrow suppression", "Alopecia and leukocytosis", "Abdominal pain and diarrhea"],
+        "correctAnswer": "Abdominal pain and diarrhea",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "What is an appropriate intervention for a patient presenting with pruritus and rash after starting allopurinol?",
+        "options": ["Fax the family doctor and recommend allopurinol dose retitration starting at 50 mg/day.", "Educate the patient that allopurinol-induced rash is a common reaction that usually subsides within 2 weeks.", "Advise the patient to discontinue allopurinol immediately.", "Offer the patient over-the-counter loratadine & a topical steroid and advise her to see her doctor if the symptoms become persistent and bothersome."],
+        "correctAnswer": "Advise the patient to discontinue allopurinol immediately.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "The most appropriate action for a patient with an acute gout flare while on allopurinol is to:",
+        "options": ["Initiate colchicine therapy immediately on top of the current urate-lowering regimen.", "Continue on the current regimen without interruption without implementing additional therapies.", "Stop allopurinol and start naproxen immediately.", "Switch the patient to rasburicase."],
+        "correctAnswer": "Initiate colchicine therapy immediately on top of the current urate-lowering regimen.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which is the most appropriate regimen to deal with M.O.’s current symptoms?",
+        "options": ["Naproxen 750 mg STAT, then 500 mg bid po x 4-5 days", "Colchicine 1.2 mg STAT followed by 0.6 mg in 60 minutes", "Diclofenac 75 mg and misoprostol 200 mcg bid po x 4-5 days", "Celecoxib 200 mg q24h x 4-5 days"],
+        "correctAnswer": "Naproxen 750 mg STAT, then 500 mg bid po x 4-5 days",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "What is an appropriate treatment option for a hypertensive patient with dyslipidemia and appendicitis who endures an acute gout attack while NPO?",
+        "options": ["Naproxen 500 mg BID", "Colchicine 1.2 mg STAT, followed by 0.6 mg in 1 hour", "Methylprednisolone intramuscular 1mg/kg", "Methylprednisolone intraarticular injection at a dose determined per joint size"],
+        "correctAnswer": "Methylprednisolone intramuscular 1mg/kg",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following are OTC topical options that may be recommended for pain relief in a young patient with an ankle sprain due to a minor sport injury, EXCEPT:",
+        "options": ["Methyl salicylate-camphor-menthol combination", "Red vine extract", "Triethanolamine salicylate", "Arnica gel-cream"],
+        "correctAnswer": "Red vine extract",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "A 28-year-old male athlete got his leg injured during a sport competition and he is asking the pharmacist for advice regarding his inflamed leg. All of the following are appropriate tips for treating a traumatic sport injury, EXCEPT:",
+        "options": ["Do not ice for more than 15-20 minutes at a time.", "Apply an elastic bandage for 4 to 5 days at least and up to 1 week at most.", "Elevate the leg by reclining and propping it up above the waist", "Apply a vapocoolant using a 'spray and stretch' technique."],
+        "correctAnswer": "Apply an elastic bandage for 4 to 5 days at least and up to 1 week at most.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "A 44-year-old male patient presents to you in the pharmacy with low back pain that has been bothersome for almost 10 days after moving some heavy furniture at home. The patient tried acetaminophen, but it just helped a little. What is an appropriate next step?",
+        "options": ["Encourage the patient to keep active and mobile", "Recommend over-the-counter ibuprofen", "Advise the patient to add hot compresses and over-the-counter muscle relaxants", "Refer the patient to his family physician"],
+        "correctAnswer": "Recommend over-the-counter ibuprofen",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "A 47-year-old patient comes to seek your advice for a recent complaint of lower back pain. She tells you that she works in the receiving area of a warehouse, and that her job consists of moving light merchandise boxes (10-15 lbs.) and placing them on the corresponding shelves. She hurt herself a few days ago; however, she cannot remember exactly what happened. What is the most appropriate advice to be provided to her by the pharmacist?",
+        "options": ["Advise her about hydrotherapy and physiotherapy", "Tell her to request a medical notice from her family doctor for a 1-week rest", "Recommend her to find a desk job, whenever possible", "Educate her to continue her routine life, and that things should get better over time"],
+        "correctAnswer": "Educate her to continue her routine life, and that things should get better over time.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "A 52-year-old male patient presents to his pharmacist with low back pain that has been bothersome for about a couple of weeks. The patient describes that he fell at work while carrying some heavy merchandise. The patient tried acetaminophen, but it helped only slightly. The patient adds that the pain is worse when he raises his legs up. What is an appropriate recommendation by the pharmacist?",
+        "options": ["Refer the patient to his family physician", "Advise the patient to use hot compresses and over-the-counter muscle relaxants", "Recommend over-the-counter ibuprofen", "Counsel the patient about the importance of being active and mobile"],
+        "correctAnswer": "Refer the patient to his family physician",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is the least appropriate recommendation by the pharmacist to AH regarding his low back pain?",
+        "options": ["Avoid lying down and stay active.", "Over-the-counter ibuprofen may help.", "Nonprescription acetaminophen is a good initial option.", "Any form of exercise is recommended."],
+        "correctAnswer": "Nonprescription acetaminophen is a good initial option.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following nondrug measures may be recommended to AH as an evidence-based option for his acute low back pain?",
+        "options": ["Massage therapy", "Cryotherapy", "Lower back brace", "Traction therapy"],
+        "correctAnswer": "Massage therapy",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is an appropriate action by the pharmacist for SSh, a 52-year-old menopausal female who presents with piercing pain in the lumbar spine after slipping on a wet floor?",
+        "options": ["Advise the patient to remain active and mobile", "Offer nonprescription acetaminophen", "Offer nonprescription naproxen", "Refer the patient to her primary care physician"],
+        "correctAnswer": "Refer the patient to her primary care physician",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which pharmacological option is to be recommended first to SSh after a diagnosis of acute lower back pain?",
+        "options": ["Tramadol", "Acetaminophen", "Cyclobenzaprine", "Ketorolac"],
+        "correctAnswer": "Ketorolac",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "A hypertensive patient with dyslipidemia and appendicitis was hospitalized for possible appendectomy, and he was kept NPO. During the hospital stay, the patient endured an acute gout attack in the toes and the fingers joints. What is an appropriate treatment option for this patient's gout?",
+        "options": ["Naproxen 500 mg BID", "Colchicine 1.2 mg STAT, followed by 0.6 mg in 1 hour", "Methylprednisolone intramuscular 1mg/kg", "Methylprednisolone intraarticular injection at a dose determined per joint size"],
+        "correctAnswer": "Methylprednisolone intramuscular 1mg/kg",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following are OTC topical options that may be recommended for pain relief in a young patient with an ankle sprain due to a minor sport injury, EXCEPT:",
+        "options": ["Methyl salicylate-camphor-menthol combination", "Red vine extract", "Triethanolamine salicylate", "Arnica gel-cream"],
+        "correctAnswer": "Red vine extract",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "A 28-year-old male athlete got his leg injured during a sport competition and he is asking the pharmacist for advice regarding his inflamed leg. All of the following are appropriate tips for treating a traumatic sport injury, EXCEPT:",
+        "options": ["Do not ice for more than 15-20 minutes at a time.", "Apply an elastic bandage for 4 to 5 days at least and up to 1 week at most.", "Elevate the leg by reclining and propping it up above the waist", "Apply a vapocoolant using a 'spray and stretch' technique."],
+        "correctAnswer": "Apply an elastic bandage for 4 to 5 days at least and up to 1 week at most.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "A 44-year-old male patient presents to you in the pharmacy with low back pain that has been bothersome for almost 10 days after moving some heavy furniture at home. The patient tried acetaminophen, but it just helped a little. What is an appropriate next step?",
+        "options": ["Encourage the patient to keep active and mobile", "Recommend over-the-counter ibuprofen", "Advise the patient to add hot compresses and over-the-counter muscle relaxants", "Refer the patient to his family physician"],
+        "correctAnswer": "Recommend over-the-counter ibuprofen",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "A 47-year-old patient comes to seek your advice for a recent complaint of lower back pain. She tells you that she works in the receiving area of a warehouse, and that her job consists of moving light merchandise boxes (10-15 lbs.) and placing them on the corresponding shelves. She hurt herself a few days ago; however, she cannot remember exactly what happened. What is the most appropriate advice to be provided to her by the pharmacist?",
+        "options": ["Advise her about hydrotherapy and physiotherapy", "Tell her to request a medical notice from her family doctor for a 1-week rest", "Recommend her to find a desk job, whenever possible", "Educate her to continue her routine life, and that things should get better over time"],
+        "correctAnswer": "Educate her to continue her routine life, and that things should get better over time.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "A 52-year-old male patient presents to his pharmacist with low back pain that has been bothersome for about a couple of weeks. The patient describes that he fell at work while carrying some heavy merchandise. The patient tried acetaminophen, but it helped only slightly. The patient adds that the pain is worse when he raises his legs up. What is an appropriate recommendation by the pharmacist?",
+        "options": ["Refer the patient to his family physician", "Advise the patient to use hot compresses and over-the-counter muscle relaxants", "Recommend over-the-counter ibuprofen", "Counsel the patient about the importance of being active and mobile"],
+        "correctAnswer": "Refer the patient to his family physician",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is the least appropriate recommendation by the pharmacist to AH regarding his low back pain?",
+        "options": ["Avoid lying down and stay active.", "Over-the-counter ibuprofen may help.", "Nonprescription acetaminophen is a good initial option.", "Any form of exercise is recommended."],
+        "correctAnswer": "Nonprescription acetaminophen is a good initial option.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following nondrug measures may be recommended to AH as an evidence-based option for his acute low back pain?",
+        "options": ["Massage therapy", "Cryotherapy", "Lower back brace", "Traction therapy"],
+        "correctAnswer": "Massage therapy",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is an appropriate action by the pharmacist for SSh, a 52-year-old menopausal female who presents with piercing pain in the lumbar spine after slipping on a wet floor?",
+        "options": ["Advise the patient to remain active and mobile", "Offer nonprescription acetaminophen", "Offer nonprescription naproxen", "Refer the patient to her primary care physician"],
+        "correctAnswer": "Refer the patient to her primary care physician",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which pharmacological option is to be recommended first to SSh after a diagnosis of acute lower back pain?",
+        "options": ["Tramadol", "Acetaminophen", "Cyclobenzaprine", "Ketorolac"],
+        "correctAnswer": "Ketorolac",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "A hypertensive patient with dyslipidemia and appendicitis was hospitalized for possible appendectomy, and he was kept NPO. During the hospital stay, the patient endured an acute gout attack in the toes and the fingers joints. What is an appropriate treatment option for this patient's gout?",
+        "options": ["Naproxen 500 mg BID", "Colchicine 1.2 mg STAT, followed by 0.6 mg in 1 hour", "Methylprednisolone 1mg/kg IM", "Methylprednisolone intraarticular injection at a dose determined per joint size"],
+        "correctAnswer": "Methylprednisolone 1mg/kg IM",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following bisphosphonates can be used in a 59-year-old female at risk of vertebral or non-vertebral fractures to treat hypercalcemia of malignancy, EXCEPT:",
+        "options": ["Clodronate disodium", "Zoledronic acid", "Pamidronate disodium", "Risedronate sodium"],
+        "correctAnswer": "Risedronate sodium",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which one of the following individuals is at greatest risk of developing an osteoporotic fracture?",
+        "options": ["A 63-year-old African American woman receiving letrozole and pioglitazone for the past 3 years", "A 62-year-old white woman whose recent femoral neck T-score is -2.8 and had a Colles’ fracture 1 year ago due to a slip and fall on a wet floor", "A 34-year-old white smoker woman receiving depot medroxyprogesterone acetate and pantoprazole for the past 6 months", "A 46-year-old African American woman receiving pantoprazole for the past 6 months and endured multiple rib fractures and a hip fracture due to a motor vehicle crash 1 year ago"],
+        "correctAnswer": "A 62-year-old white woman whose recent femoral neck T-score is -2.8 and had a Colles’ fracture 1 year ago due to a slip and fall on a wet floor",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which one of the following represents the most appropriate intervention to reduce Y.K.’s risk of fracture?",
+        "options": ["Initiate therapy with risedronate 35 mg/week", "Re-assess BMD in 24 months before deciding on pharmacological interventions", "Increase the vitamin D dose to 2000 units/day", "Start raloxifene and consider to switch citalopram to amitriptyline"],
+        "correctAnswer": "Initiate therapy with risedronate 35 mg/week",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which one of the following represents the most important factor in determining Y.K.’s risk of fragility fractures?",
+        "options": ["Baseline T-score", "History of tobacco smoking", "Concomitant use of citalopram and anastrozole", "Serum 25-hydroxyvitamin D"],
+        "correctAnswer": "Baseline T-score",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "An 85-year-old woman (BMI 19) was recently diagnosed with a vertebral fracture due to osteoporotic bones. Her medical history is remarkable for hysterectomy, diabetes, chronic kidney disease, and chronic hypocalcemia with a corrected serum total calcium level repeatedly below 2.12 mmol/L. Which of the following options is an appropriate therapeutic option for her fragile bones?",
+        "options": ["Estrogen without a progestin", "Risedronate", "Denosumab", "Raloxifene"],
+        "correctAnswer": "Raloxifene",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "M.W. is a 68-year-old postmenopausal woman with a 32-year history of bipolar disorder. Her disease is currently well managed with valproic acid and olanzapine. Other drugs include risedronate and valsartan. What is the most likely factor responsible for her current vitamin D status?",
+        "options": ["Olanzapine", "Inadequate vitamin D intake", "Smoking history and current alcohol intake", "Risedronate"],
+        "correctAnswer": "Inadequate vitamin D intake",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which one of the following represents an appropriate minimum maintenance daily dose of vitamin D supplementation for M.W.?",
+        "options": ["400 units", "800 units", "4000 units", "2000 units"],
+        "correctAnswer": "2000 units",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "F.Y. is a 60-year-old man with Down syndrome who resides in a long-term care facility. His medical history is significant for Alzheimer’s dementia and a generalized seizure disorder. Which one of the following vitamin D dosages is most appropriate for this patient?",
+        "options": ["2000 units of vitamin D, daily", "1000 units of vitamin D, daily", "12 ug of alfacalcidol weekly for 3 months, followed by 1000 units of vitamin D daily", "50,000 units of ergocalciferol weekly for 3 months; then 1000 units of vitamin D daily"],
+        "correctAnswer": "50,000 units of ergocalciferol weekly for 3 months; then 1000 units of vitamin D daily",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following atorvastatin-related untoward effects is least likely to occur as an early event following therapy?",
+        "options": ["Flatulence", "Myalgia", "Diarrhea", "ALT elevation"],
+        "correctAnswer": "Myalgia",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following are patient-dependent risk factors that might predispose to statin-associated myopathy, EXCEPT:",
+        "options": ["Regularly drinking 3 or more alcoholic drinks per day.", "Smoking 25 or more cigarettes per day.", "Diabetes mellitus.", "Vitamin D deficiency."],
+        "correctAnswer": "Smoking 25 or more cigarettes per day.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following facts are true regarding statin-induced myopathy and elevation in transaminases, EXCEPT:",
+        "options": ["Liver function tests and baseline CK should be performed before the initiation of treatment.", "Routine CK level and liver function monitoring are recommended in patients after initiating statin therapy.", "Discontinue statin if ALT level is persistently > 3 x ULN.", "Both adverse statin reactions are dose-related."],
+        "correctAnswer": "Routine CK level and liver function monitoring are recommended in patients after initiating statin therapy.",
+        "section": "MSK_GIT"
+    },
+
+    {
+        "question": "Which of the following is NOT true regarding statin-associated myopathy?",
+        "options": [
+            "Myopathic patients on statins with mild CK elevations may reduce the dose of statin or switch to a different statin after normalization of CK.",
+            "Myalgia refers to muscle discomfort that usually involves the neck, the lower arms, the back, and the calves.",
+            "Myopathic patients on statins with marked CK elevations will need their serum creatinine and e-GFR checked promptly.",
+            "Patients complaining of myalgias without elevated CK levels can continue the medication if their symptoms are tolerable."
+        ],
+        "correctAnswer": "Myalgia refers to muscle discomfort that usually involves the neck, the lower arms, the back, and the calves.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "A 58-year-old nonobese, non-smoker female patient on valsartan 160 mg/day, aspirin 81 mg/day, bisoprolol 5 mg/day, simvastatin 40 mg/day, amitriptyline 10 mg/day visited your pharmacy today and complained of mild episodes of cognitive impairment that she thinks might be due to her cholesterol medication. What is the most appropriate advice to the patient?",
+        "options": [
+            "Statin-induced memory impairment, if any, would take several years to develop and not everyone will show this adverse reaction.",
+            "Do not trust the information you retrieved because Google is not an evidence-based source of information.",
+            "Other medications on your profile should be assessed and dose reductions of your statin or a switch to a safer statin are all viable options.",
+            "The proven benefit of using a statin in your case outweighs an unconfirmed risk of memory loss."
+        ],
+        "correctAnswer": "Other medications on your profile should be assessed and dose reductions of your statin or a switch to a safer statin are all viable options.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following facts about a patient with inflammatory bowel disease suggest a diagnosis of ulcerative colitis rather than Crohn's disease, EXCEPT:",
+        "options": [
+            "Blood and mucus in stool are more common and pain is likely to be intermittent rather than severe and continuous.",
+            "It is treated with corticosteroids, aminosalicylates, immunosuppressants and biologics.",
+            "Inflammation tends to occur in patches rather than uniform and continuous.",
+            "Fistulae, fissures and strictures are less common."
+        ],
+        "correctAnswer": "Inflammation tends to occur in patches rather than uniform and continuous.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is NOT a risk factor for Crohn's disease?",
+        "options": [
+            "Cigarette smoking",
+            "Combined hormonal contraceptives",
+            "Younger age",
+            "H. pylori infection"
+        ],
+        "correctAnswer": "H. pylori infection",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following are maintenance therapy options to sustain remission in a patient diagnosed with ulcerative colitis, EXCEPT:",
+        "options": [
+            "sulfasalazine.",
+            "azathioprine.",
+            "prednisone.",
+            "infliximab."
+        ],
+        "correctAnswer": "prednisone.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following are effective treatment options to induce remission for a patient diagnosed with Crohn's disease, EXCEPT:",
+        "options": [
+            "budesonide oral.",
+            "6-mercaptopurine.",
+            "hydrocortisone injection.",
+            "adalimumab."
+        ],
+        "correctAnswer": "6-mercaptopurine.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "A 20-year-old female presented to her gastroenterologist with fever and right tibial pain and swelling. What other treatments could be added to the implemented therapy in order to control the patient's conditions?",
+        "options": [
+            "Rectal steroids",
+            "Oral steroids",
+            "Azathioprine",
+            "Metronidazole"
+        ],
+        "correctAnswer": "Metronidazole",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following treatment options is the least acceptable to maintain remission in the first trimester for a pregnant female with ulcerative colitis?",
+        "options": [
+            "Azathioprine",
+            "Sulfasalazine",
+            "5-Aminosalicylic acid",
+            "Adalimumab"
+        ],
+        "correctAnswer": "Sulfasalazine",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is NOT an appropriate recommendation to be given to the parent of an 8-year-old male child diagnosed with Crohn's disease?",
+        "options": [
+            "Give your son folic acid 1 mg daily to reduce the risk of gut cancer.",
+            "Tube feeding is a good option for your son in case of flare-ups.",
+            "Avoid the use of nonprescription ibuprofen as it might worsen your son’s condition.",
+            "Make sure your son receives the Flu shot every year."
+        ],
+        "correctAnswer": "Give your son folic acid 1 mg daily to reduce the risk of gut cancer.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "A.G., a 22-year-old male with a recent diagnosis of inflammatory bowel disease, experienced an acute flare-up. Which of the following therapies you would recommend for A.G. as an inpatient?",
+        "options": [
+            "Initiate ciprofloxacin and metronidazole",
+            "Add azathioprine to oral prednisone",
+            "Switch prednisone to budesonide multi-matrix (MMX) for colonic delivery",
+            "Initiate methylprednisolone IV"
+        ],
+        "correctAnswer": "Initiate methylprednisolone IV",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "If A.G. does not respond to the previously recommended therapy, what would be the next most appropriate step?",
+        "options": [
+            "Colectomy",
+            "Add 5-ASA enema to the previously recommended therapy",
+            "Dose intensification of the previously recommended therapy",
+            "Initiate adalimumab plus 6-mercaptopurine"
+        ],
+        "correctAnswer": "Initiate adalimumab plus 6-mercaptopurine",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "The appropriate regimen or procedure was implemented, and it did induce the predicted remission. Six months later, however, A.G. was hospitalized following sudden onset of severe bloody diarrhea and dehydration. What was the most likely diagnosis of the patient?",
+        "options": [
+            "Crohn's fistulae",
+            "Severe and complicated ulcerative colitis",
+            "Fulminant Crohn's colitis",
+            "Ulcerative pancolitis"
+        ],
+        "correctAnswer": "Severe and complicated ulcerative colitis",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "The most common adverse drug reaction in a patient who has been started on adalimumab (HUMIRA) 3 months ago is:",
+        "options": [
+            "nausea",
+            "infection",
+            "injection site reactions",
+            "rash"
+        ],
+        "correctAnswer": "infection",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is NOT true regarding pre-filled syringes of adalimumab (HUMIRA)?",
+        "options": [
+            "Inject into the fat of the thigh or abdomen",
+            "Rotate the injection site each time",
+            "Do not leave the injection at room temperature for more than 3 hours.",
+            "Do not shake"
+        ],
+        "correctAnswer": "Do not leave the injection at room temperature for more than 3 hours.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following statements is NOT true regarding the use of adalimumab (HUMIRA) as a biologic DMARD in Crohn's disease?",
+        "options": [
+            "Oral typhoid vaccine should be avoided during HUMIRA therapy.",
+            "Breastfeeding women should avoid nursing while on HUMIRA.",
+            "HUMIRA induces mucosal healing and can help decrease the dose of corticosteroid in patients with severe active Crohn's disease.",
+            "Holding TNF-alpha blockers including HUMIRA for one dosing cycle before major surgeries is advisable."
+        ],
+        "correctAnswer": "Breastfeeding women should avoid nursing while on HUMIRA.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following might be expected as early-onset acute adverse reactions occurring within 3 hours of dosing infliximab in a 45-year-old female with Crohn's disease, EXCEPT:",
+        "options": [
+            "laryngeal edema",
+            "hypotension",
+            "neuritis",
+            "fever and chills"
+        ],
+        "correctAnswer": "neuritis",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following measures should be implemented initially to reduce the probability of acute adverse effects to infliximab during administration?",
+        "options": [
+            "Administer the infusion over a period of not less than 2 hours",
+            "Shorten infusion time to less than 90 minutes",
+            "Prior administration of acetaminophen and cetirizine",
+            "Concomitant administration of prednisone"
+        ],
+        "correctAnswer": "Administer the infusion over a period of not less than 2 hours",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following is true about the administration and storage of infliximab, EXCEPT:",
+        "options": [
+            "it should be infused over 2 hours.",
+            "it should be used only by the IV route.",
+            "it should be discarded if foaming occurs upon reconstitution.",
+            "it may be stored at room temperature for a maximum of 6 months."
+        ],
+        "correctAnswer": "it may be stored at room temperature for a maximum of 6 months.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following statements is NOT true regarding the use of infliximab (REMICADE) as a biologic DMARD used in Crohn's disease?",
+        "options": [
+            "If the infusion solution is not used within 3 hours of preparation and storage is necessary, hold at 2 to 8°C for no more than 72 hours.",
+            "It should be diluted in normal saline using aseptic technique.",
+            "The patient should carry the injection with an icepack when travelling.",
+            "Reconstituted vial should be gently swirled to dissolve the lyophilized protein."
+        ],
+        "correctAnswer": "If the infusion solution is not used within 3 hours of preparation and storage is necessary, hold at 2 to 8°C for no more than 72 hours.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following is true regarding diverticular disease, EXCEPT:",
+        "options": [
+            "the major gross symptom is pain due to outpouchings due to colonic inflammation.",
+            "it carries a significant risk for colon cancer.",
+            "dietary fibers can act as a prophylactic therapy.",
+            "moxifloxacin is a treatment option for acute diverticulitis."
+        ],
+        "correctAnswer": "it carries a significant risk for colon cancer.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is NOT true regarding colon polyps?",
+        "options": [
+            "It can be prevented by consuming a high-fibre diet.",
+            "It can be treated by polypectomy.",
+            "Its major symptomatic manifestation is rectal bleeding.",
+            "It carries a significant risk for colon cancer."
+        ],
+        "correctAnswer": "It can be prevented by consuming a high-fibre diet.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following can be causes of dyspepsia, EXCEPT:",
+        "options": [
+            "Antibiotics",
+            "Gastric cancer",
+            "Celiac disease",
+            "Older age"
+        ],
+        "correctAnswer": "Older age",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following medications would be associated the least with acid reflux as a side effect?",
+        "options": [
+            "Doxazosin",
+            "Oxybutynin",
+            "Diltiazem",
+            "Valsartan"
+        ],
+        "correctAnswer": "Valsartan",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following are possible risk factors for gastroesophageal reflux disease (GERD), EXCEPT:",
+        "options": [
+            "Obesity",
+            "Spicy food.",
+            "Stress",
+            "Pregnancy"
+        ],
+        "correctAnswer": "Spicy food.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following are symptoms consistent with a diagnosis suggestive of gastroesophageal reflux disease (GERD) in a patient presenting with dyspepsia, EXCEPT:",
+        "options": [
+            "hypersalivation.",
+            "odynophagia.",
+            "dominant heartburn.",
+            "retrosternal burning."
+        ],
+        "correctAnswer": "odynophagia.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following can be considered atypical signs and symptoms of gastroesophageal reflux disease (GERD) in a patient presenting with dyspepsia, EXCEPT:",
+        "options": [
+            "chronic cough.",
+            "sensation of a lump in the throat.",
+            "vomiting.",
+            "noncardiac chest pain."
+        ],
+        "correctAnswer": "vomiting.",
+        "section":"MSK_GIT"
+    },
+    {
+        "question": "Which of the following is the most significant non-drug measure a pharmacist can convey to a young smoker male patient (BMI 25 lb/in²) who drinks 1-2 glass(es) of red wine with his supper every evening and who has been diagnosed with nocturnal gastroesophageal reflux disease (GERD)?",
+        "options": [
+            "Avoid alcohol",
+            "Quit smoking",
+            "Put wood blocks under the front bed frame feet",
+            "Reduce your weight"
+        ],
+        "correctAnswer": "Put wood blocks under the front bed frame feet",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following conditions are possible indications for lansoprazole, EXCEPT:",
+        "options": [
+            "Barrett's esophagus.",
+            "nocturnal acid breakthrough.",
+            "heartburn with cough and asthma-like symptoms.",
+            "chronic gastroesophageal reflux disorder."
+        ],
+        "correctAnswer": "nocturnal acid breakthrough.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following are possible indications for ranitidine, EXCEPT:",
+        "options": [
+            "gastroesophageal reflux disorder occurring once or twice a week in a 62-year-old male patient.",
+            "breakthrough heartburn during nighttime for a patient on esomeprazole.",
+            "as an adjunct to pantoprazole for a patient with Barrett’s esophagus.",
+            "on demand for a 28-year-old male who is eating fast food on the run and complaining of occasional heartburn."
+        ],
+        "correctAnswer": "as an adjunct to pantoprazole for a patient with Barrett’s esophagus.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following factors could be reasons for failure of lansoprazole therapy in GERD, EXCEPT:",
+        "options": [
+            "the patient is taking lansoprazole concomitantly with ranitidine.",
+            "the patient is taking lansoprazole before meals.",
+            "the patient is not taking lansoprazole daily.",
+            "the patient has a genetic polymorphism in CYP2C19."
+        ],
+        "correctAnswer": "the patient is taking lansoprazole before meals.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "In all of the following scenarios, a twice-daily use of omeprazole might be warranted, EXCEPT:",
+        "options": [
+            "a patient diagnosed with Zollinger-Ellison Syndrome.",
+            "a patient with diclofenac-induced duodenal ulcer.",
+            "a patient diagnosed with H. pylori-induced peptic ulcer disease.",
+            "a partially-responding patient with moderate-to-severe GERD."
+        ],
+        "correctAnswer": "a patient with diclofenac-induced duodenal ulcer.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "In case a 37-year-old patient presenting to his family physician with dyspepsia, for which of the following conditions the physician will most likely prescribe an empiric proton pump inhibitor without ordering endoscopic assessment?",
+        "options": [
+            "Functional dyspepsia",
+            "Severe, new-onset dyspepsia",
+            "Dyspepsia with melena",
+            "Dyspepsia with dysphagia"
+        ],
+        "correctAnswer": "Severe, new-onset dyspepsia",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "A 42-year-old patient visits the pharmacy and complains to the pharmacist of acid reflux and heartburn only when eating pizza along with orange juice whenever he goes out with his friends. What is an appropriate choice for this patient?",
+        "options": [
+            "Famotidine before the triggering diet",
+            "Pantoprazole prescription therapy for 4 weeks",
+            "Calcium carbonate before the triggering diet",
+            "Omeprazole nonprescription therapy the night before the triggering diet"
+        ],
+        "correctAnswer": "Famotidine before the triggering diet",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "M.S. is an obese, nonsmoker 38-year-old male patient who presents to his family physician with symptoms of bothersome dyspepsia and heartburn occurring on most weekdays. What is an appropriate plan by the physician?",
+        "options": [
+            "Order endoscopy",
+            "Prescribe ranitidine for 8 weeks",
+            "Prescribe pantoprazole for 4 weeks",
+            "Order a urea breath test"
+        ],
+        "correctAnswer": "Prescribe pantoprazole for 4 weeks",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Several weeks later, the family physician ordered a urea breath test (UBT) for M.S. which turns out to be positive. What is an appropriate recommendation?",
+        "options": [
+            "Pantoprazole 40 mg BID, amoxicillin 1000 mg BID and levofloxacin 500 mg QD for 14 days",
+            "Pantoprazole 40 mg, amoxicillin 1000 mg and metronidazole 500 mg BID for 14 days",
+            "Pantoprazole 40 mg, amoxicillin 1000 mg, metronidazole 500 mg and clarithromycin 500 mg BID for 14 days",
+            "Pantoprazole 40 mg QD, amoxicillin 1000 mg, metronidazole 500 mg and clarithromycin 500 mg BID for 14 days"
+        ],
+        "correctAnswer": "Pantoprazole 40 mg, amoxicillin 1000 mg, metronidazole 500 mg and clarithromycin 500 mg BID for 14 days",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "M.S. presents to his family physician after completing his H. pylori eradication regimen with persistent symptoms of dyspepsia and heartburn. What is your recommendation to confirm treatment failure?",
+        "options": [
+            "UBT in 4 weeks",
+            "UBT in 1 week",
+            "Serology",
+            "Endoscopy"
+        ],
+        "correctAnswer": "UBT in 4 weeks",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "All of the following drugs might interfere with urea breath test results in M.S., EXCEPT:",
+        "options": [
+            "bismuth subsalicylate-calcium carbonate tablets (Pepto-Bismol)",
+            "ceftriaxone",
+            "magnesium hydroxide-calcium carbonate tablets (Rolaids Extra Strength)",
+            "sucralfate"
+        ],
+        "correctAnswer": "magnesium hydroxide-calcium carbonate tablets (Rolaids Extra Strength)",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "M.S.’s treatment failure has been confirmed and the family physician is asking for your recommendation. What would be an appropriate response in this case?",
+        "options": [
+            "Pantoprazole 40 mg BID, bismuth subsalicylate 2 tab QID, metronidazole 500 mg QID and tetracycline 500 mg QID for 28 days",
+            "Pantoprazole 40 mg, amoxicillin 1000 mg, metronidazole 500 mg and clarithromycin 500 mg BID for 14 days",
+            "Repeat UBT as false positive is common",
+            "Pantoprazole 40 mg BID, bismuth subsalicylate 2 tab QID, metronidazole 500 mg QID and tetracycline 500 mg QID for 14 days"
+        ],
+        "correctAnswer": "Pantoprazole 40 mg BID, bismuth subsalicylate 2 tab QID, metronidazole 500 mg QID and tetracycline 500 mg QID for 14 days",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following is NOT true regarding irritable bowel syndrome?",
+        "options": [
+            "It is a chronic, lifelong condition with multiple relapses, but a benign prognosis.",
+            "The use of probiotics for IBS is evidence-based to reduce abdominal discomfort.",
+            "Certain types of food and drinks, such as fat and alcohol or caffeine in addition to stress are considered aggravating factors for IBS.",
+            "Although pinaverium and trimebutine are expected to fully control the symptoms, they are expensive medications."
+        ],
+        "correctAnswer": "Although pinaverium and trimebutine are expected to fully control the symptoms, they are expensive medications.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "C.Z. is a 38-year-old female who has been diagnosed with ethanol cirrhosis ascites. Which of the following is the most appropriate question to be asked to the attending nurse by an addiction specialist?",
+        "options": [
+            "How many times she threw up yesterday?",
+            "Was she able to sleep yesterday?",
+            "Was she sweating overnight?",
+            "Did she have any episodes of acute loose stools?"
+        ],
+        "correctAnswer": "Did she have any episodes of acute loose stools?",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following would be the least useful agent in the setting of treating C.Z.’s withdrawal symptoms, including hand tremors, insomnia, and agitation?",
+        "options": [
+            "Phenobarbital 300 mg IV",
+            "Haloperidol 10 mg IM",
+            "Diazepam 10 mg Q1H PO",
+            "Thiamine 100 mg IV"
+        ],
+        "correctAnswer": "Haloperidol 10 mg IM",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "While ongoing clinical management of C.Z. for her alcohol withdrawal and hepatic complications is being in effect, she develops asymptomatic hypophosphatemia. What would be the most appropriate response given by the pharmacist?",
+        "options": [
+            "Milk 33 oz per day",
+            "Sodium phosphate IV",
+            "Shellfish 3 oz per day",
+            "Shoh's solution PO"
+        ],
+        "correctAnswer": "Milk 33 oz per day",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Which of the following would be the least evidence-based measure for the treatment of C.Z.'s ascites and its related complications?",
+        "options": [
+            "Bed rest and fluids and sodium restriction to reduce intraperitoneal volume expansion",
+            "Spironolactone or amiloride with furosemide to promote diuresis",
+            "Spironolactone and furosemide with metolazone for potent reduction of retained body fluid",
+            "Hydrochlorothiazide or chlorthalidone with amiloride to promote diuresis"
+        ],
+        "correctAnswer": "Hydrochlorothiazide or chlorthalidone with amiloride to promote diuresis",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "In order to monitor a successful management of C.Z.’s cirrhotic abdominal ascites, which of the following monitoring parameters would be useful the most?",
+        "options": [
+            "BMI",
+            "ALT",
+            "BUN",
+            "Albumin, serum"
+        ],
+        "correctAnswer": "BMI",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "C.Z. developed acute hepatic encephalopathy and was triaged to the hospital for acute care. Which of the following is an option to treat her current symptomatology?",
+        "options": [
+            "Sodium phosphate enema TID pr.",
+            "Lactulose 3 tablespoonful Q1H PO.",
+            "PEG 3350 17 g OD PO.",
+            "Senna 3 pills Q1H PO."
+        ],
+        "correctAnswer": "Lactulose 3 tablespoonful Q1H PO.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "The previously chosen treatment option should be continued for C.Z. until:",
+        "options": [
+            "reduction of nitrogenous gut load.",
+            "reversal of ascites and restoration of a normal body weight according to age.",
+            "two-three loose bowel movements per day.",
+            "reversal of confusional state and improvement in cognitive function."
+        ],
+        "correctAnswer": "reversal of confusional state and improvement in cognitive function.",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "While hospitalized, C.Z. also develops spontaneous bacterial peritonitis. What is an appropriate empiric antimicrobial therapy?",
+        "options": [
+            "Piperacillin/tazobactam",
+            "Cefazoline",
+            "Ampicillin, gentamycin and metronidazole",
+            "Ciprofloxacin"
+        ],
+        "correctAnswer": "Piperacillin/tazobactam",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "What is an appropriate next step after C.Z. is discharged to avoid another episode of peritonitis?",
+        "options": [
+            "Rifampin po 150 mg/day prophylactic regimen until the resolution of ascites",
+            "Norfloxacin po 400 mg/day prophylactic regimen until the resolution of ascites",
+            "No prophylactic regimens are indicated",
+            "Vitamin A, D and K supplements lifelong"
+        ],
+        "correctAnswer": "Norfloxacin po 400 mg/day prophylactic regimen until the resolution of ascites",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "C.Z.’s condition stabilizes after the multiple clinical interventions undertaken; however, she develops severe itchiness due to cholestasis. What is a specific first-line treatment for C.Z.’s itchiness?",
+        "options": [
+            "Rifaximin",
+            "Naletrexone",
+            "Hydroxyzine",
+            "Cholestyramine"
+        ],
+        "correctAnswer": "Cholestyramine",
+        "section": "MSK_GIT"
+    },
+    {
+        "question": "Increased levels of alkaline phosphatase (ALP) might be associated with all of the following conditions, EXCEPT:",
+        "options": [
+            "cholestasis.",
+            "hyperparathyroidism.",
+            "bone fractures.",
+            "acute coronary syndrome."
+        ],
+        "correctAnswer": "acute coronary syndrome.",
+        "section": "MSK_GIT"
+    }
+]
+
+    

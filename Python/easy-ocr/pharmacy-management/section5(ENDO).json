@@ -1,0 +1,2292 @@
+[
+    {
+        "question": "A 34-year-old type-1 diabetic female patient has recently achieved a glycated hemoglobin of 7.0%. The patient is interested to learn about her average blood sugar in millimoles per liter before and after meals over the last 3-4 months.",
+        "options": ["7.5", "7.0", "None of the given answers applies to type-1 diabetic patients", "8.0"],
+        "correctAnswer": "8.0",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following drugs would necessitate monitoring HbA1c and fasting serum glucose levels when used therapeutically?",
+        "options": ["Acitretin", "Clozapine", "Galantamine", "Darunavir"],
+        "correctAnswer": "Galantamine",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following adverse events is the most commonly associated with insulin injections?",
+        "options": ["Injection site reaction", "Local pruritus", "Hypoglycemia", "Lipohypertrophy"],
+        "correctAnswer": "Hypoglycemia",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following adverse events would be the least commonly associated with insulin injections?",
+        "options": ["Injection site reactions", "Allergic reactions", "Bruising", "Hypoglycemia"],
+        "correctAnswer": "Allergic reactions",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following adverse reactions could be associated with insulin injections, EXCEPT:",
+        "options": ["Weight gain", "Rash at injection site", "Hyperlipidemia", "Hypokalemia"],
+        "correctAnswer": "Hyperlipidemia",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following laboratory tests is most consistent with a diagnosis of diabetes? Assume that the patient has one prior lab result that is already elevated to use as confirmatory test.",
+        "options": ["An A1c of 6.4%", "A random blood glucose of 10.9 mmol/L", "A plasma glucose level of 11.1 mmol/L 2 hours after a 75 g oral glucose load", "A fasting blood glucose of 6.9 mmol/L"],
+        "correctAnswer": "A plasma glucose level of 11.1 mmol/L 2 hours after a 75 g oral glucose load",
+        "section": "ENDO"
+    },
+    {
+        "question": "For which of the following patients blood sugar monitoring using a laboratory workup for HbA1c might NOT be reliable?",
+        "options": ["A 68-year-old black female with autoimmune urticarial vasculitis", "A 7-year-old male child with established type-1 diabetes", "A 37-year-old white male with chronic alcoholism", "A 78-year-old female patient on trastuzumab and lapatinib for HER2 positive breast cancer"],
+        "correctAnswer": "A 37-year-old white male with chronic alcoholism",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following drugs, vitamins or supplements might affect the reliability of A1c testing, EXCEPT:",
+        "options": ["Darbepoetin alfa", "Ascorbic acid", "Cyanocobalamin", "Adalimumab"],
+        "correctAnswer": "Adalimumab",
+        "section": "ENDO"
+    },
+    {
+        "question": "ZS who is a 66-year-old female with type 2 diabetes mellitus for over 20 years, treated with multiple daily insulin injections, visits the pharmacy today to pick up her insulin and for routine follow-up with the pharmacist. Her recent medical history is significant for menorrhagia secondary to uterine fibroids. ZS’ typical A1C value is around 9.0%, however, her most recent A1C value was 10.5%. ZS is quite surprised, as she has really focused on managing her diabetes over the past 3 months and checks her blood glucose before and after meals. Her blood glucose meter download report reveals an average glucose level of 10.5 mmol/L, which is consistent with an A1C value of 8.3%. The pharmacist noticed that the A1C value does not seem to accurately reflect the mean glycemic control in ZS. Which of the following is an acceptable explanation for the inaccuracy of A1C value in ZS?",
+        "options": ["Insulin use", "Menorrhagia", "Age", "Long-term diabetes"],
+        "correctAnswer": "Menorrhagia",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following tests could be considered as quantitative alternative measures of glycemia over an extended period of time, EXCEPT:",
+        "options": ["fructosamine assay", "glycated albumin", "1,5-anhydroglucitol", "2-hour plasma glucose in a 75 g oral glucose tolerance test"],
+        "correctAnswer": "2-hour plasma glucose in a 75 g oral glucose tolerance test",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is a disadvantage of A1c testing?",
+        "options": ["It cannot predict microvascular complications", "It shows day-to-day variability", "It requires multiple sampling", "It is less sensitive than traditional methods of glucose measurement"],
+        "correctAnswer": "It is less sensitive than traditional methods of glucose measurement",
+        "section": "ENDO"
+    },
+    {
+        "question": "For which of the following indications glycated hemoglobin (A1c) is least useful?",
+        "options": ["The management of any type of diabetes", "The diagnosis of type 1 diabetes", "The diagnosis of type 2 diabetes", "The diagnosis of prediabetes"],
+        "correctAnswer": "The diagnosis of type 1 diabetes",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following tests predicts the development of retinopathy in a diabetic patient the most?",
+        "options": ["2-hour plasma glucose in a 75 g oral glucose tolerance test", "Glycated hemoglobin", "All of the given tests are similarly predictive of diabetic retinopathy", "Fasting plasma glucose"],
+        "correctAnswer": "All of the given tests are similarly predictive of diabetic retinopathy",
+        "section": "ENDO"
+    },
+    {
+        "question": "A type 1 diabetic patient complains to his pharmacist of sore and bruised fingers because of blood sugar testing. What is an appropriate advice?",
+        "options": ["Use the anterolateral thigh", "Use the forearm", "Use the palm", "Use the abdomen"],
+        "correctAnswer": "Use the palm",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is a true difference between continuous glucose monitoring (CGM) and flash glucose monitoring (FGM) devices?",
+        "options": ["FGM devices provide patients with low and high glucose alarms", "CGM can help improve glycemic control in type 1 diabetic patients", "FGM devices require capillary blood glucose calibration", "CGM devices measure glucose concentration in the interstitial fluid"],
+        "correctAnswer": "CGM can help improve glycemic control in type 1 diabetic patients",
+        "section": "ENDO"
+    },
+    {
+        "question": "Risk factors for the progression of diabetic retinopathy include all of the following, EXCEPT:",
+        "options": ["Dyslipidemia", "Hypertension", "Age", "Diabetes duration"],
+        "correctAnswer": "Age",
+        "section": "ENDO"
+    },
+    {
+        "question": "C-peptide test could be ordered in all of the following cases, EXCEPT:",
+        "options": ["to distinguish between type-1 and type-2 diabetes", "to check on residual beta islet cells activity for a diabetic on insulin replacement", "to initially diagnose monogenic diabetes", "to investigate insulin resistance"],
+        "correctAnswer": "to initially diagnose monogenic diabetes",
+        "section": "ENDO"
+    },
+    {
+        "question": "DL is a 48-year-old man with longstanding obesity. Screening tests for type 2 diabetes are done and reveal the following results: FPG: 6.3 mmol/L, A1C: 6.6%. Which of the following is the most appropriate message to be conveyed to DL?",
+        "options": ["Your test results are discordant; referral to an endocrinologist is warranted", "You are prediabetic; repeat the FPG test", "You have type 2 diabetes; lifestyle modifications are warranted", "Reduce your weight and repeat your A1C test"],
+        "correctAnswer": "Reduce your weight and repeat your A1C test",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following criteria would make the diagnosis of type 1 diabetes less likely?",
+        "options": ["Acanthosis nigricans", "Lean patient", "Younger patient", "Diabetic ketoacidosis presentation"],
+        "correctAnswer": "Acanthosis nigricans",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following tests is recommended to favor the diagnosis of type 1 over type 2 diabetes in a case of symptomatic hyperglycemia, where it is difficult to distinguish between these 2 types of diabetes?",
+        "options": ["1,5-Anhydroglucitol test", "C-peptide levels", "Glycated hemoglobin", "Islet cell antibodies"],
+        "correctAnswer": "Islet cell antibodies",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following measures is considered the most evidence-based for the prevention of type 1 diabetes?",
+        "options": ["Orlistat", "Consumption of whole grains", "Metformin", "None"],
+        "correctAnswer": "None",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following measures is the least evidence-based to reduce or delay the risk of type 2 diabetes in susceptible individuals?",
+        "options": ["Physical activity", "Liraglutide", "Bariatric surgery", "DASH diet"],
+        "correctAnswer": "Bariatric surgery",
+        "section": "ENDO"
+    },
+    {
+        "question": "An “insulin shock” means:",
+        "options": ["a serious health emergency involving low blood sugar", "a serious health emergency involving high circulating insulin levels", "a serious health emergency involving normal levels of circulating insulin", "a serious health emergency involving high blood sugar"],
+        "correctAnswer": "a serious health emergency involving low blood sugar",
+        "section": "ENDO"
+    },
+    {
+        "question": "A newly diagnosed 8-year-old child with type 1 diabetes mellitus and his mother are receiving diabetes education prior to discharge. The physician has prescribed glucagon for emergency use. The mother asks the purpose of this medication. Which of the following statements by the hospital pharmacist is correct?",
+        "options": ["Glucagon subcutaneous injection is used to prevent hypoglycemia due to insulin overdose", "Glucagon treats hyperglycemic shock", "Glucagon injection treats hypoglycemic coma resulting from insulin overdose", "Glucagon is a useful adjunct in diabetic ketoacidosis"],
+        "correctAnswer": "Glucagon injection treats hypoglycemic coma resulting from insulin overdose",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following statements about emergency glucagon is true?",
+        "options": ["Glucagon injection, despite being lifesaving, it may result in nausea and vomiting", "Glucagon kit should be stored refrigerated and is valid for up to 6 months", "Glucagon is a biological hormone that is used in severe hypoglycemia in conscious adult patients", "Glucagon should not be used if hypoglycemia is not confirmed because it can cause liver damage in hyperglycemic patients"],
+        "correctAnswer": "Glucagon injection, despite being lifesaving, it may result in nausea and vomiting",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following steps regarding the use of emergency glucagon is NOT accurate?",
+        "options": ["Inject glucagon at 90° angle into buttocks, thighs, or upper arms, through clothing if necessary", "If the patient recovers, s/he should be offered carbohydrate snacks as soon as it is safe to do so", "If the patient does not respond in 10 minutes, avoid additional doses and wait for EMS assistance", "Check blood glucose using a glucometer, if one is available, and have someone call 9-1-1"],
+        "correctAnswer": "If the patient does not respond in 10 minutes, avoid additional doses and wait for EMS assistance",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following advices represent the most appropriate dietary modification for a type-2 diabetes patient?",
+        "options": ["Eat more legumes and high-fibre foods", "Reduce carbohydrates", "Eat several small meals throughout the day", "Avoid alcohol"],
+        "correctAnswer": "Eat more legumes and high-fibre foods",
+        "section": "ENDO"
+    },
+    {
+        "question": "Your patient has a carb ratio of 1-unit-of-insulin for every 15-grams-of-carbohydrate. If she is using 4 units, the correct amount of food to consume would be:",
+        "options": ["60 grams of sucralose and 35 grams of fibre", "30 grams of sorbitol and 30 grams of lactose", "60 grams of fructose and 15 grams of fibre", "45 grams of isomalt and 15 grams of sucrose"],
+        "correctAnswer": "60 grams of fructose and 15 grams of fibre",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following actions would lower the glycemic index of a pasta dish?",
+        "options": ["To choose white pasta rather than whole-wheat pasta", "To toss it with meat sauce rather than a creamy sauce", "To cook the pasta for longer until it is quite soft", "To cook the pasta until it is 'al dente'"],
+        "correctAnswer": "To cook the pasta until it is 'al dente'",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following food choices would be most recommended by a pharmacist to a diabetic patient based on glycemic index?",
+        "options": ["Sweet potato", "Greek yoghurt", "Red potato", "Bulgur"],
+        "correctAnswer": "Red potato",
+        "section": "ENDO"
+    },
+    {
+        "question": "A 52-year-old type-2 diabetic truck driver of dangerous goods is stable on metformin 850 mg twice daily, long-acting gliclazide 60 mg once daily, linagliptin 5 mg once daily, and insulin glargine 18 units at bedtime. On the morning of a cross-country delivery trip scheduled to start at 6:00 a.m., he woke up at 5 a.m. with a blood sugar reading of 3.8 mmol/L. What is an appropriate action?",
+        "options": ["To eat a 15-gram carbohydrate snack and start his trip only when his blood sugar is at least 4 mmol/L and to re-check his blood sugar every 4 hours of continuous driving while carrying rapidly absorbed carbohydrate within easy reach", "To call his employer for a sick leave in order to avoid driving on that day and to consider reporting this episode of hypoglycemia to his physician", "To skip the morning dose of gliclazide and eat a snack containing 15 grams of carbohydrates then consider repeated blood sugar checks every 2 hours while driving", "To eat a 15-gram carbohydrate snack and postpone his trip until his blood sugar is at least 5 mmol/L for at least 40 minutes and to consider measuring his blood glucose at least every 4 hours of driving while carrying rapidly absorbed carbohydrate within easy reach"],
+        "correctAnswer": "To eat a 15-gram carbohydrate snack and postpone his trip until his blood sugar is at least 5 mmol/L for at least 40 minutes and to consider measuring his blood glucose at least every 4 hours of driving while carrying rapidly absorbed carbohydrate within easy reach.",
+        "section": "ENDO"
+    },
+    {
+        "question": "A patient of yours, who has type 1 diabetes, is leaving for an overseas flight to the Far East. You advise him/her to do all of the following, EXCEPT:",
+        "options": ["Take twice the amount of insulin s/he needs with him/her on the trip", "Check with the doctor or diabetes educator if s/he may need to reduce his/her basal insulin dose", "Keep his/her insulin, syringes or needles for insulin pens and lancets in the checked-in baggage so that s/he can get past security with no problems", "Check with the airline/train company to see if they have diabetes friendly meals available and have snacks such as crackers and fruit handy to cover delayed meals"],
+        "correctAnswer": "Keep his/her insulin, syringes or needles for insulin pens and lancets in the checked-in baggage so that s/he can get past security with no problems.",
+        "section": "ENDO"
+    },
+    {
+        "question": "According to the Diabetes Canada guidelines for clinical practice, when the A1c is 1% higher than the target for a given population, antihyperglycemic pharmacotherapy should be initiated within what time frame if lifestyle management alone does not achieve glycemic targets?",
+        "options": ["2 to 3 months", "6 to 9 months", "6 to 12 months", "3 to 6 months"],
+        "correctAnswer": "2 to 3 months.",
+        "section": "ENDO"
+    },
+    {
+        "question": "The first goal in type 2 diabetes management is to achieve target A1c within:",
+        "options": ["1-3 months", "3-6 months", "12 months", "6-9 months"],
+        "correctAnswer": "3-6 months",
+        "section": "ENDO"
+    },
+    {
+        "question": "For a 48-year-old type 2 diabetic female patient who is stable on metformin 1000 mg BID, glyburide 5 mg BID, and insulin glargine 16 units at bedtime, all of the following are appropriate recommendations and/or information regarding alcohol consumption, EXCEPT:",
+        "options": ["A delayed low blood sugar can occur the next morning after breakfast and up to 24 hours after drinking alcohol", "Alcohol can increase blood pressure & triglycerides and can worsen diabetic neuropathy & retinopathy", "Choose dry wine over sweet wine, as it has less caloric value", "Eat carbohydrate-rich foods when drinking alcohol"],
+        "correctAnswer": "Choose dry wine over sweet wine, as it has less caloric value.",
+        "section": "ENDO"
+    },
+    {
+        "question": "An appropriate advice by a pharmacist to a 42-year-old male type 2 diabetic patient who is on insulin and metformin regarding consuming 1-2 glasses of red wine in the evening is:",
+        "options": ["avoid alcohol because it can lead to dangerously low blood sugar", "avoid bedtime carb snacks as alcohol can cause weight gain", "avoid alcohol as it interacts with metformin", "avoid drinking alcohol on an empty stomach"],
+        "correctAnswer": "avoid drinking alcohol on an empty stomach.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following antidiabetic drugs will cause a high-amplitude spike of insulin in the absence of glucose when given orally?",
+        "options": ["Dulaglutide", "Canagliflozin", "Glimepiride", "Alogliptin"],
+        "correctAnswer": "Glimepiride",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following antidiabetic drugs will improve the late-phase insulin release in a glucose-dependent manner?",
+        "options": ["Dapagliflozin", "Sitagliptin", "Pioglitazone", "Gliclazide"],
+        "correctAnswer": "Sitagliptin",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following antidiabetic drugs will depend on the presence of endogenous insulin to elicit a therapeutic effect, EXCEPT:",
+        "options": ["repaglinide", "pioglitazone", "empagliflozin", "linagliptin"],
+        "correctAnswer": "empagliflozin",
+        "section": "ENDO"
+    },
+
+    {
+        "question": "A 34-year-old type-1 diabetic female patient has recently achieved a glycated hemoglobin of 7.0%. The patient is interested to learn about her average blood sugar in millimoles per liter before and after meals over the last 3-4 months.",
+        "options": ["7.5", "7.0", "None of the given answers applies to type-1 diabetic patients", "8.0"],
+        "correctAnswer": "8.0",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following drugs would necessitate monitoring HbA1c and fasting serum glucose levels when used therapeutically?",
+        "options": ["Acitretin", "Clozapine", "Galantamine", "Darunavir"],
+        "correctAnswer": "Galantamine",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following adverse events is the most commonly associated with insulin injections?",
+        "options": ["Injection site reaction", "Local pruritus", "Hypoglycemia", "Lipohypertrophy"],
+        "correctAnswer": "Hypoglycemia",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following adverse events would be the least commonly associated with insulin injections?",
+        "options": ["Injection site reactions", "Allergic reactions", "Bruising", "Hypoglycemia"],
+        "correctAnswer": "Allergic reactions",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following adverse reactions could be associated with insulin injections, EXCEPT:",
+        "options": ["Weight gain", "Rash at injection site", "Hyperlipidemia", "Hypokalemia"],
+        "correctAnswer": "Hyperlipidemia",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following laboratory tests is most consistent with a diagnosis of diabetes? Assume that the patient has one prior lab result that is already elevated to use as confirmatory test.",
+        "options": ["An A1c of 6.4%", "A random blood glucose of 10.9 mmol/L", "A plasma glucose level of 11.1 mmol/L 2 hours after a 75 g oral glucose load", "A fasting blood glucose of 6.9 mmol/L"],
+        "correctAnswer": "A plasma glucose level of 11.1 mmol/L 2 hours after a 75 g oral glucose load",
+        "section": "ENDO"
+    },
+    {
+        "question": "For which of the following patients blood sugar monitoring using a laboratory workup for HbA1c might NOT be reliable?",
+        "options": ["A 68-year-old black female with autoimmune urticarial vasculitis", "A 7-year-old male child with established type-1 diabetes", "A 37-year-old white male with chronic alcoholism", "A 78-year-old female patient on trastuzumab and lapatinib for HER2 positive breast cancer"],
+        "correctAnswer": "A 37-year-old white male with chronic alcoholism",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following drugs, vitamins or supplements might affect the reliability of A1c testing, EXCEPT:",
+        "options": ["Darbepoetin alfa", "Ascorbic acid", "Cyanocobalamin", "Adalimumab"],
+        "correctAnswer": "Adalimumab",
+        "section": "ENDO"
+    },
+    {
+        "question": "ZS who is a 66-year-old female with type 2 diabetes mellitus for over 20 years, treated with multiple daily insulin injections, visits the pharmacy today to pick up her insulin and for routine follow-up with the pharmacist. Her recent medical history is significant for menorrhagia secondary to uterine fibroids. ZS’ typical A1C value is around 9.0%, however, her most recent A1C value was 10.5%. ZS is quite surprised, as she has really focused on managing her diabetes over the past 3 months and checks her blood glucose before and after meals. Her blood glucose meter download report reveals an average glucose level of 10.5 mmol/L, which is consistent with an A1C value of 8.3%. The pharmacist noticed that the A1C value does not seem to accurately reflect the mean glycemic control in ZS. Which of the following is an acceptable explanation for the inaccuracy of A1C value in ZS?",
+        "options": ["Insulin use", "Menorrhagia", "Age", "Long-term diabetes"],
+        "correctAnswer": "Menorrhagia",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following tests could be considered as quantitative alternative measures of glycemia over an extended period of time, EXCEPT:",
+        "options": ["fructosamine assay", "glycated albumin", "1,5-anhydroglucitol", "2-hour plasma glucose in a 75 g oral glucose tolerance test"],
+        "correctAnswer": "2-hour plasma glucose in a 75 g oral glucose tolerance test",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is a disadvantage of A1c testing?",
+        "options": ["It cannot predict microvascular complications", "It shows day-to-day variability", "It requires multiple sampling", "It is less sensitive than traditional methods of glucose measurement"],
+        "correctAnswer": "It is less sensitive than traditional methods of glucose measurement",
+        "section": "ENDO"
+    },
+    {
+        "question": "For which of the following indications glycated hemoglobin (A1c) is least useful?",
+        "options": ["The management of any type of diabetes", "The diagnosis of type 1 diabetes", "The diagnosis of type 2 diabetes", "The diagnosis of prediabetes"],
+        "correctAnswer": "The diagnosis of type 1 diabetes",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following tests predicts the development of retinopathy in a diabetic patient the most?",
+        "options": ["2-hour plasma glucose in a 75 g oral glucose tolerance test", "Glycated hemoglobin", "All of the given tests are similarly predictive of diabetic retinopathy", "Fasting plasma glucose"],
+        "correctAnswer": "All of the given tests are similarly predictive of diabetic retinopathy",
+        "section": "ENDO"
+    },
+    {
+        "question": "A type 1 diabetic patient complains to his pharmacist of sore and bruised fingers because of blood sugar testing. What is an appropriate advice?",
+        "options": ["Use the anterolateral thigh", "Use the forearm", "Use the palm", "Use the abdomen"],
+        "correctAnswer": "Use the palm",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is a true difference between continuous glucose monitoring (CGM) and flash glucose monitoring (FGM) devices?",
+        "options": ["FGM devices provide patients with low and high glucose alarms", "CGM can help improve glycemic control in type 1 diabetic patients", "FGM devices require capillary blood glucose calibration", "CGM devices measure glucose concentration in the interstitial fluid"],
+        "correctAnswer": "CGM can help improve glycemic control in type 1 diabetic patients",
+        "section": "ENDO"
+    },
+    {
+        "question": "Risk factors for the progression of diabetic retinopathy include all of the following, EXCEPT:",
+        "options": ["Dyslipidemia", "Hypertension", "Age", "Diabetes duration"],
+        "correctAnswer": "Age",
+        "section": "ENDO"
+    },
+    {
+        "question": "C-peptide test could be ordered in all of the following cases, EXCEPT:",
+        "options": ["to distinguish between type-1 and type-2 diabetes", "to check on residual beta islet cells activity for a diabetic on insulin replacement", "to initially diagnose monogenic diabetes", "to investigate insulin resistance"],
+        "correctAnswer": "to initially diagnose monogenic diabetes",
+        "section": "ENDO"
+    },
+    {
+        "question": "DL is a 48-year-old man with longstanding obesity. Screening tests for type 2 diabetes are done and reveal the following results: FPG: 6.3 mmol/L, A1C: 6.6%. Which of the following is the most appropriate message to be conveyed to DL?",
+        "options": ["Your test results are discordant; referral to an endocrinologist is warranted", "You are prediabetic; repeat the FPG test", "You have type 2 diabetes; lifestyle modifications are warranted", "Reduce your weight and repeat your A1C test"],
+        "correctAnswer": "Reduce your weight and repeat your A1C test",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following criteria would make the diagnosis of type 1 diabetes less likely?",
+        "options": ["Acanthosis nigricans", "Lean patient", "Younger patient", "Diabetic ketoacidosis presentation"],
+        "correctAnswer": "Acanthosis nigricans",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following tests is recommended to favor the diagnosis of type 1 over type 2 diabetes in a case of symptomatic hyperglycemia, where it is difficult to distinguish between these 2 types of diabetes?",
+        "options": ["1,5-Anhydroglucitol test", "C-peptide levels", "Glycated hemoglobin", "Islet cell antibodies"],
+        "correctAnswer": "Islet cell antibodies",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following measures is considered the most evidence-based for the prevention of type 1 diabetes?",
+        "options": ["Orlistat", "Consumption of whole grains", "Metformin", "None"],
+        "correctAnswer": "None",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following measures is the least evidence-based to reduce or delay the risk of type 2 diabetes in susceptible individuals?",
+        "options": ["Physical activity", "Liraglutide", "Bariatric surgery", "DASH diet"],
+        "correctAnswer": "Bariatric surgery",
+        "section": "ENDO"
+    },
+    {
+        "question": "An “insulin shock” means:",
+        "options": ["a serious health emergency involving low blood sugar", "a serious health emergency involving high circulating insulin levels", "a serious health emergency involving normal levels of circulating insulin", "a serious health emergency involving high blood sugar"],
+        "correctAnswer": "a serious health emergency involving low blood sugar",
+        "section": "ENDO"
+    },
+    {
+        "question": "A newly diagnosed 8-year-old child with type 1 diabetes mellitus and his mother are receiving diabetes education prior to discharge. The physician has prescribed glucagon for emergency use. The mother asks the purpose of this medication. Which of the following statements by the hospital pharmacist is correct?",
+        "options": ["Glucagon subcutaneous injection is used to prevent hypoglycemia due to insulin overdose", "Glucagon treats hyperglycemic shock", "Glucagon injection treats hypoglycemic coma resulting from insulin overdose", "Glucagon is a useful adjunct in diabetic ketoacidosis"],
+        "correctAnswer": "Glucagon injection treats hypoglycemic coma resulting from insulin overdose",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following statements about emergency glucagon is true?",
+        "options": ["Glucagon injection, despite being lifesaving, it may result in nausea and vomiting", "Glucagon kit should be stored refrigerated and is valid for up to 6 months", "Glucagon is a biological hormone that is used in severe hypoglycemia in conscious adult patients", "Glucagon should not be used if hypoglycemia is not confirmed because it can cause liver damage in hyperglycemic patients"],
+        "correctAnswer": "Glucagon injection, despite being lifesaving, it may result in nausea and vomiting",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following steps regarding the use of emergency glucagon is NOT accurate?",
+        "options": ["Inject glucagon at 90° angle into buttocks, thighs, or upper arms, through clothing if necessary", "If the patient recovers, s/he should be offered carbohydrate snacks as soon as it is safe to do so", "If the patient does not respond in 10 minutes, avoid additional doses and wait for EMS assistance", "Check blood glucose using a glucometer, if one is available, and have someone call 9-1-1"],
+        "correctAnswer": "If the patient does not respond in 10 minutes, avoid additional doses and wait for EMS assistance",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following advices represent the most appropriate dietary modification for a type-2 diabetes patient?",
+        "options": ["Eat more legumes and high-fibre foods", "Reduce carbohydrates", "Eat several small meals throughout the day", "Avoid alcohol"],
+        "correctAnswer": "Eat more legumes and high-fibre foods",
+        "section": "ENDO"
+    },
+    {
+        "question": "Your patient has a carb ratio of 1-unit-of-insulin for every 15-grams-of-carbohydrate. If she is using 4 units, the correct amount of food to consume would be:",
+        "options": ["60 grams of sucralose and 35 grams of fibre", "30 grams of sorbitol and 30 grams of lactose", "60 grams of fructose and 15 grams of fibre", "45 grams of isomalt and 15 grams of sucrose"],
+        "correctAnswer": "60 grams of fructose and 15 grams of fibre",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following actions would lower the glycemic index of a pasta dish?",
+        "options": ["To choose white pasta rather than whole-wheat pasta", "To toss it with meat sauce rather than a creamy sauce", "To cook the pasta for longer until it is quite soft", "To cook the pasta until it is 'al dente'"],
+        "correctAnswer": "To cook the pasta until it is 'al dente'",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following food choices would be most recommended by a pharmacist to a diabetic patient based on glycemic index?",
+        "options": ["Sweet potato", "Greek yoghurt", "Red potato", "Bulgur"],
+        "correctAnswer": "Red potato",
+        "section": "ENDO"
+    },
+    {
+        "question": "A 52-year-old type-2 diabetic truck driver of dangerous goods is stable on metformin 850 mg twice daily, long-acting gliclazide 60 mg once daily, linagliptin 5 mg once daily, and insulin glargine 18 units at bedtime. On the morning of a cross-country delivery trip scheduled to start at 6:00 a.m., he woke up at 5 a.m. with a blood sugar reading of 3.8 mmol/L. What is an appropriate action?",
+        "options": ["To eat a 15-gram carbohydrate snack and start his trip only when his blood sugar is at least 4 mmol/L and to re-check his blood sugar every 4 hours of continuous driving while carrying rapidly absorbed carbohydrate within easy reach", "To call his employer for a sick leave in order to avoid driving on that day and to consider reporting this episode of hypoglycemia to his physician", "To skip the morning dose of gliclazide and eat a snack containing 15 grams of carbohydrates then consider repeated blood sugar checks every 2 hours while driving", "To eat a 15-gram carbohydrate snack and postpone his trip until his blood sugar is at least 5 mmol/L for at least 40 minutes and to consider measuring his blood glucose at least every 4 hours of driving while carrying rapidly absorbed carbohydrate within easy reach."],
+        "correctAnswer": "To eat a 15-gram carbohydrate snack and postpone his trip until his blood sugar is at least 5 mmol/L for at least 40 minutes and to consider measuring his blood glucose at least every 4 hours of driving while carrying rapidly absorbed carbohydrate within easy reach.",
+        "section": "ENDO"
+    },
+    {
+        "question": "A patient of yours, who has type 1 diabetes, is leaving for an overseas flight to the Far East. You advise him/her to do all of the following, EXCEPT:",
+        "options": ["Take twice the amount of insulin s/he needs with him/her on the trip", "Check with the doctor or diabetes educator if s/he may need to reduce his/her basal insulin dose", "Keep his/her insulin, syringes or needles for insulin pens and lancets in the checked-in baggage so that s/he can get past security with no problems", "Check with the airline/train company to see if they have diabetes friendly meals available and have snacks such as crackers and fruit handy to cover delayed meals"],
+        "correctAnswer": "Keep his/her insulin, syringes or needles for insulin pens and lancets in the checked-in baggage so that s/he can get past security with no problems.",
+        "section": "ENDO"
+    },
+    {
+        "question": "According to the Diabetes Canada guidelines for clinical practice, when the A1c is 1% higher than the target for a given population, antihyperglycemic pharmacotherapy should be initiated within what time frame if lifestyle management alone does not achieve glycemic targets?",
+        "options": ["2 to 3 months", "6 to 9 months", "6 to 12 months", "3 to 6 months"],
+        "correctAnswer": "2 to 3 months.",
+        "section": "ENDO"
+    },
+    {
+        "question": "The first goal in type 2 diabetes management is to achieve target A1c within:",
+        "options": ["1-3 months", "3-6 months", "12 months", "6-9 months"],
+        "correctAnswer": "3-6 months",
+        "section": "ENDO"
+    },
+    {
+        "question": "For a 48-year-old type 2 diabetic female patient who is stable on metformin 1000 mg BID, glyburide 5 mg BID, and insulin glargine 16 units at bedtime, all of the following are appropriate recommendations and/or information regarding alcohol consumption, EXCEPT:",
+        "options": ["A delayed low blood sugar can occur the next morning after breakfast and up to 24 hours after drinking alcohol", "Alcohol can increase blood pressure & triglycerides and can worsen diabetic neuropathy & retinopathy", "Choose dry wine over sweet wine, as it has less caloric value", "Eat carbohydrate-rich foods when drinking alcohol"],
+        "correctAnswer": "Choose dry wine over sweet wine, as it has less caloric value.",
+        "section": "ENDO"
+    },
+    {
+        "question": "An appropriate advice by a pharmacist to a 42-year-old male type 2 diabetic patient who is on insulin and metformin regarding consuming 1-2 glasses of red wine in the evening is:",
+        "options": ["avoid alcohol because it can lead to dangerously low blood sugar", "avoid bedtime carb snacks as alcohol can cause weight gain", "avoid alcohol as it interacts with metformin", "avoid drinking alcohol on an empty stomach"],
+        "correctAnswer": "avoid drinking alcohol on an empty stomach.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following antidiabetic drugs will cause a high-amplitude spike of insulin in the absence of glucose when given orally?",
+        "options": ["Dulaglutide", "Canagliflozin", "Glimepiride", "Alogliptin"],
+        "correctAnswer": "Glimepiride",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following antidiabetic drugs will improve the late-phase insulin release in a glucose-dependent manner?",
+        "options": ["Dapagliflozin", "Sitagliptin", "Pioglitazone", "Gliclazide"],
+        "correctAnswer": "Sitagliptin",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following antidiabetic drugs will depend on the presence of endogenous insulin to elicit a therapeutic effect, EXCEPT:",
+        "options": ["repaglinide", "pioglitazone", "empagliflozin", "linagliptin"],
+        "correctAnswer": "empagliflozin",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is a sign typically associated with hypoglycemia?",
+        "options": ["Numb tongue", "Hyperreflexia", "Polyuria", "Slow heartbeat"],
+        "correctAnswer": "Numb tongue",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following hypoglycemia symptoms is neuroglycopenic in nature?",
+        "options": ["Sweating", "Confusion", "Shakiness", "Anxiety"],
+        "correctAnswer": "Confusion",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following classes of medications might enhance the hypoglycemic effect of glyburide?",
+        "options": ["Antimicrobial agents commonly used to treat respiratory tract infections", "Medications used for mental health disorders", "Medications used for cardiovascular disorders", "Antimicrobial agents commonly used to treat urinary tract infections"],
+        "correctAnswer": "Antimicrobial agents commonly used to treat urinary tract infections",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following agents may blunt the effect of insulin in diabetic patients, EXCEPT:",
+        "options": ["Furosemide", "Ritonavir", "Aripiprazole", "Amiodarone"],
+        "correctAnswer": "Amiodarone",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following medications could precipitate the development of hyperosmolar hyperglycemic state (HHS) in a type-2 diabetes male patient, EXCEPT:",
+        "options": ["Tacrolimus", "Interferon", "Ziprasidone", "Octreotide"],
+        "correctAnswer": "Octreotide",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following disorders would interfere the least with blood sugar control in a diabetic patient?",
+        "options": ["Acromegaly", "Hyperthyroidism", "Rheumatoid arthritis", "Pheochromocytoma"],
+        "correctAnswer": "Rheumatoid arthritis",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is true about diabetic ketoacidosis (DKA) and hyperosmolar hyperglycemic state (HHS) manifesting as life-threatening emergencies with marked metabolic decompensation in a type 1 diabetes patient?",
+        "options": ["HHS will show low serum bicarbonate and a high anion gap", "Plasma glucose levels tend to be higher in HHS than in DKA", "Serum ketones will be elevated in both HHS and DKA", "Tachycardia and hypotension might be associated with DKA only"],
+        "correctAnswer": "Plasma glucose levels tend to be higher in HHS than in DKA.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following antihyperglycemic drug classes carry the highest risk of triggering hypoglycemic events in diabetic patients when used along with sulfonylureas?",
+        "options": ["Alpha-glucosidase inhibitors", "Thiazolidinediones", "Biguanides", "GLP-1 agonists"],
+        "correctAnswer": "GLP-1 agonists",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following agents is preferred as an add-on to metformin monotherapy in a type 2 diabetic patient (BMI is 27 kg/m²) who has heart failure (NYHA I) and who has a HbA1c of 8.1% with an individualized target of 7.0%?",
+        "options": ["Alogliptin", "Semaglutide", "Gliclazide", "Canagliflozin"],
+        "correctAnswer": "Canagliflozin",
+        "section": "ENDO"
+    },
+    {
+        "question": "In which of the following situations basal insulin is to be considered for a patient with type 2 diabetes?",
+        "options": ["When a patient is hospitalized for a noncritical illness or is NPO", "All of the given situations", "At diagnosis", "When a patient does not attain glycemic targets despite 3 antihyperglycemic agents"],
+        "correctAnswer": "All of the given situations",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following statements regarding basal insulins is true?",
+        "options": ["Insulin degludec needs to be administered at bedtime", "Insulin glargine U100 and insulin degludec have negative effects on cardiovascular outcomes", "Long-acting basal insulin analogues are more effective than NPH insulin in lowering A1C", "Insulin glargine U300 carries a lower risk of hypoglycemia compared to insulin glargine U100"],
+        "correctAnswer": "Insulin glargine U300 carries a lower risk of hypoglycemia compared to insulin glargine U100.",
+        "section": "ENDO"
+    },
+
+    {
+        "question": "Your type 2 diabetic patient (body weight: 90 kg) will be switched by the internal medicine specialist from insulin glargine 100 units/mL (Lantus) to insulin glargine 300 units/mL (Toujeo) in an attempt to reduce the risk of occasional nocturnal hypoglycemic episodes the patient has been complaining of and which manifested as trouble maintaining sleep, night sweats and vivid dreams. The patient was using 30 units of Lantus twice daily. What initial dose of insulin Toujeo you would recommend for this patient?",
+        "options": [
+            "Start at 0.5 units/kg and increase the dose by 2-3 units every night until a fasting blood glucose target of <7 mmol/L is achieved.",
+            "Start at 0.2 units/kg and increase the dose by 1 unit every night until a fasting blood glucose target of <7 mmol/L is achieved.",
+            "Start at 48 units at bedtime",
+            "Start at 60 units at bedtime"
+        ],
+        "correctAnswer": "Start at 48 units at bedtime",
+        "section": "ENDO"
+    },
+    {
+        "question": "What are the pharmacotherapy options available to S.H. according to the current clinical guidelines?",
+        "options": [
+            "Of the insulin products, only basal insulin is considered second line.",
+            "All possible lifestyle modifications can be considered second line.",
+            "Of the oral products, only insulin secretagogues are considered second line.",
+            "All available agents whether oral or parenteral can be considered second line."
+        ],
+        "correctAnswer": "All available agents whether oral or parenteral can be considered second line.",
+        "section": "ENDO"
+    },
+    {
+        "question": "S.H. tells you he has been reading about incretin hormones and their role in diabetes. He is interested in learning more. You advise S.H. that both incretin hormones glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) regulate blood glucose through which of the following main mechanism of action?",
+        "options": [
+            "They sensitize body tissues to the effect of insulin.",
+            "They increase gastric emptying and reduce hunger.",
+            "They increase the postprandial release of glucagon.",
+            "They increase insulin secretion in the presence of elevated blood glucose levels."
+        ],
+        "correctAnswer": "They increase insulin secretion in the presence of elevated blood glucose levels.",
+        "section": "ENDO"
+    },
+    {
+        "question": "S.H. ultimately starts treatment with a glucagon-like peptide-1 agonist. What significant benefit might S.H. anticipate with this treatment compared with other insulin-dependent agents?",
+        "options": [
+            "Weight loss",
+            "Low risk for hypoglycemia",
+            "Improved microvascular outcomes",
+            "Convenience of therapy"
+        ],
+        "correctAnswer": "Weight loss",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is NOT true regarding liraglutide (Victoza) pen, a Human Glucagon Like Peptide-1 (GLP-1) analog that acts as a GLP-1 receptor agonist?",
+        "options": [
+            "Liraglutide should not be used in pregnant women.",
+            "Liraglutide is not likely to potentiate the effect of sulfonylureas.",
+            "Liraglutide is started at a low dose in order to reduce diarrhea.",
+            "Liraglutide can be taken at any time of the day irrespective to meals."
+        ],
+        "correctAnswer": "Liraglutide is not likely to potentiate the effect of sulfonylureas.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is the least likely side effect of liraglutide?",
+        "options": [
+            "Injection site hematoma",
+            "Urinary tract infections",
+            "Anorexia",
+            "Nasopharyngitis"
+        ],
+        "correctAnswer": "Urinary tract infections",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following are pharmacological actions that can describe the actions of sodium-glucose co-transporter-2 (SGLT-2) inhibitors, EXCEPT:",
+        "options": [
+            "They reduce blood pressure through osmotic diuresis.",
+            "They increase the renal threshold for glucose.",
+            "They reduce the reabsorption of filtered renal glucose.",
+            "They increase urinary glucose excretion."
+        ],
+        "correctAnswer": "They increase the renal threshold for glucose.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following reactions is expected to be the most common side effect associated with sodium-glucose co-transporter-2 (SGLT-2) inhibitors in a female type 2 diabetic patient?",
+        "options": [
+            "Polyuria",
+            "Thirst",
+            "Vulvovaginal candidiasis",
+            "Constipation"
+        ],
+        "correctAnswer": "Constipation",
+        "section": "ENDO"
+    },
+    {
+        "question": "Side effects of sodium-glucose co-transporter-2 (SGLT-2) inhibitors do NOT include:",
+        "options": [
+            "Low blood pressure and falls",
+            "Peripheral neuropathy and reduction in hematocrit",
+            "Urinary tract infections and genital yeast infections",
+            "Increased urination and dehydration"
+        ],
+        "correctAnswer": "Peripheral neuropathy and reduction in hematocrit",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is NOT true regarding canagliflozin (Invokana)?",
+        "options": [
+            "It should not be used in diabetic patients with eGFR less than 30 mL/min/1.73 m.",
+            "It should not be used in patients with a history of diabetic ketoacidosis.",
+            "It should not be used in patients with a prior history of foot amputation.",
+            "It should not be combined with metformin in patients with type 2 diabetes mellitus."
+        ],
+        "correctAnswer": "It should not be combined with metformin in patients with type 2 diabetes mellitus.",
+        "section": "ENDO"
+    },
+    {
+        "question": "A 62-year-old male smoker patient with type 2 diabetes, hypertension and heart failure (EF 30%) is stable on perindopril, carvedilol, spironolactone, metformin and insulin glargine. The patient's SCr is 70 μmol/L. The diabetologist is considering the addition of empagliflozin to the patient’s regimen. Which of the following is expected to be a specific advantage conferred by empagliflozin in this patient?",
+        "options": [
+            "Reducing the risk of heart failure hospitalization",
+            "Reducing the risk of diabetic nephropathy",
+            "Preventing cardiac remodelling",
+            "Stabilizing the ejection fraction"
+        ],
+        "correctAnswer": "Reducing the risk of heart failure hospitalization",
+        "section": "ENDO"
+    },
+    {
+        "question": "Match the following contraindications to the diabetes medications that are associated with them: thyroid cancer; bladder cancer; history of diabetic ketoacidosis; inflammatory bowel disease.",
+        "options": [
+            "Dipeptidyl peptidase 4 inhibitors; glucagon-like peptide 1 agonists; sodium-glucose co-transporter-2 inhibitors; metformin",
+            "Glucagon-like peptide 1 agonists; thiazolidinediones; sodium-glucose co-transporter-2 inhibitors; acarbose",
+            "Incretin-based drugs; meglitinides; sodium-glucose co-transporter-2 inhibitors; insulin",
+            "Sodium-glucose co-transporter-2 inhibitors; dipeptidyl peptidase 4 inhibitors; metformin; sulfonylureas"
+        ],
+        "correctAnswer": "Glucagon-like peptide 1 agonists; thiazolidinediones; sodium-glucose co-transporter-2 inhibitors; acarbose",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following statements is NOT correct regarding acarbose (GLUCOBAY)?",
+        "options": [
+            "It is a competitive reversible inhibitor of pancreatic α-amylase and membrane-bound intestinal α-glucoside hydrolase enzymes.",
+            "It possesses a modest insulinotropic effect.",
+            "It is a complex oligosaccharide that delays the digestion of ingested carbohydrates.",
+            "It reduces postprandial serum glucose and insulin levels in a dose-dependent manner."
+        ],
+        "correctAnswer": "It possesses a modest insulinotropic effect.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is true about metformin?",
+        "options": [
+            "Metformin has no effects on pancreatic beta cells; however, its antihyperglycemic effect depends on insulin secretion.",
+            "A possible adverse reaction of metformin is ovulatory suppression.",
+            "Diabetic patients should not drink alcohol while on metformin.",
+            "Metformin monotherapy can cause hypoglycemia if not taken with a meal."
+        ],
+        "correctAnswer": "Metformin has no effects on pancreatic beta cells; however, its antihyperglycemic effect depends on insulin secretion.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following pairs of conditions are contraindications to the use of metformin, EXCEPT:",
+        "options": [
+            "Dehydration and acute myocardial infarction.",
+            "Hepatic dysfunction and chronic alcoholism.",
+            "Diabetic ketoacidosis and sepsis.",
+            "Heart failure and kidney disease with GFR 45 ml/min/1.73 m."
+        ],
+        "correctAnswer": "Heart failure and kidney disease with GFR 45 ml/min/1.73 m.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Thiazolidinediones are considered inappropriate antidiabetic medications in all of the following patients’ conditions, EXCEPT:",
+        "options": [
+            "A type-2 diabetic patient with NYHA-I heart failure.",
+            "A type-1 diabetes male patient.",
+            "A type 2 diabetes male patient with alcoholic liver disease.",
+            "A type-2 diabetes male patient with hypertriglyceridemia."
+        ],
+        "correctAnswer": "A type-2 diabetes male patient with hypertriglyceridemia.",
+        "section": "ENDO"
+    },
+    {
+        "question": "A major difference between repaglinide and glyburide is that:",
+        "options": [
+            "Unlike glyburide, repaglinide is a longer acting secretagogue.",
+            "Glyburide has a significantly lower potential to cause hypoglycemia if not taken with a meal.",
+            "Repaglinide is predominantly cleared by hepatic metabolism.",
+            "Unlike glyburide, repaglinide exerts a significant action on pancreatic potassium channels."
+        ],
+        "correctAnswer": "Repaglinide is predominantly cleared by hepatic metabolism.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following could be considered advantages of an insulin pen, EXCEPT:",
+        "options": [
+            "It contributes to minimizing dosing errors and insulin wastage.",
+            "It enables higher dosing accuracy and could be handier to the visually impaired.",
+            "It is easier to distinguish insulin type by pen color.",
+            "It can be used to mix most types of insulin."
+        ],
+        "correctAnswer": "It can be used to mix most types of insulin.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following statements are true regarding insulin subcutaneous injections, EXCEPT that:",
+        "options": [
+            "Lipodystrophy can result in blood sugar fluctuations.",
+            "The preferred injection site is the upper arms.",
+            "The skin should be lifted when using a syringe with a 5/16\" (8 mm) x 31G needle.",
+            "Insulin injection into the subcutaneous tissue of an exercised muscle should be avoided."
+        ],
+        "correctAnswer": "The preferred injection site is the upper arms.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following advice can be provided to a type 2 diabetic patient on multiple insulin injections in order to help reduce the discomfort that might be associated with insulin injections?",
+        "options": [
+            "To massage the injection site after injecting insulin.",
+            "To use thinner and shorter needles that cause less resistance in skin penetration.",
+            "To rotate the injection site of insulin so that the same site is not used more than once a month.",
+            "To use a Z-track injection technique."
+        ],
+        "correctAnswer": "To use thinner and shorter needles that cause less resistance in skin penetration.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is true regarding insulin injections?",
+        "options": [
+            "The 4, 5, and 6 mm insulin pen needles are suitable for all people with diabetes regardless of BMI.",
+            "Insulin shots could be kept outside the fridge for 24 hours only.",
+            "The skin should be slightly pinched to form a small fold before inserting the insulin needle.",
+            "Insulin should be injected underneath the skin only at a 45 degrees angle."
+        ],
+        "correctAnswer": "The 4, 5, and 6 mm insulin pen needles are suitable for all people with diabetes regardless of BMI.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Atype-1 diabetic male patient tells you that his doctor told him that he is in the honeymoon period. What is an appropriate advice for this patient?",
+        "options": [
+            "Decrease the dose of insulin.",
+            "Keep insulin dose the same since this is a transient phenomenon.",
+            "Keep insulin dose the same but increase the frequency of glucose monitoring.",
+            "Withhold insulin temporarily."
+        ],
+        "correctAnswer": "Keep insulin dose the same but increase the frequency of glucose monitoring.",
+        "section": "ENDO"
+    },
+    {
+        "question": "A diabetic patient is stable on insulin glargine daily at bedtime and insulin lispro three times daily with meals. What is the most appropriate measure to protect this patient from hypoglycemia during sleep time?",
+        "options": [
+            "To decrease the dose of insulin glargine.",
+            "To eat a carbohydrate snack at bedtime with no changes in insulin doses.",
+            "To increase the caloric intake in the dinner meal.",
+            "To skip the dose of insulin lispro before supper time."
+        ],
+        "correctAnswer": "To eat a carbohydrate snack at bedtime with no changes in insulin doses.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is NOT a risk factor for TL’s episodes of hypoglycemia?",
+        "options": [
+            "Her age.",
+            "That she has had diabetes for 28 years.",
+            "Her A1C of 5.9%.",
+            "That she has hypoglycemic unawareness."
+        ],
+        "correctAnswer": "Her age.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following would be least recommended to reduce TL’s risk of hypoglycemia?",
+        "options": [
+            "Eat snacks more frequently in between meals.",
+            "Switch the bolus insulin to a rapid-acting insulin analogue.",
+            "Teaching the patient cognitive exercises to practice hypoglycemia recognition.",
+            "Switch insulin NPH to a long-acting insulin analogue."
+        ],
+        "correctAnswer": "Eat snacks more frequently in between meals.",
+        "section": "ENDO"
+    },
+    {
+        "question": "A patient is starting on insulin glargine U100 with her antihyperglycemic agents. Which of the following is the recommended initial dose and titration based on fasting plasma glucose (FPG) for most people with type 2 diabetes starting on basal insulin?",
+        "options": [
+            "10 units daily, increase by 1 unit daily until FPG is between 4.0 mmol/L and 7.0 mmol/L.",
+            "0.5 units/kg, increase by 1-2 units every 2-3 days until FPG is between 4.0 mmol/L and 7.0 mmol/L.",
+            "5 units daily, increase by 2 units once weekly until FPG <5.5 mmol/L.",
+            "10 units daily, increase by 4 units once weekly until FPG is between 4.0 mmol/L and 7.0 mmol/L."
+        ],
+        "correctAnswer": "10 units daily, increase by 1 unit daily until FPG is between 4.0 mmol/L and 7.0 mmol/L.",
+        "section": "ENDO"
+    },
+    {
+        "question": "ZK is a 56-year-old man (BMI = 24.2) who has just been diagnosed with type-2 diabetes. He works as a truck driver and spends most of his day outdoors eating on the run. What would be an initial appropriate choice?",
+        "options": [
+            "Glyburide and sitagliptin.",
+            "Metformin and insulin glargine.",
+            "Pioglitazone and metformin.",
+            "Diet and lifestyle modifications."
+        ],
+        "correctAnswer": "Metformin and insulin glargine.",
+        "section": "ENDO"
+    },
+    {
+        "question": "What is the most appropriate addition to ZK’s therapeutic regimen selected in the previous question?",
+        "options": [
+            "Metformin.",
+            "Increase the dose of the patient's current therapy.",
+            "Insulin glulisine.",
+            "Linagliptin."
+        ],
+        "correctAnswer": "Linagliptin.",
+        "section": "ENDO"
+    },
+    {
+        "question": "What is the most appropriate action(s) to be taken regarding the patient's care plan?",
+        "options": [
+            "Add telmisartan and prandial insulin to the patient’s current regimen.",
+            "Add telmisartan and liraglutide to the patient's current regimen.",
+            "Increase perindopril dose and add bedtime insulin degludec to the patient's current regimen.",
+            "Increase perindopril dose and empagliflozin to the patient's current regimen."
+        ],
+        "correctAnswer": "Increase perindopril dose and empagliflozin to the patient's current regimen.",
+        "section": "ENDO"
+    },
+    {
+        "question": "ML is an obese 68-year-old type-2 diabetic female patient. What is an appropriate recommendation to manage ML’s diabetes?",
+        "options": [
+            "Add acarbose to current therapy.",
+            "Increase glyburide to 20 mg once daily.",
+            "Add pioglitazone to current therapy.",
+            "Add prandial regular insulin to current therapy."
+        ],
+        "correctAnswer": "Add pioglitazone to current therapy.",
+        "section": "ENDO"
+    },
+    {
+        "question": "The primary role of atorvastatin and ramipril in M.L.’s care plan is to provide:",
+        "options": [
+            "Vascular protection.",
+            "A delayed onset of insulin resistance.",
+            "Neuroprotection.",
+            "Renoprotection."
+        ],
+        "correctAnswer": "Vascular protection.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following long-term complications are likely end organ damages in a diabetic patient such as M.L., EXCEPT:",
+        "options": [
+            "Retinal damage.",
+            "Left ventricular hypertrophy.",
+            "Kidney failure.",
+            "Venous thromboembolism."
+        ],
+        "correctAnswer": "Venous thromboembolism.",
+        "section": "ENDO"
+    },
+    {
+        "question": "AK is a 54-year-old patient who has had diabetes for 12 years. Which of the following medications are considered evidence-based recommendations for AK?",
+        "options": [
+            "No medications should be currently recommended to this patient.",
+            "A statin alone.",
+            "A statin, an angiotensin converting enzyme inhibitor or an angiotensin receptor blocker and clopidogrel.",
+            "A statin and either an angiotensin converting enzyme inhibitor or an angiotensin receptor blocker."
+        ],
+        "correctAnswer": "A statin, an angiotensin converting enzyme inhibitor or an angiotensin receptor blocker and clopidogrel.",
+        "section": "ENDO"
+    },
+    {
+        "question": "G.H. is a 48-year-old female who has been diagnosed with type-2 diabetes mellitus and mild chronic kidney disease. Which of the following fab tests does NOT need to be monitored over time to evaluate the appropriateness of G.H.'s glycemic control?",
+        "options": [
+            "Serum creatinine.",
+            "Glycated hemoglobin.",
+            "Albumin-to-creatinine ratio.",
+            "Random blood glucose."
+        ],
+        "correctAnswer": "Albumin-to-creatinine ratio.",
+        "section": "ENDO"
+    },
+    {
+        "question": "At this current office visit, G.H.’s A1C is 9.8%. Which interventions can be considered the most appropriate for this patient, assuming the patient has been adherent to her medication regimen?",
+        "options": [
+            "Increase the dose of metformin.",
+            "Discuss with her the initiation of insulin glulisine on top of her current regimen.",
+            "Discuss with her the initiation of insulin glargine on top of her current regimen.",
+            "Switch to immediate release gliclazide 60 mg BID."
+        ],
+        "correctAnswer": "Discuss with her the initiation of insulin glargine on top of her current regimen.",
+        "section": "ENDO"
+    },
+    {
+        "question": "G.H.’s therapeutic plan was managed according to the most appropriate therapeutic modification selected above. What is the best recommendation to manage G.H.’s diabetes now?",
+        "options": [
+            "Initiate mealtime rapid-acting insulin on top of current therapy.",
+            "Add-on acarbose.",
+            "Continue on current regimen with no further medications added and re-assess in 3 months.",
+            "Discontinue gliclazide and start pre-meal insulin."
+        ],
+        "correctAnswer": "Discontinue gliclazide and start pre-meal insulin.",
+        "section": "ENDO"
+    },
+    {
+        "question": "ST is a 64-year-old patient who was recently diagnosed with type-2 diabetes. What is the most appropriate medication to be added to ST's regimen?",
+        "options": [
+            "Dulaglutide.",
+            "Acarbose.",
+            "Canagliflozin.",
+            "Pioglitazone."
+        ],
+        "correctAnswer": "Dulaglutide.",
+        "section": "ENDO"
+    },
+    {
+        "question": "ST denies episodes of hypoglycemia or hypoglycemia unawareness. Which of the following measures is most appropriate for ST at this point to reduce cardiovascular mortality?",
+        "options": [
+            "Add insulin degludec 10 units once daily.",
+            "Add spironolactone 12.5 mg daily.",
+            "Start varenicline up to a maximum of 0.5 mg twice daily to quit smoking.",
+            "Increase atorvastatin dose to 40 mg daily."
+        ],
+        "correctAnswer": "Start varenicline up to a maximum of 0.5 mg twice daily to quit smoking.",
+        "section": "ENDO"
+    },
+    {
+        "question": "The weekly average blood sugar readings of a type-1 diabetic female patient who is on insulin aspart with meals and glargine 100 U at bedtime are compiled. If the patient tells you that her morning highs extend even after her breakfast, what is the most likely cause of her morning hyperglycemia?",
+        "options": [
+            "Insulin resistance.",
+            "Insulin waning.",
+            "Dawn phenomenon.",
+            "Somogyi effect."
+        ],
+        "correctAnswer": "Dawn phenomenon.",
+        "section": "ENDO"
+    },
+    {
+        "question": "A 45-year-old male patient with moderate-severe alcoholic hepatitis has been diagnosed with type 2 diabetes. What is an appropriate first-line choice?",
+        "options": [
+            "Metformin.",
+            "Empagliflozin.",
+            "Insulin degludec.",
+            "Semaglutide."
+        ],
+        "correctAnswer": "Insulin degludec.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is NOT true regarding gestational diabetes?",
+        "options": [
+            "Gestational diabetes increases the risk of developing type 2 diabetes later in life for both the mother and the fetus.",
+            "Educate the patient that strict glycemic control is recommended with an A1c glycemic target of 6.5% or less.",
+            "Educate patient that signs of low blood sugar might be different in pregnant women.",
+            "Glyburide and metformin can be safely used as alternatives to insulin in gestational diabetes."
+        ],
+        "correctAnswer": "Educate patient that signs of low blood sugar might be different in pregnant women.",
+        "section": "ENDO"
+    },
+    {
+        "question": "P.M. is a 62-year-old type-2 diabetic female patient who was initiated on 8 units lispro (HUMALOG) before meals and 20 units NPH (HUMULIN N) at bedtime after failing oral antidiabetic therapy. What therapeutic interventions would most likely control the patient's blood sugar level?",
+        "options": [
+            "Reducing the dose of supper time insulin.",
+            "Adding one dose of repaglinide in the morning.",
+            "Increasing the dose of bedtime insulin.",
+            "Reducing the dose of bedtime insulin if 3 a.m. is <4 mmol/L."
+        ],
+        "correctAnswer": "Reducing the dose of bedtime insulin if 3 a.m. is <4 mmol/L.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following care plan management for T.S. should be initially implemented?",
+        "options": [
+            "Increase the dose of her pre-breakfast insulin.",
+            "Reduce the dose of her pre-supper insulin.",
+            "Reduce the dose of her pre-breakfast insulin.",
+            "Increase the dose of her pre-supper insulin."
+        ],
+        "correctAnswer": "Reduce the dose of her pre-breakfast insulin.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following healthcare specialties would help T.S. the most?",
+        "options": [
+            "A physiotherapist.",
+            "A dietician.",
+            "A social worker.",
+            "A diabetes educator."
+        ],
+        "correctAnswer": "A diabetes educator.",
+        "section": "ENDO"
+    },
+    {
+        "question": "J.A. is a 50-year-old male who works as an accountant. He has been on insulin and metformin for 10 years and has had diabetes for 12 years. What is the recommended starting dose of insulin glargine you would recommend?",
+        "options": [
+            "24 units.",
+            "40 units.",
+            "18 units.",
+            "32 units."
+        ],
+        "correctAnswer": "32 units.",
+        "section": "ENDO"
+    },
+    {
+        "question": "HS is a diabetic patient who brings in her blood sugar log to receive the pharmacist’s recommendation regarding her insulin therapy. What adjustments should the pharmacist suggest first?",
+        "options": [
+            "Increase Fiasp to 25 units at breakfast.",
+            "Reduce Fiasp to 15 units at lunch.",
+            "Increase Toujeo to 45 units.",
+            "Reduce Toujeo to 35 units."
+        ],
+        "correctAnswer": "Reduce Fiasp to 15 units at lunch.",
+        "section": "ENDO"
+    },
+    {
+        "question": "E.S. is a 62-year-old diabetic male patient who has just been trained by a diabetes educator to adjust his insulin dose according to the amount of carbohydrates he eats. What is an appropriate dose of rapid insulin for E.S. before eating the cookies for his lunch?",
+        "options": [
+            "7 units.",
+            "9 units.",
+            "11 units.",
+            "5 units."
+        ],
+        "correctAnswer": "9 units.",
+        "section": "ENDO"
+    },
+    {
+        "question": "If E.S. plans to do an hour walk right after lunch, what would be an appropriate dose of his pre-lunch insulin?",
+        "options": [
+            "50-75% less.",
+            "75-100% less.",
+            "10-15% less.",
+            "25-50% less."
+        ],
+        "correctAnswer": "50-75% less.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Mr. F.A. is a 68-year-old male with type-2 diabetes and a Charcot foot, with a newly identified plantar ulcer. What is the most appropriate advice that should be given to F.A.?",
+        "options": [
+            "Increase the dose of your bedtime insulin by 2 units every 3 days until target blood sugar is reached and continue on your antibiotic regimen until finished.",
+            "Stop levofloxacin as it might cause blood sugar abnormalities and see your doctor.",
+            "Talk to your doctor to add another oral anti-diabetes medication and continue on the current antibiotic regimen until finished.",
+            "Switch the antibacterial to moxifloxacin 400 mg once daily x 10 days."
+        ],
+        "correctAnswer": "Increase the dose of your bedtime insulin by 2 units every 3 days until target blood sugar is reached and continue on your antibiotic regimen until finished.",
+        "section": "ENDO"
+    },
+    
+    {
+        "question": "Which of the following is a patient-specific risk factor contributing to the development of diabetic foot ulcer in Mr. F.A.?",
+        "options": [
+            "Age",
+            "Charcot foot",
+            "Peripheral neuropathic disease",
+            "Peripheral arterial disease"
+        ],
+        "correctAnswer": "Charcot foot",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following could be considered the most important goal of therapy for F.A.’s ulcer?",
+        "options": [
+            "Limit and cure infection by selecting appropriate empiric broad-spectrum antimicrobial selection",
+            "Promote the healing process by pressure off-loading and maintaining a moist wound environment",
+            "Hasten ambulation",
+            "Prevent amputation"
+        ],
+        "correctAnswer": "Hasten ambulation",
+        "section": "ENDO"
+    },
+    {
+        "question": "In F.A’s case, which of the following could be best predicted by glycated hemoglobin (A1c%) as a surrogate marker for glycemic control in clinical practice?",
+        "options": [
+            "Diabetic macrovascular complications",
+            "Diagnosis of diabetes",
+            "Diabetic microvascular complications",
+            "Therapeutic efficacy of glucose lowering medications"
+        ],
+        "correctAnswer": "Diabetic macrovascular complications",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following outcomes is the least to expect if FA follows an extremely strict glycemic control?",
+        "options": [
+            "An increased risk of hypoglycemia",
+            "A reduced risk of cerebrovascular accidents",
+            "Minimizing vascular eye complications",
+            "Postponing the risk of autonomic dysfunction such as neurogenic bladder"
+        ],
+        "correctAnswer": "A reduced risk of cerebrovascular accidents",
+        "section": "ENDO"
+    },
+    {
+        "question": "Considering the case of Mr. F.A. and his multiple admissions to the local hospital for diabetic foot, which of the following specialties would be best recommended for him initially?",
+        "options": [
+            "An occupational therapist",
+            "A podiatrist",
+            "A dietitian",
+            "A physical therapist"
+        ],
+        "correctAnswer": "A dietitian",
+        "section": "ENDO"
+    },
+    {
+        "question": "A 67-year-old female diabetic patient visited her doctor today complaining of a painful ulcer on her sole that is oozing fluids. Her blood sugar has been uncontrolled for quite a while now with an A1C 1 year ago of 12.7%. When her family physician examined the ulcer, he noticed that the fifth metatarsal bone is palpable. This lesion could be most probably described as:",
+        "options": [
+            "Diabetic foot osteomyelitis",
+            "A fetid foot",
+            "A pressure sore",
+            "Purulent cellulitis"
+        ],
+        "correctAnswer": "Diabetic foot osteomyelitis",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is NOT a symptom of a diabetic foot infection?",
+        "options": [
+            "Erythematous, nonraised skin lesions",
+            "Lymphangitic streaking",
+            "Calor and purulence",
+            "Neuropathic pain"
+        ],
+        "correctAnswer": "Neuropathic pain",
+        "section": "ENDO"
+    },
+    {
+        "question": "What is the most appropriate advice a pharmacist could give to M.G. during Ramadan fasting?",
+        "options": [
+            "Divide the metformin dose equally between 'Iftar' and 'Suhur' and omit repaglinide doses",
+            "Consider breaking your fast since you are a diabetic patient using secretagogues",
+            "Avoid exercise, as it might not be safe during the fasting period",
+            "Keep repaglinide regimen and take metformin BID"
+        ],
+        "correctAnswer": "Keep repaglinide regimen and take metformin BID",
+        "section": "ENDO"
+    },
+    {
+        "question": "Knowing that the sunset meal ('Iftar') comprises a large caloric load, whereas the dawn meal ('Suhur') is a light meal, what would be the most appropriate recommendation to manage the patient's insulin therapy?",
+        "options": [
+            "Switch the intermediate-acting insulin to degludec and omit bolus insulin during the fasting time",
+            "Continue your regimen as is during the fasting time with more frequent blood glucose monitoring",
+            "Use the rapid-acting insulin analog only before the sunset and pre-dawn meals and omit the intermediate-acting insulin",
+            "Reduce the dose of the intermediate-acting insulin and of the rapid-acting insulin analog with the predawn meal"
+        ],
+        "correctAnswer": "Reduce the dose of the intermediate-acting insulin and of the rapid-acting insulin analog with the predawn meal",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following dosage forms is appropriate for HA’s medications after laparoscopic Roux-en-Y gastric bypass bariatric surgery?",
+        "options": [
+            "Enteric-coated tablets",
+            "Controlled-release tablets",
+            "Extended-release capsules",
+            "Film-coated tablets"
+        ],
+        "correctAnswer": "Film-coated tablets",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of HA’s medications will likely need to be assessed and/or adjusted first and foremost?",
+        "options": [
+            "Gliclazide",
+            "Metformin",
+            "Atorvastatin",
+            "Tamsulosin"
+        ],
+        "correctAnswer": "Gliclazide",
+        "section": "ENDO"
+    },
+    {
+        "question": "What is the most appropriate recommendation for HA’s arthritis?",
+        "options": [
+            "Ketorolac injections",
+            "Naproxen suppositories",
+            "Acetaminophen-tramadol tablets",
+            "Celecoxib capsules"
+        ],
+        "correctAnswer": "Acetaminophen-tramadol tablets",
+        "section": "ENDO"
+    },
+    {
+        "question": "F.W. is a 67-year-old diabetic patient who visits your pharmacy for his annual flu shot as well as pneumonia vaccine as per his family doctor recommendations. You take this opportunity to encourage him to consider taking care of his diabetes seriously (A1C 8.2%), and discuss with him the importance of self-monitoring, adhering to physical activity and dietary regimens, and taking his medications regularly. He thinks he is doing fine as is. What should your next step be?",
+        "options": [
+            "Wait for him to bring it up with you at another visit",
+            "Ask him if you can readdress this at another visit",
+            "Give him one small goal to start with",
+            "Send him to a nurse educator to educate him further about self-management"
+        ],
+        "correctAnswer": "Ask him if you can readdress this at another visit",
+        "section": "ENDO"
+    },
+    {
+        "question": "The pharmacist kept revisiting the issue of exercise with one of her patients over several pharmacy encounters and had finally convinced the patient to start exercising. The patient tells his pharmacist that he actually thinks that the pros for starting exercise seem to outweigh the cons, but he is not ready to start quite yet. The patient adds that he is decided to start going to the gym at some point over the next 6 to 12 months. According to the transtheoretical model of health behavior change, which state is this patient at currently?",
+        "options": [
+            "Action",
+            "Contemplation",
+            "Preparation",
+            "Pre-contemplation"
+        ],
+        "correctAnswer": "Contemplation",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following are factors and strategies that would assure and enhance the adherence of a recently diagnosed type 2 diabetic patient to their newly prescribed medications, EXCEPT:",
+        "options": [
+            "Avoiding the teach-back approach",
+            "Self-monitoring of blood sugar",
+            "Affordable medications",
+            "Improving health literacy"
+        ],
+        "correctAnswer": "Avoiding the teach-back approach",
+        "section": "ENDO"
+    },
+    {
+        "question": "A 7-year-old kid diagnosed with diabetic ketoacidosis was triaged to emergency intravenous glulisine administration in normal saline. Which of the following laboratory markers is the most relevant monitoring parameter?",
+        "options": [
+            "Alanine aminotransferase (ALT)",
+            "Arterial blood gas (ABG)",
+            "Blood urea nitrogen (BUN)",
+            "Serum potassium"
+        ],
+        "correctAnswer": "Arterial blood gas (ABG)",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is NOT a sign of diabetic ketoacidosis?",
+        "options": [
+            "Confusion",
+            "Rapid breathing",
+            "Feeling very thirsty",
+            "Fatigue"
+        ],
+        "correctAnswer": "Fatigue",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is NOT a diagnostic marker or sign for diabetic ketoacidosis?",
+        "options": [
+            "High serum glucose",
+            "Fishy breath",
+            "Elevated anion gap",
+            "High urinary β-hydroxybutyric acid"
+        ],
+        "correctAnswer": "Fishy breath",
+        "section": "ENDO"
+    },
+    {
+        "question": "All the following insulins can be promptly administered in case of a hyperglycemic diabetic coma, EXCEPT:",
+        "options": [
+            "Insulin glulisine",
+            "Bolus insulin",
+            "Isophane insulin",
+            "Regular insulin"
+        ],
+        "correctAnswer": "Isophane insulin",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is the risk factor that could most likely precipitate diabetic ketoacidosis in a female patient with established type-1 diabetes?",
+        "options": [
+            "Fasting",
+            "Insulin pump therapy",
+            "Psychological stress",
+            "Pneumonia"
+        ],
+        "correctAnswer": "Insulin pump therapy",
+        "section": "ENDO"
+    },
+    {
+        "question": "A 52-year-old woman presents with a 1-week history of fever. Her medical history is significant for mechanical valve placement 5 years ago. The patient is on warfarin 6 mg per day taken in the evening. Vital signs are as follows: Heart rate 100 beats per minute, respiratory rate 20 breaths per minute, resting blood pressure 98/67 mmHg, and temperature 38.3 °C. Physical examination demonstrates a new murmur in the mitral area. Investigations show a leukocyte count of 11 x 10^9/L, a platelet count of 150 x 10^9/L, and an elevated CRP. Multiple blood cultures yield methicillin-resistant Staphylococcus aureus (MRSA). She is started on intravenous vancomycin and gentamicin. On the second day, she develops a pruritic, erythematous rash over her chest, neck, and thighs immediately following the IV antibiotic infusion. The patient's blood pressure is 90/60 mmHg, and her heart rate is 120 beats/min. IV medications are discontinued, and supportive management is initiated. Which of the following is the most likely drug therapy for this patient's condition?",
+        "options": [
+            "Gentamicin-vancomycin intravenous drug incompatibilities",
+            "Gentamicin toxicity",
+            "Warfarin-antibiotic interaction",
+            "Vancomycin infusion reaction"
+        ],
+        "correctAnswer": "Vancomycin infusion reaction",
+        "section": "ENDO"
+    },
+    {
+        "question": "NG is a 58-year-old female with osteomyelitis of the foot who was appropriately dosed on empiric therapy of vancomycin at a dose of 1250 mg every 12 hours. NG has been on the antibiotic long enough to have a trough drawn, which returned at 13.6 mg/L. The trough was taken at an appropriate time. The treating specialist explains to the hospital pharmacist that a trough target of 15-20 mg/L is envisioned. What is an appropriate recommendation for NG?",
+        "options": [
+            "The patient has been dosed appropriately and rechecking her serum trough level in 5-7 days is appropriate.",
+            "To increase vancomycin dose to 1500 mg every 8 hours",
+            "To administer vancomycin 1250 mg every 10 hours",
+            "To increase vancomycin dose to 1500 mg every 12 hours"
+        ],
+        "correctAnswer": "To increase vancomycin dose to 1500 mg every 12 hours",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following acute kidney injuries best describes gentamicin-induced nephropathy?",
+        "options": [
+            "Acute tubular necrosis",
+            "Acute interstitial nephritis",
+            "Nephrotic syndrome",
+            "Prerenal injury"
+        ],
+        "correctAnswer": "Acute tubular necrosis",
+        "section": "ENDO"
+    },
+    {
+        "question": "The marker which will correlate with a diagnosis of acute renal failure the most is:",
+        "options": [
+            "Urinary creatinine (UCr)",
+            "Serum creatinine (SCr)",
+            "Glomerular filtration rate (e-GFR)",
+            "Creatinine clearance (CrCl)"
+        ],
+        "correctAnswer": "Serum creatinine (SCr)",
+        "section": "ENDO"
+    },
+    {
+        "question": "A currently acceptable surrogate marker of the glomerular filtration rate in acute kidney injury is:",
+        "options": [
+            "Serum potassium",
+            "Blood urea nitrogen",
+            "Albumin-to-creatinine ratio",
+            "Blood pressure"
+        ],
+        "correctAnswer": "Blood urea nitrogen",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following drugs will NOT appear in the dialysate of a patient with end-stage renal disease on intermittent hemodialysis 3 times weekly?",
+        "options": [
+            "Sulfamethoxazole-trimethoprim",
+            "Perindopril",
+            "Fentanyl",
+            "Rivaroxaban"
+        ],
+        "correctAnswer": "Fentanyl",
+        "section": "ENDO"
+    },
+    {
+        "question": "The most reliable marker used for the diagnosis and prognosis of chronic kidney disease is:",
+        "options": [
+            "Albumin-to-creatinine ratio (ACR)",
+            "Glomerular filtration rate (GFR)",
+            "Serum creatinine (SCr)",
+            "Urinary creatinine (UCr)"
+        ],
+        "correctAnswer": "Glomerular filtration rate (GFR)",
+        "section": "ENDO"
+    },
+    {
+        "question": "A medical resident orders levofloxacin 750 mg once daily as an empiric therapy for community-acquired pneumonia in a hospitalized diabetic patient with secondary renal complications after consulting the patient's chest X-ray. Which of the following parameters would be the most suitable to determine the appropriate dose of the antibacterial?",
+        "options": [
+            "Creatinine clearance",
+            "Serum creatinine",
+            "Albumin-to-creatinine ratio",
+            "Estimated glomerular filtration rate"
+        ],
+        "correctAnswer": "Creatinine clearance",
+        "section": "ENDO"
+    },
+    {
+        "question": "A.C. is a 57-year-old African-American man with a history of hypertension (3 years) and dyslipidemia (2 years), and benign prostatic hyperplasia (1 year). His medications include a bisoprolol 5mg/day, hydrochlorothiazide 25 mg/day, atorvastatin 20 mg/day, and tamsulosin 0.4 mg/day. On physical exam, no other abnormalities were detected. A.C. has no prior history of chronic kidney disease. Which of the following is NOT required for the routine medical evaluation of A.C.’s kidney disease?",
+        "options": [
+            "ACR",
+            "e-GFR",
+            "24-hour urine collection for protein",
+            "PCR"
+        ],
+        "correctAnswer": "24-hour urine collection for protein",
+        "section": "ENDO"
+    },
+    {
+        "question": "A.C.'s labs from this office visit also revealed an eGFR of 60 mL/min/1.73 m² and an albumin-to-creatinine ratio (ACR) of 5 mg/mmol (Normal < 2 mg/mmol). A.C's self-monitoring of blood pressure shows an average of 135/84 mm Hg. Which action should be pursued?",
+        "options": [
+            "To tell the patient that his kidney function is borderline but does not require frequent monitoring",
+            "To refer the patient to a nephrologist",
+            "To prescribe an ACE inhibitor or an angiotensin receptor blocker",
+            "To re-assess the e-GFR and the ACR in 3 months"
+        ],
+        "correctAnswer": "To re-assess the e-GFR and the ACR in 3 months",
+        "section": "ENDO"
+    },
+    {
+        "question": "Two months later, A.C. was admitted with chest pain. His electrocardiogram showed abnormal ST-segment changes in the anterior leads. He was diagnosed with non-ST elevation myocardial infarction, and he has just undergone coronary angioplasty and stenting. Today, he is initiated on ticagrelor (Brilinta) 180 mg loading dose, which is planned to continue as 90 mg twice daily for 1 year. A.C.’s vital signs reveal an average blood pressure of 162/89 mmHg, despite being prescribed bisoprolol and hydrochlorothiazide. A.C. also has an e-GFR of 52 mL/min/1.73 m² (down from 59 mL/min/1.73 m² 3 months ago) and an ACR of 15 mg/mmol (up from 8 mg/mmol 3 months ago). All other pertinent labs are within normal limits. Which possible adjustments should be first considered for A.C.’s treatment?",
+        "options": [
+            "Switch bisoprolol to perindopril 2 mg/day",
+            "Add perindopril 2 mg/day and aspirin 81 mg/day",
+            "Add perindopril 2 mg/day",
+            "Add perindopril 2 mg/day, aspirin 81 mg/day and increase atorvastatin dose to 80 mg/day"
+        ],
+        "correctAnswer": "Add perindopril 2 mg/day, aspirin 81 mg/day and increase atorvastatin dose to 80 mg/day",
+        "section": "ENDO"
+    },
+    {
+        "question": "Two weeks after implementing the clinically indicated adjustment(s) in A.C.’s care plan, his eGFR had decreased further by 20%. How should you proceed with A.C.’s care plan?",
+        "options": [
+            "Reduce perindopril dose to 1 mg/day and monitor eGFR",
+            "Hold off perindopril therapy and monitor eGFR",
+            "Switch perindopril to amlodipine 5 mg/day",
+            "Continue on perindopril 2 mg/day therapy and monitor eGFR"
+        ],
+        "correctAnswer": "Continue on perindopril 2 mg/day therapy and monitor eGFR",
+        "section": "ENDO"
+    },
+    {
+        "question": "M.E. is an elderly patient with hypertension, atrial fibrillation, and heart failure. His current medications include: perindopril, furosemide, carvedilol, spironolactone and warfarin. He has just endured his first attack of gout in the big toe, for which the doctor prescribed naproxen 500 mg BID for five days. Which of the following would represent the least concern to the pharmacist?",
+        "options": [
+            "A risk of bleeding.",
+            "A risk of acute kidney injury.",
+            "Monitoring the patient's systolic blood pressure, shortness of breath, and edema.",
+            "Monitoring serum urate levels, liver function and electrolytes."
+        ],
+        "correctAnswer": "Monitoring serum urate levels, liver function and electrolytes.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Monitoring of serum creatinine is warranted for all of the following drugs, EXCEPT:",
+        "options": [
+            "Risedronate.",
+            "Acitretin.",
+            "Metformin.",
+            "Trimethoprim."
+        ],
+        "correctAnswer": "Acitretin.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following drugs is the least likely to instigate changes in creatinine clearance?",
+        "options": [
+            "Carboplatin.",
+            "Diclofenac.",
+            "Pregabalin.",
+            "Candesartan."
+        ],
+        "correctAnswer": "Pregabalin.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Atype-2 diabetic patient has been scheduled for an emergency MRI angiography using iodinated contrast media. The patient is on metformin among other medications. Which of the following is NOT true regarding the use of contrast media in this patient?",
+        "options": [
+            "It is important to withhold metformin for 48 hours after the administration of the iodinated contrast media.",
+            "Metformin should be withheld 48 hours prior to the administration of iodinated contrast media.",
+            "Only iv. iodinated contrast media but not enteral forms pose a health hazard.",
+            "Diabetes increases the risk of contrast media-induced renal toxicity, even when serum creatinine is normal."
+        ],
+        "correctAnswer": "Metformin should be withheld 48 hours prior to the administration of iodinated contrast media.",
+        "section": "ENDO"
+    },
+    {
+        "question": "The risk posed by metformin in the aforementioned context is:",
+        "options": [
+            "A toxic blood level of the contrast medium.",
+            "Acute renal failure.",
+            "A possible risk of metabolic acidosis.",
+            "A toxic blood level of metformin."
+        ],
+        "correctAnswer": "A possible risk of metabolic acidosis.",
+        "section": "ENDO"
+    },
+    {
+        "question": "An appropriate commonly used prophylactic treatment for a patient with a prior acute reaction to contrast media who is scheduled for another medically necessary fluoroscopic iodinated contrast media imaging is:",
+        "options": [
+            "Prednisone and diphenhydramine.",
+            "Diphenhydramine and sodium bicarbonate.",
+            "Epinephrine and prednisone.",
+            "Prochlorperazine and epinephrine."
+        ],
+        "correctAnswer": "Prednisone and diphenhydramine.",
+        "section": "ENDO"
+    },
+    {
+        "question": "S.Mc. is a 58-year-old female patient who is on lithium and sodium valproate for bipolar affective disorder. Her current resting blood pressure is 154/91 mmHg with a resting heart rate of 78 bpm. Her recent labs show: urine albumin-to-creatinine ratio (ACR) 1.7, serum creatinine 124, GFR 74, K+ 4.7, HCO3 25.7, BUN 3.9, Ca 2.5, P 3.5, LDL 4.8, HDL 1.0, TG 3.1. The patient smokes 10-15 cigarettes/day and drinks a glass of wine with supper. She also drinks 2-3 cups of espresso in the morning. The patient loves salty food and pickles. Recently, S.Mc. complained to her psychiatrist of episodes of severe depression, and the psychiatrist is considering initiating citalopram. Furthermore, S.Mc.’s physician is considering the initiation of low-dose perindopril to get S.Mc.’s blood pressure under adequate control. Which of the following factors might potentially lead to lithium toxicity in S.Mc. the most?",
+        "options": [
+            "The patient's dietary habits.",
+            "The patient's kidney function.",
+            "Citalopram and perindopril initiation.",
+            "Current valproate therapy."
+        ],
+        "correctAnswer": "Citalopram and perindopril initiation.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is NOT true regarding the use of lithium in bipolar disorder?",
+        "options": [
+            "Nonsteroidal anti-inflammatory drugs (NSAIDs) cause a reversible increase in lithium blood levels in bipolar patients.",
+            "Lithium crosses the blood-brain barrier, has neuroprotective effects and is non-sedating.",
+            "Lithium-induced polyuria does not increase its renal clearance.",
+            "Low salt intake by bipolar patients reduces lithium reabsorption by the kidney tubules."
+        ],
+        "correctAnswer": "Lithium-induced polyuria does not increase its renal clearance.",
+        "section": "ENDO"
+    },
+    {
+        "question": "K.S. is a 62-year-old male who has just been diagnosed with unstable angina and he underwent angioplasty, and a bare-metal stent was inserted in his left anterior descending coronary artery that had an occlusion of 95%. He was started on ramipril (ALTACE™) 10 mg/day, aspirin 81 mg/day, ticagrelor 90 mg BID, bisoprolol 5 mg/day, and atorvastatin 80 mg/day. His latest serum potassium level was 5.1 mmol/L (Normal: 3.5 - 5.0 mmol/L). What is the most appropriate action to be taken by his physician?",
+        "options": [
+            "Stop the ACE inhibitor.",
+            "Administer oral calcium polystyrene sulfonate resin.",
+            "Continue the ACE inhibitor and reduce bananas, leafy greens, and meat.",
+            "No action is required at this time."
+        ],
+        "correctAnswer": "No action is required at this time.",
+        "section": "ENDO"
+    },
+    {
+        "question": "After an initial upward dose titration in a male patient with essential hypertension, perindopril 8 mg was mistakenly taken QID instead of QD. One month later, the error was discovered by the pharmacist who informed the family physician and referred the patient to seek prompt medical attention after inquiring about physical signs denoting overdose. Upon examination, the patient did not show any cardiac or metabolic abnormalities, but his/her potassium level was 5.8 mmol/L (Normal: 3.5 - 5.0 mmol/L). The most appropriate recommendation is:",
+        "options": [
+            "Stop perindopril until the serum potassium normalizes.",
+            "Add-on salbutamol inhaler until hitting a normal serum potassium.",
+            "Keep taking the blood pressure pills while avoiding potassium-rich diet.",
+            "No action is required at this time."
+        ],
+        "correctAnswer": "Stop perindopril until the serum potassium normalizes.",
+        "section": "ENDO"
+    },
+    {
+        "question": "M.H. is a chronic kidney disease male patient (stage G3b-A2) on ramipril (ALTACE™) 10 mg/day. His latest serum potassium level was 5.6 mmol/L (Normal: 3.5 - 5.0 mmol/L) with no apparent signs of cardiac arrhythmia, paresis, or muscle weakness on physical examination. M.H.’s history is noticeable for an acute coronary syndrome and a triple bypass surgery 1 year ago. What is the most appropriate action to be taken by his physician?",
+        "options": [
+            "Perform weekly ECGs, switch to ARB and reduce potassium input by controlling diet.",
+            "Continue on ramipril at the current dose, administer insulin with glucose, and monitor serum potassium closely.",
+            "Stop ramipril and implement dietary potassium restrictions.",
+            "Reduce ramipril dose and cut down on bananas, leafy greens, and meat."
+        ],
+        "correctAnswer": "Reduce ramipril dose and cut down on bananas, leafy greens, and meat.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following strategies is the most appropriate to treat hypoglycemia in a patient with chronic kidney disease and hyperkalemia?",
+        "options": [
+            "Drink 8 ounces of low-fat milk.",
+            "Drink ½ cup of cranberry juice.",
+            "Drink ½ cup of kiwi juice.",
+            "Drink ½ cup of orange juice."
+        ],
+        "correctAnswer": "Drink ½ cup of cranberry juice.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following treatments is most appropriate for a patient with mild hypokalemia (K: 3.2 mmol/L)?",
+        "options": [
+            "Amiloride.",
+            "Oral potassium chloride.",
+            "Intravenous potassium chloride.",
+            "Oral potassium bicarbonate."
+        ],
+        "correctAnswer": "Oral potassium chloride.",
+        "section": "ENDO"
+    },
+    {
+        "question": "A 62-year-old male was admitted to the hospital with hypovolemia. His body weight is 177 lbs and his height is 6'2”. His extracellular fluid deficit is estimated at 7 L. His blood pressure is 90/60 mmHg and his heart rate is 105 bpm. His serum sodium is 127 mmol/L (133 - 146 mmol/L). Which of the following is the most appropriate intervention?",
+        "options": [
+            "Albumin.",
+            "Oral rehydration.",
+            "Dextrose 5% infusion.",
+            "Normal saline infusion."
+        ],
+        "correctAnswer": "Normal saline infusion.",
+        "section": "ENDO"
+    },
+    {
+        "question": "The primary parameter to distinguish metabolic acidosis from metabolic alkalosis is:",
+        "options": [
+            "Anion gap.",
+            "Arterial pH.",
+            "Arterial CO2.",
+            "Venous HCO3."
+        ],
+        "correctAnswer": "Arterial pH.",
+        "section": "ENDO"
+    },
+    {
+        "question": "An 18-year-old woman was admitted to the hospital in a semicomatose state after an alleged fall at home. On examination she was hyperventilating and showed nonspecific signs suggestive of central nervous system pathology. Her plasma concentrations of urea, creatinine, potassium, sodium, and chloride were unremarkable, but her plasma anion gap was 23 mmol/L (Normal: 4-16 mmol/L) and plasma HCO3 was 12 mmol/L (Normal: 22-32 mmol/L). Further investigation revealed a salicylate concentration in plasma of 3.58 mmol/L (Reference range: 1.10 - 2.20 mmol/L) suggesting aspirin overdose. Her venous blood pH is 7.2. Which of the following acid-base disorder is true for this patient?",
+        "options": [
+            "Respiratory acidosis.",
+            "Metabolic acidosis.",
+            "Metabolic alkalosis.",
+            "Respiratory alkalosis."
+        ],
+        "correctAnswer": "Metabolic acidosis.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All the following factors can result in metabolic acidosis, EXCEPT:",
+        "options": [
+            "Acute nausea and vomiting.",
+            "Chronic diarrhea.",
+            "Isoniazid intoxication.",
+            "Acetazolamide overdose."
+        ],
+        "correctAnswer": "Acute nausea and vomiting.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following conditions might result in a metabolic acid-base imbalance with a normal anion gap?",
+        "options": [
+            "Diabetic ketoacidosis.",
+            "Binge drinking.",
+            "Renal insufficiency.",
+            "Lactic acidosis."
+        ],
+        "correctAnswer": "Renal insufficiency.",
+        "section": "ENDO"
+    },
+    {
+        "question": "E.H. is a 56-year-old female end-stage renal patient who is on maintenance hemodialysis (3 dialysis sessions per week). Lately, E.H. showed consistently mildly to moderately elevated levels of phosphorus in serum over the last month in spite of non-pharmacologic dietary phosphate restrictions. Knowing that E.H.’s serum calcium is normal, what is NOT a treatment option for E.H.?",
+        "options": [
+            "Lanthanum carbonate.",
+            "Sevelamer hydrochloride.",
+            "Calcium acetate.",
+            "Cinacalcet."
+        ],
+        "correctAnswer": "Cinacalcet.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following statements about cinacalcet (SENSIPAR) use in dialysis patients, such as E.H., is NOT true?",
+        "options": [
+            "The most common side effect associated with cinacalcet is hypocalcemia.",
+            "It needs to be taken with food.",
+            "It reduces parathyroid-induced bone turnover and phosphorus release.",
+            "Serum calcium needs to be monitored for patients on cinacalcet."
+        ],
+        "correctAnswer": "The most common side effect associated with cinacalcet is hypocalcemia.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following statements about the use and administration of sevelamer (RENAGEL) tablets in dialysis patients are true, EXCEPT that:",
+        "options": [
+            "The dose of sevelamer should be spaced by at least 2 hours from digoxin.",
+            "It is a nonabsorbable polymer which inhibits intestinal absorption of ingested phosphate.",
+            "The tablet should be taken either immediately before or along with meals.",
+            "The most common side effect associated with sevelamer is nausea."
+        ],
+        "correctAnswer": "The dose of sevelamer should be spaced by at least 2 hours from digoxin.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is the most important vitamin supplementation for E.H.?",
+        "options": [
+            "Vitamin B complex and folic acid.",
+            "Iron and minerals.",
+            "Vitamin A and vitamin K.",
+            "Vitamin D in the form of calcitriol."
+        ],
+        "correctAnswer": "Vitamin B complex and folic acid.",
+        "section": "ENDO"
+    },
+    {
+        "question": "If EH develops anemia and her hemoglobin levels were 92 g/L (Normal: 120 - 160 g/L for females) and her serum total iron binding capacity (TIBC) was 60 umol/L (Normal: 40 - 80 umol/L) with a saturation index of 0.35 (Normal: 0.15 - 0.50), EH’s serum ferritin is 320 ng/mL (Normal: 18-160 ng/mL), and her complete blood count shows a mean corpuscular volume (MCV) of 91 fL (Normal: 80-100 fL). Which of the following therapeutic interventions is an appropriate option for this patient?",
+        "options": [
+            "Folic acid.",
+            "Polysaccharide iron complex.",
+            "Darbepoetin.",
+            "Cyanocobalamin."
+        ],
+        "correctAnswer": "Darbepoetin.",
+        "section": "ENDO"
+    },
+
+    {
+        "question": "The correct intervention was implemented for E.H., and her hemoglobin reached 130 g/L. What is an appropriate measure to be taken now for this patient?",
+        "options": [
+            "The dose of the selected agent should be continued until the hemoglobin is stable for 3 months",
+            "The dose of the selected agent should be continued permanently regardless of hemoglobin levels",
+            "The dose of the selected agent should be increased until the hemoglobin increases to >140 g/L",
+            "The dose of the selected agent should be temporarily withheld until the hemoglobin decreases to <120 g/L"
+        ],
+        "correctAnswer": "The dose of the selected agent should be temporarily withheld until the hemoglobin decreases to <120 g/L",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following are possible causes of hypercalcemia, EXCEPT:",
+        "options": [
+            "Hypoparathyroidism.",
+            "Cancer.",
+            "Paget's disease.",
+            "Vitamin D toxicity."
+        ],
+        "correctAnswer": "Hypoparathyroidism.",
+        "section": "ENDO"
+    },
+    {
+        "question": "A late-stage male cancer patient is diagnosed with hypercalcemia. His serum ionized calcium is 1.45 mmol/L (Normal: 1.05 - 1.3 mmol/L) and his corrected serum calcium is 2.9 mmol/L (Normal: 2.1 - 2.6 mmol/L). All of the following are appropriate measures in order to correct the patient's calcium, EXCEPT:",
+        "options": [
+            "Let the patient drink lots of fluids.",
+            "Consider the discontinuation of hydrochlorothiazide.",
+            "Let the patient move around as much as possible.",
+            "Consider adding furosemide 20 mg/day."
+        ],
+        "correctAnswer": "Consider adding furosemide 20 mg/day.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following treatment modalities are options for malignancy-associated hypercalcemia, EXCEPT:",
+        "options": [
+            "Sodium phosphate PO.",
+            "Salmon calcitonin IM.",
+            "Clodronate IV.",
+            "Teriparatide SC."
+        ],
+        "correctAnswer": "Teriparatide SC.",
+        "section": "ENDO"
+    },
+    {
+        "question": "M.Z. is a 71-year-old female patient with late-stage kidney disease who is attending dialysis sessions twice weekly. M.Z.’s parathormone latest 2 labs show values of 51.2 and 62.7 pmol/L, respectively (Normal: 1.2 - 5.8 pmol/L). All of the following medications would be likely on M.Z.’s medication profile, EXCEPT:",
+        "options": [
+            "Dipotassium phosphate.",
+            "Cholecalciferol.",
+            "Calcium carbonate.",
+            "Cinacalcet."
+        ],
+        "correctAnswer": "Dipotassium phosphate.",
+        "section": "ENDO"
+    },
+    {
+        "question": "A recent lab work of a patient on amlodipine 5 mg/day and rosuvastatin 10 mg/day shows an elevated level of parathormone. What is the first laboratory test that should be ordered?",
+        "options": [
+            "Creatine kinase",
+            "Serum calcium",
+            "Total vitamin D levels",
+            "Serum albumin"
+        ],
+        "correctAnswer": "Serum calcium",
+        "section": "ENDO"
+    },
+    {
+        "question": "If the aforementioned initial test shows a normal laboratory value, what would be the very next laboratory work to be investigated?",
+        "options": [
+            "Serum calcium",
+            "Total vitamin D levels",
+            "Serum albumin",
+            "Creatine kinase"
+        ],
+        "correctAnswer": "Total vitamin D levels",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following statements is NOT true regarding Addison's disease?",
+        "options": [
+            "Primary disease is caused by an autoimmune disorder, whereas secondary disease is triggered by abrupt discontinuation of chronic corticosteroid therapy or by pituitary dysfunction.",
+            "It is a disease characterized by the hypofunction of the adrenal cortex and the cessation of its endocrine secretion.",
+            "Diagnostic findings include low plasma ACTH with low plasma cortisol.",
+            "Hallmarks of the disease are fatigue, hypotension, and hyperpigmentation."
+        ],
+        "correctAnswer": "Diagnostic findings include low plasma ACTH with low plasma cortisol.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following are suitable advice to a 52-year-old male patient with primary adrenal insufficiency who is on a daily dose of 30 mg hydrocortisone, EXCEPT:",
+        "options": [
+            "Take your pills in the morning.",
+            "Have plenty of table salt, especially in summer.",
+            "Adverse drug reactions are rare unless drug overdosing occurs.",
+            "The live-attenuated shingles vaccine is contraindicated."
+        ],
+        "correctAnswer": "The live-attenuated shingles vaccine is contraindicated.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following agents is used clinically for the diagnosis of Cushing's disease?",
+        "options": [
+            "Dexamethasone",
+            "Prednisone",
+            "Cosyntropin, a synthetic ACTH",
+            "Fludrocortisone"
+        ],
+        "correctAnswer": "Dexamethasone",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following manifestations could be associated with corticosteroid-induced Cushing's syndrome, EXCEPT:",
+        "options": [
+            "Easy bruising.",
+            "Low blood pressure.",
+            "Feminine hirsutism.",
+            "Puffy face."
+        ],
+        "correctAnswer": "Low blood pressure.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is a likely symptom to occur after an abrupt withdrawal of systemic prednisone 50 mg QD for 30 days?",
+        "options": [
+            "Edema",
+            "Bradycardia",
+            "Body aches",
+            "Polyphagia"
+        ],
+        "correctAnswer": "Body aches",
+        "section": "ENDO"
+    },
+    {
+        "question": "A 76-year-old female patient suffering from atrial fibrillation has been stable on warfarin for 2 years now. Her doctor wants to initiate her on levothyroxine due to symptomatic hypothyroidism with a TSH value of 12 microU/mL. What is the most appropriate recommendation?",
+        "options": [
+            "Switch warfarin to rivaroxaban, then initiate levothyroxine.",
+            "Switch warfarin to aspirin-dipyridamole, then initiate levothyroxine.",
+            "Start at a lower dose of levothyroxine and monitor prothrombin time.",
+            "Start at a full replacement dose of levothyroxine and monitor thyroid stimulating hormone."
+        ],
+        "correctAnswer": "Start at a lower dose of levothyroxine and monitor prothrombin time.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following are signs of levothyroxine overdose, EXCEPT:",
+        "options": [
+            "Diarrhea.",
+            "Increased appetite.",
+            "Weight loss.",
+            "Decreased pulse."
+        ],
+        "correctAnswer": "Decreased pulse.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following are signs of an overreplaced hypothyroidism, EXCEPT:",
+        "options": [
+            "Anxiety.",
+            "Sweating.",
+            "Xerosis.",
+            "Forgetfulness."
+        ],
+        "correctAnswer": "Xerosis.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following drugs or supplements can result in an increased TSH level for a senior female patient on thyroid replacement, due to a physical interaction, when concomitantly administered with levothyroxine, EXCEPT:",
+        "options": [
+            "Lithium.",
+            "Lanthanum carbonate.",
+            "Sevelamer.",
+            "Sucralfate."
+        ],
+        "correctAnswer": "Lithium.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following agents may interfere with circulating free T4 levels, EXCEPT:",
+        "options": [
+            "Calcium.",
+            "Raloxifene.",
+            "Phenytoin.",
+            "Dexamethasone."
+        ],
+        "correctAnswer": "Calcium.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following medications does NOT affect the thyroid gland hormone production and secretion?",
+        "options": [
+            "Prednisone.",
+            "Carbamazepine.",
+            "Amiodarone.",
+            "Ipodate."
+        ],
+        "correctAnswer": "Carbamazepine.",
+        "section": "ENDO"
+    },
+    {
+        "question": "A female patient who is on carbamazepine 100 mg BID for trigeminal neuralgia had started levothyroxine 0.075 mg 2 months ago and she became euthyroid (TSH < 4 microU/mL) after adjusting the dose to 0.125 mg. All of the following scenarios will necessitate further monitoring of TSH, EXCEPT:",
+        "options": [
+            "Patient was initiated on IM iron-dextran (INFUFER) for iron-deficiency anemia.",
+            "Patient became pregnant.",
+            "Patient was switched to carbamazepine 200 mg BID.",
+            "Patient was initiated on birth control pills."
+        ],
+        "correctAnswer": "Patient was initiated on IM iron-dextran (INFUFER) for iron-deficiency anemia.",
+        "section": "ENDO"
+    },
+    {
+        "question": "K.K. is a 65-year-old female patient with hypothyroidism, inflammatory bowel disease (ulcerative colitis), and is a mild-moderate cigarette smoker. Her current medication profile includes levothyroxine 0.075 mg/day, oral and topical 5-aminosalicylic acid (2 tablets 500 mg TID and rectal enema HS), prednisone 60 mg/day, and calcium/vitamin D, combination. Which of the following is NOT a required monitoring parameter in K.K.’s care plan?",
+        "options": [
+            "A.m. and p.m. serum cortisol.",
+            "Bone mineral density.",
+            "C-reactive protein.",
+            "TSH."
+        ],
+        "correctAnswer": "A.m. and p.m. serum cortisol.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following statements are true regarding the management and diagnosis of thyroid disorders, EXCEPT:",
+        "options": [
+            "Patients on one brand of levothyroxine sodium could be directly switched to another brand from a different manufacturer.",
+            "Hashimoto's thyroiditis is characterized by increased levels of antithyroid peroxidase and thyrotropin while decreased levels of thyroxine.",
+            "In secondary hypothyroidism, free thyroxine is a more reliable indicator than thyroid stimulating hormone to gauge levothyroxine replacement therapy.",
+            "In Graves’ disease, circulating autoantibodies cause the thyroid gland to over-function."
+        ],
+        "correctAnswer": "Patients on one brand of levothyroxine sodium could be directly switched to another brand from a different manufacturer.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is true regarding pharmacotherapeutic options in the course of correcting thyroid abnormalities?",
+        "options": [
+            "Propranolol inhibits the peripheral conversion of T4 into T3.",
+            "In Graves' disease during pregnancy, the drug of choice in the first trimester is methimazole.",
+            "The therapeutic goal is to achieve a 'normal' TSH between 0.5 and 2.0 mU/L in primary hypothyroidism.",
+            "There is a proven additional benefit to use liothyronine in the treatment of hypothyroidism."
+        ],
+        "correctAnswer": "The therapeutic goal is to achieve a 'normal' TSH between 0.5 and 2.0 mU/L in primary hypothyroidism.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following symptoms of hypothyroidism is expected to show the fastest improvement once thyroid replacement therapy has been initiated?",
+        "options": [
+            "Hair loss.",
+            "Constipation.",
+            "Hypercholesterolemia.",
+            "Weight gain."
+        ],
+        "correctAnswer": "Hair loss.",
+        "section": "ENDO"
+    },
+    {
+        "question": "In order to validate the clinical diagnosis of thyroid disease, which of the following laboratory tests is routinely ordered in clinical practice?",
+        "options": [
+            "Free T3.",
+            "Free T4.",
+            "Progressive TSH.",
+            "Total T4."
+        ],
+        "correctAnswer": "Progressive TSH.",
+        "section": "ENDO"
+    },
+    {
+        "question": "What is the minimum time frame to monitor for euthyroidism in a patient just started on thyroid replacement therapy?",
+        "options": [
+            "12 weeks.",
+            "8 weeks.",
+            "6 weeks.",
+            "4 weeks."
+        ],
+        "correctAnswer": "4 weeks.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following factors represent compelling evidence for population screening for hypothyroidism, EXCEPT:",
+        "options": [
+            "Bulimic patients with binge-eating behavior followed by self-induced purging.",
+            "Hyperthyroid patients administered radioactive iodine for therapy.",
+            "Psychiatric patients taking lithium carbonate.",
+            "Hypertensive patients with dyslipidemia."
+        ],
+        "correctAnswer": "Bulimic patients with binge-eating behavior followed by self-induced purging.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following are possible causes for goiter, EXCEPT:",
+        "options": [
+            "Hashimoto’s disease.",
+            "Subclinical hypothyroidism.",
+            "Iodine deficiency.",
+            "Grave's disease."
+        ],
+        "correctAnswer": "Subclinical hypothyroidism.",
+        "section": "ENDO"
+    },
+    {
+        "question": "PH is a 19-year-old female who presents for a regular visit to primary care. She complains of feeling sad and significant weight gain despite a decreased appetite for the last 5 months. When evaluated further, PH states that her skin has become dry, and she is losing more hair than usual. Which of the following physical exam findings would be expected in this patient?",
+        "options": [
+            "Hyperreflexia.",
+            "Depression.",
+            "Hepatomegaly.",
+            "Exophthalmos."
+        ],
+        "correctAnswer": "Depression.",
+        "section": "ENDO"
+    },
+    {
+        "question": "P.A. is a 63-year-old female who presented at the pharmacy complaining of fatigue and of putting some weight recently in spite of maintaining her usual exercise schedule and diet. What could be the most plausible explanation of P.A.’s current complaints?",
+        "options": [
+            "The patient is taking an incorrect dose of a medication/supplement.",
+            "A drug-disease interaction.",
+            "A drug-drug interaction.",
+            "The patient is taking a wrong medication/supplement."
+        ],
+        "correctAnswer": "The patient is taking an incorrect dose of a medication/supplement.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Sh.K. is a 38-year-old hypertensive, type-1 diabetic female patient. What is the correct advice by the pharmacist?",
+        "options": [
+            "Ask your doctor to switch to a more preferable combination of triiodothyronine and levothyroxine.",
+            "Ask your doctor to repeat the TSH test, as lab errors are common.",
+            "You are using too less medication for a valid clinical diagnosis.",
+            "You are using too much medication for a valid clinical diagnosis."
+        ],
+        "correctAnswer": "You are using too much medication for a valid clinical diagnosis.",
+        "section": "ENDO"
+    },
+    {
+        "question": "An elderly female patient is on levothyroxine 0.05 mg a.m. for age-related hypothyroidism. Which of the following medications on her profile might potentially interact the least with her levothyroxine?",
+        "options": [
+            "Trazodone.",
+            "Ferrous sulfate.",
+            "Hormone replacement therapy.",
+            "Aluminum-magnesium hydroxide."
+        ],
+        "correctAnswer": "Trazodone.",
+        "section": "ENDO"
+    },
+    {
+        "question": "L.M. is a 55-year-old patient who underwent total thyroidectomy for differentiated papillary thyroid carcinoma. Which of the following laboratory values are most consistent with her post-operative recovery period?",
+        "options": [
+            "Suppressed TSH and elevated calcium.",
+            "Normal TSH and elevated calcium.",
+            "Normal TSH and reduced calcium.",
+            "Elevated TSH and reduced calcium."
+        ],
+        "correctAnswer": "Elevated TSH and reduced calcium.",
+        "section": "ENDO"
+    },
+    {
+        "question": "B.B. is a 52-year-old patient who reports to the emergency room with confusion, sweating, fever, and heart palpitations. What is the most probable diagnosis?",
+        "options": [
+            "Grave's disease.",
+            "Hashimoto's Thyroiditis.",
+            "Thyroid storm.",
+            "Myxedema."
+        ],
+        "correctAnswer": "Thyroid storm.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following thyroid anomalies would be the most likely to show a significantly elevated level of serum TSH receptor antibodies?",
+        "options": [
+            "TSH-producing pituitary adenoma.",
+            "Grave's disease.",
+            "Hypothalamic disorder.",
+            "Hashimoto's disease."
+        ],
+        "correctAnswer": "Grave's disease.",
+        "section": "ENDO"
+    },
+    {
+        "question": "The following lab values are for a 62-year-old male who presents to his family physician with symptoms of daytime fatigue. What is the most likely diagnosis?",
+        "options": [
+            "Primary hypothyroidism.",
+            "Primary hyperthyroidism.",
+            "Secondary hyperthyroidism.",
+            "Secondary hypothyroidism."
+        ],
+        "correctAnswer": "Secondary hypothyroidism.",
+        "section": "ENDO"
+    },
+    {
+        "question": "The following lab values are for a 46-year-old female whose medical history is unremarkable except of mild hypertriglyceridemia. What is the most likely cause behind her thyroid lab values?",
+        "options": [
+            "Hashimoto’s thyroiditis.",
+            "Overt hypothyroidism.",
+            "Subclinical hyperthyroidism.",
+            "A lab error."
+        ],
+        "correctAnswer": "A lab error.",
+        "section": "ENDO"
+    },
+    {
+        "question": "The annual TSH test for a 48-year-old female patient on quetiapine and divalproex for treatment-refractory bipolar depression turns out to be 5.8 MU/L. What is your next step?",
+        "options": [
+            "Oral liothyronine.",
+            "Repeat test in 1 year.",
+            "Oral levothyroxine.",
+            "Order free T4."
+        ],
+        "correctAnswer": "Oral levothyroxine.",
+        "section": "ENDO"
+    },
+    {
+        "question": "In which of the following comorbid conditions would levothyroxine therapy be the least necessary in a patient with a TSH level of 5.9 mU/L?",
+        "options": [
+            "Heart failure.",
+            "Constipation.",
+            "TPO Ab-positive.",
+            "Dementia."
+        ],
+        "correctAnswer": "Constipation.",
+        "section": "ENDO"
+    },
+    {
+        "question": "A 65-year-old male patient presents to the hospital complaining of weight gain, fatigue, body swelling, and decreased appetite. What is the most appropriate action in this case?",
+        "options": [
+            "To start iron and vitamin B12 supplementation.",
+            "To modify the antitubercular therapy.",
+            "To increase levothyroxine dose.",
+            "To add liothyronine sodium."
+        ],
+        "correctAnswer": "To increase levothyroxine dose.",
+        "section": "ENDO"
+    },
+    {
+        "question": "A 67-year-old male presents with a complaint of muscle weakness that started 4 months ago. What is the most appropriate next step in the management of this patient?",
+        "options": [
+            "Oral vitamin B12 supplementation.",
+            "Oral folic acid supplementation.",
+            "Intramuscular vitamin B12 injections.",
+            "Intravenous folic acid injections."
+        ],
+        "correctAnswer": "Oral folic acid supplementation.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is a relatively consistent finding in patients with hemolytic anemia?",
+        "options": [
+            "Bradycardia.",
+            "Peripheral edema.",
+            "Scleral icterus.",
+            "Expiratory wheezing."
+        ],
+        "correctAnswer": "Scleral icterus.",
+        "section": "ENDO"
+    },
+    {
+        "question": "EG is a 44-year-old female who has just been transported by emergency medical services to the hospital emergency department. What is the likely culprit behind EG's presentation?",
+        "options": [
+            "Alcohol use disorder.",
+            "Congenital abnormality.",
+            "Hemolysis.",
+            "Clozapine side effects."
+        ],
+        "correctAnswer": "Alcohol use disorder.",
+        "section": "ENDO"
+    },
+    {
+        "question": "A 16-month-old girl is brought by her mother to see the primary care physician when her mother became concerned about her diet. Which of the following will be an appropriate laboratory test for this child after CBC and the peripheral blood smear?",
+        "options": [
+            "DNA testing for thalassemia.",
+            "Folic acid and vitamin B12 levels.",
+            "Thyroid stimulating hormone.",
+            "Serum ferritin."
+        ],
+        "correctAnswer": "Folic acid and vitamin B12 levels.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is also expected to be seen in this patient with dyspnea on exertion?",
+        "options": [
+            "Folic acid deficiency.",
+            "Iron deficiency anemia.",
+            "Vitamin B12 deficiency.",
+            "Vitamin C deficiency."
+        ],
+        "correctAnswer": "Iron deficiency anemia.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following laboratory tests can help distinguish between diabetes mellitus and diabetes insipidus?",
+        "options": [
+            "Ketone bodies in urine.",
+            "Increased urine osmolarity.",
+            "Reduced urine osmolarity.",
+            "Hyponatremia."
+        ],
+        "correctAnswer": "Reduced urine osmolarity.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is NOT true about congenital neurogenic diabetes insipidus?",
+        "options": [
+            "Patients should be monitored for dehydration and seizures.",
+            "Patients should be advised to use ample amounts of salt especially in summer.",
+            "Exogenous vasopressin is useful to treat this condition.",
+            "It is characterized by inappropriately dilute urine."
+        ],
+        "correctAnswer": "Patients should be advised to use ample amounts of salt especially in summer.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following is an appropriate advice for the parents of a child who has been diagnosed with central diabetes insipidus?",
+        "options": [
+            "Your child must eat food with sufficient amounts of table salt.",
+            "Your child must be trained to control the bladder to reduce urination.",
+            "Your child must avoid excessive fluid intake.",
+            "Your child must drink plenty of fluids."
+        ],
+        "correctAnswer": "Your child must drink plenty of fluids.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following are true regarding the syndrome of inappropriate antidiuretic hormone secretion (SIADH), EXCEPT:",
+        "options": [
+            "SIADH is the most frequent cause of hyponatremia in hospitalized patients.",
+            "Free access to water is the mainstay in the treatment of SIADH. Fluid restriction is the mainstay in the treatment of SIADH.",
+            "SIADH is characterized by inappropriately concentrated urine.",
+            "Antidepressants, antipsychotics, and anticonvulsants are drugs associated with SIADH."
+        ],
+        "correctAnswer": "Free access to water is the mainstay in the treatment of SIADH. Fluid restriction is the mainstay in the treatment of SIADH.",
+        "section": "ENDO"
+    },
+    {
+        "question": "HU, a 33-year-old Caucasian white man, was diagnosed with bipolar disorder 3 years ago. What is the most likely diagnosis related to HU’s recent symptoms?",
+        "options": [
+            "Syndrome of inappropriate antidiuretic hormone secretion.",
+            "Drug-induced diabetes insipidus.",
+            "Neurogenic diabetes insipidus.",
+            "New-onset diabetes mellitus."
+        ],
+        "correctAnswer": "Drug-induced diabetes insipidus.",
+        "section": "ENDO"
+    },
+    {
+        "question": "What is the most likely cause of HU’s insomnia?",
+        "options": [
+            "Quetiapine-induced nocturia.",
+            "Bipolar manic relapse.",
+            "Lithium-induced tremor.",
+            "Nephrogenic diabetes insipidus."
+        ],
+        "correctAnswer": "Nephrogenic diabetes insipidus.",
+        "section": "ENDO"
+    },
+    {
+        "question": "All of the following laboratory tests are recommended to be tested at baseline before starting lithium therapy for bipolar mania, EXCEPT:",
+        "options": [
+            "Thyroid stimulating hormone.",
+            "Alanine aminotransferase.",
+            "Serum electrolytes.",
+            "Serum creatinine."
+        ],
+        "correctAnswer": "Alanine aminotransferase.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following options is the least appropriate measure to manage HU’s complaints that are associated with his most recent presentation?",
+        "options": [
+            "Switch to once daily time-release lithium dosing.",
+            "Limit fluid intake.",
+            "Low sodium diet.",
+            "Reduce lithium dose."
+        ],
+        "correctAnswer": "Limit fluid intake.",
+        "section": "ENDO"
+    },
+    {
+        "question": "HU’s treating psychiatrist started him on amiloride. Which of the following is an appropriate clinical recommendation by the pharmacist?",
+        "options": [
+            "Suggest amlodipine instead of amiloride.",
+            "Increase lithium dose by 30%.",
+            "Keep lithium dose as is and monitor serum level more frequently.",
+            "Reduce lithium dose by 30%."
+        ],
+        "correctAnswer": "Keep lithium dose as is and monitor serum level more frequently.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Two weeks later, after developing a febrile illness and diarrhea, HU was admitted to the emergency room with signs and symptoms suggestive of lithium toxicity. What is the most appropriate initial line of management for HU?",
+        "options": [
+            "Whole bowel irrigation.",
+            "Monitor serum levels closely over the next 24 hours.",
+            "Intravenous saline.",
+            "Activated charcoal."
+        ],
+        "correctAnswer": "Intravenous saline.",
+        "section": "ENDO"
+    },
+    {
+        "question": "Which of the following drugs might be associated with weight gain, diuresis, and thirst as long-term adverse reactions?",
+        "options": [
+            "Olanzapine.",
+            "Naltrexone.",
+            "Trospium.",
+            "Lithium."
+        ],
+        "correctAnswer": "Lithium.",
+        "section": "ENDO"
+    }
+]
+
+
+

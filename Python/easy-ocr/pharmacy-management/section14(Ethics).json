@@ -1,0 +1,1169 @@
+[
+    {
+        "blockId": "1",
+        "questions":[{
+      "question": "Although an automatic software flag determines that methotrexate pills prescribed for a 42-year-old nulliparous female patient with severe wrist rheumatoid arthritis should be packed in a 'childproof' vial, the pharmacist on duty dispenses the medication in a 'snap cap' vial. Which of the following ethical norms is respected the most by the pharmacist on duty?",
+      "options": [
+        "Autonomy",
+        "Nonmaleficence",
+        "Loyalty",
+        "Beneficence"
+      ],
+      "correctAnswer": "Beneficence",
+      "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "2",
+        "questions":[{
+      "question": "Mr. L.M.'s pharmacist notices that he has been lately refilling his lorazepam 1 mg prescription 3-4 days earlier on several occasions. Worried, the pharmacist approaches Mr. L.M. who explains to the pharmacist that he has been lately having difficulty sleeping and has endured many stressful events this year. He also adds that he had already spoken with his doctor, who has authorized lorazepam 3 times a day to enable him to cope with the increased anxiety and panic attacks. The pharmacist phoned Mr. L.M.'s physician and received a new verbal order for lorazepam 1 mg TID. Mr. L.M. explains that he has been on lorazepam for a long time, and this medication does not impair his driving despite being a school bus driver. If the pharmacist opts to fill Mr. L.M.'s prescription, which of the following ethical principles would be upheld the most?",
+      "options": [
+        "Nonmaleficence",
+        "Autonomy",
+        "Veracity",
+        "Beneficence"
+      ],
+      "correctAnswer": "Beneficence",
+      "section": "Ethics"
+    },
+    {
+      "question": "In the previous scenario, if the pharmacist opts NOT to fill Mr. L.M.'s prescription, which of the following ethical principles would be upheld the most?",
+      "options": [
+        "Veracity",
+        "Autonomy",
+        "Beneficence",
+        "Nonmaleficence"
+      ],
+      "correctAnswer": "Nonmaleficence",
+      "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "3",
+        "questions":[{
+      "question": "A pharmacy client heard from colleagues at work that arginine and ginseng supplements can boost sexual function, and he visits the pharmacy to inquire from the pharmacist. The on-duty pharmacist tells the client that there is insufficient evidence to support the claimed indication for this supplement. The client accepts the pharmacist's recommendation and leaves without purchasing the supplement from the pharmacy store. In the previous scenario, the pharmacist upheld which of the following ethical norms the most?",
+      "options": [
+        "Veracity",
+        "Nonmaleficence",
+        "Beneficence",
+        "Loyalty"
+      ],
+      "correctAnswer": "Loyalty",
+      "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "4",
+        "questions":[{
+      "question": "A physician who is working in a family clinic that shares the facility with an onsite community pharmacy orders the clinical assistant to fax their patients' prescriptions regularly to the onsite pharmacy and to inform the patients that their prescriptions would be ready for pick up in 10 minutes. In this scenario, the physician contravenes which of the following ethical principles the most?",
+      "options": [
+        "Autonomy",
+        "Justice",
+        "Beneficence",
+        "Veracity"
+      ],
+      "correctAnswer": "Autonomy",
+      "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "5",
+        "questions":[{
+      "question": "Accompanied by his mother and his little sister, a child who is suffering 'flu-like' symptoms visits his pediatrician. The physician notices distinct bruises on the boy's torso. The mother explains they are from 'air cups', a traditional procedure to improve circulation and heal illnesses. The doctor touches the boy’s back with a stethoscope, causing him pain. If the pediatrician opts to call Child Protective Services to report the mother's behavior, which ethical principle is valued the most?",
+      "options": [
+        "Nonmaleficence",
+        "Autonomy",
+        "Beneficence",
+        "Justice"
+      ],
+      "correctAnswer": "Beneficence",
+      "section": "Ethics"
+    },
+    {
+      "question": "Accompanied by his mother and his little sister, a child who is suffering 'flu-like' symptoms visits his pediatrician. The physician notices distinct bruises on the boy's torso. The mother explains they are from 'air cups', a traditional procedure to improve circulation and heal illnesses. The doctor touches the boy’s back with a stethoscope, causing him pain. In the previous scenario, if the physician prescribes a medication for the child's cold and chooses not to discuss 'air cups' with the mother until further research, which of the following ethical principles is being valued the most?",
+      "options": [
+        "Loyalty",
+        "Nonmaleficence",
+        "Beneficence",
+        "Autonomy"
+      ],
+      "correctAnswer": "Autonomy",
+      "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "6",
+        "questions":[{
+      "question": "Your deliveryman informs you that when he last delivered the medication bubble packs of Ms. B.N., a patient with severe dementia residing in a long-term care facility, he noticed that the home nurse was pushing her and insulting her. Which of the following is the most ethical and professional action by the pharmacist?",
+      "options": [
+        "Do not intervene, as this might be a sporadic incident",
+        "Call Ms. B.N. and figure out the circumstances of the incident",
+        "Call the Seniors Safety Line and report the incident",
+        "Call the nurse and warn her privately about her behavior"
+      ],
+      "correctAnswer": "Call the Seniors Safety Line and report the incident",
+      "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "7",
+        "questions":[{
+      "question": "You are a senior pharmacist working in a busy drug store owned by a chain. Lately, you noticed that your colleague pharmacist does not seem to be doing well and that he is always late to work. Which of the following actions would conform the most to the ethical principle of a professional collaborative relationship in the workplace?",
+      "options": [
+        "To talk to your colleague and see what is wrong with him",
+        "To report your colleague's behavior to the regulatory authority",
+        "To report your colleague's behavior to the manager",
+        "To avoid discussing personal matters in the workplace"
+      ],
+      "correctAnswer": "To talk to your colleague and see what is wrong with him",
+      "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "8",
+        "questions":[{
+      "question": "W.E. is a 65-year-old type-2 diabetic male visiting his brother in British Columbia. He presented at the pharmacy with a U.S. prescription cosigned by a Canadian physician. W.E. tells the pharmacist that the physician did not perform a physical examination. If the pharmacist agrees to fill the prescription, which of the following ethical principles would be violated the most?",
+      "options": [
+        "Autonomy",
+        "Beneficence",
+        "Nonmaleficence",
+        "Veracity"
+      ],
+      "correctAnswer": "Beneficence",
+      "section": "Ethics"
+    }]
+    },  
+    
+    {
+        "blockId": "9",
+        "questions":[{
+        "question": "Due to extreme workload and distraction in a long-term care pharmacy, a pharmacist did not thoroughly compare the medication administration records against the best possible medication discharge list for a long-term care facility senior patient who is currently on multiple medications, which include warfarin, digoxin, potassium, levothyroxine, amitriptyline, quetiapine, valsartan, and vitamin D. Which of the following ethical principles the pharmacist is violating the most?",
+        "options": [
+        "Beneficence",
+        "Veracity",
+        "Nonmaleficence",
+        "Autonomy"
+        ],
+        "correctAnswer": "Nonmaleficence",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "10",
+        "questions":[{
+        "question": "L.M. is a 58-year-old female patient who has just been diagnosed with atrial fibrillation & anxiety and dropped a prescription earlier in the pharmacy, which she understood from her cardiologist that it is for warfarin 5 mg and escitalopram 10 mg. After picking up the medications, she notices the prescription labels carry: 'WARFARIN 10 MG' and 'ESCITALOPRAM 5 MG.' If the pharmacist ignores initiating a root cause analysis for the error, which ethical principle would be violated the most?",
+        "options": [
+        "Nonmaleficence",
+        "Veracity",
+        "Beneficence",
+        "Autonomy"
+        ],
+        "correctAnswer": "Nonmaleficence",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "11",
+        "questions":[{
+        "question": "M.M is a female community pharmacist who goes to grab a pack of insulin syringes to S.S, a male patient standing at the pharmacy counter but when the pharmacist chats with the client, she understands that S.S is not a diabetic, however the client explains that he urgently needs the syringes. When the pharmacist insists to know the reason behind the purchases the syringes or else, she will not be selling any, the client tells the pharmacist that he is a street opioid addict who is looking for clean needles to avoid sharing needles with his buddies. When the patient told the pharmacist the truth, she refused to sell any syringes in order to prevent the pateint from inflicting harm to himself. Which of the following best explains M.M.'s behavior?",
+        "options": [
+        "Conscientious objection",
+        "Paternalism",
+        "Justice",
+        "Veracity"
+        ],
+        "correctAnswer": "Paternalism",
+        "section": "Ethics"
+    },
+    {
+        "question": "M.M is a female community pharmacist who goes to grab a pack of insulin syringes to S.S, a male patient standing at the pharmacy counter but when the pharmacist chats with the client, she understands that S.S is not a diabetic, however the client explains that he urgently needs the syringes. When the pharmacist insists to know the reason behind the purchases the syringes or else, she will not be selling any, the client tells the pharmacist that he is a street opioid addict who is looking for clean needles to avoid sharing needles with his buddies. When the patient told the pharmacist the truth, she refused to sell any syringes in order to prevent the pateint from inflicting harm to himself.N.N., a colleague of M.M., disagrees with her decision and states that selling sterile syringes minimizes HIV risk, a greater public health danger. Which ethical principle is N.N. advocating the most?",
+        "options": [
+        "Beneficence",
+        "Autonomy",
+        "Nonmaleficence",
+        "Integrity"
+        ],
+        "correctAnswer": "Nonmaleficence",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "12",
+        "questions":[{
+        "question": "A male pharmacist refuses to dispense abortive pills due to personal beliefs but refers the patient to another pharmacy that offers the service. Which ethical approach is the pharmacist following?",
+        "options": [
+        "Beneficence",
+        "Moral compromise",
+        "Justice",
+        "Professionalism"
+        ],
+        "correctAnswer": "Moral compromise",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "13",
+        "questions":[{
+        "question": "An oncologist does not disclose the terminal nature of a patient’s pancreatic cancer diagnosis to minimize psychological harm. What ethical norm is being upheld the most?",
+        "options": [
+        "Nonmaleficence",
+        "Paternalism",
+        "Loyalty",
+        "Beneficence"
+        ],
+        "correctAnswer": "Nonmaleficence",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "14",
+        "questions":[{
+        "question": "A resident physician cancels a nurse’s prescription of morphine for a patient with a history of substance abuse, replacing it with ketorolac for pain. Which ethical principle is violated?",
+        "options": [
+        "Autonomy",
+        "Justice",
+        "Beneficence",
+        "Loyalty"
+        ],
+        "correctAnswer": "Beneficence",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "15",
+        "questions":[{
+        "question": "When a pharmacist accurately, respectfully, and fairly fulfills duties towards all patients in a pharmacy, which ethical principle is being upheld the most?",
+        "options": [
+        "Loyalty",
+        "Justice",
+        "Autonomy",
+        "Beneficence"
+        ],
+        "correctAnswer": "Loyalty",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "16",
+        "questions":[{
+        "question": "When a pharmacist acts consistently with moral values and the guidelines of the profession while abiding by the Code of Ethics, the pharmacist is said to be acting with:",
+        "options": [
+        "Respect",
+        "Veracity",
+        "Public awareness",
+        "Professional integrity"
+        ],
+        "correctAnswer": "Professional integrity",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "17",
+        "questions":[{
+        "question": "A hospital pharmacist has been offered the registration fees and a travel award to attend an industry-sponsored seminar. Which of the following questions is least relevant to the pharmacist’s self-assessment about attending?",
+        "options": [
+        "Is the data presented unbiased?",
+        "Is the convention held at a luxurious resort?",
+        "Are the speakers disclosing compensations by the sponsor?",
+        "Are the studies describing the novel therapies scientifically sound?"
+        ],
+        "correctAnswer": "Is the convention held at a luxurious resort?",
+        "section": "Ethics"
+    },      
+        
+    {
+        "question": "A hospital pharmacist has been offered the registration fees and a travel award to attend an industry-sponsored seminar. If the hospital pharmacist were aware that some of the novel therapies, which will be highlighted in the educational seminar, are with ambiguous results and s/he, however, accepted to attend the event, which of the following ethical norms which relates to his/her patients would be initially contravened the most in that case?",
+        "options": [
+        "Benevolence",
+        "Veracity",
+        "Loyalty",
+        "Nonmaleficence"
+        ],
+        "correctAnswer": "Loyalty",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "18",
+        "questions":[{
+        "question": "A pharmacist works as a consultant for drug stock purchase in a specialty pharmacy serving a nursing home chain. He has just received a deal offer for a generic substitute from a wholesaler that will increase the profit margin of stakeholders and will better situate the pharmacy where the pharmacist works to provide medications for two other large homes. Furthermore, the current opportunity is likely to advance the pharmacist's career and enhance the chances of being promoted to a managerial position. However, this will result in a 15% increase in cost burden on the patients' side. Should the pharmacist accept the deal, which of the following ethical principles would be valued the least?",
+        "options": [
+        "Beneficence",
+        "Veracity",
+        "Loyalty",
+        "Justice"
+        ],
+        "correctAnswer": "Loyalty",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "19",
+        "questions":[{
+        "question": "If a physician asks the pharmacist to compound a physically identical placebo for a female patient with anxiety and sleep disorders instead of her alprazolam to wean her off the benzodiazepine, which of the following would best describe the physician's behavior?",
+        "options": [
+        "A strong beneficent paternalism",
+        "Egoism",
+        "A weak beneficent paternalism",
+        "Nonmaleficence which aligns with an implied consent from the patient"
+        ],
+        "correctAnswer": "A strong beneficent paternalism",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "20",
+        "questions":[{
+        "question": "A pharmacist becomes aware of a colleague who is addicted to alcohol and who suffers occasional blackouts and hand tremors during pharmacy shifts. If the pharmacist reports the incompetent colleague to the regulatory authority, which of the following ethical obligations would be maintained the most?",
+        "options": [
+        "Veracity",
+        "Beneficence",
+        "Nonmaleficence",
+        "Fidelity"
+        ],
+        "correctAnswer": "Fidelity",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "21",
+        "questions":[{
+        "question": "A 37-year-old migrant worker developed severe mitral stenosis and heart failure but was discharged from the hospital without being fully informed about his condition. Which ethical norm did the attending physician who first examined him violate the most?",
+        "options": [
+        "Justice",
+        "Nonmaleficence",
+        "Beneficence",
+        "Autonomy"
+        ],
+        "correctAnswer": "Autonomy",
+        "section": "Ethics"
+    },
+    {
+        "question": "A 37-year-old migrant worker developed severe mitral stenosis and heart failure but was discharged from the hospital without being fully informed about his condition. In the aforementioned scenario, the healthcare system is faced with an ethical dilemma with respect to the provision of uncompensated care to the migrant worker. Which pair of ethical norms best describes this dilemma?",
+        "options": [
+        "Beneficence and justice",
+        "Autonomy and beneficence",
+        "Autonomy and justice",
+        "Nonmaleficence and fidelity"
+        ],
+        "correctAnswer": "Beneficence and justice",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "22",
+        "questions":[{
+        "question": "During an influenza pandemic, a hospital's ethics committee decides to give priority in allocating ventilators to less ill patients to maximize benefit. Which ethical decision was made by the hospital's ethics committee?",
+        "options": [
+        "Autonomy",
+        "Justice",
+        "Nonmaleficence",
+        "Utility"
+        ],
+        "correctAnswer": "Utility",
+        "section": "Ethics"
+    },
+    {
+        "question": "During an influenza pandemic, a hospital's ethics committee decides to give priority in allocating ventilators to less ill patients to maximize benefit. If, in the previous case, other members of the hospital's ethics committee advocate the use of ventilators for patients with the greatest need irrespective of whether they have influenza, which ethical principle is upheld by the opposing members?",
+        "options": [
+        "Utility",
+        "Justice",
+        "Autonomy",
+        "Nonmaleficence"
+        ],
+        "correctAnswer": "Justice",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "23",
+        "questions":[{
+        "question": "When a pharmacist escorts a confused patient to a private counseling area and informs them about different treatment options so they can make a rational decision, which ethical principle is valued the most?",
+        "options": [
+        "The patient's nonmaleficence",
+        "The patient's beneficence",
+        "The patient's autonomy",
+        "The patient's confidentiality"
+        ],
+        "correctAnswer": "The patient's autonomy",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "24",
+        "questions":[{
+        "question": "A family physician hands a prescription to a patient without explaining the purpose of the medication. Which ethical norm was NOT deliberated in this behavior?",
+        "options": [
+        "Autonomy",
+        "Beneficence",
+        "Fidelity",
+        "Veracity"
+        ],
+        "correctAnswer": "Autonomy",
+        "section": "Ethics"
+    }]
+    },
+            
+    {
+        "blockId": "25",
+        "questions":[{
+        "question": "A senior male patient refuses to take an oral antihypertensive medication because of its impact on his sex life, and consequently, his health has been deteriorating. The family physician advises the pharmacist to tell the patient that the blood pressure pills are vitamin supplements to encourage adherence. If the pharmacist chooses NOT to follow the physician's advice, which ethical norm is upheld the most?",
+        "options": [
+        "Paternalism",
+        "Veracity",
+        "Autonomy",
+        "Nonmaleficence"
+        ],
+        "correctAnswer": "Autonomy",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "26",
+        "questions":[{
+        "question": "An agitated male client rushed into the pharmacy and seemed profoundly anxious. He told the pharmacist that he has strange thoughts and is likely to harm himself. He asks for advice about whether or not to be hospitalized. If the pharmacist urges the client to the ER, which best describes the pharmacist's action?",
+        "options": [
+        "The pharmacist should not be considered paternalistic because directing his client to take an action does not count as coercion.",
+        "The pharmacist behavior would count as paternalistic because he is strongly directing the patient to consent to hospitalization.",
+        "The pharmacist has been behaving paternalistically because he violated a moral ideal by coercing his client to the hospital.",
+        "The pharmacist acted paternalistically because he did not get the patient's consent."
+        ],
+        "correctAnswer": "The pharmacist should not be considered paternalistic because directing his client to take an action does not count as coercion.",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "27",
+        "questions":[{
+        "question": "A 67-year-old female customer prefers 'snap cap' medication containers, but the pharmacist insisted on using a child-proof container when he knew she was babysitting her 2-year-old granddaughter. Which ethical norms indicate the most an ethical dilemma faced by the pharmacist?",
+        "options": [
+        "Beneficence and autonomy",
+        "Justice and paternalism",
+        "Paternalism and nonmaleficence",
+        "Autonomy and nonmaleficence"
+        ],
+        "correctAnswer": "Autonomy and nonmaleficence",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "28",
+        "questions":[{
+        "question": "A worried father inquires if any 'ladies hormones' have been added to his son's record of care. What ethical dilemma is faced by the pharmacist?",
+        "options": [
+        "Beneficence and autonomy",
+        "Veracity and autonomy",
+        "Veracity and fidelity",
+        "Autonomy and confidentiality"
+        ],
+        "correctAnswer": "Veracity and autonomy",
+        "section": "Ethics"
+        }]
+    },
+    {
+        "blockId": "29",
+        "questions":[{
+        "question": "The girlfriend of a 22-year-old HIV seropositive male asks the pharmacist if her boyfriend is on HIV medications. What is the most beneficent response by the pharmacist?",
+        "options": [
+        "Tell her to ask her boyfriend's physician.",
+        "Tell her to use condoms before any sex act.",
+        "Tell her to ask her friend before making love.",
+        "Tell her that you cannot disclose your patient's records."
+        ],
+        "correctAnswer": "Tell her to ask her friend before making love.",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "30",
+        "questions":[{
+        "question": "A pharmacist perceives that a schizophrenic patient would refuse medication due to side effects and does not disclose 'dystonia' to boost compliance. What two ethical principles constitute an ethical dilemma in this scenario?",
+        "options": [
+        "Autonomy vs. beneficence",
+        "Nonmaleficence vs. paternalism",
+        "Veracity vs. nonmaleficence",
+        "Beneficence vs. veracity"
+        ],
+        "correctAnswer": "Autonomy vs. beneficence",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "31",
+        "questions":[{
+        "question": "K.K. is a 67-year-old female with poorly controlled diabetes due to healthcare costs. She complains of dizziness and claims her right to insulin on the premise of universal healthcare. What is the ethical controversy the pharmacist faces?",
+        "options": [
+        "Justice versus advocacy",
+        "Autonomy versus beneficence",
+        "Equity versus nonmaleficence",
+        "Universality versus veracity"
+        ],
+        "correctAnswer": "Justice versus advocacy",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "32",
+        "questions":[{
+        "question": "A pharmacist refuses to counsel a gay AIDS patient on the side effects of antiretroviral therapy because of personal beliefs. What ethical norm does the pharmacist violate the most?",
+        "options": [
+        "Autonomy",
+        "Respect for persons",
+        "Nonmaleficence",
+        "Veracity"
+        ],
+        "correctAnswer": "Respect for persons",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "33",
+        "questions":[{
+        "question": "A hospital resident does not accommodate a patient's request for antibiotics and attempts to educate her on the differential diagnosis between viral and bacterial pharyngitis. What ethical norm did the resident uphold the most?",
+        "options": [
+        "Stewardship of health resources",
+        "Acting honestly without deception",
+        "Committing to professional integrity",
+        "Involving the patient in the decision-making process"
+        ],
+        "correctAnswer": "Stewardship of health resources",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "34",
+        "questions":[{
+        "question": "Which pharmacist is upholding loyalty as a professional ethical principle in their job?",
+        "options": [
+        "A pharmacist who works on standardizing medication strengths in each hospital ward.",
+        "A pharmacist who takes 45 minutes to explain home care procedures to a mother.",
+        "A pharmacist who researches alternatives for a medication in short supply to contain expenses.",
+        "A pharmacist who spends after hours fulfilling patients' needs despite having back pain."
+        ],
+        "correctAnswer": "A pharmacist who spends after hours fulfilling patients' needs despite having back pain.",
+        "section": "Ethics"
+    }]
+    },
+                
+    {
+        "blockId": "35",
+        "questions":[{
+        "question": "A pharmacist intern notices that the pharmacist preceptor is overbilling clinical services. What is the ethical principle violated the most?",
+        "options": [
+        "Veracity",
+        "Beneficence",
+        "Justice",
+        "Autonomy"
+        ],
+        "correctAnswer": "Veracity",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "36",
+        "questions":[{
+        "question": "A pharmacist preceptor posted on his Facebook page sexually explicit comments that contained sexual innuendos about a supervised pharmacy student who felt extremely intimidated and considered the post as a sexual harassment. From the pharmacy professional responsibilities and code of ethics, what was primarily violated?",
+        "options": [
+        "The principle of public accountability",
+        "The respect of other pharmacy students and interns",
+        "The personal integrity",
+        "The duties of the preceptor"
+        ],
+        "correctAnswer": "The principle of public accountability",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "37",
+        "questions":[{
+        "question": "A pharmacist posted a sexually explicit video with a colleague on social media. What did the pharmacist's posting primarily violate?",
+        "options": [
+        "Their duties as healthcare professionals",
+        "Their respect to other colleagues",
+        "Their professional integrity",
+        "Their fiduciary obligation"
+        ],
+        "correctAnswer": "Their fiduciary obligation",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "38",
+        "questions":[{
+        "question": "A 46-year-old diabetic female patient invites her 28-year-old pharmacist for coffee during his lunch break because he was extremely caring and helped her sort out her medications and insulin use. If the pharmacist accepts the invitation, which ethical concern would emerge the most?",
+        "options": [
+        "Injustice",
+        "Boundary crossing",
+        "Lack of accountability",
+        "Professional misconduct"
+        ],
+        "correctAnswer": "Boundary crossing",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "39",
+        "questions":[{
+        "question": "A pharmacist accepts a theatre ticket along with a thank you note from a male patient diagnosed with severe anxiety and depression as a sign of appreciation for her care. What ethical issue is created the most?",
+        "options": [
+        "Dismissiveness",
+        "Overinvolvement",
+        "Professional misconduct",
+        "An actual conflict of interest"
+        ],
+        "correctAnswer": "An actual conflict of interest",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "40",
+        "questions":[{
+        "question": "A female pharmacist accepts a thank you note and a bouquet of flowers from a male patient diagnosed with severe anxiety and depression because she took the time to assess his medications and was sensitive. What ethical principle is violated the most?",
+        "options": [
+        "Professional scope",
+        "Loyalty",
+        "Distributive justice",
+        "Professional boundaries"
+        ],
+        "correctAnswer": "Professional boundaries",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "41",
+        "questions":[{
+        "question": "During a flu pandemic, a female patient who attends a mass immunization clinic seems reluctant to receive the flu shot because of phobic fears and concerns about adverse reactions. However, she does not want to harm others in society. What is the ethical dilemma she faces?",
+        "options": [
+        "Autonomy and justice",
+        "Autonomy and loyalty",
+        "Autonomy and solidarity",
+        "Beneficence and equity"
+        ],
+        "correctAnswer": "Autonomy and solidarity",
+        "section": "Ethics"
+    },
+    {
+        "question": "During a flu pandemic, a female patient who attends a mass immunization clinic seems reluctant to receive the flu shot because of phobic fears and concerns about adverse reactions. However, she does not want to harm others in society. In the case of the flu pandemic, the nurse continues her job despite exposure to a fatal health hazard. The nurse is acting principally:",
+        "options": [
+        "Loyally",
+        "Selflessly",
+        "Professionally",
+        "Fairly"
+        ],
+        "correctAnswer": "Loyally",
+        "section": "Ethics"
+    },
+    {
+        "question": "During a flu pandemic, a female patient who attends a mass immunization clinic seems reluctant to receive the flu shot because of phobic fears and concerns about adverse reactions. However, she does not want to harm others in society. The pandemic vaccine produced contains a whole-cell product, which could increase reactions. However, given the urgency, the vaccine was authorized for sale with limited safety data. What ethical principle is primarily upheld by the health authority?",
+        "options": [
+        "Nonmaleficence",
+        "Utility",
+        "Justice",
+        "Benevolence"
+        ],
+        "correctAnswer": "Utility",
+        "section": "Ethics"
+    },
+    {
+        "question": "During a flu pandemic, a female patient who attends a mass immunization clinic seems reluctant to receive the flu shot because of phobic fears and concerns about adverse reactions. However, she does not want to harm others in society. The pandemic vaccine produced contains a whole-cell product, which could increase reactions. However, given the urgency, the vaccine was authorized for sale with limited safety data. What ethical principle might be violated the most?",
+        "options": [
+        "Justice",
+        "Beneficence",
+        "Discrimination",
+        "Autonomy"
+        ],
+        "correctAnswer": "Justice",
+        "section": "Ethics"
+    }]
+    },
+                    
+    {
+        "blockId": "42",
+        "questions":[{
+        "question": "After a thorough review process by regulatory authorities, drug 'T' has been granted market authorization in Canada, but it was subsequently denied initial listing on public drug benefit programs based on recommendations by the CDR- CADTH. The aforementioned decision regarding drug 'T' is ethically supported the most by:",
+        "options": [
+        "Social justice",
+        "Maintaining professional integrity",
+        "Avoiding harm to the general public",
+        "Protecting the public interest"
+        ],
+        "correctAnswer": "Protecting the public interest",
+        "section": "Ethics"
+    },
+    {
+        "question": "After a thorough review process by regulatory authorities, drug 'T' has been granted market authorization in Canada, but it was subsequently denied initial listing on public drug benefit programs based on recommendations by the CDR- CADTH. After being marketed for 2 years, drug 'T' was withdrawn from the Canadian market based on a regulatory action by Health Canada because of a potentially serious cardiovascular side effect. The aforementioned decision regarding drug 'T' is ethically supported the most by the principle of:",
+        "options": [
+        "Maintaining professional integrity",
+        "Avoiding harm to the general public",
+        "Social justice",
+        "Protecting the public interest"
+        ],
+        "correctAnswer": "Avoiding harm to the general public",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "43",
+        "questions":[{
+        "question": "A dermatologist prescribes colchicine for gout prophylaxis to a male patient who was suffering from recurrent gout attacks. The dermatologist sees the patient on a regular basis and provides care for his severe body psoriasis. What is ethically violated the most by the dermatologist's actions?",
+        "options": [
+        "Professional scope",
+        "Professional boundaries",
+        "Beneficence",
+        "Nonmaleficence"
+        ],
+        "correctAnswer": "Professional scope",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "44",
+        "questions":[{
+        "question": "The director of the pharmacy and therapeutics committee (P&TC) in a local hospital is assessing a proposal to add a new anticancer antibiotic to the existing formulary. Hospital oncologists have been very enthusiastic to include the new molecule, which has been demonstrated to significantly decrease mortality in cancer patients; however, this implies consuming 15% of the annual budget. What is the most appropriate action that the director could implement to guarantee the most humane allocation of resources?",
+        "options": [
+        "To reject the addition of the potentially useful anticancer antibiotic while providing proper information to affected patients and physicians",
+        "To allow patient access through private payment programs administered by the hospital",
+        "To add the new drug to the formulary while deleting other medications to balance the budget",
+        "To postpone the decision and suggest a reassessment of the new drug followed by a vote of P&TC members and stakeholders"
+        ],
+        "correctAnswer": "To postpone the decision and suggest a reassessment of the new drug followed by a vote of P&TC members and stakeholders",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "45",
+        "questions":[{
+        "question": "M.K. is a female pharmacist who was commanded by receipt of a subpoena to disclose medication records of a client accused of embezzling money from a firm. The client, a resident of the same community, asked her to refuse to testify. Which of the following is true about M.K.'s situation?",
+        "options": [
+        "The court order is legally enforceable, but M.K. has the right to refuse to testify.",
+        "The patient's right of privacy is not constitutionally protected.",
+        "What could be illegal may be ethically permissible.",
+        "G.B.'s physician does not have a privilege to refuse to testify."
+        ],
+        "correctAnswer": "What could be illegal may be ethically permissible",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "46",
+        "questions":[{
+        "question": "K.Ch. is a frequent male customer of a community pharmacy who presents a prescription for hydromorphone for trigeminal neuralgia. The pharmacist is concerned about the addictive potential of hydromorphone. What is the least appropriate action the pharmacist can take in this situation?",
+        "options": [
+        "To withhold filling the prescription and discuss less addictive options",
+        "To explain to the patient that analgesics make the pain 'bearable,' not eliminate it",
+        "To call the physician and inquire about the patient's therapy",
+        "To apologize and transfer the prescription to another pharmacy"
+        ],
+        "correctAnswer": "To apologize and transfer the prescription to another pharmacy",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "47",
+        "questions":[{
+        "question": "An elderly patient diagnosed with moderate depressive illness wants to stop venlafaxine because of its suicide risk according to the black box label. What is the most appropriate advice given by the pharmacist?",
+        "options": [
+        "The consequence of a depressed mood is worse than the potential risk of suicide.",
+        "The risk is not relevant to your age, and reactions vary between individuals.",
+        "Consider trying an alternative herbal product without the black box warning.",
+        "Your primary care physician knows what is best."
+        ],
+        "correctAnswer": "The consequence of a depressed mood is worse than the potential risk of suicide",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "48",
+        "questions":[{
+        "question": "Randomized clinical trials conducted for new medications using children pose an ethical concern primarily related to:",
+        "options": [
+        "Justice",
+        "Autonomy",
+        "Nonmaleficence",
+        "Beneficence"
+        ],
+        "correctAnswer": "Autonomy",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "49",
+        "questions":[{
+        "question": "Compared to placebo-controlled superiority clinical trials, noninferiority trials uphold more evidently the ethical norms of:",
+        "options": [
+        "Nonmaleficence and justice",
+        "Beneficence and justice",
+        "Beneficence and autonomy",
+        "Nonmaleficence and autonomy"
+        ],
+        "correctAnswer": "Nonmaleficence and justice",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "50",
+        "questions":[{
+        "question": "In placebo-controlled clinical trials, the ethical norm that might be violated the most is:",
+        "options": [
+        "Beneficence",
+        "Autonomy",
+        "Veracity",
+        "Nonmaleficence"
+        ],
+        "correctAnswer": "Veracity",
+        "section": "Ethics"
+    }]
+    },
+    
+    
+    {
+        "blockId": "51",
+        "questions":[{
+        "question": "Payment made by research investigators to clinical trial subjects may interfere the most with the following ethical consideration:",
+        "options": [
+        "Veracity",
+        "Nonmaleficence",
+        "Voluntary participation",
+        "Conflict of interest"
+        ],
+        "correctAnswer": "Voluntary participation",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "52",
+        "questions":[{
+        "question": "If remuneration is to be made to human research participants in clinical trials as recruitment incentives or as compensations for their time and inconvenience, which of the following methods would be the most ethically sound?",
+        "options": [
+        "Expensive commercial items containing the sponsor's official name and logo",
+        "Parking gift cards, meal allowances and appreciation tokens",
+        "Lump sum checks contingent on completing the trial",
+        "Face-to-face cash payment"
+        ],
+        "correctAnswer": "Parking gift cards, meal allowances and appreciation tokens",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "53",
+        "questions":[{
+        "question": "If an investigator were to tell a prospective subject that s/he would lose access to needed health services if s/he does not participate in a research study, which of the following actions would be exerted by this investigator?",
+        "options": [
+        "Coercion",
+        "Inducement",
+        "Undue influence",
+        "Paternalism"
+        ],
+        "correctAnswer": "Coercion",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "54",
+        "questions":[{
+        "question": "If an investigator were to promise his/her university students extra credit if they participate in a research protocol with no other comparable non-research alternatives for earning this extra credit, which of the following impacts is exerted on possible subjects?",
+        "options": [
+        "Coercion",
+        "Paternalism",
+        "Undue inducement",
+        "Research misconduct"
+        ],
+        "correctAnswer": "Undue inducement",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "55",
+        "questions":[{
+        "question": "A.L is a principal investigator who is leading a randomized clinical trial for a new promising anticancer for refractory neuroblastoma. However, the clinician is a bit reluctant to disclose that the medication being investigated can cause a potential prolonged nausea and vomiting, a side effect usually described with such medications, because he is concerned about the number of volunteers who will be enrolling in the study. If the investigator chooses not to disclose the medication side effect in order to promote the power of the study based on the balancing benefit and harm in the studied cohort, which of the following ethical principles he is advocating the most?",
+        "options": [
+        "Justice",
+        "Nonmaleficence",
+        "Utility",
+        "Autonomy"
+        ],
+        "correctAnswer": "Utility",
+        "section": "Ethics"
+    },
+    {
+        "question": "A.L is a principal investigator who is leading a randomized clinical trial for a new promising anticancer for refractory neuroblastoma. However, the clinician is a bit reluctant to disclose that the medication being investigated can cause a potential prolonged nausea and vomiting, a side effect usually described with such medications, because he is concerned about the number of volunteers who will be enrolling in the study. If the investigator chooses not to disclose the medication side effect in order to promote the power of the study based on balancing benefit and harm in the studied cohort. In the previous case, if the investigator avoided the disclosure of the bothersome side effect in order to receive the participants' consents, which of the following ethical principles relating to the volunteers' rights will be violated the most?",
+        "options": [
+        "Nonmaleficence",
+        "Justice",
+        "Veracity",
+        "Autonomy"
+        ],
+        "correctAnswer": "Veracity",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "56",
+        "questions":[{
+        "question": "ER is a 57 year old woman who was first diagnosed with breast cancer 9 years ago. At that time, she had a mastectomy, chemotherapy, and radiation. six months ago, ER began experiencing extreme nausea, loss of appetite, shortness of breath, progressive pleuritic chest pain and muscle weakness. She went back to see her oncologist. Tests diagnostic imaging revealed that her breast cancer had returned and metastazised to her lungs, chest wall, several long bones and her liver. Once again, ER began chemotherapy. She was also given palliative care aimed at pain management. After completing five cycles of chemotherapy the oncologist told ER that her cancer unresponsive to treatment. Her condition had deterorated, and she was experiencing severe chest pains, difficulty breathing even at rest, fatigue, jaundice accompanied by progressive weight loss. Today ER female partner SD and the oncologist discussed stopping treatment aimed at cure or control of her cancer and considered additional palliative care options. However during this discussion on strategies to palliate her symptoms, ER asked her oncologist whether she would qualify to access medical assistance in dying. She told her oncologist that she did not want to endure further pain or suffering. She told SD that she was not afraid to die and desperately wanted to control the timing and circumstances of her death. SD did not want ER to continue to suffer. If the oncologist approves medical assistance in dying for a terminally ill patient, which of the following ethical principles would be upheld the most?",
+        "options": [
+        "Loyalty",
+        "Beneficence",
+        "Autonomy",
+        "Nonmaleficence"
+        ],
+        "correctAnswer": "Autonomy",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "57",
+        "questions":[{
+        "question": "Which of the following factors might constitute a barrier to an efficient patient-pharmacist communication in a community pharmacy?",
+        "options": [
+        "Avoiding dialect",
+        "Multicultural society",
+        "Looking to the patient directly into the eyes",
+        "Installing sound-proofing walls"
+        ],
+        "correctAnswer": "Multicultural society",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "58",
+        "questions":[{
+        "question": "All of the following are factors which might enhance patient-pharmacist communication in a community setting, EXCEPT:",
+        "options": [
+        "Reassurance",
+        "Intimate health concerns",
+        "Valuing diversity",
+        "Cultural competence"
+        ],
+        "correctAnswer": "Intimate health concerns",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "59",
+        "questions":[{
+        "question": "Which of the following criteria constitutes the key principle of an efficient pharmacist-patient communication in community pharmacy?",
+        "options": [
+        "Adjusted proxemics",
+        "Clear voice tone",
+        "Sympathetic dialogue",
+        "Active listening"
+        ],
+        "correctAnswer": "Active listening",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "60",
+        "questions":[{
+        "question": "A 73-year-old woman who is a regular patient of yours approaches your pharmacy counter to drop a new prescription. Her shoulders appear tense and her eyebrows are knit tightly. With a low voice and an anxious tone she tells you, 'I can't believe I have to fill another prescription today, I was just in three weeks ago and spent $75 dollars on some new medication that didn't do a darn thing!'. Which of the following pharmacist responses can be considered the most an active listening communication with this patient?",
+        "options": [
+        "I guess I might be able to provide you with a smaller quantity this time.",
+        "I usually witness the same problem with other customers, as it can take a few trials before deciding on an optimal therapy.",
+        "I really wished we could have been able to take prescriptions back for refunds.",
+        "I understand that it is disappointing to have to try something new again."
+        ],
+        "correctAnswer": "I understand that it is disappointing to have to try something new again.",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "61",
+        "questions":[{
+        "question": "The best approach to manage personal space when interacting with patients is to:",
+        "options": [
+        "Stand away from the patient and let them choose how close they want to be to you.",
+        "Remove physical barriers between you and the patient and watch for cues that you are too close.",
+        "Get the patient seated and talk to them while you are standing to ensure respectfulness.",
+        "Stay behind the counter and lean toward the patient to show your genuine interest in their business."
+        ],
+        "correctAnswer": "Remove physical barriers between you and the patient and watch for cues that you are too close.",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "62",
+        "questions":[{
+        "question": "When counseling a patient who is upset about a new diagnosis and need for medications, which of the following strategies is NOT appropriate for the pharmacist to use?",
+        "options": [
+        "Overlapping with the patient's conversation but not interrupting it",
+        "Probing to clarify the patient's concerns",
+        "Advising the patient that things will get better soon",
+        "Letting the patient vent his/her feelings"
+        ],
+        "correctAnswer": "Advising the patient that things will get better soon",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "63",
+        "questions":[{
+        "question": "All of the following factors would help a clinical pharmacist to effectively communicate with patients in a multicultural society, EXCEPT:",
+        "options": [
+        "Using visual aids",
+        "Speaking slowly",
+        "Asking the patient what s/he understands about a treatment option",
+        "Using gestures"
+        ],
+        "correctAnswer": "Using gestures",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "64",
+        "questions":[{
+        "question": "All of the following factors might hamper patient-pharmacist communication in a community setting, EXCEPT:",
+        "options": [
+        "Fast-paced environment",
+        "Presumptive behavior",
+        "Gender difference",
+        "Therapeutic alliance"
+        ],
+        "correctAnswer": "Therapeutic alliance",
+        "section": "Ethics"
+    }]
+    },
+        
+    {
+        "blockId": "65",
+        "questions":[{
+        "question": "A female Asian client presented at the pharmacy with a prescription for her hypertension reading: 'Ramipril (ALTACETM) 2.5 mg qAM'. The patient was barely speaking a few English words, having a basic understanding of English not sufficient to understand health care information. She keeps repeating, 'Excuse me', whenever the pharmacist tries to explain information related to her prescription. Which of the following communication means is least appropriate to mitigate language and cultural barriers in a community pharmacy?",
+        "options": [
+        "Telephone interpreting service (http://www.languageline.com)",
+        "Software to translate labels",
+        "American Sign Language",
+        "Pictograms"
+        ],
+        "correctAnswer": "American Sign Language",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "66",
+        "questions":[{
+        "question": "A middle-aged woman who appears weepy and wobbly visits your pharmacy. While sobbing in distress she fumbles in her large handbag for the prescription. She hands you a prescription for a 72-year-old man, which reads: hydromorphone 1 mg immediate release tablets (DILAUDIDTM) 1-2 tab q4h PRN and hydromorphone 6 mg controlled release capsules (HYDROMORPH CONTINTM) 1 cap q12h. She tells you that she will be sitting in the patient waiting area until the prescription is ready for her. She added that the patient urgently needs the medications. What is an appropriate action by the pharmacist to convey a professional concern for this patient?",
+        "options": [
+        "To use a soft-toned, composed speech to comfort her so she can loosen up",
+        "To ask her if her husband is a late-stage cancer patient",
+        "To use a high-pitched, clear tone to minimize the perception of her emotional distress by the pharmacy staff",
+        "To tell her that everything will be just fine"
+        ],
+        "correctAnswer": "To use a soft-toned, composed speech to comfort her so she can loosen up",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "67",
+        "questions":[{
+        "question": "A middle-aged male regular customer of your pharmacy storms into your drug store and keeps yelling at the counter: 'Where is the manager of this damn store?' When the registered technician attempted to approach him gently in order to calm him down, he shouted loudly onto her saying: 'This is a rip off. I'll never get my meds here again!' Which of the following is the least appropriate action to be taken by the pharmacist on duty?",
+        "options": [
+        "To use a high-pitched voice in order to convey a consistent message of control and steadiness",
+        "To maintain composure while attempting to initiate a de-escalation discussion",
+        "To avoid constant eye contact permitting the client to break his gaze and look away",
+        "To encourage the client to be seated while keeping extra physical space between them"
+        ],
+        "correctAnswer": "To use a high-pitched voice in order to convey a consistent message of control and steadiness",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "68",
+        "questions":[{
+        "question": "A middle-aged male client of a pharmacy storms into a community pharmacy and heads to the dispensary. He looks very upset and bypasses the queue of clients at the prescription drop-off point reaching the pharmacist on duty and yelling at him saying that he tried to get refills for his lorazepam on the phone, but he got a message that his refills are early and that the due date is in 2 days. He added, in a loud and angry voice, that his refills should be due today since he gets his pills every 14 days according to a prescription issued by his family doctor. Which of the following behaviors and/or statements by the pharmacist on duty signifies assertive communication?",
+        "options": [
+        "Tell him: 'I really apologize for any inconvenience. Please only if you don't mind, can you give me some time to figure out where is the problem?'",
+        "Tell him: 'Hey! What makes you so important that you don't have to wait in line like the other clients? Take your turn or I will have to call security'",
+        "Tell him: 'Excuse me; there is actually a line-up here. It would be better if you could wait for your turn like other clients, and you will be served in the order you arrived at.'",
+        "Let the lead technician deal with him first in order to deescalate the situation."
+        ],
+        "correctAnswer": "Tell him: 'Excuse me; there is actually a line-up here. It would be better if you could wait for your turn like other clients, and you will be served in the order you arrived at.'",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "69",
+        "questions":[{
+        "question": "A 2-year-old toddler is admitted to the hospital. Which of the following seems the most appropriate intervention that would be expected by the triage nurse?",
+        "options": [
+        "Ask the parent/guardian to avoid bringing in the child's favorite blanket since any items from outside the hospital should not be allowed into the examination room environment.",
+        "Ask the parent/guardian to room-in with the child.",
+        "If the child is screaming, gently explain to the parents that this is an inappropriate behavior.",
+        "Ask the parent/guardian to leave the room when medical assessments are being performed."
+        ],
+        "correctAnswer": "Ask the parent/guardian to room-in with the child.",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "70",
+        "questions":[{
+        "question": "While adjusting the dosing of the opioid narcotics for an elderly Vietnamese patient in the terminal stages of lung cancer, a hospital pharmacist on the oncology floor notices that many family members are in the room around the clock performing unusual rituals and bringing ethnic foods. Which of the following actions seems most appropriate and should be taken by the pharmacist in charge?",
+        "options": [
+        "Contact the responsible physician to report the unusual rituals and activities",
+        "Ask the head nurse to keep the other bed in the room unassigned, when possible, to provide privacy and comfort to the family.",
+        "Restrict visiting hours and ask the family to limit visitors to two at a time",
+        "Notify visitors with a sign on the door that the patient is limited to clear fluids only with no solid food allowed"
+        ],
+        "correctAnswer": "Ask the head nurse to keep the other bed in the room unassigned, when possible, to provide privacy and comfort to the family.",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "71",
+        "questions":[{
+        "question": "A 40-year-old divorced mother of four school-age children is hospitalized with metastatic cancer of the ovary. The hospital pharmacist finds the patient crying, and she tells the pharmacist that she does not know what will happen to her children when she dies. The most appropriate response by the pharmacist is:",
+        "options": [
+        "'Perhaps your ex-husband will take the children when you cannot care for them.'",
+        "'Many patients with cancer live for a long time, so there is time to plan for your children.'",
+        "'Why do not we talk about the options you have for the care of your children?'",
+        "'For now you need to focus on getting well, not worry about your children.'"
+        ],
+        "correctAnswer": "'Why do not we talk about the options you have for the care of your children?'",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "72",
+        "questions":[{
+        "question": "A 21-year-old female engineering student from Brazil received an award for a 3-month pilot research project funded by a student-exchange program sponsored by an international funding agency. She arrived in Canada and enrolled in a fluency course. During her stay she visited your pharmacy with a prescription for an oral contraceptive. All of the following are appropriate strategies to advise this customer regarding her prescription, EXCEPT:",
+        "options": [
+        "Use simple English words and provide a visual aid for the label instructions.",
+        "Break your counseling into small clauses and pace their delivery.",
+        "Avoid slang language and ask the client if she can explain the medication use after your interpretation.",
+        "Use eye contact and proper body language."
+        ],
+        "correctAnswer": "Use simple English words and provide a visual aid for the label instructions.",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "73",
+        "questions":[{
+        "question": "All of the following could be factors contributing to inefficient inter-professional relationships between pharmacists and physicians, EXCEPT:",
+        "options": [
+        "Shopkeeper image of the pharmacist.",
+        "Time constraints.",
+        "Lack of a compensation scheme.",
+        "Lack of proper communication skills."
+        ],
+        "correctAnswer": "Lack of proper communication skills.",
+        "section": "Ethics"
+    }]
+    },
+    {
+        "blockId": "74",
+        "questions":[{
+        "question": "Which of the following factors might help the least with a fast and efficient incorporation of a newly enrolled hospital pharmacy resident?",
+        "options": [
+        "To affiliate the resident to a multidisciplinary mentorship, including a physician, a clinical pharmacy specialist, and a hospital technician",
+        "To enable the resident to attend interdisciplinary meetings, including nursing and allied health professionals seminars",
+        "To enable the resident to attend patients' rounds along with medical students",
+        "To affiliate the resident to multiple hospital settings, such as tertiary health care centers with various multidisciplinary healthcare teams"
+        ],
+        "correctAnswer": "To affiliate the resident to multiple hospital settings, such as tertiary health care centers with various multidisciplinary healthcare teams",
+        "section": "Ethics"
+    }]
+    }
+]
+          
+                            

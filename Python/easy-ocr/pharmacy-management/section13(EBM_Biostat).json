@@ -1,0 +1,619 @@
+[
+  {
+    "blockId": "1",
+      "questions":[{
+    "question": "Which of the following studies is considered the most powerful evidence-based study?",
+    "options": [
+      "A cohort study",
+      "A multicenter double-blinded randomized controlled clinical trial",
+      "A meta-analysis of multiple longitudinal observational studies",
+      "A nested case control study"
+    ],
+    "correctAnswer": "A multicenter double-blinded randomized controlled clinical trial",
+    "section": "EBM_Biostat"
+  }]
+  },
+  {
+    "blockId": "2",
+      "questions":[{
+    "question": "Which of the following order for the given studies represent a correct ranking with respect to an ascending order of evidence hierarchy (i.e., from lower evidence to higher evidence)?",
+    "options": [
+      "case series, case report, nested case control, single subject randomized clinical trial, individual randomized controlled clinical trial, expert opinion",
+      "expert opinion, case report, case series, nested case control, individual randomized controlled clinical trial, single subject randomized clinical trial",
+      "case report, case series, expert opinion, nested case control, single subject randomized clinical trial, individual randomized controlled clinical trial",
+      "case report, case series, expert opinion, single subject randomized clinical trial, nested case control, individual randomized controlled clinical trial"
+    ],
+    "correctAnswer": "expert opinion, case report, case series, nested case control, individual randomized controlled clinical trial, single subject randomized clinical trial",
+    "section": "EBM_Biostat"
+  }]
+  },
+  {
+    "blockId": "3",
+      "questions":[{
+    "question": "Which of the following limitations does NOT represent a limitation associated with observational studies?",
+    "options": [
+      "Associations between exposures and clinical outcomes do not establish causality",
+      "The lack of an observational study design that can efficiently assess incidence",
+      "Residual confounding",
+      "End users may easily drift from associations to cause and effect"
+    ],
+    "correctAnswer": "The lack of an observational study design that can efficiently assess incidence",
+    "section": "EBM_Biostat"
+  }]
+  },
+  {
+    "blockId": "4",
+      "questions":[{
+    "question": "All of the following are considered limitations of observational, nonexperimental studies, EXCEPT:",
+    "options": [
+      "Information bias",
+      "Longer duration of study",
+      "Selection bias",
+      "Confounding"
+    ],
+    "correctAnswer": "Longer duration of study",
+    "section": "EBM_Biostat"
+  }]
+  },
+  {
+    "blockId": "5",
+      "questions":[{
+    "question": "What is the first step in a randomized clinical trial?",
+    "options": [
+      "Recruitment",
+      "Randomization",
+      "Consent",
+      "Ethics"
+    ],
+    "correctAnswer": "Ethics",
+    "section": "EBM_Biostat"
+  }]
+  },
+  {
+    "blockId": "6",
+      "questions":[{
+    "question": "The random allocation of therapy in clinical trials is performed to serve the following purpose the most:",
+    "options": [
+      "to maximize the power of the trial.",
+      "to allocate an equivalent number of participants to each study arm.",
+      "to allow for statistical independence.",
+      "to ensure the clinical efficacy of the treatment."
+    ],
+    "correctAnswer": "to allow for statistical independence.",
+    "section": "EBM_Biostat"
+  }]
+  },
+  {
+    "blockId": "7",
+      "questions":[{
+    "question": "A balanced distribution of morbidity characteristics, lifestyle, results of laboratory assays and previous medical histories across two groups of patients in a randomized controlled clinical trial (RCT) is recommended:",
+    "options": [
+      "to improve the significance of the results.",
+      "to ensure the clinical relevance of the intervention.",
+      "to minimize the likelihood of withdrawal from the study.",
+      "to minimize randomization failure."
+    ],
+    "correctAnswer": "to minimize randomization failure.",
+    "section": "EBM_Biostat"
+  }]
+  },
+  {
+    "blockId": "8",
+      "questions":[{
+    "question": "Which of the following factors would help the most identify appropriate participants and help eliminate those who may be put at risk by participating in a randomized clinical trial?",
+    "options": [
+      "Patient's consent and regulatory guidelines",
+      "Inclusion and exclusion criteria",
+      "Ethical approval by regulatory bodies",
+      "Intention to treat protocol"
+    ],
+    "correctAnswer": "Inclusion and exclusion criteria",
+    "section": "EBM_Biostat"
+  }]
+  },
+  {
+    "blockId": "9",
+      "questions":[{
+    "question": "When a randomized controlled clinical trial includes the result outcomes of study volunteers who dropped out of the trial, this concept is termed:",
+    "options": [
+      "intention-to-treat.",
+      "inclusion criteria.",
+      "per-protocol.",
+      "exclusion criteria."
+    ],
+    "correctAnswer": "intention-to-treat.",
+    "section": "EBM_Biostat"
+  }]
+  },
+  {
+    "blockId": "10",
+      "questions":[{
+    "question": "Which of the following factors might reduce bias the least in a clinical trial?",
+    "options": [
+      "Blinding",
+      "Per-protocol analysis",
+      "Allocation concealment",
+      "Randomization"
+    ],
+    "correctAnswer": "Per-protocol analysis",
+    "section": "EBM_Biostat"
+  }]
+  },
+
+  {
+    "blockId": "11",
+      "questions":[{
+      "question": "A double dummy technique is used for:",
+      "options": [
+      "different dose frequency for drugs.",
+      "different gender for volunteers.",
+      "double-blinded crossover design.",
+      "placebo-controlled clinical trial."
+      ],
+      "correctAnswer": "different dose frequency for drugs.",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "12",
+      "questions":[{
+      "question": "All of the following can be considered limitations of randomized clinical trials, EXCEPT:",
+      "options": [
+      "they have limited generalizability and external validity.",
+      "they are costly to execute.",
+      "they are usually of short follow-up.",
+      "they are not considered true measures of relative efficacy."
+      ],
+      "correctAnswer": "they are not considered true measures of relative efficacy.",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "13",
+        "questions":[{
+      "question": "All of the following are advantages of a composite endpoint, EXCEPT:",
+      "options": [
+      "To improve the rate of event",
+      "To promote statistical significance",
+      "To reduce trial duration",
+      "To improve statistical power"
+      ],
+      "correctAnswer": "To promote statistical significance",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "14",
+        "questions":[{
+      "question": "Which of the following studies would be the most appropriate to detect a rare adverse drug reaction?",
+      "options": [
+      "Case reports",
+      "Case control trials",
+      "Cross-sectional studies",
+      "Randomized controlled trials"
+      ],
+      "correctAnswer": "Case control trials",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "15",
+        "questions":[{
+      "question": "To assess the efficacy of fluoxetine 80 mg/day on trichotillomania, 21 hair-puller adult patients were recruited into an 18-week small clinical trial. The patients were divided into 2 groups, in which the first group received the drug, whereas the second group received placebo for 6 weeks. Neither the patients nor the investigators know which is the drug or the placebo. After 5 weeks the first group received the placebo, whereas the second group received the drug. This study design is called:",
+      "options": [
+      "Double-dummy, active-controlled trial.",
+      "Double-blind, crossover placebo-controlled study.",
+      "Open label placebo intervention with a parallel design.",
+      "Single-blind, crossover placebo-controlled study."
+      ],
+      "correctAnswer": "Double-blind, crossover placebo-controlled study.",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "16",
+        "questions":[{
+      "question": "Which of the following is a surrogate endpoint in oncology clinical trials for a new anticancer drug?",
+      "options": [
+      "Overall survival",
+      "Improved quality of life",
+      "Progression-free survival",
+      "Physical functioning"
+      ],
+      "correctAnswer": "Progression-free survival",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "17",
+        "questions":[{
+      "question": "Quespenem is a newly introduced carbapenem antibacterial to be tested in phase III clinical trials to establish its safety and tolerability in hospitalized children with community-acquired pneumonia; a suitable testing methodology would be:",
+      "options": [
+      "a meta-analysis.",
+      "a prospective, randomized, controlled, double blind, double dummy, multicentre, noninferiority study.",
+      "a prospective cohort study.",
+      "a prospective, randomized, controlled, double blind, multicentre, placebo-controlled superiority study."
+      ],
+      "correctAnswer": "a prospective, randomized, controlled, double blind, double dummy, multicentre, noninferiority study.",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "18",
+        "questions":[{
+      "question": "In which of the following situations the administration of a placebo in the control arm of a clinical study would be the least justified ethically?",
+      "options": [
+      "A clinical trial for a new medication for the control of moderate nausea post-chemotherapy.",
+      "A clinical trial for a new quinolone antibacterial for diverticulitis.",
+      "A clinical trial for a new quinolone for diabetic foot cellulitis.",
+      "A clinical trial for a new, add-on antidepressant medication for acute depressive illness associated with suicidal ideation."
+      ],
+      "correctAnswer": "A clinical trial for a new quinolone for diabetic foot cellulitis.",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "19",
+        "questions":[{
+      "question": "Which of the following correctly defines the specificity of a diagnostic laboratory test?",
+      "options": [
+      "The ability to identify true positive and false positive results",
+      "The ability to identify true negative rate",
+      "The ability to identify true positive rate",
+      "The ability to identify false positive rate"
+      ],
+      "correctAnswer": "The ability to identify true negative rate",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "20",
+        "questions":[{
+      "question": "In a retrospective study of patients who presented to the emergency department of a community hospital with acute chest pain, 121 patients had serum troponin I analyzed. For the control group, 32 randomly chosen patients without cardiac symptoms whose CK-MB was normal had troponin I analyzed. Of the 153 patients studied five patients whose troponin I was below 0.6 ng/mL, the positive reference value, had positive CK-MB results and ST segment elevation on a 12-lead ECG. Out of the control group, only one patient had a Troponin I blood level above the According to the aforementioned data, the sensitivity and specificity of Troponin I tests as a diagnostic biochemical test for myocardial infarction are:",
+      "options": [
+      "97% and 98%, respectively",
+      "96% and 97%, respectively",
+      "97% and 99%, respectively",
+      "99% and 97%, respectively"
+      ],
+      "correctAnswer": "96% and 97%, respectively",
+      "section": "EBM_Biostat"
+    }]
+  },
+
+  {
+    "blockId": "21",
+        "questions":[{
+      "question": "Over the course of one year, 5 women were diagnosed with breast cancer, out of a total female study population of 200. Which of the following is a correct conclusion?",
+      "options": [
+      "The prevalence rate of breast cancer in this population is 0.025.",
+      "The incidence rate of breast cancer in this population is 2,500 per 100,000 women-years.",
+      "The mortality rate of breast cancer in this population is 2,500 per 100,000.",
+      "The morbidity rate of breast cancer in this population is 0.25."
+      ],
+      "correctAnswer": "The incidence rate of breast cancer in this population is 2,500 per 100,000 women-years.",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "22",
+        "questions":[{
+      "question": "In a Canadian province, the staff of five hospitals and two primary care centres (n = 1772) completed an online questionnaire documenting demographics, occupation, exposure to refugee claimant patients, and attitudes regarding healthcare access for refugee claimants in order to study the institutional influence on health personnel attitudes towards immigrants and refugees and to investigate the prevalence of negative attitudes. Which of the following is a correct research design describing this study?",
+      "options": [
+      "Case control study",
+      "Cohort study",
+      "Meta-analysis",
+      "Cross-sectional study"
+      ],
+      "correctAnswer": "Cross-sectional study",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "23",
+        "questions":[{
+      "question": "A cross-sectional study was designed to determine the association between the use of contemporary and alternative medicine (CAM) and the following variables: age, gender, race and ethnicity, education, immigrant family history, and herbal use by other family members for 500 diabetic patients visiting primary care clinics in Canada. A p-value ≤ 0.05 was considered to be statistically significant. Which of the following statistical tests should be used to determine the association between herbal use and each of the independent variables related to the sociodemographic characteristics of the studied diabetic patients?",
+      "options": [
+      "Odds ratio",
+      "Chi square",
+      "ANOVA",
+      "t-test"
+      ],
+      "correctAnswer": "Chi square",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "24",
+        "questions":[{
+      "question": "A drug company is sponsoring studies for a new atypical antipsychotic medication is recruiting for phase 3 interventional trials to test the efficacy and tolerability of the medication in prolonged maintenance therapy of schizophrenic patients who have been in remission for 2 years. An adequate study to accomplish the trial aims would be:",
+      "options": [
+      "a prospective cohort study",
+      "a randomized, double-blind, placebo-controlled, multicenter study",
+      "a meta-analysis of randomized, double-blind, active comparator, multicenter studies",
+      "a prospective nested case control study"
+      ],
+      "correctAnswer": "a randomized, double-blind, placebo-controlled, multicenter study",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "25",
+        "questions":[{
+      "question": "A recent meta-analysis study has shown that exposure to proton pump inhibitors (PPI's) might be linked with Clostridium difficile-associated diarrhea (CDAD). The risk estimates were 2.3 for cohort studies (95% CI; 1.72 -3.10) and 1.5 for case-control studies (95% CI, 1.25 -1.75). The overall adjusted risk estimate concluded by the meta-analysis was 1.65. Which of the following statements could NOT be inferred from the performed meta-analysis?",
+      "options": [
+      "Odds ratio suggests an association between CDAD and PPI's chronic therapy.",
+      "The incidence of CDAD is increased by at least 50% among users of PPI's vs. nonusers.",
+      "A meta-analysis of several observational studies provides higher evidence than a large randomized controlled trial.",
+      "The results of the meta-analysis were statistically significant."
+      ],
+      "correctAnswer": "A meta-analysis of several observational studies provides higher evidence than a large randomized controlled trial.",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "26",
+        "questions":[{
+      "question": "A study was conducted to determine the prophylactic efficacy of a standardized cranberry extract in 20 women (mean age 35.2 years; 50.0% were married) with post-coital urinary tract infections who were followed up for 3 and 6 months during treatment. The number of post-coital UTIs in the previous 3 months prior to start the treatment with the cranberry extract was 2.8±1.3 and it was reduced to 0.2+0.5 at month 6 (P<0.0001). What is the research design used in this study?",
+      "options": [
+      "A case control study",
+      "A cohort study",
+      "A randomized clinical trial",
+      "A meta-analysis"
+      ],
+      "correctAnswer": "A cohort study",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "27",
+        "questions":[{
+      "question": "Using provincial administrative health data, a study included new users of glyburide or gliclazide aged ≥ 66 years between 1998 and 2010. The study design is:",
+      "options": [
+      "nested case-control study",
+      "cohort study",
+      "randomized control trial",
+      "case-control study"
+      ],
+      "correctAnswer": "nested case-control study",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "28",
+        "questions":[{
+      "question": "The data from a randomized clinical study are to be used to estimate the effect strength relevant to the difference in the mean reduction in systolic blood pressure between a new versus a comparator antihypertensive. All of the following statements are true regarding the result of the statistical test involved in that study, EXCEPT:",
+      "options": [
+      "if the P-value is below a predefined limit, the results are designated as 'statistically significant.'",
+      "if there was an observed difference in the mean systolic blood pressure with P <0.01, the probability that the two drugs behaved differently due to merely chance is under 1%.",
+      "the P-value is a probability which reflects the measure of evidence against the null hypothesis of equality and the larger the p-value the weaker the evidence.",
+      "the value of p-statistic correlates with the size and direction of an effect, so a smaller p-value implies a more potent antihypertensive potential."
+      ],
+      "correctAnswer": "if there was an observed difference in the mean systolic blood pressure with P <0.01, the probability that the two drugs behaved differently due to merely chance is under 1%.",
+      "section": "EBM_Biostat"
+  },
+  {
+      "question": "In the above example, applying the confidence limits, which of the following statements is NOT correct?",
+      "options": [
+      "A confidence level of 90% means that the confidence interval covers the true value in 90 of 100 blood pressure measurements performed.",
+      "The size of the confidence interval depends on the sample size and the standard deviation of the groups so the larger the sample size, the narrower the interval.",
+      "Analogous to P-values, statistical significance could be inferred from confidence intervals; however, the latter indicates also the direction and strength of the effect.",
+      "The lower and upper confidence limits of the mean difference in systolic blood pressure between the two treatment groups are given in %."
+      ],
+      "correctAnswer": "The lower and upper confidence limits of the mean difference in systolic blood pressure between the two treatment groups are given in %",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "29",
+        "questions":[{
+      "question": "Which of the following statement is true regarding the width of a confidence interval (CI)?",
+      "options": [
+      "The width of a CI decreases as the sample size decreases.",
+      "The width of a CI is independent of the sample size.",
+      "The width of a CI increases as the sample size decreases.",
+      "The width of a CI decreases as the sample size increases."
+      ],
+      "correctAnswer": "The width of a CI decreases as the sample size increases.",
+      "section": "EBM_Biostat"
+    }]
+  },             
+
+  {
+    "blockId": "30",
+        "questions":[{
+      "question": "The number needed to treat (NNT) for amitriptyline in diabetic neuropathic pain was found to be 3, whereas the mixed serotonin nor-adrenaline reuptake inhibitor, duloxetine showed an NNT of about 5. What is the most accurate conclusion that could be drawn from the above data?",
+      "options": [
+      "Amitriptyline and duloxetine are equally efficacious in the treatment of diabetic neuropathy.",
+      "A smaller NNT adjusted for the duration of therapy and the background risk implies a more effective treatment with amitriptyline.",
+      "Amitriptyline is favorable than duloxetine in controlling long-term peripheral neuropathic pain in diabetic patients.",
+      "Duloxetine is a superior therapy for diabetic peripheral neuropathy."
+      ],
+      "correctAnswer": "A smaller NNT adjusted for the duration of therapy and the background risk implies a more effective treatment with amitriptyline.",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "31",
+        "questions":[{
+      "question": "A meta-analysis shows that the number needed to treat for ibuprofen 400 mg to at least cause a 50% pain relief of moderate to severe intensity over six hours, compared with placebo is 2.4 (CI 95% 2.2 to 2.5) and that for acetaminophen 1000 mg is 3.8 (CI 95% 3.4 to 4.4) while that for 10 mg intramuscular morphine is 2.9 (CI 95% 2.6 to 3.6). Based on the aforementioned data, which of the following is true?",
+      "options": [
+      "IM morphine is significantly more effective than acetaminophen for postoperative pain.",
+      "The variability in pain response in case of ibuprofen is larger than in case of morphine.",
+      "Only 2 out of the 3 interventions show a statistically significant postoperative pain relief.",
+      "Morphine IM is significantly less effective than ibuprofen in postoperative pain."
+      ],
+      "correctAnswer": "Morphine IM is significantly less effective than ibuprofen in postoperative pain.",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "32",
+        "questions":[{
+      "question": "A population-based, randomly selected study of 5008 community-dwelling adults 50 years and older of whom 137 (2.7%) who were daily SSRI users, was followed up over 5 years for incident fractures. Clinical fragility fractures were clinically reported and radiographically confirmed while controlling for relevant covariates. What is the study design?",
+      "options": [
+      "Randomized clinical trial",
+      "Nested case control study",
+      "Retrospective cohort study",
+      "Prospective cohort study"
+      ],
+      "correctAnswer": "Prospective cohort study",
+      "section": "EBM_Biostat"
+  },
+  {
+      "question": "A population-based, randomly selected study of 5008 community-dwelling adults 50 years and older of whom 137 (2.7%) who were daily SSRI users, was followed up over 5 years for incident fractures. Clinical fragility fractures were clinically reported and radiographically confirmed while controlling for relevant covariates. What is the risk of bone thinning after age 50 in the non-SSRI users arm?",
+      "options": [
+      "1%",
+      "6%",
+      "2%",
+      "3%"
+      ],
+      "correctAnswer": "6%",
+      "section": "EBM_Biostat"
+  },
+  {
+      "question": "A population-based, randomly selected study of 5008 community-dwelling adults 50 years and older of whom 137 (2.7%) who were daily SSRI users, was followed up over 5 years for incident fractures. Clinical fragility fractures were clinically reported and radiographically confirmed while controlling for relevant covariates. What is the relative risk of fragility fracture associated with daily SSRI use?",
+      "options": [
+      "2",
+      "3",
+      "1",
+      "0.5"
+      ],
+      "correctAnswer": "2",
+      "section": "EBM_Biostat"
+  },
+  {
+      "question": "A population-based, randomly selected study of 5008 community-dwelling adults 50 years and older of whom 137 (2.7%) who were daily SSRI users, was followed up over 5 years for incident fractures. Clinical fragility fractures were clinically reported and radiographically confirmed while controlling for relevant covariates. In the same study above, researchers found that at the baseline interview, daily SSRI use was associated with increased risk of falling and might therefore predispose elderly population to frequent falls associated with bone fractures. Out of the 5008 elderly enrolled, 343 individual experienced prevalent falls in the previous month to the interview, out of which 28 patients were on SSRI. What is the odds ratio for a fall associated with daily SSRI use?",
+      "options": [
+      "4.1",
+      "2.7",
+      "3.7",
+      "3.1"
+      ],
+      "correctAnswer": "3.7",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "33",
+        "questions":[{
+      "question": "A population-based study design was used to investigate whether antipsychotic drugs were associated with venous thromboembolism (VTE). Data were taken from a Canadian primary care database consisting of 7,267,673 patients. The primary outcome was the odds ratios for VTE associated with antipsychotic drugs. Which of the following best describes the study design employed in the study in question?",
+      "options": [
+      "Nested case-control study",
+      "Case control study",
+      "Cohort study",
+      "Randomized control study"
+      ],
+      "correctAnswer": "Nested case-control study",
+      "section": "EBM_Biostat"
+  },
+  {
+      "question": "A population-based study design was used to investigate whether antipsychotic drugs were associated with venous thromboembolism (VTE). Data were taken from a Canadian primary care database consisting of 7,267,673 patients. The primary outcome was the odds ratios for VTE associated with antipsychotic drugs. All of the following statements are true regarding the aforementioned study, EXCEPT:",
+      "options": [
+      "The study design minimized selection bias compared with a traditional case control study.",
+      "Recall bias was minimized compared with a traditional case control study.",
+      "The study is a retrospective design.",
+      "Causality could be inferred from the association between prescription of antipsychotic drugs and venous thromboembolism."
+      ],
+      "correctAnswer": "Causality could be inferred from the association between prescription of antipsychotic drugs and venous thromboembolism.",
+      "section": "EBM_Biostat"
+  },
+  {
+      "question": "A population-based study design was used to investigate whether antipsychotic drugs were associated with venous thromboembolism (VTE). Data were taken from a Canadian primary care database consisting of 7,267,673 patients. The primary outcome was the odds ratios for VTE associated with antipsychotic drugs. Knowing that in the previous study 2,126 cases (8.3%) and 4,752 controls (5.3%) had received an antipsychotic drug in the previous 24 months, what is the odds ratio for VTE associated with antipsychotic drug use?",
+      "options": [
+      "1",
+      "1.3",
+      "2",
+      "1.6"
+      ],
+      "correctAnswer": "1.6",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "34",
+        "questions":[{
+      "question": "A new treatment for stroke provides a favorable prevention outcome in 20% of those treated compared with 10% with those treated with placebo. A major bleeding complication occurs in 10% of those treated with the new drug and 5% of those treated with placebo. The number needed to treat and the number needed to harm for the new drug compared with placebo are:",
+      "options": [
+      "1 and 2",
+      "100 and 200",
+      "10 and 20",
+      "5 and 20"
+      ],
+      "correctAnswer": "10 and 20",
+      "section": "EBM_Biostat"
+    }]
+  },
+
+  {
+    "blockId": "35",
+        "questions":[{
+      "question": "In the case above, the new drug costs $1000. An alternative to the new drug results in a 15% good outcome rate and costs $200. The costs per additional good outcome for the new and alternative drugs are respectively:",
+      "options": [
+      "$10,000 and $4,000",
+      "$100 and $10",
+      "$100 and $400",
+      "$1,000 and $4,000"
+      ],
+      "correctAnswer": "$10,000 and $4,000",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "36",
+        "questions":[{
+      "question": "A high-intensity statin used in a primary prevention population results in about 2 excess cases of new diabetes while preventing about 6 cardiovascular disease events per 1000 individuals treated for 1 year. This data is most consistent with which of the following:",
+      "options": [
+      "NNH 2000/y and NNT 600/y",
+      "NNH 255/4y and NNT 32/4y",
+      "NNH 2/y and NNT 6/y",
+      "NNH 498/y and NNT 155/y"
+      ],
+      "correctAnswer": "NNH 498/y and NNT 155/y",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "37",
+        "questions":[{
+      "question": "The following information was observed in the Arimidex, Tamoxifen, Alone or in Combination trial after 5 years of therapy: Anastrozole fracture rate per 1000 woman-years = 22.6, Tamoxifen fracture rate per 1000 woman-years = 15.6, HR = 1.44; 95% CI, 1.21-1.68. Proportion of fractures in anastrozole-treated patients = 11%, Proportion of fractures in tamoxifen-treated patients = 7.7%. Using these data, which one of the following represents the most accurate expression of the absolute increased risk of experiencing a fracture during the next 5 years with anastrozole compared with tamoxifen?",
+      "options": [
+      "44%",
+      "1.4%",
+      "7%",
+      "3.3%"
+      ],
+      "correctAnswer": "3.3%",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "38",
+        "questions":[{
+      "question": "On review of the literature, the following information is obtained from a meta-analysis examining the association between fractures and thiazolidinediones: Number of fractures in women taking thiazolidinediones over 5 years = 111/1903, Number of fractures in women taking other oral antihyperglycemics over 5 years = 76/2497, OR 2.23, 95% CI, 1.65-3.01. Which one of the following best represents the number of women needed to treat with a thiazolidinedione compared with other oral antihyperglycemic agents over 5 years to cause one excess fracture?",
+      "options": [
+      "23",
+      "76",
+      "35",
+      "111"
+      ],
+      "correctAnswer": "35",
+      "section": "EBM_Biostat"
+    }]
+  },
+  {
+    "blockId": "39",
+        "questions":[{
+      "question": "A randomized controlled trial was conducted to investigate the effectiveness of a new treatment for improving the survival of patients with heart failure. A total of 105 patients were randomized to a new treatment, 'A', and a total of 106 were randomized to the control treatment, 'B'. The primary outcome was the overall survival rate. After a median follow-up of 1500 days, the hazard ratio for death in the treatment group was 0.38; 95% confidence interval (CI), 0.28 to 0.53. Which of the following is an accurate conclusion of the study?",
+      "options": [
+      "Compared to the control treatment, the new treatment does not confer any survival benefit.",
+      "There is a trend of survival benefit on the new treatment, but the results are not statistically significant.",
+      "Patients on the new treatment are 62% less likely to die than patients on the control treatment.",
+      "Patients in the new treatment group at any time point during the study period were 62% less likely to die than patients in the control group."
+      ],
+      "correctAnswer": "Patients in the new treatment group at any time point during the study period were 62% less likely to die than patients in the control group.",
+      "section": "EBM_Biostat"
+    }]
+  }
+]
+           

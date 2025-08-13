@@ -5,8 +5,6 @@ def wheelspinner():
     n = int(input("How many options: "))
     name = (input("Enter the names of options: "))
     names = name.split(" ")
-    #import wheelspinnernames
-    #names = wheelspinnernames.coop
 
     while flag == True:
         x = random.randint(0,n-1)
