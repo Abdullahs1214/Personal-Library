@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Quickstart",
+            "request": "launch",
+            "mainClass": "Quickstart.Quickstart",
+            "projectName": "Code files_968b1321"
+        },
+        {
+            "type": "java",
             "name": "EquipmentInventory",
             "request": "launch",
             "mainClass": "OOP.lab3.EquipmentInventory",

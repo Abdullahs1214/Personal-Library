@@ -1,0 +1,2837 @@
+[
+    {
+        "blockId": "1",
+        "questions": [
+            {
+        "question": "Which of the following antipsychotic drugs is expected to exhibit the lowest anticholinergic effect such as dry mouth and constipation, if started in a patient with methamphetamine-induced psychotic disorder?",
+        "options": [
+            "Olanzapine",
+            "Haloperidol",
+            "Asenapine",
+            "Loxapine"
+        ],
+        "correctAnswer": "Asenapine",
+        "section": "CNS"
+    }
+    ]
+    },
+    {
+        "blockId": "2",
+        "questions": [
+            {
+            "question": "A pharmacy resident is preparing lists for medications classified according to their anticholinergic burden. Which of the following lists of medications carries the highest anticholinergic burden?",
+        "options": [
+            "Baclofen, chlordiazepoxide, oxycodone, amantadine, and sumatriptan",
+            "Loperamide, dextromethorphan, divalproex sodium, fluoxetine, and selegiline",
+            "Oxcarbazepine, phenelzine, trazodone, lithium, and aripiprazole",
+            "Cyproheptadine, dimenhydrinate, doxepin, doxylamine, and trospium"
+        ],
+        "correctAnswer": "Cyproheptadine, dimenhydrinate, doxepin, doxylamine, and trospium",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "3",
+        "questions":[{
+        "question": "Which of the following information about baclofen is true?",
+        "options": [
+            "Baclofen is extensively metabolized by liver cytochrome P450-3A4.",
+            "Due to its long half-life, baclofen can be stopped abruptly without significant withdrawal symptoms.",
+            "Erectile dysfunction is a common side effect of baclofen.",
+            "Baclofen is indicated to relieve the signs and symptoms of spasticity in patients with multiple sclerosis."
+        ],
+        "correctAnswer": "Baclofen is indicated to relieve the signs and symptoms of spasticity in patients with multiple sclerosis.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "4",
+        "questions":[{
+        "question": "Which of the following antipsychotic drugs would be recommended for a patient who has just been diagnosed with an acute episode of schizophrenia and is expected to exhibit the lowest potential for causing tardive dyskinesia?",
+        "options": [
+            "Fluphenazine",
+            "Risperidone",
+            "Clozapine",
+            "Olanzapine"
+        ],
+        "correctAnswer": "Olanzapine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "5",
+        "questions":[{
+        "question": "Which of the following neuroleptics would be recommended for a patient who has just been diagnosed with schizoaffective disorder and is expected to be least associated with weight gain?",
+        "options": [
+            "Haloperidol",
+            "Olanzapine",
+            "Lurasidone",
+            "Loxapine"
+        ],
+        "correctAnswer": "Lurasidone",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "6",
+        "questions":[{
+        "question": "Which of the following antipsychotic medications may result in serum prolactin elevations, the most?",
+        "options": [
+            "Brexpiprazole",
+            "Ziprasidone",
+            "All the given antipsychotic drugs may result in similar elevations in serum prolactin levels",
+            "Quetiapine"
+        ],
+        "correctAnswer": "All the given antipsychotic drugs may result in similar elevations in serum prolactin levels",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "7",
+        "questions":[{
+        "question": "A family physician calls the pharmacy to inquire about antipsychotic options for one of their schizophrenic female patients who is currently stable on amiodarone and levothyroxine. Which of the following antipsychotic agents would be least recommended by the pharmacist?",
+        "options": [
+            "Paliperidone",
+            "Lurasidone",
+            "Ziprasidone",
+            "Brexpiprazole"
+        ],
+        "correctAnswer": "Ziprasidone",
+        "section": "CNS"
+    },
+    {
+    "question": "A family physician calls the pharmacy to inquire about antipsychotic options for one of their schizophrenic female patients who is currently stable on amiodarone and levothyroxine. For the previous case, what is the rationale for recommending against one specific antipsychotic?",
+    "options": [
+        "A risk of breakthrough Hashimoto's symptoms",
+        "A risk of ventricular arrhythmia",
+        "A risk of poorly controlled schizophrenia",
+        "A risk of akathisia"
+    ],
+    "correctAnswer": "A risk of ventricular arrhythmia",
+    "section": "CNS"
+}]
+    },
+    {
+        "blockId": "8",
+        "questions":[{
+        "question": "All of the following are indications for selective serotonin reuptake inhibitors (SSRI’s), EXCEPT:",
+        "options": [
+            "borderline personality disorder.",
+            "premature ejaculation.",
+            "obsessions with a compulsive behavior.",
+            "panic disorder."
+        ],
+        "correctAnswer": "borderline personality disorder.",
+        "section": "CNS"
+        }]
+    },
+    {
+        "blockId": "9",
+        "questions":[{
+        "question": "Benzodiazepines may be therapeutically indicated the least for which of the following conditions?",
+        "options": [
+            "essential tremor.",
+            "dental anxiety.",
+            "conscious sedation during cataract surgery.",
+            "insomnia in pregnancy."
+        ],
+        "correctAnswer": "insomnia in pregnancy.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "10",
+        "questions":[{
+        "question": "Which of the following statements is NOT true regarding obsessive-compulsive disorder (OCD)?",
+        "options": [
+            "OCD occurs more commonly in males than in females.",
+            "Exposing oneself to obsessional triggers while resisting doing anything to control the obsessions and the anxiety is considered the most effective treatment approach for most types of OCD.",
+            "Substance abuse might cause OCD.",
+            "It may take up to 3 months for pharmacological treatments to produce a significant change in OCD symptoms."
+        ],
+        "correctAnswer": "OCD occurs more commonly in males than in females.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "11",
+        "questions":[{
+        "question": "Which of the following statements regarding obsessive-compulsive disorder (OCD) is the least accurate?",
+        "options": [
+            "Obsessions are repeated thoughts or mental images that induce anxiety in OCD.",
+            "Selective serotonin reuptake inhibitors (SSRIs) typically control OCD symptoms at significantly lower doses and shorter therapy durations than those needed to treat depressive illnesses.",
+            "OCD is a common disorder that starts mostly in younger ages.",
+            "Clomipramine has efficacy similar to SSRIs in the treatment of OCD."
+        ],
+        "correctAnswer": "Selective serotonin reuptake inhibitors (SSRIs) typically control OCD symptoms at significantly lower doses and shorter therapy durations than those needed to treat depressive illnesses.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "12",
+        "questions":[{
+        "question": "Which of the following medications would be considered an appropriate initial monotherapy for the treatment of obsessive-compulsive disorder after cognitive behavioral therapy?",
+        "options": [
+            "Aripiprazole",
+            "Clomipramine",
+            "Clonazepam",
+            "Fluvoxamine"
+        ],
+        "correctAnswer": "Fluvoxamine",
+        "section": "CNS"
+        }]
+    },
+    {
+        "blockId": "13",
+        "questions":[{
+        "question": "Which of the following is NOT true about fluvoxamine?",
+        "options": [
+            "Fluvoxamine is commonly associated with orthostatic hypotension in elderly patients.",
+            "Fluvoxamine can exaggerate hyponatremias caused by oxcarbazepine if used concomitantly.",
+            "Fluvoxamine is a potent inhibitor of CYP450-1A2 and can interact with clozapine.",
+            "Nausea is particularly prevalent with fluvoxamine."
+        ],
+        "correctAnswer": "Fluvoxamine is commonly associated with orthostatic hypotension in elderly patients.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "14",
+        "questions":[{
+        "question": "Which of the following medications would be considered an appropriate initial treatment for hoarding disorder?",
+        "options": [
+            "Diazepam",
+            "Lithium",
+            "Haloperidol",
+            "Escitalopram"
+        ],
+        "correctAnswer": "Escitalopram",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "15",
+        "questions":[{
+        "question": "Which of the following would be considered the most common side effect to vilazodone?",
+        "options": [
+            "Somnolence",
+            "Constipation",
+            "Dry mouth",
+            "Diarrhea"
+        ],
+        "correctAnswer": "Diarrhea",
+        "section": "CNS"
+        }]
+    },
+    {
+        "blockId": "16",
+        "questions":[{
+        "question": "Which of the following is expected to be the least common adverse reaction reported with the initiation of sertraline in a male patient with depression?",
+        "options": [
+            "Feeling agitated",
+            "Feeling shaky",
+            "Sensitivity to sunlight",
+            "Sexual problems"
+        ],
+        "correctAnswer": "Sensitivity to sunlight",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "17",
+        "questions":[{
+        "question": "All of the following are considered uncommon or rare side effects of fluoxetine, EXCEPT:",
+        "options": [
+            "Teeth grinding",
+            "Apathy",
+            "Hyponatremia",
+            "Tremor"
+        ],
+        "correctAnswer": "Tremor",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "18",
+        "questions":[{
+        "question": "Which of the following is expected to be associated with drug-induced depression, the least?",
+        "options": [
+            "Varenicline",
+            "Propranolol",
+            "Prednisolone",
+            "Atomoxetine"
+        ],
+        "correctAnswer": "Atomoxetine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "19",
+        "questions":[{
+        "question": "Based on available evidence from the literature, which of the following antidepressants is expected to be associated with conduction abnormalities the least?",
+        "options": [
+            "Duloxetine",
+            "Desvenlafaxine",
+            "Nortriptyline",
+            "Escitalopram"
+        ],
+        "correctAnswer": "Duloxetine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "20",
+        "questions":[{
+        "question": "A family physician faxes a pharmacist a request to share the comparative effects of the different selective serotonin reuptake inhibitors on the QTc interval. Which of the following information sources is the most appropriate for the pharmacist to consult in order to respond to the physician's query?",
+        "options": [
+            "The Compendium of Therapeutic Choices",
+            "Cochrane library",
+            "The Compendium of Pharmaceuticals and Specialties",
+            "crediblemeds.org"
+        ],
+        "correctAnswer": "crediblemeds.org",
+        "section": "CNS"
+    },
+    {
+        "question": "A family physician faxes a pharmacist a request to share the comparative effects of the different selective serotonin reuptake inhibitors on the QTc interval. The same family physician visits the pharmacy with a prescription for escitalopram. The pharmacist notices that the prescription was written by the physician himself. What is an appropriate action by the pharmacist on duty?",
+        "options": [
+            "To fill the prescription as is and counsel as they would in standard practice",
+            "To fill the prescription and advise that self-prescribing is unethical",
+            "To refuse to fill the prescription and advise the doctor to see a physician",
+            "To refuse to fill the prescription and report the physician to the regulatory college they are affiliated with"
+        ],
+        "correctAnswer": "To refuse to fill the prescription and advise the doctor to see a physician",
+        "section": "CNS"
+    },
+    {
+        "question": "A family physician faxes a pharmacist a request to share the comparative effects of the different selective serotonin reuptake inhibitors on the QTc interval. The same family physician visits the pharmacy with a prescription for escitalopram. The pharmacist notices that the prescription was written by the physician himself. The same family physician visits the pharmacy with a new prescription for divalproex. While counselling the physician, the pharmacist understands that, when stressed out, the physician frequently touches young female patients inappropriately. What is an appropriate action by the pharmacist?",
+        "options": [
+            "Complete the counselling process and ignore sensitive details to preserve the confidentiality of the patient",
+            "Call the provincial pharmacy regulatory authority to seek advice regarding ethical reporting obligations",
+            "Communicate with the physician's treating practitioner to help correct his conduct",
+            "Warn the physician about legal and professional consequences to cease the behavioral misconduct"
+        ],
+        "correctAnswer": "Call the provincial pharmacy regulatory authority to seek advice regarding ethical reporting obligations",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "21",
+        "questions":[{
+        "question": "A.B is a 21-year-old pregnant woman who was diagnosed with obsessive-compulsive disorder by her psychiatrist and was started on sertraline 50 mg/day, which was upward titrated over 8 weeks to 200 mg/day. After 12 weeks, A.visits her psychiatrist for a follow up and mentions that the treatment helped her only slightly. A.B.’s medical history is also remarkable for migraine headaches for which she occasionally self-treat with over-the-counter naproxen. What is an appropriate therapeutic recommendation at this point?",
+        "options": [
+            "Transcranial magnetic stimulation",
+            "Switch to clomipramine",
+            "Switch to escitalopram. OCD can be difficult to treat. If response to an optimal SSRI dose is NOT adequate or the agent is NOT tolerated, switch to another first-line agent (SSRI) before considering second-line medications. Afterwards, if the response is still inadequate, consider adjunctive therapies [aripiprazole/risperidone or CBT] or switch to a 2 line agent [clomipramine, venlafaxine or mirtazapine].",
+            "Add aripiprazole"
+        ],
+        "correctAnswer": "Switch to escitalopram",
+        "section": "CNS"
+    },
+    {
+        "question": "A.B is a 21-year-old pregnant woman who was diagnosed with obsessive-compulsive disorder by her psychiatrist and was started on sertraline 50 mg/day, which was upward titrated over 8 weeks to 200 mg/day. After 12 weeks, A.visits her psychiatrist for a follow up and mentions that the treatment helped her only slightly. A.B.’s medical history is also remarkable for migraine headaches for which she occasionally self-treat with over-the-counter naproxen. After implementing the adequate treatment plan, which of the following is NOT an appropriate counseling information for A.B.?",
+        "options": [
+            "Most side effects typically subside within 2 weeks of starting therapy.",
+            "It may take up to 3 months for maximum effect.",
+            "It is preferable to take your medication on an empty stomach.",
+            "If you need to use your over-the-counter medication more often, speak to your doctor because this medication may increase the risk of side effects associated with your treatment."
+        ],
+        "correctAnswer": "It is preferable to take your medication on an empty stomach.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "22",
+        "questions":[{
+        "question": "All of the following statements are true about chronic \"combat stress” reactions in a Canadian soldier as a response to the experience of intense traumatic events during wars, EXCEPT:",
+        "options": [
+            "cognitive behavioral therapy has little evidence for reducing symptoms of this soldier's condition.",
+            "sertraline is a first line treatment option to reduce the severity of symptoms of this soldier's condition.",
+            "prazosin is a useful adjunct to manage nightmares often associated with this soldier's condition.",
+            "olanzapine is a useful adjunct for refractory cases of this soldier's condition."
+        ],
+        "correctAnswer": "cognitive behavioral therapy has little evidence for reducing symptoms of this soldier's condition.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "23",
+        "questions":[{
+        "question": "A young woman complains to her primary care physician of daily anxiety related to her work and life at home along with attacks of acute agitation. She was diagnosed with generalized anxiety disorder (GAD). Which of the following medications would be the most appropriate to reduce acute agitation in GAD?",
+        "options": [
+            "Alprazolam",
+            "Imipramine",
+            "Pregabalin",
+            "Sertraline"
+        ],
+        "correctAnswer": "Alprazolam",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "24",
+        "questions":[{
+        "question": "A young woman complains to her primary care physician of daily anxiety related to her work and life at home along with attacks of acute agitation. She was diagnosed with generalized anxiety disorder (GAD). Which of the following is an appropriate choice for the long-term symptom control of anxiety in the aforementioned patient?",
+        "options": [
+            "Imipramine",
+            "Duloxetine",
+            "Ziprasidone",
+            "Lamotrigine"
+        ],
+        "correctAnswer": "Duloxetine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "25",
+        "questions":[{
+        "question": "All of the following are common adverse drug reactions that could be precipitated by the initiation of venlafaxine 37.5 mg/day for social anxiety in a 25-year-old female and that are typically expected to become tolerable on continued use, EXCEPT:",
+        "options": [
+            "dry mouth",
+            "problems with orgasm",
+            "increased sweating",
+            "feeling nervous"
+        ],
+        "correctAnswer": "problems with orgasm",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "26",
+        "questions":[{
+        "question": "Which of the following benzodiazepines is expected to provoke withdrawal symptoms within 12 hours of stopping the drug?",
+        "options": [
+            "Alprazolam",
+            "Clonazepam",
+            "Oxazepam",
+            "Temazepam"
+        ],
+        "correctAnswer": "Alprazolam",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "27",
+        "questions":[{
+        "question": "Which of the following antidepressants carries the lowest risk of withdrawal symptoms upon discontinuation?",
+        "options": [
+            "Fluvoxamine",
+            "Paroxetine",
+            "Escitalopram",
+            "Duloxetine"
+        ],
+        "correctAnswer": "Escitalopram",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "28",
+        "questions":[{
+        "question": "A middle-aged male patient who was diagnosed with a first episode of depression 1 year ago had been stabilized on paroxetine 50 mg/day, and his psychiatrist agreed to the patient's request of a trial to wean him off the antidepressant by tapering it down to 40 mg/day for 6 weeks; however, despite this conservative downward tapering, the patient complained to his doctor of symptoms of dizziness, electric shock sensations, anxiety, impaired concentration, insomnia, nausea, and sweating.\n\nWhat is an appropriate course of action?",
+        "options": [
+            "Resume treatment with paroxetine 50 mg/day and continue for another 6 months before attempting to taper again",
+            "Start fluoxetine 20 mg/day for 1-2 weeks then stop",
+            "Restart paroxetine 50mg/day every other day for 4-6 weeks before tapering it down again",
+            "Restart paroxetine 50 mg/day along with fluoxetine 10 mg/day, then taper venlafaxine by 50% every 5 days until stopped, then discontinue fluoxetine"
+        ],
+        "correctAnswer": "Start fluoxetine 20 mg/day for 1-2 weeks then stop",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "29",
+        "questions":[{
+        "question": "Which of the following drugs or substances may interact with citalopram the most?",
+        "options": [
+            "Codeine",
+            "Etodolac",
+            "Clozapine",
+            "Tyramine"
+        ],
+        "correctAnswer": "Etodolac",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "30",
+        "questions":[{
+        "question": "You want to suggest to a family doctor an antidepressant that possesses the least nauseating effect and that contributes the least to weight gain.\n\nWhat would be your recommendation?",
+        "options": [
+            "Bupropion",
+            "Fluvoxamine",
+            "Mirtazapine",
+            "Clomipramine"
+        ],
+        "correctAnswer": "Bupropion",
+        "section": "CNS"
+        }]
+    },
+    {
+        "blockId": "31",
+        "questions":[{
+        "question": "Which of the following antidepressants could be associated with myoclonic jerks and seizures, particularly, at high doses, the most?",
+        "options": [
+            "Escitalopram",
+            "Vilazodone",
+            "Venlafaxine",
+            "Bupropion"
+        ],
+        "correctAnswer": "Bupropion",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "32",
+        "questions":[{
+        "question": "A 40-year-old lady has been treated for depression with fluoxetine. She visits your pharmacy complaining that fluoxetine caused her significant nausea and stomach upset. She asked you to fax her doctor a list of antidepressant medications that are “not hard on the tummy”.\n\nWhat list of medications would you recommend?",
+        "options": [
+            "Mirtazapine, amitriptyline, and bupropion",
+            "Escitalopram, mirtazapine, and venlafaxine",
+            "Amitriptyline, bupropion, and escitalopram",
+            "Paroxetine, trazodone, and mirtazapine"
+        ],
+        "correctAnswer": "Mirtazapine, amitriptyline, and bupropion",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "33",
+        "questions":[{
+        "question": "All of the following antidepressants are known to be minimally associated with reduced sexuality, EXCEPT:",
+        "options": [
+            "Venlafaxine",
+            "Bupropion",
+            "Moclobemide",
+            "Mirtazapine"
+        ],
+        "correctAnswer": "Venlafaxine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "34",
+        "questions":[{
+        "question": "Which of the following antidepressants might be associated with the lowest risk of “dizzy spells”?",
+        "options": [
+            "Mirtazapine",
+            "Doxepin",
+            "Trazodone",
+            "Venlafaxine"
+        ],
+        "correctAnswer": "Venlafaxine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "35",
+        "questions":[{
+        "question": "Which of the following first-line antidepressants would be the most appealing therapeutic choice in post-myocardial infarction depression?",
+        "options": [
+            "Mirtazapine",
+            "Bupropion",
+            "Sertraline",
+            "Venlafaxine"
+        ],
+        "correctAnswer": "Sertraline",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "36",
+        "questions":[{
+        "question": "Four weeks ago, W.S., a 54-year-old male, been started on venlafaxine (EFFEXOR XR 75 mg/day) for major depressive disorder with a baseline PHQ-9 score of 12. In his most recent clinic visit, W.S. tells his family physician that although he feels that his depression is doing overall significantly better, “a few mornings seem to be still difficult for him”, as he feels unmotivated at times, and, occasionally, he has trouble initiating activities. W.S.’ physician completes a PHQ-9 Quick Depression Assessment with a score of 6. W.S.’ medical history is also remarkable for benign prostatic hyperplasia for which he has been initiated and maintained on tamsulosin 0.4 mg once daily at bedtime. Which of the following therapeutic options is an appropriate strategy to further manage W.S.’ depression?",
+        "options": [
+            "To increase the dose of the current antidepressant",
+            "To consider neurostimulation approaches",
+            "To switch the current antidepressant to a selective serotonin reuptake inhibitor",
+            "To add aripiprazole 2.5 mg/day"
+        ],
+        "correctAnswer": "To increase the dose of the current antidepressant",
+        "section": "CNS"
+    },
+    {
+        "question": "Four weeks ago, W.S., a 54-year-old male, been started on venlafaxine (EFFEXOR XR 75 mg/day) for major depressive disorder with a baseline PHQ-9 score of 12. In his most recent clinic visit, W.S. tells his family physician that although he feels that his depression is doing overall significantly better, “a few mornings seem to be still difficult for him”, as he feels unmotivated at times, and, occasionally, he has trouble initiating activities. W.S.’ physician completes a PHQ-9 Quick Depression Assessment with a score of 6. W.S.’ medical history is also remarkable for benign prostatic hyperplasia for which he has been initiated and maintained on tamsulosin 0.4 mg once daily at bedtime. Which of the following is NOT an appropriate counseling information to be offered by the pharmacist to W.S. with regard to his current treatment therapy?",
+        "options": [
+            "Take your antidepressant pills once in the morning with food",
+            "If you miss a dose, there is a chance that you may experience “discontinuation symptoms.”",
+            "If you miss a dose of venlafaxine, take it as soon as you remember, unless it is closer to the time of your next dose.",
+            "Pay particular attention to new or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if you continue the treatment for 6 or more months"
+        ],
+        "correctAnswer": "Pay particular attention to new or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if you continue the treatment for 6 or more months",
+        "section": "CNS"
+    },
+    {
+        "question": "Four weeks ago, W.S., a 54-year-old male, been started on venlafaxine (EFFEXOR XR 75 mg/day) for major depressive disorder with a baseline PHQ-9 score of 12. In his most recent clinic visit, W.S. tells his family physician that although he feels that his depression is doing overall significantly better, “a few mornings seem to be still difficult for him”, as he feels unmotivated at times, and, occasionally, he has trouble initiating activities. W.S.’ physician completes a PHQ-9 Quick Depression Assessment with a score of 6. W.S.’ medical history is also remarkable for benign prostatic hyperplasia for which he has been initiated and maintained on tamsulosin 0.4 mg once daily at bedtime. The pharmacist receives a new prescription for W.S. Aware of the fact that only a few studies address residual depressive symptoms (e.g., 50% improvement but symptom score is not in remission range), the pharmacist would like to learn more about augmentation therapies in such case.\n\nWhich of the following seems like a reasonable option for the pharmacist to achieve this goal?",
+        "options": [
+            "Participating in local meetings of the Canadian Psychiatric Association",
+            "Partaking in psychiatry grand rounds",
+            "Exploring continuing pharmacy education events",
+            "Attending international psychiatry conferences"
+        ],
+        "correctAnswer": "Exploring continuing pharmacy education events",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "37",
+        "questions":[{
+        "question": "All of the following statements are true regarding the management of major depressive disorder for a 34-year-old female on desvenlafaxine 50 mg/day (PRISTIQ), EXCEPT:",
+        "options": [
+            "the risk of withdrawal symptoms with desvenlafaxine is minimal due to its long half-life.",
+            "neurostimulation might prove effective at controlling refractory cases of major depression.",
+            "intranasal esketamine may be reserved as a treatment for treatment-resistant depression.",
+            "depression not fully responding to 2 or more trials of antidepressant monotherapy may be treated with an adjunctive atypical antipsychotic."
+        ],
+        "correctAnswer": "the risk of withdrawal symptoms with desvenlafaxine is minimal due to its long half-life.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "38",
+        "questions":[{
+        "question": "Which of the following is the least clinically significant monitoring parameter to consider for a severely depressed 23-year-old male patient who is on escitalopram 20 mg/day and methadone 90 mg once daily?",
+        "options": [
+            "Suicidal ideation",
+            "BMD",
+            "Sexual dysfunction",
+            "EKG"
+        ],
+        "correctAnswer": "BMD",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "39",
+        "questions":[{
+        "question": "N.is an obese diabetic 42-year-old field engineer who was diagnosed with major depression. His family doctor prescribed sertraline 50 mg once daily. After 4 weeks, N.visits his doctor for a follow up and mentions that although he sleeps better and feels that his condition somewhat improved, the new medication is considerably affecting his sex drive and ejaculation. What is the most appropriate action to be taken by his doctor?",
+        "options": [
+            "Reduce the dose of sertraline to 25 mg once daily and add olanzapine 5 mg at bedtime.",
+            "Switch sertraline to mirtazapine 15 mg at bedtime.",
+            "Reduce the dose of sertraline to 25 mg once daily.",
+            "Switch sertraline to fluoxetine 20 mg once daily at bedtime."
+        ],
+        "correctAnswer": "Switch sertraline to fluoxetine 20 mg once daily at bedtime.",
+        "section": "CNS"
+    },
+    {
+        "question": "N.is an obese diabetic 42-year-old field engineer who was diagnosed with major depression. His family doctor prescribed sertraline 50 mg once daily. After 4 weeks, N.visits his doctor for a follow up and mentions that although he sleeps better and feels that his condition somewhat improved, the new medication is considerably affecting his sex drive and ejaculation. N.was referred to a psychiatrist who decides to switch the patient to desvenlafaxine 50 mg extended-release tablets once daily. The psychiatrist calls the pharmacist to inquire about a strategy that would enable switching N.from sertraline to desvenlafaxine while maintaining some control over his depressive symptoms. What is the most appropriate suggestion by the pharmacist?",
+        "options": [
+            "Stop sertraline and wait 7 days before starting desvenlafaxine.",
+            "Reduce sertraline dose gradually over 2 weeks and then start desvenlafaxine.",
+            "Start desvenlafaxine and then stop sertraline by tapering its dose over 7 days.",
+            "Stop sertraline and start desvenlafaxine on the next day."
+        ],
+        "correctAnswer": "Start desvenlafaxine and then stop sertraline by tapering its dose over 7 days.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "40",
+        "questions":[{
+        "question": "ZE is a 54-year-old postmenopausal female patient who had been stable on lithium for bipolar disorder. ZE complains to her psychiatrist of episodes of feeling “touchy”. ZE’s psychiatrist adds divalproex to her current therapy. The patient smokes 10-15 cigarettes/day and drinks occasionally a glass of wine with her suppers. ZE drinks 4-5 large cups of coffee in the morning. ZE had been stable on olmesartan-hydrochlorothiazide 20/12.5 mg combination pill once daily for her essential hypertension, which was recently increased to 40/25 mg once daily for further control of her blood pressure. She eats healthy according to the Canadian guidelines, and she mentions that she has just started a crash diet that will be followed by a vegetarian diet to further control her blood pressure. ZE's creatinine clearance over the last 6 months is averaging 52 mL/min. Which of the following factors would concern the pharmacist the least, with respect to lithium therapy in ZE?",
+        "options": [
+            "The patient's diet.",
+            "The patient's kidney function.",
+            "The patient’s blood pressure medication.",
+            "The patient's concomitantly administered mood stabilizer"
+        ],
+        "correctAnswer": "The patient's concomitantly administered mood stabilizer",
+        "section": "CNS"
+    },
+    {
+        "question": "ZE is a 54-year-old postmenopausal female patient who had been stable on lithium for bipolar disorder. ZE complains to her psychiatrist of episodes of feeling “touchy”. ZE’s psychiatrist adds divalproex to her current therapy. The patient smokes 10-15 cigarettes/day and drinks occasionally a glass of wine with her suppers. ZE drinks 4-5 large cups of coffee in the morning. ZE had been stable on olmesartan-hydrochlorothiazide 20/12.5 mg combination pill once daily for her essential hypertension, which was recently increased to 40/25 mg once daily for further control of her blood pressure. She eats healthy according to the Canadian guidelines, and she mentions that she has just started a crash diet that will be followed by a vegetarian diet to further control her blood pressure. ZE's creatinine clearance over the last 6 months is averaging 52 mL/min. What is an appropriate recommendation by the pharmacist with respect to ZE’s current therapy?",
+        "options": [
+            "Increase lithium dose by 30% and monitor serum levels",
+            "Maintain lithium dose as is and monitor serum levels",
+            "Reduce lithium dose by 30% and monitor serum levels",
+            "Avoid low-sodium diet"
+        ],
+        "correctAnswer": "Reduce lithium dose by 30% and monitor serum levels",
+        "section": "CNS"
+    },
+    {
+        "question": "ZE is a 54-year-old postmenopausal female patient who had been stable on lithium for bipolar disorder. ZE complains to her psychiatrist of episodes of feeling “touchy”. ZE’s psychiatrist adds divalproex to her current therapy. The patient smokes 10-15 cigarettes/day and drinks occasionally a glass of wine with her suppers. ZE drinks 4-5 large cups of coffee in the morning. ZE had been stable on olmesartan-hydrochlorothiazide 20/12.5 mg combination pill once daily for her essential hypertension, which was recently increased to 40/25 mg once daily for further control of her blood pressure. She eats healthy according to the Canadian guidelines, and she mentions that she has just started a crash diet that will be followed by a vegetarian diet to further control her blood pressure. ZE's creatinine clearance over the last 6 months is averaging 52 mL/min. ZE complains to her psychiatrist of pustular acne lesions on her limbs and trunk. She had no history of acne or other dermatologic conditions. What is the most likely culprit?",
+        "options": [
+            "Lithium therapy",
+            "Hormonal acne",
+            "Rosacea",
+            "Divalproex therapy"
+        ],
+        "correctAnswer": "Lithium therapy",
+        "section": "CNS"
+    },
+    {
+        "question": "ZE is a 54-year-old postmenopausal female patient who had been stable on lithium for bipolar disorder. ZE complains to her psychiatrist of episodes of feeling “touchy”. ZE’s psychiatrist adds divalproex to her current therapy. The patient smokes 10-15 cigarettes/day and drinks occasionally a glass of wine with her suppers. ZE drinks 4-5 large cups of coffee in the morning. ZE had been stable on olmesartan-hydrochlorothiazide 20/12.5 mg combination pill once daily for her essential hypertension, which was recently increased to 40/25 mg once daily for further control of her blood pressure. She eats healthy according to the Canadian guidelines, and she mentions that she has just started a crash diet that will be followed by a vegetarian diet to further control her blood pressure. ZE's creatinine clearance over the last 6 months is averaging 52 mL/min. What would be an initial treatment option for ZE’s acne?",
+        "options": [
+            "Attempt to reduce lithium dose",
+            "Isotretinoin",
+            "Topical tretinoin",
+            "Doxycycline"
+        ],
+        "correctAnswer": "Attempt to reduce lithium dose",
+        "section": "CNS"
+    }]
+    },
+    
+    {
+        "blockId": "41",
+        "questions":[{
+        "question": "SP, a 47 year old regular pharmacy patient who was diagnosed with bipolar disorder and uses divalproex sodium 500 mg twice daily as a mood stabilizer. SP's medical history is also remarkable for active psoriasis vulgaris around the belly button and on the arms, back & chest which he uses topical calcipotriol betamethasone dipropionate (Dovobet gel). SP's most recent valporic acid serum levle is 450 mcmol/L (Desired blood range: 350-700 mcmol/L) and his eGFR is 103mL/min/1.73m^2. SP drinks a cup of coffee in the morning and has a 50 pack year smoking history; however, he denies drinking alcohol except socially. SP is not using any other prescription drugs or over the counter medications. During SP's last visit at the pharmacy, the pharmacist notices that he seems hyperverbal than usual. His speech is pressured, and he would not let the pharmacist interrupt. The pharmacist suspects a relapse into a hypomanic episode. Which of the following symptoms would also be indicative of a hypomanic episode?",
+        "options": [
+            "Increased need for sleep",
+            "Increased talkativeness",
+            "Recurrent thoughts of death",
+            "Inappropriate guilty feelings"
+        ],
+        "correctAnswer": "Increased talkativeness",
+        "section": "CNS"
+    },
+    {
+        "question": "SP, a 47 year old regular pharmacy patient who was diagnosed with bipolar disorder and uses divalproex sodium 500 mg twice daily as a mood stabilizer. SP's medical history is also remarkable for active psoriasis vulgaris around the belly button and on the arms, back & chest which he uses topical calcipotriol betamethasone dipropionate (Dovobet gel). SP's most recent valporic acid serum levle is 450 mcmol/L (Desired blood range: 350-700 mcmol/L) and his eGFR is 103mL/min/1.73m^2. SP drinks a cup of coffee in the morning and has a 50 pack year smoking history; however, he denies drinking alcohol except socially. SP is not using any other prescription drugs or over the counter medications. During SP's last visit at the pharmacy, the pharmacist notices that he seems hyperverbal than usual. His speech is pressured, and he would not let the pharmacist interrupt. The pharmacist suspects a relapse into a hypomanic episode. Considering SP's current symptoms, the pharmacist reviews his pharmacotherapy regimen and confirms adherence to treatment. Which of the following regarding treatment with divalproex in bipolar disorder is true?",
+        "options": [
+            "Divalproex is not effective in preventing manic episodes.",
+            "Divalproex requires serum concentration monitoring to optimize efficacy.",
+            "Divalproex requires much higher doses than when used for seizure disorders.",
+            "Divalproex is not effective in the treatment of bipolar depressive episodes."
+        ],
+        "correctAnswer": "Divalproex is not effective in the treatment of bipolar depressive episodes.",
+        "section": "CNS"
+    },
+    {
+        "question": "SP, a 47 year old regular pharmacy patient who was diagnosed with bipolar disorder and uses divalproex sodium 500 mg twice daily as a mood stabilizer. SP's medical history is also remarkable for active psoriasis vulgaris around the belly button and on the arms, back & chest which he uses topical calcipotriol betamethasone dipropionate (Dovobet gel). SP's most recent valporic acid serum levle is 450 mcmol/L (Desired blood range: 350-700 mcmol/L) and his eGFR is 103mL/min/1.73m^2. SP drinks a cup of coffee in the morning and has a 50 pack year smoking history; however, he denies drinking alcohol except socially. SP is not using any other prescription drugs or over the counter medications. During SP's last visit at the pharmacy, the pharmacist notices that he seems hyperverbal than usual. His speech is pressured, and he would not let the pharmacist interrupt. The pharmacist suspects a relapse into a hypomanic episode. In his most recent visit to the neurologist 3 months later, SP appears to be quiet and sad. SP tells his neurologist that he feels anxious, and he is getting repeated crying spells. SP adds that he does not find pleasure in doing anything lately. Consequently, the neurologist notes that SP is suffering a bipolar relapse despite being adherent to his medication. Which of the following would be the most appropriate course of action?",
+        "options": [
+            "Increase the dose of divalproex and re-evaluate in 2-4 weeks",
+            "Continue divalproex and add aripiprazole",
+            "Continue on divalproex and add quetiapine",
+            "Stop divalproex and start citalopram"
+        ],
+        "correctAnswer": "Continue on divalproex and add quetiapine",
+        "section": "CNS"
+    },
+    {
+        "question": "SP, a 47 year old regular pharmacy patient who was diagnosed with bipolar disorder and uses divalproex sodium 500 mg twice daily as a mood stabilizer. SP's medical history is also remarkable for active psoriasis vulgaris around the belly button and on the arms, back & chest which he uses topical calcipotriol betamethasone dipropionate (Dovobet gel). SP's most recent valporic acid serum levle is 450 mcmol/L (Desired blood range: 350-700 mcmol/L) and his eGFR is 103mL/min/1.73m^2. SP drinks a cup of coffee in the morning and has a 50 pack year smoking history; however, he denies drinking alcohol except socially. SP is not using any other prescription drugs or over the counter medications. During SP's last visit at the pharmacy, the pharmacist notices that he seems hyperverbal than usual. His speech is pressured, and he would not let the pharmacist interrupt. The pharmacist suspects a relapse into a hypomanic episode. In his most recent visit to the neurologist 3 months later, SP appears to be quiet and sad. SP tells his neurologist that he feels anxious, and he is getting repeated crying spells. SP adds that he does not find pleasure in doing anything lately. Consequently, the neurologist notes that SP is suffering a bipolar relapse despite being adherent to his medication. Four weeks later, SP visits his pharmacy and tells the pharmacist that after implementing the most recent treatment change, he feels much better and thinks he is back on track. However, he explains to the pharmacist that he is interested to make some serious changes to his lifestyle and that he would start by quitting smoking. The pharmacist congratulates SP for his decision and agrees with him to schedule an appointment to discuss smoking cessation aids that are suitable for him. Which of the following smoking cessation choices would be the most appropriate for SP?",
+        "options": [
+            "Varenicline",
+            "Bupropion",
+            "Nicotine 21 and 7 mg patches to be applied simultaneously",
+            "Nicotine 21 mg patch"
+        ],
+        "correctAnswer": "Varenicline",
+        "section": "CNS"
+    },
+    {
+        "question": "SP, a 47 year old regular pharmacy patient who was diagnosed with bipolar disorder and uses divalproex sodium 500 mg twice daily as a mood stabilizer. SP's medical history is also remarkable for active psoriasis vulgaris around the belly button and on the arms, back & chest which he uses topical calcipotriol betamethasone dipropionate (Dovobet gel). SP's most recent valporic acid serum levle is 450 mcmol/L (Desired blood range: 350-700 mcmol/L) and his eGFR is 103mL/min/1.73m^2. SP drinks a cup of coffee in the morning and has a 50 pack year smoking history; however, he denies drinking alcohol except socially. SP is not using any other prescription drugs or over the counter medications. During SP's last visit at the pharmacy, the pharmacist notices that he seems hyperverbal than usual. His speech is pressured, and he would not let the pharmacist interrupt. The pharmacist suspects a relapse into a hypomanic episode. In his most recent visit to the neurologist 3 months later, SP appears to be quiet and sad. SP tells his neurologist that he feels anxious, and he is getting repeated crying spells. SP adds that he does not find pleasure in doing anything lately. Consequently, the neurologist notes that SP is suffering a bipolar relapse despite being adherent to his medication. Four weeks later, SP visits his pharmacy and tells the pharmacist that after implementing the most recent treatment change, he feels much better and thinks he is back on track. However, he explains to the pharmacist that he is interested to make some serious changes to his lifestyle and that he would start by quitting smoking. The pharmacist congratulates SP for his decision and agrees with him to schedule an appointment to discuss smoking cessation aids that are suitable for him. Which of the following measures does the pharmacist need also to counsel SP about at the time of quitting smoking?",
+        "options": [
+            "Speak with your doctor to consider adjunct nicotine inhaler therapy",
+            "Speak with your doctor to consider monitoring your kidney function on regular basis",
+            "Speak with your doctor to consider increasing the dose of your mood stabilizer",
+            "Speak with your doctor to consider reducing the dose of your mood stabilizer"
+        ],
+        "correctAnswer": "Speak with your doctor to consider adjunct nicotine inhaler therapy",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "42",
+        "questions":[{
+        "question": "Which of the following symptomatology is more suggestive of unipolarity of depression to help distinguish it from bipolar illness?",
+        "options": [
+            "Self-harming thoughts",
+            "Provocative behavior",
+            "Loss of energy",
+            "Impulsive behavior"
+        ],
+        "correctAnswer": "Loss of energy",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "43",
+        "questions":[{
+        "question": "All of the following are appropriate monitoring parameters for lithium therapy in patients with bipolar disorder, EXCEPT:",
+        "options": [
+            "TSH",
+            "Hypertrichosis",
+            "Movement disorder",
+            "SCr"
+        ],
+        "correctAnswer": "Hypertrichosis",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "44",
+        "questions":[{
+        "question": "Which of the following is NOT true regarding the use of lithium in bipolar disorder?",
+        "options": [
+            "Lithium interferes with calcium homeostasis.",
+            "Lithium does not interfere with the cognitive function of bipolar patients.",
+            "Lithium interacts with non-steroidal anti-inflammatory drugs.",
+            "Lithium has more antimanic effects than antidepressant effects in bipolar affective disorder."
+        ],
+        "correctAnswer": "Lithium does not interfere with the cognitive function of bipolar patients.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "45",
+        "questions":[{
+        "question": "All of the following options are true regarding the control of lithium-induced tremors that could emerge as a common adverse reaction in the therapy of bipolar depression, EXCEPT:",
+        "options": [
+            "Targeting a dose at the lower end of the conventional therapeutic range.",
+            "Adding low-dose beta-blocker.",
+            "Using a sustained release formulation rather than an immediate release one.",
+            "Using divided daily doses rather than once daily dosing."
+        ],
+        "correctAnswer": "Using divided daily doses rather than once daily dosing.",
+        "section": "CNS"
+        }]
+    },
+    {
+        "blockId": "46",
+        "questions":[{
+        "question": "L.Mc. is a 28-year-old female patient who was diagnosed with bipolar disorder and potential suicidality & was started and stabilized on lithium 300 mg TID with adequate serum levels. Today, L.Mc. visits her psychiatrist and complains of low mood, crying spells and profound sadness symptoms that she developed over the last couple of weeks. L.Mc. is currently on a 21-day regimen of birth control pills, and she denies drinking alcohol or using any recreational drugs. Which of the following options is the least appropriate therapeutic plan for L.Mc.?",
+        "options": [
+            "Add lurasidone to current lithium",
+            "Add lamotrigine to current lithium",
+            "Add quetiapine to current lithium",
+            "Add bupropion to current lithium"
+        ],
+        "correctAnswer": "Add lamotrigine to current lithium",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "47",
+        "questions":[{
+        "question": "JL is a 58-year-old married woman whose medical history is remarkable for infertility and recurrent depressive episodes for which she received several antidepressants including escitalopram, fluoxetine, and paroxetine at various times over the past 12 years. JL denies using drugs and drinks alcohol only socially. Over the past 2 years, JL had been stable on venlafaxine XR 150 mg treatment. However, vortioxetine 10 mg was initiated within a month of gradually discontinuing venlafaxine XR 150 mg due to bothersome symptoms of cognitive impairment and attention difficulties. When JL visited her psychiatrist for follow-up, she had symptoms of insomnia, increased self-confidence, talkativeness, hyperactivity, euphoria, and irritability in the outpatient clinic; she had been using vortioxetine 10 mg for the past ten days. The psychiatrist made a diagnosis of bipolar II disorder. JL’s most recent creatinine clearance is 45 mL/min. What is the most appropriate course of action?",
+        "options": [
+            "Discontinue vortioxetine and start lithium",
+            "Reduce the dose of vortioxetine to 5 mg",
+            "Taper down vortioxetine then stop it and start valproic acid",
+            "Add quetiapine to the current vortioxetine"
+        ],
+        "correctAnswer": "Taper down vortioxetine then stop it and start valproic acid",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "48",
+        "questions":[{
+        "question": "Which of the following mood stabilizers if used in a bipolar patient might necessitate temporarily withholding therapy, the most, if the patient catches the flu and complains of fever and diarrhea?",
+        "options": [
+            "Lamotrigine",
+            "Lithium",
+            "Divalproex",
+            "Olanzapine"
+        ],
+        "correctAnswer": "Lithium",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "49",
+        "questions":[{
+        "question": "For which of the following drugs is the concomitant administration of carbamazepine expected to result in an increase in drug clearance and reduction in serum drug levels?",
+        "options": [
+            "Rivastigmine",
+            "Aripiprazole",
+            "Lithium",
+            "Sumatriptan"
+        ],
+        "correctAnswer": "Aripiprazole",
+        "section": "CNS"
+        }]
+    },
+    {
+        "blockId": "50",
+        "questions":[{
+        "question": "Which of the following is NOT a risk factor for paranoid schizophrenia?",
+        "options": [
+            "Traumatic experiences",
+            "Female gender",
+            "Cannabis use",
+            "Family history"
+        ],
+        "correctAnswer": "Female gender",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "51",
+        "questions":[{
+        "question": "All of the following are possible side effects after consuming cannabis, EXCEPT:",
+        "options": [
+            "Tachycardia",
+            "Conjunctivitis",
+            "Disinhibition",
+            "Anorexia"
+        ],
+        "correctAnswer": "Anorexia",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "52",
+        "questions":[{
+        "question": "The psychoactive effect of marijuana is predominantly caused by:",
+        "options": [
+            "Delta-8-tetrahydrocannabinol",
+            "Cannabitriol",
+            "Cannabidiol",
+            "Delta-9-tetrahydrocannabinol"
+        ],
+        "correctAnswer": "Delta-9-tetrahydrocannabinol",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "53",
+        "questions":[{
+        "question": "Which of the following is true regarding the treatment of a 23-year-old male diagnosed with schizophrenia manifesting as racing thoughts, irritability, anhedonia, delusions, and an inflated ego?",
+        "options": [
+            "Pharmacotherapy for at least 5 years is recommended for schizophrenic patients with a second episode of acute psychosis.",
+            "Cognitive behavioral therapy is equally effective to pharmacotherapy for schizophrenic patients.",
+            "Collateral information has a trivial value when it comes to psychiatric assessment of schizophrenia.",
+            "Second-generation antipsychotics are more effective than first-generation antipsychotics at reducing negative symptoms of schizophrenia."
+        ],
+        "correctAnswer": "Pharmacotherapy for at least 5 years is recommended for schizophrenic patients with a second episode of acute psychosis.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "54",
+        "questions":[{
+        "question": "Which of the following is NOT true regarding paliperidone palmitate prolonged-release injectable suspension (INVEGA SUSTENA™)?",
+        "options": [
+            "It should not be initiated unless tolerability with oral risperidone had been established.",
+            "Its dose should be adjusted in patients with creatinine clearance of 60 mL/min.",
+            "It does not need to be stored refrigerated until the time of injection.",
+            "If a patient misses his monthly shot by less than 2 weeks, administer the monthly maintenance dose following the usual schedule."
+        ],
+        "correctAnswer": "Its dose should be adjusted in patients with creatinine clearance of 60 mL/min.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "55",
+        "questions":[{
+        "question": "Which of the following drugs is NOT indicated for paranoid delusions?",
+        "options": [
+            "Vortioxetine",
+            "Loxapine",
+            "Asenapine",
+            "Quetiapine"
+        ],
+        "correctAnswer": "Vortioxetine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "56",
+        "questions":[{
+        "question": "Which of the following is the most appropriate drug choice in a diabetic patient who has just been diagnosed with schizophrenia?",
+        "options": [
+            "Aripiprazole",
+            "Clozapine",
+            "Lamotrigine",
+            "Haloperidol"
+        ],
+        "correctAnswer": "Aripiprazole",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "57",
+        "questions":[{
+        "question": "Which of the following antipsychotics is best suited for a 52-year-old male (BMI = 36 lbs/in²) with chronic undifferentiated schizophrenia? Patient's Medication Profile: Lisinopril/hydrochlorothiazide 20/25 mg AM, Atorvastatin 40 mg HS (LDL-C = 3.1 mmol/L)",
+        "options": [
+            "Olanzapine",
+            "Loxapine",
+            "Ziprasidone",
+            "Risperidone"
+        ],
+        "correctAnswer": "Ziprasidone",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "58",
+        "questions":[{
+        "question": "Which of the following antipsychotics might be least suited for a 47-year-old male (BMI = 18 lbs/in²) with substance-induced psychotic disorder? Patient's Medication Profile: - Lisinopril 20 mg AM - Metoprolol 100 mg BID (dose titrated from 12.5 mg BID over 4 weeks) - Warfarin 5.5 mg PM (INR 2.5) - Clopidogrel 75 mg AM (discontinue in 12 months) - ASA 81 mg AM (discontinue in 12 weeks) - Docusate sodium 100 mg q4-6 h PRN (avoid straining during bowel movements) - Temazepam 7.5 mg PRN HS - Atorvastatin 80 mg HS",
+        "options": [
+            "Risperidone",
+            "Aripiprazole",
+            "Ziprasidone",
+            "Asenapine"
+        ],
+        "correctAnswer": "Ziprasidone",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "59",
+        "questions":[{
+        "question": "K.Q. is a 62-year-old heavy smoker male who was diagnosed with Cluster A personality disorder after persistently showing eccentric thoughts, suspiciousness, digressive speech, and social anhedonia. K.Q.'s history is remarkable for diabetes and coronary artery disease. Which of the following drugs would be an appropriate pharmacotherapeutic choice for K.Q.’s mental health issue?",
+        "options": [
+            "Quetiapine",
+            "Aripiprazole",
+            "Haloperidol",
+            "Olanzapine"
+        ],
+        "correctAnswer": "Aripiprazole",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "60",
+        "questions":[{
+        "question": "Which of the following is the least likely side effect to oral olanzapine in a 79-year-old dementia patient?",
+        "options": [
+            "Increased appetite",
+            "Sweating",
+            "Akathisia",
+            "Falls"
+        ],
+        "correctAnswer": "Sweating",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "61",
+        "questions":[{
+        "question": "Which of the following side effects would be the most likely encountered in a 79-year-old dementia patient on oral olanzapine?",
+        "options": [
+            "Photosensitivity",
+            "Diarrhea",
+            "Tremor",
+            "Bradycardia"
+        ],
+        "correctAnswer": "Tremor",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "62",
+        "questions":[{
+        "question": "Which of the following parameters needs to be monitored the least in a patient on quetiapine for substance-induced psychosis?",
+        "options": [
+            "Electrocardiogram and heart rate",
+            "Bowel movement",
+            "Nausea and vomiting",
+            "Serum sodium"
+        ],
+        "correctAnswer": "Nausea and vomiting",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "63",
+        "questions":[{
+        "question": "Which of the following monitoring parameters would be the most clinically significant in a patient on lurasidone?",
+        "options": [
+            "CBC",
+            "SCr",
+            "LDL-C",
+            "Electrolyte levels"
+        ],
+        "correctAnswer": "SCr",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "64",
+        "questions":[{
+        "question": "L.F.'s symptoms denote the most possible diagnosis of obsessive-compulsive disorder. Which of the following symptoms indicates this?",
+        "options": [
+            "Energized behavior and an inflated ego",
+            "Auditory hallucinations",
+            "Aggressive behavior and irritability",
+            "Intrusive thoughts triggering impulsive behaviors"
+        ],
+        "correctAnswer": "Intrusive thoughts triggering impulsive behaviors",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "65",
+        "questions":[{
+        "question": "L.F. arrives at the psychiatric department and appears to be excessively agitated. He is 'mouthy' and yelling at everyone, including the medical staff. What is an appropriate choice for L.F.?",
+        "options": [
+            "Electroconvulsive therapy STAT",
+            "Restrain the patient and administer intramuscular haloperidol and midazolam STAT",
+            "Orally disintegrating risperidone tablets (RISPERDAL M-Tab™) STAT",
+            "Attempt to calm down the patient then administer intramuscular olanzapine and diazepam STAT"
+        ],
+        "correctAnswer": "Restrain the patient and administer intramuscular haloperidol and midazolam STAT",
+        "section": "CNS"
+    },
+    {
+        "question": "L.F. arrives at the psychiatric department and appears to be excessively agitated. He is 'mouthy' and yelling at everyone, including the medical staff. Which of the following medications would be considered an appropriate initial pharmacological option for the ongoing treatment of L.F.’s condition?",
+        "options": [
+            "Olanzapine",
+            "Clonazepam",
+            "Clomipramine",
+            "Clozapine"
+        ],
+        "correctAnswer": "Olanzapine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "66",
+        "questions":[{
+        "question": "All of the following options are considered first-line options for mania-related agitation in a psychotic patient who presents to the hospital emergency room with aggressive and hostile behavior, EXCEPT:",
+        "options": [
+            "Intramuscular haloperidol",
+            "Intramuscular lorazepam",
+            "Sublingual asenapine",
+            "Intramuscular aripiprazole"
+        ],
+        "correctAnswer": "Sublingual asenapine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "67",
+        "questions":[{
+        "question": "Which of the following agents may significantly interact with clozapine?",
+        "options": [
+            "Paroxetine",
+            "Carbamazepine",
+            "Nicotine",
+            "Caffeine"
+        ],
+        "correctAnswer": "Carbamazepine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "68",
+        "questions":[{
+        "question": "Which of the following medications if added to clozapine therapy will necessitate a significant dose reduction of clozapine?",
+        "options": [
+            "Combined hormonal contraceptives",
+            "Fluvoxamine",
+            "Itraconazole",
+            "Simvastatin"
+        ],
+        "correctAnswer": "Fluvoxamine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "69",
+        "questions":[{
+        "question": "Life-threatening adverse drug manifestation for a psychotic patient on olanzapine and a depressed patient on citalopram have the following symptoms in common, EXCEPT:",
+        "options": [
+            "Vomiting and diarrhea",
+            "Hyperpyrexia and diaphoresis",
+            "Altered mental status and confusion",
+            "Muscle stiffness and myoclonus"
+        ],
+        "correctAnswer": "Vomiting and diarrhea",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "70",
+        "questions":[{
+        "question": "Which of the following is NOT true regarding neuroleptic malignant syndrome?",
+        "options": [
+            "The most important intervention is to discontinue all antipsychotics abruptly.",
+            "Assessment of creatine kinase level is imperative for diagnostic evaluation of NMS-related rhabdomyolysis.",
+            "Central dopaminergic antiemetics could cause a similar pathophysiological condition.",
+            "It is due to a dose-dependent antipsychotic drug reaction."
+        ],
+        "correctAnswer": "It is due to a dose-dependent antipsychotic drug reaction.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "71",
+        "questions":[{
+        "question": "Which of the following is false regarding serotonergic syndrome?",
+        "options": [
+            "Symptoms subside within a few hours from stopping the offending agent.",
+            "It is an idiosyncratic side effect due to selective serotonin reuptake inhibitors.",
+            "It is likely associated with mydriasis.",
+            "The widespread use of the SSRIs might contribute to the prevalence of the syndrome."
+        ],
+        "correctAnswer": "It is an idiosyncratic side effect due to selective serotonin reuptake inhibitors.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "72",
+        "questions":[{
+        "question": "Differential diagnosis tips to distinguish between neuroleptic malignant syndrome and serotonergic syndrome include all of the following, EXCEPT:",
+        "options": [
+            "Both are potentially fatal dysautonomias which are associated with hyperreflexia.",
+            "The time course of precipitation and resolution for the latter condition is faster than the former.",
+            "Elevated serum creatine kinase and rhabdomyolysis could be a feature common to both.",
+            "The former has the potential to cause much more pronounced muscle rigidity and bradykinesia as opposed to myoclonus featured by the latter."
+        ],
+        "correctAnswer": "Both are potentially fatal dysautonomias which are associated with hyperreflexia.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "73",
+        "questions":[{
+        "question": "Sh. S. is a 70-year-old female patient stabilized on levodopa/carbidopa, clonazepam, and trihexyphenidyl for Parkinson's disease, who presents with symptoms including fever, delirium, muscle stiffness, agitation, and elevated creatine kinase. Which of the following is NOT an option regarding Sh. S.'s condition?",
+        "options": [
+            "Intravenous acetaminophen to control hyperpyrexia.",
+            "Fluid replacement to correct electrolyte disturbance and to prevent renal failure.",
+            "Prompt reinstitution of levodopa/carbidopa plus bromocriptine to prevent renal failure.",
+            "Haloperidol injection to control agitation."
+        ],
+        "correctAnswer": "Haloperidol injection to control agitation.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "74",
+        "questions":[{
+        "question": "V.T. is a 43-year-old male diagnosed with cyclothemic depressive symptoms. He reports episodes of 'heat' without stiff muscles, irregular pulse, or heart racing. What is the most appropriate response to the patient's query?",
+        "options": [
+            "Moderate your exercise, drink plenty of water, avoid hot weather, and use acetaminophen PRN.",
+            "Your profile shows a drug-disease interaction that might be causing your symptoms.",
+            "You might benefit from a dose reduction of your antipsychotic.",
+            "Stop risperidone immediately as you might be at risk of a potentially fatal drug complication."
+        ],
+        "correctAnswer": "Moderate your exercise, drink plenty of water, avoid hot weather, and use acetaminophen PRN.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "75",
+        "questions":[{
+        "question": "Which of the following conditions is associated with an ongoing loss of skeletal muscle mass and a negative protein balance in an anorexic cancer patient?",
+        "options": [
+            "Muscle dystrophy",
+            "Bulimia",
+            "Cachexia",
+            "Orthorexia"
+        ],
+        "correctAnswer": "Cachexia",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "76",
+        "questions":[{
+        "question": "Which of the following disorders is associated with refeeding syndrome the most?",
+        "options": [
+            "Cancer",
+            "Heart failure",
+            "Bulimia nervosa",
+            "Anorexia nervosa"
+        ],
+        "correctAnswer": "Anorexia nervosa",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "77",
+        "questions":[{
+        "question": "All of the following are likely serious consequences secondary to refeeding syndrome, EXCEPT:",
+        "options": [
+            "Seizures",
+            "Stroke",
+            "Heart failure",
+            "Arrhythmias"
+        ],
+        "correctAnswer": "Stroke",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "78",
+        "questions":[{
+        "question": "Bulimia nervosa of the purging type may be associated with the misuse of all of the following, EXCEPT:",
+        "options": [
+            "Enemas",
+            "Furosemide",
+            "Ginger tincture",
+            "Ipecac syrup"
+        ],
+        "correctAnswer": "Ginger tincture",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "79",
+        "questions":[{
+        "question": "Which of the following features is NOT characteristic for a bulimic patient of the non-purging type?",
+        "options": [
+            "Obsession about body weight and image",
+            "Weight fluctuations",
+            "Electrolyte imbalance",
+            "Enlarged cheeks or jaw area"
+        ],
+        "correctAnswer": "Electrolyte imbalance",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "80",
+        "questions":[{
+        "question": "Which of the following drugs would be a least preferred agent to manage binge eating and purging behaviors in a young female patient diagnosed with bulimia nervosa who complains of insomnia?",
+        "options": [
+            "Mirtazapine",
+            "Ondansetron",
+            "Trazodone",
+            "Fluoxetine"
+        ],
+        "correctAnswer": "Mirtazapine",
+        "section": "CNS"
+    },
+    {
+        "question": "Which of the following drugs would be a least preferred agent to manage binge eating and purging behaviors in a young female patient diagnosed with bulimia nervosa who complains of insomnia? The aforementioned bulimic patient responds well to the recommended therapeutic choice. She asks you for how long she needs to take the medication. Your answer would be:",
+        "options": [
+            "12 weeks.",
+            "For 2 years.",
+            "12 months",
+            "6 months."
+        ],
+        "correctAnswer": "6 months.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "81",
+        "questions":[{
+        "question": "A 54-year-old bulimic patient who has just been started on fluoxetine complains to her physician of soreness in the shoulders which the physician attributed to osteoarthritis. Which of the following analgesics is most appropriate for this patient's arthritis pain?",
+        "options": [
+            "Fentanyl",
+            "Buprenorphine",
+            "Oxycodone",
+            "Sulindac"
+        ],
+        "correctAnswer": "Buprenorphine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "82",
+        "questions":[{
+        "question": "B.B. is a 23-year-old, married female who weighs 92 lbs. (BMI 14.7 lbs/in²) and has been admitted to the hospital with palpitations, loss of consciousness, and extreme malnourishment. Which of the following drugs can be used to manage B.B.’s illness, EXCEPT:",
+        "options": [
+            "Domperidone",
+            "Ondansetron",
+            "Cyproheptadine",
+            "Olanzapine"
+        ],
+        "correctAnswer": "Ondansetron",
+        "section": "CNS"
+    },
+    {
+        "question": "B.B. is a 23-year-old, married female who weighs 92 lbs. (BMI 14.7 lbs/in²) and has been admitted to the hospital with palpitations, loss of consciousness, and extreme malnourishment. All of the following allied healthcare professionals could be on the care plan of B.B., EXCEPT:",
+        "options": [
+            "Psychologists",
+            "Physiotherapists",
+            "Nutritionists",
+            "Family therapists"
+        ],
+        "correctAnswer": "Physiotherapists",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "83",
+        "questions":[{
+        "question": "Which of the following statement is true for the treatment of childhood attention deficit hyperactivity disorder (ADHD)?",
+        "options": [
+            "A low-carb diet can help reduce the symptoms of hyperactivity-impulsivity in childhood ADHD.",
+            "Risperidone might be useful at enhancing the cognitive abilities in ADHD children with behavioral symptoms.",
+            "Behavioral therapy is more effective than stimulants at controlling core ADHD symptoms.",
+            "Although a multimodal treatment agenda is implemented for ADHD, medications do not offer a cure."
+        ],
+        "correctAnswer": "Although a multimodal treatment agenda is implemented for ADHD, medications do not offer a cure.",
+        "section": "CNS"
+    }]
+    },
+
+    {
+        "blockId": "84",
+        "questions":[{
+        "question": "All of the following statements are true regarding the use of VYVANSE™ (lisdexamfetamine) capsules 40 mg in attention deficit hyperactivity disorder (ADHD), EXCEPT:",
+        "options": [
+            "it is therapeutically ineffective until biotransformed to the psychoactive active drug.",
+            "avoid acidic fruit juices as they might affect drug’s half-life.",
+            "the capsule content can be dissolved in a glass of water and consumed immediately in the morning before going to school with or without breakfast.",
+            "it is a stimulant medication least associated with insomnia."
+        ],
+        "correctAnswer": "it is a stimulant medication least associated with insomnia.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "85",
+        "questions":[{
+        "question": "All of the following is true regarding atomoxetine, EXCEPT that:",
+        "options": [
+            "it does not worsen tics in patients with pre-existing tics.",
+            "it could be kept on the shelf with non-narcotic medications in the pharmacy.",
+            "it is a centrally-acting selective norepinephrine reuptake inhibitor which could be given in the evening.",
+            "it is recommended for combination therapy with stimulants in case of a partial response to the latter."
+        ],
+        "correctAnswer": "it is recommended for combination therapy with stimulants in case of a partial response to the latter.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "86",
+        "questions":[{
+        "question": "Which of the following side effects is least likely associated with the use of atomoxetine in a child with ADHD?",
+        "options": [
+            "Dyspepsia",
+            "Akathisia",
+            "Ataxia",
+            "Insomnia"
+        ],
+        "correctAnswer": "Ataxia",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "87",
+        "questions":[{
+        "question": "Clonidine can be used for all of the following indications, EXCEPT:",
+        "options": [
+            "diarrhea associated with diabetic autonomic neuropathy.",
+            "opioid withdrawal symptoms.",
+            "urogenital menopausal symptoms.",
+            "neurogenic tics."
+        ],
+        "correctAnswer": "urogenital menopausal symptoms.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "88",
+        "questions":[{
+        "question": "All of the following are clinically relevant monitoring parameters for clonidine in a sexually active 16-year-old teen with attention-deficit disorder and comorbid Tourette syndrome with motor or vocal tics involving shoulder shrugging and blurt out unusual sounds, EXCEPT:",
+        "options": [
+            "Sedation",
+            "Erectile dysfunction",
+            "Tachyarrhythmia",
+            "Dry mouth"
+        ],
+        "correctAnswer": "Tachyarrhythmia",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "89",
+        "questions":[{
+        "question": "Which of the following adverse effects can be clinically concerning withdrawal symptom of clonidine for a patient on clonidine 0.8 mg/day and propranolol 40 mg/day?",
+        "options": [
+            "Diminished involuntary reflexes",
+            "Bradycardia",
+            "Somnolence",
+            "Exaggerated hypertensive response"
+        ],
+        "correctAnswer": "Exaggerated hypertensive response",
+        "section": "CNS"
+    },
+    {
+        "question": "Which of the following adverse effects can be clinically concerning withdrawal symptom of clonidine for a patient on clonidine 0.8 mg/day and propranolol 40 mg/day? Which of the following measures is most appropriate to reduce withdrawal symptoms in the above-mentioned patient?",
+        "options": [
+            "Start prazosin 10 mg twice daily several days before a slow gradual tapering in preparation for its discontinuation.",
+            "Taper propranolol off several days prior to reducing clonidine dose by 0.1 mg every 3-7 days before discontinuation.",
+            "Taper clonidine over 7-10 days before discontinuation.",
+            "Increase propranolol dose by 25-30% before gradually tapering off clonidine over 2-3 weeks."
+        ],
+        "correctAnswer": "Taper propranolol off several days prior to reducing clonidine dose by 0.1 mg every 3-7 days before discontinuation.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "90",
+        "questions":[{
+        "question": "If a child with attention deficit hyperactivity disorder needs to be changed from methylphenidate to dextroamphetamine due to a partial response to the former, what is the most appropriate strategy to make the switch?",
+        "options": [
+            "Gradually taper methylphenidate then stop it before starting dextroamphetamine.",
+            "Keep methylphenidate at current dose and add dextroamphetamine slowly, following usual titration strategies then discontinue methylphenidate.",
+            "Gradually taper methylphenidate then stop it and allow a 5-day washout period before starting dextroamphetamine.",
+            "Keep methylphenidate at a fraction of the current dose and add dextroamphetamine slowly, following usual titration strategies then discontinue methylphenidate."
+        ],
+        "correctAnswer": "Gradually taper methylphenidate then stop it before starting dextroamphetamine.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "91",
+        "questions":[{
+        "question": "Which of the following medications that are used to manage attention-deficit disorder can be stopped abruptly without undue concerns for adverse events in case immediate discontinuation is warranted because of suicidal ideation?",
+        "options": [
+            "All of the given choices will result in adverse events if stopped abruptly.",
+            "Imipramine",
+            "Guanfacine",
+            "Modafinil"
+        ],
+        "correctAnswer": "All of the given choices will result in adverse events if stopped abruptly.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "91",
+        "questions":[{
+        "question": "A pediatric psychiatrist would like to switch an 8-year-old child who was diagnosed with attention deficit hyperactivity disorder (ADHD) from methylphenidate to atomoxetine due to a poor response to psychostimulants. The physician asks the pharmacist about the most appropriate method to make the switch in order to minimize stimulant withdrawal and get the child's symptoms under adequate control.\n\nWhich of the following is the recommended method for making this switch in ADHD therapy?",
+        "options": [
+            "Start atomoxetine and then taper methylphenidate dose over a few weeks.",
+            "Stop methylphenidate and start atomoxetine the next day.",
+            "Taper methylphenidate over a few weeks and then start atomoxetine.",
+            "Stop methylphenidate and wait 2-3 days before starting atomoxetine."
+        ],
+        "correctAnswer": "Start atomoxetine and then taper methylphenidate dose over a few weeks.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "92",
+        "questions":[{
+        "question": "A child with predominantly inattentive attention deficit hyperactivity disorder was started on methylphenidate immediate-release tablets (RITALIN™) 3 weeks ago, and although she responded to the therapy, she could not tolerate the insomnia associated with the treatment.\n\nWhat is the most appropriate treatment strategy that might minimize the intolerable side effect?",
+        "options": [
+            "Switch to guanfacine",
+            "Switch to atomoxetine",
+            "Add on risperidone at bedtime",
+            "Switch to dextroamphetamine"
+        ],
+        "correctAnswer": "Switch to dextroamphetamine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "93",
+        "questions":[{
+        "question": "Y.Z. is an 11-year-old child (90 Ibs) who was previously diagnosed with attention deficit hyperactivity syndrome and who is on methylphenidate (RITALIN®) 20 mg immediate-release tablets po BID (07:00 and 12:00). Y.Z. visits the pharmacy with his father who mentions that his son’s medication is working well for him at school as witnessed by his teachers and evidenced by his report cards; however, in the early evening the boy gets markedly wild at home and becomes distracted, irritable, and “mouthy”. The dad also notes that Y.Z.’s mom has great difficulty helping him to finish his homework in the evening.\n\nWhich of the following is the most appropriate advice the pharmacist should provide to Y.Z.’s father?",
+        "options": [
+            "Take a short-acting dose of methylphenidate (RITALIN®) 10 mg in the morning and a long-acting dose at lunch time.",
+            "Switch to methylphenidate controlled-release capsules (BIPHENTIN™) 40 mg in the morning.",
+            "Add guanfacine extended-release tablets (INTUNIV xR™) 1 mg in the early evening.",
+            "Add a dose of methylphenidate immediate-release tablets (RITALIN®) 10 mg at 4pm."
+        ],
+        "correctAnswer": "Add guanfacine extended-release tablets (INTUNIV xR™) 1 mg in the early evening.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "94",
+        "questions":[{
+        "question": "D.T. was diagnosed with attention deficit hyperactivity disorder when he was in grade 2 because of his extreme level of activity and his significant reading challenges. He did well on methylphenidate extended-release tablets 27 mg (CONCERTA®) for a couple of years until his parents present to the child psychiatrist complaining that D.T.’s teachers repeatedly reported to them that their kid baits classmates, picking fights with them by purposely doing things he knows annoy them. The parents tell the child psychiatrist that they are particularly concerned about him being lately spiteful, and revenge seeking. Finally, they bitterly added that D.T. continuously argues excessively with adults and refuses to comply with requests & rules at home and at school.\n\nWhat is an appropriate treatment option for D.T. at this point?",
+        "options": [
+            "Add risperidone to the child's current medication",
+            "Switch methylphenidate to guanfacine",
+            "Increase the dose of methylphenidate",
+            "Add atomoxetine to the child’s current medication"
+        ],
+        "correctAnswer": "Add risperidone to the child's current medication",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "95",
+        "questions":[{
+        "question": "A 45-year-old female who is on lisdexamfetamine (VYVANSE™) 20 mg/day, venlafaxine 300 mg/day and quetiapine 100 mg/day presents to the pharmacist with signs of shakiness & hostility and mentions that she has compelling weird thoughts that she wants to kill someone in order to calm down.\n\nWhat is an appropriate action by the pharmacist?",
+        "options": [
+            "Recommend her to discontinue lisdexamfetamine and see her psychiatrist.",
+            "Recommend her to see her psychiatrist to switch her to methylphenidate (CONCERTA™).",
+            "Recommend her to see her psychiatrist for a prescription for lorazepam sublingual STAT.",
+            "Recommend her to see her psychiatrist to increase her quetiapine dose to 200 mg/day."
+        ],
+        "correctAnswer": "Recommend her to discontinue lisdexamfetamine and see her psychiatrist.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "96",
+        "questions":[{
+        "question": "E.O., a 9-year-old child (75 Ibs.), visits the pharmacy with his father who presents with a prescription for methylphenidate (RITALIN™) 5 mg immediate-release tablets PO BID (07:00 and 16:00) for attention deficit hyperactivity disorder (ADHD). Four weeks later, E.O.’s father comes to the pharmacy and seems unhappy when he tells the pharmacist that his child did not show any signs of improvements and that he is still inattentive at class and not listening to his mom at home. If E.0.'s father visits his son's doctor, what would be the most likely prescribed medication?",
+        "options": [
+            "Guanfacine",
+            "Modafinil",
+            "Dextroamphetamine",
+            "Atomoxetine"
+        ],
+        "correctAnswer": "Dextroamphetamine",
+        "section": "CNS"
+    },
+    {
+        "question": "E.O., a 9-year-old child (75 Ibs.), visits the pharmacy with his father who presents with a prescription for methylphenidate (RITALIN™) 5 mg immediate-release tablets PO BID (07:00 and 16:00) for attention deficit hyperactivity disorder (ADHD). Four weeks later, E.O.’s father comes to the pharmacy and seems unhappy when he tells the pharmacist that his child did not show any signs of improvements and that he is still inattentive at class and not listening to his mom at home. E.O.’s father drops off a new prescription for his son. The indication on EO’s most recent prescription reads: “Adderall XR™ (mixed salts amphetamine) 10 mg capsules\nTake 1 pill by mouth QAM on week one, then 2 pills Q AM on week two, then 3 pills Q AM on week three and onwards.\nM: 63\n\nA week after dropping off the previous prescription, E.O.’s father visits to the pharmacy again and complains that although the medication works nicely for his child, he has occasional trouble sleeping at night. Which of the following is the most appropriate advice that the pharmacist should provide to E.O.’s father?",
+        "options": [
+            "Switching to a different class of medications might solve the problem.",
+            "Adding melatonin 3 mg QHS might solve the problem.",
+            "Reducing the dose might solve the problem.",
+            "Observing sleep for another week seems reasonable before making changes."
+        ],
+        "correctAnswer": "Observing sleep for another week seems reasonable before making changes.",
+        "section": "CNS"
+    },
+
+    {
+        "question": "E.O., a 9-year-old child (75 Ibs.), visits the pharmacy with his father who presents with a prescription for methylphenidate (RITALIN™) 5 mg immediate-release tablets PO BID (07:00 and 16:00) for attention deficit hyperactivity disorder (ADHD). Four weeks later, E.O.’s father comes to the pharmacy and seems unhappy when he tells the pharmacist that his child did not show any signs of improvements and that he is still inattentive at class and not listening to his mom at home. E.O.’s father drops off a new prescription for his son. The indication on EO’s most recent prescription reads: “Adderall XR™ (mixed salts amphetamine) 10 mg capsules\nTake 1 pill by mouth QAM on week one, then 2 pills Q AM on week two, then 3 pills Q AM on week three and onwards.\nM: 63\n\nA week after dropping off the previous prescription, E.O.’s father visits to the pharmacy again and complains that although the medication works nicely for his child, he has occasional trouble sleeping at night. The most appropriate advice was followed, and one week after that, E.O's father visits the pharmacy and tells the pharmacist: 'that was really fast! The medicine this time resulted in a quick improvment.' He seems glad and adds that his child is doing an awesome job at school and at home and that the medication 'rocks'. However, the dad expresses some concern regarding his son's appetite, which wanes after taking the ADHD medicine. Which of the following is the least appropriate advice for the initla management of short term anorexia in E.O's case?",
+        "options": [
+            "Keep plenty of healthy snacks on hand.",
+            "Monthly drug holidays on long weekends might help offset this common medication side effect.",
+            "Serve a large dinner in the evening or close to bed time.",
+            "A balanced, higher calorie diet will help offset weight loss from the ADHD drug."
+        ],
+        "correctAnswer": "Monthly drug holidays on long weekends might help offset this common medication side effect.",
+        "section": "CNS"
+    },
+    {
+        "question": "E.O., a 9-year-old child (75 Ibs.), visits the pharmacy with his father who presents with a prescription for methylphenidate (RITALIN™) 5 mg immediate-release tablets PO BID (07:00 and 16:00) for attention deficit hyperactivity disorder (ADHD). Four weeks later, E.O.’s father comes to the pharmacy and seems unhappy when he tells the pharmacist that his child did not show any signs of improvements and that he is still inattentive at class and not listening to his mom at home. E.O.’s father drops off a new prescription for his son. The indication on EO’s most recent prescription reads: “Adderall XR™ (mixed salts amphetamine) 10 mg capsules\nTake 1 pill by mouth QAM on week one, then 2 pills Q AM on week two, then 3 pills Q AM on week three and onwards.\nM: 63\n\nA week after dropping off the previous prescription, E.O.’s father visits to the pharmacy again and complains that although the medication works nicely for his child, he has occasional trouble sleeping at night. The most appropriate advice was followed, and one week after that, E.O's father visits the pharmacy and tells the pharmacist: 'that was really fast! The medicine this time resulted in a quick improvment.' He seems glad and adds that his child is doing an awesome job at school and at home and that the medication 'rocks'. However, the dad expresses some concern regarding his son's appetite, which wanes after taking the ADHD medicine. Four weeks later, E.O's dad returns to the pharmacy. He is much worried about his kid's appetite as E.O lost about 2-3 lbs Over the last month. What is the most appropriate advice the pharmacist should give to the child's parent?",
+        "options": [
+            "Stop the medication and refer your child to his doctor at your earliest convenience.",
+            "Continue on the medication, as this is a common and transient drug adversee effect",
+            "Monitor your chuld's weight and growth chart and reoprt to the doctor only if there is a significant decline.",
+            "Visit your child's doctor, as referral to a dietitian may be warranted"
+        ],
+        "correctAnswer": "Visit your child's doctor, as referral to a dietitian may be warranted",
+        "section": "CNS"
+    },
+    {
+        "question": "E.O., a 9-year-old child (75 Ibs.), visits the pharmacy with his father who presents with a prescription for methylphenidate (RITALIN™) 5 mg immediate-release tablets PO BID (07:00 and 16:00) for attention deficit hyperactivity disorder (ADHD). Four weeks later, E.O.’s father comes to the pharmacy and seems unhappy when he tells the pharmacist that his child did not show any signs of improvements and that he is still inattentive at class and not listening to his mom at home. E.O.’s father drops off a new prescription for his son. The indication on EO’s most recent prescription reads: “Adderall XR™ (mixed salts amphetamine) 10 mg capsules\nTake 1 pill by mouth QAM on week one, then 2 pills Q AM on week two, then 3 pills Q AM on week three and onwards.\nM: 63\n\nA week after dropping off the previous prescription, E.O.’s father visits to the pharmacy again and complains that although the medication works nicely for his child, he has occasional trouble sleeping at night. The most appropriate advice was followed, and one week after that, E.O's father visits the pharmacy and tells the pharmacist: 'that was really fast! The medicine this time resulted in a quick improvment.' He seems glad and adds that his child is doing an awesome job at school and at home and that the medication 'rocks'. However, the dad expresses some concern regarding his son's appetite, which wanes after taking the ADHD medicine. Four weeks later, E.O's dad returns to the pharmacy. He is much worried about his kid's appetite as E.O lost about 2-3 lbs Over the last month. A few weeks later after his last visit, E.O's father drops by the pharmacy and tells the pharmacist that his son is complaining of occasional episodes of being too 'energized' and too 'serious', especially in the morning. Which of the following is a correct advice the pharmacist should give E.O's father?",
+        "options": [
+            "Stop the current medication and visit the doctor as soon as you can.",
+            "This is a symptom of medication overdose, and the dose might need to be lowered by the doctor.",
+            "This is a medication related side effect that will subside over time.",
+            "If the problem persists and did not go away in 1-2 weeks, see your son's doctor."
+        ],
+        "correctAnswer": "Stop the current medication and visit the doctor as soon as you can.",
+        "section": "CNS"
+    },
+    {
+        "question": "E.O., a 9-year-old child (75 Ibs.), visits the pharmacy with his father who presents with a prescription for methylphenidate (RITALIN™) 5 mg immediate-release tablets PO BID (07:00 and 16:00) for attention deficit hyperactivity disorder (ADHD). Four weeks later, E.O.’s father comes to the pharmacy and seems unhappy when he tells the pharmacist that his child did not show any signs of improvements and that he is still inattentive at class and not listening to his mom at home. E.O.’s father drops off a new prescription for his son. The indication on EO’s most recent prescription reads: “Adderall XR™ (mixed salts amphetamine) 10 mg capsules\nTake 1 pill by mouth QAM on week one, then 2 pills Q AM on week two, then 3 pills Q AM on week three and onwards.\nM: 63\n\nA week after dropping off the previous prescription, E.O.’s father visits to the pharmacy again and complains that although the medication works nicely for his child, he has occasional trouble sleeping at night. The most appropriate advice was followed, and one week after that, E.O's father visits the pharmacy and tells the pharmacist: 'that was really fast! The medicine this time resulted in a quick improvment.' He seems glad and adds that his child is doing an awesome job at school and at home and that the medication 'rocks'. However, the dad expresses some concern regarding his son's appetite, which wanes after taking the ADHD medicine. Four weeks later, E.O's dad returns to the pharmacy. He is much worried about his kid's appetite as E.O lost about 2-3 lbs Over the last month. A few weeks later after his last visit, E.O's father drops by the pharmacy and tells the pharmacist that his son is complaining of occasional episodes of being too 'energized' and too 'serious', especially in the morning. A few years later, E.0.’s dad visits his pharmacy and requests to chat with his pharmacist regarding the long-term ADHD treatment plan for his son who is now a teen.\n\nAll of the following could be considered appropriate strategies to control the diversion of E.0.’s therapy, EXCEPT:",
+        "options": [
+            "Considering witnessed administration by pharmacists.",
+            "Recommending weekly dispensing.",
+            "Switching to antidepressants could be feasible as ADHD symptoms might regress in adolescence.",
+            "Requiring a signed agreement from patients with each fill indicating that the consequences of misuse and diversion are understood and that patients will not engage in these activities."
+        ],
+        "correctAnswer": "Considering witnessed administration by pharmacists.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "97",
+        "questions":[{
+        "question": "All of the following are known risk factors for Parkinson's disease, EXCEPT:",
+        "options": [
+            "Head Trauma",
+            "Family History",
+            "Age 60 years or older",
+            "Alcohol"
+        ],
+        "correctAnswer": "Alcohol",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "98",
+        "questions":[{
+        "question": "Which one of the following is NOT an early diagnostic criterion for Parkinson's disease?",
+        "options": [
+            "Dysphagia.",
+            "Deterioration of handwriting",
+            "Slowness",
+            "Anosmia"
+        ],
+        "correctAnswer": "Dysphagia.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "99",
+        "questions":[{
+        "question": "All of the following are likely symptoms of Parkinson’s disease, EXCEPT:",
+        "options": [
+            "sleep disturbances.",
+            "emotional changes.",
+            "reduced blinking.",
+            "high-volume speech."
+        ],
+        "correctAnswer": "high-volume speech.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "100",
+        "questions":[{
+        "question": "All of the following are possible clinical manifestations secondary to the motor complications associated with long-term use of levodopa, EXCEPT:",
+        "options": [
+            "ballistic movements.",
+            "“wearing off” fluctuations.",
+            "prolonged muscle spasms.",
+            "sustained tremulousness."
+        ],
+        "correctAnswer": "sustained tremulousness.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "101",
+        "questions":[{
+        "question": "Which one of the following statements about Parkinson disease (PD) treatment is true?",
+        "options": [
+            "Carbidopa/levodopa is usually initiated with amantadine.",
+            "Dopamine agonist drugs may cause pathological hypersexuality, eating, or shopping.",
+            "Dopamine agonist medications have similar efficacy to carbidopa/levodopa.",
+            "Anxiety in the context of PD usually reflects an excessive levodopa effect."
+        ],
+        "correctAnswer": "Dopamine agonist drugs may cause pathological hypersexuality, eating, or shopping.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "102",
+        "questions":[{
+        "question": "Which one of the following is most appropriate regarding carbidopa/levodopa treatment of seniors with PD?",
+        "options": [
+            "It may cause livedo reticularis.",
+            "The dose should be kept as low as possible.",
+            "The dose should be increased sufficiently to allow exercise, if possible.",
+            "It should be deferred until dopamine agonist drugs have first been administered."
+        ],
+        "correctAnswer": "The dose should be increased sufficiently to allow exercise, if possible.",
+        "section": "CNS"
+    }]
+    },
+
+    {
+        "blockId": "103",
+        "questions":[{
+        "question": "Which one of the following statements is the most accurate regarding carbidopa/levodopa therapy in patients with Parkinson disease (PD)?",
+        "options": [
+            "It may provoke dose-dependent orthostatic hypotension similar to selegiline.",
+            "It should be limited to no more than 4 doses daily.",
+            "It should be administered with meals.",
+            "It is best started using the controlled-release formulation."
+        ],
+        "correctAnswer": "It may provoke dose-dependent orthostatic hypotension similar to selegiline.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "104",
+        "questions":[{
+        "question": "All of the following measures are acceptable to control orthostatic hypotension associated with dopaminergic agents, EXCEPT:",
+        "options": [
+            "Increase salt intake",
+            "Elevate the head of the bed",
+            "Eat 3 large meals during the day",
+            "Leg crossing and tiptoeing"
+        ],
+        "correctAnswer": "Eat 3 large meals during the day",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "105",
+        "questions":[{
+        "question": "In the setting of Parkinson disease, which one of the following statements about insomnia is true?",
+        "options": [
+            "Its aggravated by bedtime doses of carbidopa/levodopa.",
+            "It is best treated with zolpidem.",
+            "It may be treated with a dose of carbidopa/levodopa before bedtime.",
+            "It is caused by rapid eye movement sleep behavior disorder."
+        ],
+        "correctAnswer": "It may be treated with a dose of carbidopa/levodopa before bedtime.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "106",
+        "questions":[{
+        "question": "Which of the following is the least relevant monitoring parameter that needs to be observed during levodopa-carbidopa treatment?",
+        "options": [
+            "Weight gain",
+            "Blood pressure",
+            "Urinary incontinence",
+            "Signs of psychosis"
+        ],
+        "correctAnswer": "Weight gain",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "107",
+        "questions":[{
+        "question": "All of the following can be considered known side effects of pramipexole, EXCEPT:",
+        "options": [
+            "Hallucinations",
+            "Pathological hypersexuality",
+            "Lower limb edema",
+            "Hypoglycemia"
+        ],
+        "correctAnswer": "Hypoglycemia",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "108",
+        "questions":[{
+        "question": "M.V. is a 59-year-old man with mild tremor and slowed movement diagnosed with Parkinson's disease. What would be the most reasonable initial step in managing M.V.’s symptoms?",
+        "options": [
+            "Begin treatment using ropinirole with the goal of delaying further progression of Parkinson's disease.",
+            "Suggest an observation period and monitor Parkinson's disease symptoms.",
+            "Begin treatment using selegiline with the goal of controlling symptoms of Parkinson's disease.",
+            "Begin treatment using benserazide-levodopa with the goal of relieving symptoms of Parkinson's disease."
+        ],
+        "correctAnswer": "Begin treatment using benserazide-levodopa with the goal of relieving symptoms of Parkinson's disease.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "109",
+        "questions":[{
+        "question": "Which one of the following best describes levodopa-induced dyskinesias?",
+        "options": [
+            "Levodopa dyskinesias manifest as predominant chorea.",
+            "Levodopa dyskinesias are often more disabling than the symptoms of Parkinson's disease.",
+            "The risk is highest among seniors.",
+            "They reflect the total daily levodopa dose."
+        ],
+        "correctAnswer": "Levodopa dyskinesias manifest as predominant chorea.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "110",
+        "questions":[{
+        "question": "J.S is a 75 year old male Parkinson's patient who was initiated on levodopa/carbidopa 100/25 mg (SINEMET CR) 5 years ago and who was switched to levodopa/carbidopa/entacapone 100/25/200 mg a few weeks ago. J.S has been complaining lately of an increased frequency of brief, abrupt, irregular, unpredictable, jerky involuntary movements manifesting as twisting and turning movements. All of the following are motor fluctuations generally associated with the long-term use of levodopa in the course of Parkinson's disease progression, EXCEPT:",
+        "options": [
+            "Tardive dyskinesia.",
+            "End-of-dose deterioration.",
+            "Peak dose dyskinesia.",
+            "On-off phenomenon."
+        ],
+        "correctAnswer": "Tardive dyskinesia.",
+        "section": "CNS"
+    },
+    {
+        "question": "J.S is a 75 year old male Parkinson's patient who was initiated on levodopa/carbidopa 100/25 mg (SINEMET CR) 5 years ago and who was switched to levodopa/carbidopa/entacapone 100/25/200 mg a few weeks ago. J.S has been complaining lately of an increased frequency of brief, abrupt, irregular, unpredictable, jerky involuntary movements manifesting as twisting and turning movements. All of the following are possible options to control the motor fluctuations of J.S., EXCEPT to:",
+        "options": [
+            "Add pramipexole.",
+            "Add amantadine.",
+            "Decrease levodopa dose.",
+            "Discontinue entacapone."
+        ],
+        "correctAnswer": "Add pramipexole.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "111",
+        "questions":[{
+        "question": "ZG is a 49-year-old woman with Parkinson's disease who develops personality changes and delusional behavior after being treated with ropinirole and selegiline. What is the most likely trigger of ZG’s recent symptoms?",
+        "options": [
+            "Ropinirole",
+            "Clonazepam",
+            "Selegiline",
+            "Carbidopa/levodopa"
+        ],
+        "correctAnswer": "Ropinirole",
+        "section": "CNS"
+    },
+    {
+        "question": "ZG is a 49-year-old woman with Parkinson's disease who develops personality changes and delusional behavior after being treated with ropinirole and selegiline. After recent hospitalization, ZG is diagnosed with psychosis and impulse control disorders. Which of the following clinical decisions is NOT appropriate in ZG's case?",
+        "options": [
+            "To discontinue entacapone and selegiline",
+            "To gradually taper and discontinue carbidopa/levodopa",
+            "To gradually taper and discontinue ropinirole",
+            "To add low-dose quetiapine at bedtime"
+        ],
+        "correctAnswer": "To gradually taper and discontinue carbidopa/levodopa",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "112",
+        "questions":[{
+        "question": "Which of the following is a prominent side effect for selegiline?",
+        "options": [
+            "Impulsive behavior",
+            "Nocturnal cramps",
+            "Constipation",
+            "Insomnia"
+        ],
+        "correctAnswer": "Insomnia",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "113",
+        "questions":[{
+        "question": "Which of the following auxiliary labels is indicated for a prescription for selegiline 2.5 mg twice daily in a Parkinson's disease patient?",
+        "options": [
+            "Limit alcohol intake",
+            "Avoid high-fat meals",
+            "Take the daily dose before supper or at bedtime",
+            "Avoid aged cheese"
+        ],
+        "correctAnswer": "Limit alcohol intake",
+        "section": "CNS"
+        }]
+    },
+    {
+        "blockId": "114",
+        "questions":[{
+        "question": "HI is a 67-year-old male with multiple comorbidities presenting with symptoms suggesting restless leg syndrome. Which of the following treatments will provide symptomatic relief to the underlying neurological condition causing his insomnia?",
+        "options": [
+            "Diltiazem",
+            "Quetiapine",
+            "Rotigotine",
+            "Gabapentin"
+        ],
+        "correctAnswer": "Rotigotine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "115",
+        "questions":[{
+        "question": "Which of the following information is NOT true about gabapentin use in elderly patients for restless leg syndrome?",
+        "options": [
+            "If a patient misses a dose of gabapentin and it is within 4 hours of the next dose, they should skip that dose and return to the regular dosing schedule.",
+            "Abrupt withdrawal of gabapentin is generally safe and not associated with serious withdrawal symptoms.",
+            "Gabapentin is not metabolized to a significant extent in humans.",
+            "Gabapentin can be given with or without food."
+        ],
+        "correctAnswer": "Abrupt withdrawal of gabapentin is generally safe and not associated with serious withdrawal symptoms.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "116",
+        "questions":[{
+        "question": "All of the following laboratory tests are likely to be ordered for the initial assessment and diagnosis of dementia, EXCEPT:",
+        "options": [
+            "Electroencephalogram.",
+            "Thyroid stimulating hormone, B12, and folate levels.",
+            "Serum glucose.",
+            "Blood urea nitrogen and serum creatinine."
+        ],
+        "correctAnswer": "Electroencephalogram.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "117",
+        "questions":[{
+        "question": "Which of the following markers is NOT a diagnostic feature of Alzheimer’s dementia?",
+        "options": [
+            "High level of beta-amyloid and tau proteins in the cerebrospinal fluid",
+            "Shrinkage in the hippocampus on MRI",
+            "Low frontal lobe activity on EEG",
+            "A score of 17/30 on the Mini-Mental State Examination"
+        ],
+        "correctAnswer": "Low frontal lobe activity on EEG",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "118",
+        "questions":[{
+        "question": "The use of a central cholinomimetic in a patient with Alzheimer’s dementia will least likely include which of the following benefits?",
+        "options": [
+            "Reduction in neuropsychiatric symptoms",
+            "Delaying nursing home placement",
+            "Stabilization of cognitive function",
+            "Altering survival time"
+        ],
+        "correctAnswer": "Altering survival time",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "119",
+        "questions":[{
+        "question": "The typical duration of therapy with a maintenance dose of 10 mg of donepezil is:",
+        "options": [
+            "Until losing 3 or more points on the MMSE.",
+            "Indefinite.",
+            "For 12 months.",
+            "Until losing 2 or more points on the FAQ test."
+        ],
+        "correctAnswer": "Until losing 3 or more points on the MMSE.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "120",
+        "questions":[{
+        "question": "C.A is a 68 year old female patient (BMI = 31.7 lbs/in^2) diagnosed with mild moderate alzheimer's dementia and whose history is otherwise remarkable except for dyslipidemia. She was started on donzepezil 5mg for 1 month, and yesterday her psychiatrist increased her dose to 5 mg BID. Two days later, her grandson presents to the pharmacist and tells her that his grandma feels really sick and cannot keep anything down. The grandson adds that they tried to give the grandma dimenhydrinate (GRAVOL) but she does not seem to do any better. The pharmacist educates the grandson that her symptoms to be related to her medication and promised that she will fax his grandma's psychiatrist with a proper recommendation regarding C.A's care plan. What is the most appropriate recommendation to fax to her psychiatrist?",
+        "options": [
+            "Reduce the dose to 5 mg HS",
+            "Add metoclopramide to current donepezil regimen",
+            "Switch the patient to memantine",
+            "Switch the patient to galantamine"
+        ],
+        "correctAnswer": "Switch the patient to galantamine",
+        "section": "CNS"
+    },
+    {
+        "question": "C.A is a 68 year old female patient (BMI = 31.7 lbs/in^2) diagnosed with mild moderate alzheimer's dementia and whose history is otherwise remarkable except for dyslipidemia. She was started on donzepezil 5mg for 1 month, and yesterday her psychiatrist increased her dose to 5 mg BID. Two days later, her grandson presents to the pharmacist and tells her that his grandma feels really sick and cannot keep anything down. The grandson adds that they tried to give the grandma dimenhydrinate (GRAVOL) but she does not seem to do any better. The pharmacist educates the grandson that her symptoms to be related to her medication and promised that she will fax his grandma's psychiatrist with a proper recommendation regarding C.A's care plan. Several weeks later, C.A's grandosn visits the pharmacy and requests to chat with the pharmacist regarding his grandma's medication. He tells the pharmacist that, 2 weeks ago, his grandma lost her 2 karat wedding ring and that they found it in the sugar pot today. The grandson also adds that his grandma has been losing personal belongings lately by misplacing them, which is causing lots of distress to the whole family. He asks the pharmacist for a sincere opinion regarding memory medications, such as donepezil and whether they can help his grandma restore her memory, at least in part, and whether they can help her not to misplace things. What is a correct response by the pharmacist?",
+        "options": [
+            "Memory medications will not help your grandma restore her memory but can help her lose stuff less frequently.",
+            "Memory medications might help your grandma restore very little of her memory but cannot help her avoid losing stuff less frequently.",
+            "Memory medications will not help your grandma restore her memory but can help her not to lose stuff more frequently.",
+            "Memory medications will not help your grandma at all."
+        ],
+        "correctAnswer": "Memory medications will not help your grandma restore her memory but can help her not to lose stuff more frequently.",
+        "section": "CNS"
+    },
+    {
+        "question": "C.A is a 68 year old female patient (BMI = 31.7 lbs/in^2) diagnosed with mild moderate alzheimer's dementia and whose history is otherwise remarkable except for dyslipidemia. She was started on donzepezil 5mg for 1 month, and yesterday her psychiatrist increased her dose to 5 mg BID. Two days later, her grandson presents to the pharmacist and tells her that his grandma feels really sick and cannot keep anything down. The grandson adds that they tried to give the grandma dimenhydrinate (GRAVOL) but she does not seem to do any better. The pharmacist educates the grandson that her symptoms to be related to her medication and promised that she will fax his grandma's psychiatrist with a proper recommendation regarding C.A's care plan. Several weeks later, C.A's grandosn visits the pharmacy and requests to chat with the pharmacist regarding his grandma's medication. He tells the pharmacist that, 2 weeks ago, his grandma lost her 2 karat wedding ring and that they found it in the sugar pot today. The grandson also adds that his grandma has been losing personal belongings lately by misplacing them, which is causing lots of distress to the whole family. He asks the pharmacist for a sincere opinion regarding memory medications, such as donepezil and whether they can help his grandma restore her memory, at least in part, and whether they can help her not to misplace things. Several months later, C.A's grandson returns to the pharmacy and tells the pharmacist that his grandma is cursing and screaming, a behaviour that is unusual for her. He adss that his grandma keeps repeating, 'I want to go home' several times during the day. He also mentions that he noticed that, altely, his grandma has been wondeirng aimlessly throughout the house. Finally, the grandson tells the pharmacist that his grandma told him that she sees kittens walking on the floor and she repeatedly accuses the household of stealing her money. What is an appropriate line of management for C.A.’s symptoms?",
+        "options": [
+            "Remove triggers, redirect and distract the patient",
+            "Olanzapine",
+            "Trazodone",
+            "Risperidone"
+        ],
+        "correctAnswer": "Remove triggers, redirect and distract the patient",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "121",
+        "questions":[{
+        "question": "A 65-year-old male patient with mild Alzheimer's disease is on oral carbamazepine controlled-release 400mg twice daily for partial seizures. Which of the following options is the most appropriate to be started for Alzheimer’s dementia in this patient?",
+        "options": [
+            "Galantamine",
+            "Memantine",
+            "Donepezil",
+            "Rivastigmine"
+        ],
+        "correctAnswer": "Rivastigmine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "122",
+        "questions":[{
+        "question": "N.E. is a 69-year-old female patient diagnosed with mild-moderate Alzheimer’s disease, experiencing problems with counting bills, making bank deposits, and taking medications on time. She has been started on donepezil 5 mg AM, titrated to 10 mg/day. What is the most likely effect of her Alzheimer’s therapy?",
+        "options": [
+            "Less number of times forgetting to take her pills.",
+            "Slowing down the progression of her Alzheimer’s disease.",
+            "Delaying further worsening in her memory symptoms.",
+            "Better recognition of the $5 and the $20 bills."
+        ],
+        "correctAnswer": "Delaying further worsening in her memory symptoms.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "123",
+        "questions":[{
+        "question": "While shopping in a clothing store, a pharmacist notices an epileptic 37-year-old male client having a tonic-clonic seizure. All of the following are acceptable first aid care guidelines to be carried out by the CPR-certified pharmacist in case of a seizure attack, EXCEPT:",
+        "options": [
+            "Place a silicone mouth guard, if available, into the patient's mouth when it is safe to do so.",
+            "Move any store hardware, counters, or fixtures away from the person.",
+            "Protect the person's head by placing some clothes under his head.",
+            "Roll person gently on his side."
+        ],
+        "correctAnswer": "Place a silicone mouth guard, if available, into the patient's mouth when it is safe to do so.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "124",
+        "questions":[{
+        "question": "GJ is a 34-year-old patient who has been maintained on carbamazepine extended-release 400 mg orally 2 times/day for the past 2 years over which she has had no seizures. Today, she presents to the emergency department in status epilepticus.\n\nWhich of the following drugs is to be used first for GJ?",
+        "options": [
+            "Diazepam",
+            "Phenobarbital",
+            "Phenytoin",
+            "Lorazepam"
+        ],
+        "correctAnswer": "Lorazepam",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "125",
+        "questions":[{
+        "question": "MT is a 19-year-old new patient to a community pharmacy. He presents a new prescription for lamotrigine 25 mg with instructions to take 1 tablet daily for 2 weeks, then 1 tablet PO BID for 2 weeks then 2 tablets PO BID for 2 for 2 weeks, then 2 tablets PO BID for 2 weeks, then 3 tablets PO BID thereafter. MT wants to know why it is necessary to increase the dose of lamotrigine so slowly.\n\nThe most appropriate response by the pharmacist would be:",
+        "options": [
+            "It causes dose-related paresthesias.",
+            "This is a universal dosing strategy for all antiepileptic drugs.",
+            "It causes dose-related psychomotor slowing.",
+            "It causes dose-related rash."
+        ],
+        "correctAnswer": "It causes dose-related rash.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "126",
+        "questions":[{
+        "question": "GS is a 58-year-old patient who was recently diagnosed with epilepsy manifesting clinically as complex partial seizures, and he was initiated on carbamazepine 200 mg/day by the neurologist which was further increased to 400 mg/day a week later. Two weeks after starting his medication, GS calls the pharmacy and complains of rash on his arms and chest but no other symptoms. What is an appropriate advice by the pharmacist?",
+        "options": [
+            "If the rash extends to other body areas or fever develops, see your doctor immediately.",
+            "Rash is common with carbamazepine therapy; however, it is usually benign.",
+            "See your doctor as soon as you can",
+            "Stop your medication and see your doctor"
+        ],
+        "correctAnswer": "See your doctor as soon as you can",
+        "section": "CNS"
+    },
+    {
+        "question": "GS is a 58-year-old patient who was recently diagnosed with epilepsy manifesting clinically as complex partial seizures, and he was initiated on carbamazepine 200 mg/day by the neurologist which was further increased to 400 mg/day a week later. Two weeks after starting his medication, GS calls the pharmacy and complains of rash on his arms and chest but no other symptoms. What would be the safest alternative to carbamazepine for GS in case the neurologist would like to make a switch assuming that the medication is not adequately controlling GS’ seizures?",
+        "options": [
+            "Oxcarbazepine",
+            "Lamotrigine",
+            "Phenytoin",
+            "Levetiracetam"
+        ],
+        "correctAnswer": "Levetiracetam",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "127",
+        "questions":[{
+        "question": "C.L. is a 34-year-old female patient who is stable on carbamazepine CR 400 mg every 12 hours. Her most carbamazepine steady state plasma concentration was 7 mcg/mL (reference range: 4-12 mcg/mL), and she has been seizure-free for 6 months since started on carbamazepine. She used to take her pills 8:00 am and 8:00 p.m. Today at 4 p.m., she calls the pharmacy and tells the pharmacist that she missed her morning dose of carbamazepine.\n\nWhat is an appropriate response by the pharmacist?",
+        "options": [
+            "Take one pill now and take the other pill at 8:00 p.m.",
+            "Take 2 pills at 8:00 p.m.",
+            "Take one pill now and then the next dose at 12 a.m.",
+            "Skip the dose and take the next dose as scheduled"
+        ],
+        "correctAnswer": "Skip the dose and take the next dose as scheduled",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "128",
+        "questions":[{
+        "question": "Which specific potential adverse effect of carbamazepine is most appropriately assessed through a blood draw?",
+        "options": [
+            "Leukopenia",
+            "Hypercalcemia",
+            "Renal failure",
+            "Congestive heart failure"
+        ],
+        "correctAnswer": "Leukopenia",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "129",
+        "questions":[{
+        "question": "Which of the following is NOT true about carbamazepine?",
+        "options": [
+            "A low initial dose of carbamazepine with a gradual dose titration is advised when used for epilepsy.",
+            "The preventive use of carbamazepine for trigeminal neuralgia is recommended.",
+            "HLA-A*3101 and HLA-B*1502 may be risk factors related to carbamazepine-induced Stevens-Johnson Syndrome.",
+            "Carbamazepine can result in a decreased INR for patients on warfarin therapy."
+        ],
+        "correctAnswer": "The preventive use of carbamazepine for trigeminal neuralgia is recommended.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "130",
+        "questions":[{
+        "question": "Which of the following is a disadvantage for valproic acid as an antiepileptic drug?",
+        "options": [
+            "It is a cytochrome P450 enzyme inducer with many potential drug interactions.",
+            "It is associated with a high incidence of initial rash compared to other antiepileptics.",
+            "It is associated with a high incidence of cognitive impairment compared to other antiepileptics.",
+            "It is associated with weight gain compared to other antiepileptics."
+        ],
+        "correctAnswer": "It is associated with weight gain compared to other antiepileptics.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "131",
+        "questions":[{
+        "question": "All of the following factors can result in reducing phenytoin serum levels in an epileptic patient, EXCEPT:",
+        "options": [
+            "switching extended phenytoin sodium capsule from 100 mg three times daily to 300 mg once daily at bedtime.",
+            "coadministration of multivitamins containing folic acid and pyridoxine.",
+            "switching from phenytoin infatabs to phenytoin sodium capsules at the same daily dose.",
+            "enteral nutrition therapy."
+        ],
+        "correctAnswer": "switching extended phenytoin sodium capsule from 100 mg three times daily to 300 mg once daily at bedtime.",
+        "section": "CNS"
+        }]
+    },
+    {
+        "blockId": "132",
+        "questions":[{
+        "question": "Which of the following is NOT true regarding phenytoin?",
+        "options": [
+            "A saturable metabolism of phenytoin results in unfavorable kinetics for dosing in epileptic patients.",
+            "Cosmetic side effects associated with phenytoin might lead to therapy discontinuation.",
+            "Trough serum level of phenytoin taken at least 5-7 days after dose change reflects steady-state level.",
+            "Maintenance doses of phenytoin of 400 mg/day should be preferably given once daily at bedtime."
+        ],
+        "correctAnswer": "Maintenance doses of phenytoin of 400 mg/day should be preferably given once daily at bedtime.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "133",
+        "questions":[{
+        "question": "A child who had been stable on phenytoin for epilepsy develops mild fibrous gingival overgrowth.\n\nWhat is the least appropriate option to guard against worsening of his periodontal condition?",
+        "options": [
+            "Recommend chlorhexidine 0.2% mouthwash",
+            "Recommend folic acid 0.4 mg per day",
+            "Meticulous oral care",
+            "Reduce the dose of phenytoin"
+        ],
+        "correctAnswer": "Reduce the dose of phenytoin",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "134",
+        "questions":[{
+        "question": "N.M. is a 72-year-old male demented patient who is currently stable on 3 capsules of phenytoin sodium (DILANTIN™) 100 mg HS among other medications which are blister-packed at a long-term care facility pharmacy.\n\nN.M. endures an episode of acute dysphagia and the caregiver at the nursing home tells the doctor that the patient can no longer swallow her capsules so the doctor requests from the accompanying clinical pharmacist to switch N.M. to an equivalent dose of DILANTIN™ suspension 125mg/5mL.\n\nIn order to maintain similar blood levels, the pharmacist should recommend the caregiver to give N.M.:",
+        "options": [
+            "11mLHS",
+            "5.5mL in AM and HS",
+            "10.5 mL HS",
+            "5 mL in AM and HS"
+        ],
+        "correctAnswer": "5.5mL in AM and HS",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "135",
+        "questions":[{
+        "question": "A patient is taking 200 mg phenytoin acid BID. At steady state, his plasma phenytoin level was found to be 34 micromol/L. The frequency of the epileptic seizures has significantly decreased; however, he still has occasional seizures. The doctor gradually increased his dose to 300 mg BID by titration over several weeks. After 2 weeks, the plasma phenytoin level becomes 58 micromol/L. The patient was seizure-free for a month; however, he started complaining from ataxia. The doctor phoned you asking about the phenytoin dose that will result in a plasma concentration of about 45 micromol/L.\n\nWhat would be your answer?",
+        "options": [
+            "300 mg once daily",
+            "250 mg twice daily",
+            "250 mg once daily",
+            "200 mg three times daily"
+        ],
+        "correctAnswer": "250 mg twice daily",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "136",
+        "questions":[{
+        "question": "RS is a 37-year-old patient who began taking phenytoin 100 mg 3 capsules PO QHS 6 months ago. He has experienced several seizures since that time; the most recent seizure occurred this past week. At that time, his phenytoin serum trough level was 8 mcg/mL. The treating physician increased his dose to phenytoin 100 mg 3 capsules PO BID.\n\nOne week later, which of the following serum levels would most likely represent RS’ expected phenytoin serum trough level?",
+        "options": [
+            "16 mcg/mL",
+            "14 mcg/mL",
+            "20mcg/mL",
+            "10 mcg/mL"
+        ],
+        "correctAnswer": "20mcg/mL",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "137",
+        "questions":[{
+        "question": "JH is a 15-year-old male adolescent with a diagnosis of juvenile myoclonic epilepsy. He has been prescribed sodium divalproate.\n\nOn which side effect the pharmacist would best counsel JH?",
+        "options": [
+            "Alopecia",
+            "Edema",
+            "Word-finding difficulties",
+            "Kidney stones"
+        ],
+        "correctAnswer": "Alopecia",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "138",
+        "questions":[{
+        "question": "For which of the following antiepileptic drugs switching between different brands of the drug would be discouraged the most?",
+        "options": [
+            "Ethosuximide",
+            "Valproic acid",
+            "Phenytoin",
+            "Levetiracetam"
+        ],
+        "correctAnswer": "Phenytoin",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "139",
+        "questions":[{
+        "question": "Which of the following antiepileptic drugs is the drug of choice for a patient just diagnosed with complex partial seizures?",
+        "options": [
+            "Carbamazepine and lamotrigine",
+            "Ethosuximide",
+            "Oxcarbazepine",
+            "Valproic acid"
+        ],
+        "correctAnswer": "Oxcarbazepine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "140",
+        "questions":[{
+        "question": "HO is a 28-year-old male patient diagnosed with focal seizures and was initiated on carbamazepine which was upward titrated to 1600 mg/day; however, HO still complained of poor seizure control as shown on his seizure log.\n\nWhich of the following antiepileptics can be trialed using an immediate overnight switch without a titration phase, the most?",
+        "options": [
+            "Lamotrigine",
+            "Phenytoin",
+            "Levetiracetam",
+            "Oxcarbazepine"
+        ],
+        "correctAnswer": "Oxcarbazepine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "141",
+        "questions":[{
+        "question": "MZ is a 13-year-old male child who was initiated on valproic acid for absence seizures. Valproic acid was upward titrated to 1250 mg/day divided into 3 doses. Currently, MZ’s seizure were effectively controlled; however, he complained of diarrhea.\n\nWhat is the best course of action?",
+        "options": [
+            "Reduce valproic acid dose by 10%",
+            "Switch valproic acid to divalproex",
+            "Switch the dosing regimen to BID",
+            "Switch valproic acid to ethosuximide"
+        ],
+        "correctAnswer": "Switch valproic acid to divalproex",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "142",
+        "questions":[{
+        "question": "An 8-year-old female patient was initiated and titrated on carbamazepine up to a maintenance dose of 300 mg chewtabs three times daily for focal seizures which were showing epileptogenic discharges on EEG; however, her symptoms relapsed in 6 months. Her neurologist switched her to lamotrigine which was gradually titrated to a maintenance dose of 100 mg twice daily; however, her symptoms were still uncontrolled.\n\nWhat is the most appropriate next step?",
+        "options": [
+            "Add-on valproate",
+            "Titrate levetiracetam to maintenance dose, then consider gradually withdrawing lamotrigine",
+            "Switch lamotrigine to levetiracetam using a cross-tapering strategy.",
+            "Re-investigate the etiology of seizures"
+        ],
+        "correctAnswer": "Titrate levetiracetam to maintenance dose, then consider gradually withdrawing lamotrigine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "143",
+        "questions":[{
+        "question": "A newly diagnosed young epileptic patient endured two unprovoked seizures in a 2-month period that were characterized by loss of awareness, confusion, and repeated motions, such as random walking and head turning. The patient admits smoking marijuana once or twice weekly.\n\nWhat is a first-line therapeutic choice for this epileptic patient?",
+        "options": [
+            "Avoiding marijuana and a watchful waiting for 4 months",
+            "Lamotrigine",
+            "Valproic acid",
+            "Carbamazepine and topiramate"
+        ],
+        "correctAnswer": "Lamotrigine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "144",
+        "questions":[{
+        "question": "TZ, a 26-year-old woman, presents with a 6-month history of “spells.” The spells are all the same, and all of them start with a feeling in the abdomen that is difficult for her to describe. This feeling rises toward the head. The patient believes that she will then lose awareness. After a neurologic work-up, she is given a diagnosis of focal seizures evolving to a bilateral, convulsive seizure. The neurologist started TZ on oxcarbazepine. When the neurologist sees TZ 6 months later for follow up, she tells her that she is about 6 weeks pregnant. She has had no seizures since beginning drug therapy.\n\nWhich is the best course of action for TZ?",
+        "options": [
+            "Continue her antiepileptic drug",
+            "Immediately discontinue her antiepileptic drug and start folic acid 1 mg/day",
+            "Change her antiepileptic drug to clonazepam",
+            "Immediately discontinue her antiepileptic drug"
+        ],
+        "correctAnswer": "Continue her antiepileptic drug",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "145",
+        "questions":[{
+            "question": "A.Z, a 38 yaer old female, visits your pharmacy with an inquiry regarding her condition. She esplained to the pharmacist that she is complainging of mild facial droop on the left side of her face and a pain in her jaw and ear. She walso added that her doctor diagnosed her with peripheral facial palsy, but she did not want to prescribe any medications to her. She mentioned to the pharmacist that she googled on Bell's palsy and understood that cortisone is a good option to cure her symptoms. What is an appropriate recommendation by the pharmacist?",
+            "options": [
+                "Parenteral corticosteroids are more effective than oral forms in her case",
+                "Oral corticosteroids should be initiated within 72 hours of symptoms onset and should be avoided in case more than 7 days elapsed from the onset of symptoms.",
+                "Corticosteroids are not an indication in symptoms of facial paralysis diagnosed as Bell's palsy.",
+                "Oral corticosteroids ar eonly indicated to prevent progression of severe forms of her conditions into stroke."
+            ],
+            "correctAnswer": "Oral corticosteroids should be initiated within 72 hours of symptoms onset and should be avoided in case more than 7 days elapsed from the onset of symptoms.",
+            "Section": "CNS"
+        }]   
+    },
+    {
+        "blockId": "146",
+        "questions":[{
+        "question": "Which of the following is the most common adverse drug reaction to dimethyl fumarate (TECFIDERA ) used for the treatment of multiple sclerosis?",
+        "options": [
+            "Dry mouth",
+            "Microalbuminuria",
+            "Flushing",
+            "Headache"
+        ],
+        "correctAnswer": "Flushing",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "147",
+        "questions":[{
+        "question": "Which of the following is an appropriate treatment option for an acute flare of multiple sclerosis?",
+        "options": [
+            "Ocrelizumab",
+            "Methylprednisolone",
+            "Dimethyl fumarate",
+            "Glatiramer"
+        ],
+        "correctAnswer": "Methylprednisolone",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "148",
+        "questions":[{
+        "question": "Which of the following is an appropriate storage condition for the pre-filled syringes of glatiramer (Copaxone’)?",
+        "options": [
+            "It has to be kept in the fridge.",
+            "It can be stored at room temperature for up to 3 months.",
+            "It needs to be stored frozen.",
+            "It is stored at room temperature away from excessive moisture and direct sunlight."
+        ],
+        "correctAnswer": "It has to be kept in the fridge.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "149",
+        "questions":[{
+        "question": "A physician visits the pharmacist after the clinic hours and inquires about the newest treatment for multiple sclerosis.\n\nWhat is the most appropriate source of information for the pharmacist should consult to respond to the physician's query?",
+        "options": [
+            "Medline",
+            "CPS online",
+            "Primary literature",
+            "Clinical practice guidelines"
+        ],
+        "correctAnswer": "CPS online",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "150",
+        "questions":[{
+        "question": "A physician became aware that a new oral Drug Z has been recently marketed as maintenance therapy for relapsing-remitting multiple sclerosis. The physician asks the pharmacist to inform him/her how drug Z compares to drug X which has already been approved for the same indication.\n\nWhich of the following information resources the pharmacist can most appropriately rely upon?",
+        "options": [
+            "Consensus guidelines",
+            "The product monographs",
+            "Cochrane systematic reviews",
+            "Peer-reviewed primary literature"
+        ],
+        "correctAnswer": "Peer-reviewed primary literature",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "151",
+        "questions":[{
+        "question": "Which of the following medications is expected to be associated with rebound headaches, the most?",
+        "options": [
+            "Methylphenidate",
+            "Aspirin",
+            "Tricyclic antidepressants",
+            "Organic nitrates"
+        ],
+        "correctAnswer": "Aspirin",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "152",
+        "questions":[{
+        "question": "Which of the following medications is expected to trigger headaches as a side effect in an adult female patient, the most?",
+        "options": [
+            "Bupropion extended-release tablets (Wellbutrin XL®)",
+            "Ondansetron orally disintegrating tablets (Zofran® ODT)",
+            "Nitroglycerin sublingual spray (Nitrolingual” Pumpspray)",
+            "Norethindrone acetate-estradiol-17B patch (Estalis”)"
+        ],
+        "correctAnswer": "Nitroglycerin sublingual spray (Nitrolingual” Pumpspray)",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "153",
+        "questions":[{
+        "question": "All of the following statements regarding the diagnosis and treatment of episodic cluster headache are true, EXCEPT:",
+        "options": [
+            "Many proven migraine prophylactic drugs appear ineffective in cluster headaches.",
+            "Attacks commonly occur bilaterally in the periorbital area and are associated with tinnitus and vertigo.",
+            "Activity and oxygen can provide symptomatic relief for cluster headache.",
+            "Verapamil is an effective prophylactic therapy for cluster headache."
+        ],
+        "correctAnswer": "Attacks commonly occur bilaterally in the periorbital area and are associated with tinnitus and vertigo.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "154",
+        "questions":[{
+        "question": "H.Sch. is a 29-year-old female with a history of severe migraine headaches is seen in the emergency room for substernal chest pains of acute onset that woke her up in the morning. During an episode of chest pain her ECG shows ST elevations. Coronary artery catheterization revealed subocclusive calcific stenosis of the left anterior descending coronary artery, which was treated with heparin, percutaneous angioplasty, and the implant of a drug-eluting stent, along with appropriate dual antiplatelet therapy. H.SCh. had a 5 pack-year smoking history and had regularly been smoking marijuana for some years. H.Sch.’s drug profile shows the use of combined hormonal contraceptives, paroxetine for depression, nifedipine PRN for Raynaud's phenomenon, and sumatriptan PRN for migraine headaches which she has been suing for about 10 years. H.Sch.’s family history is remarkable for early-onset paternal ischemic heart disease and her biological father had an acute myocardial infarction which required coronary artery bypass graft at age 42.\n\nWhich of the following medications could potentially be implicated with H.Sch.’s recent complaint the most?",
+        "options": [
+            "Sumatriptan",
+            "Paroxetine",
+            "Combined hormonal contraceptive",
+            "Nifedipine"
+        ],
+        "correctAnswer": "Combined hormonal contraceptive",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "155",
+        "questions":[{
+        "question": "Which of the following features if associated with a primary headache disorder would be the least suggestive of a diagnosis of common migraines?",
+        "options": [
+            "Preceded by fatigue and mood changes",
+            "Smell-induced discomfort",
+            "Unilateral, electrical, sharp, and stabbing pain",
+            "Aggravated by routine daily activity"
+        ],
+        "correctAnswer": "Unilateral, electrical, sharp, and stabbing pain",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "156",
+        "questions":[{
+        "question": "Which of the following features is suggestive of migraine headaches?",
+        "options": [
+            "Awaken the patient at night",
+            "Precipitated by routine physical activity",
+            "Triggered by sunlight",
+            "Suppress smell and/or hearing"
+        ],
+        "correctAnswer": "Triggered by sunlight",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "157",
+        "questions":[{
+        "question": "Which of the following factors would be considered the least significant migraine triggers in a 28-year-old woman with a history of migraine headaches?",
+        "options": [
+            "Smoking tobacco",
+            "Drinking tap beer",
+            "Feeling very tired",
+            "Having the period"
+        ],
+        "correctAnswer": "Smoking tobacco",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "158",
+        "questions":[{
+        "question": "Tyramine is a biogenic amine that has been potentially linked to migraine headaches.\n\nAll of the following foods should be preferably avoided by a vegetarian migraineur due to elevated tyramine levels, EXCEPT:",
+        "options": [
+            "Cheddar cheese",
+            "Tofu",
+            "Broad beans",
+            "Dried figs"
+        ],
+        "correctAnswer": "Tofu",
+        "section": "CNS"
+    }]
+    },
+    {"blockId": "159",
+        "questions":[{
+        "question": "All of the following vitamins and/or natural products are evidence-based choices you would recommend as a pharmacist to reduce the number of migraine attacks in a 32-year-female customer who is interested in natural supplements for migraine prophylaxis, EXCEPT:",
+        "options": [
+            "Co-enzyme Q10",
+            "Magnesium",
+            "Vitamin B3",
+            "Butterbur"
+        ],
+        "correctAnswer": "Vitamin B3",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "160",
+        "questions":[{
+        "question": "FS is a 38-year-old asthmatic man who suffers severe migraine headaches 2-3 times a month. FS was prescribed sumatriptan 6 mg/0.5 mL subcutaneous injection (pre-filled syringes along with a pen autoinjector) to relieve his disabling headaches in order to enable resuming his daily activities as soon as possible. Today, first thing in the morning, he visits your pharmacy and tells you that he used his injection, but he did not get his headache relieved fully as usual. FS adds that his pulsating pain went down from 8 to 5 on a numeric pain rating scale; however, he feels that he is not able to fully concentrate and that this makes him quite nervous, as he has an important business meeting in 1 hour. He tells you that he injected himself with 6 mg of sumatriptan about 1 hour ago. FS adds that he has also rizatriptan 10 mg wafer at home from a previous prescription, which he was using prior to switching to injectable sumatriptan. FS' only current medication is salbutamol inhaler which he uses only 2-3 times a week before going to the gym.\n\nWhat is an appropriate advice to FS?",
+        "options": [
+            "I can help you locate nonprescription naproxen sodium 220 mg to be taken as 2-3 tablets immediately",
+            "You could take another shot of your medication now",
+            "You could take one of your rizatriptan 10 mg wafers at home",
+            "Do not worry; just wait another while, as the effect of the medication should kick in fully within 2 hours after the shot"
+        ],
+        "correctAnswer": "You could take another shot of your medication now",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "161",
+        "questions":[{
+        "question": "Which of the following is the least possible side effects that may be associated with almotriptan use in a migraineur?",
+        "options": [
+            "Dry mouth",
+            "Initial agitation",
+            "Nausea",
+            "Tingling of the skin"
+        ],
+        "correctAnswer": "Initial agitation",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "162",
+        "questions":[{
+        "question": "Which of the following is NOT true about erenumab (Aimovig) subcutaneous injection?",
+        "options": [
+            "It is a recombinant human monoclonal antibody that antagonizes calcitonin gene-related peptide receptor.",
+            "Injection site pain and redness is the most common side effect of erenumab.",
+            "It is administered subcutaneously every month as a migraine prophylactic agent in adults who have at least 4 migraine days per month.",
+            "Triptans should not be administered concomitantly with erenumab."
+        ],
+        "correctAnswer": "Triptans should not be administered concomitantly with erenumab.",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "163",
+        "questions":[{
+        "question": "L.G. is a 37-year-old pregnant female patient who is near term and whose medical history is remarkable for migraine, asthma, and depression for which she is stable on budesonide-formoterol inhalation and oral citalopram.\n\nWhich of the following therapeutic options is the most appropriate for a severe migraine headache in L.G.?",
+        "options": [
+            "Codeine/acetaminophen",
+            "Ibuprofen",
+            "Magnesium",
+            "Sumatriptan"
+        ],
+        "correctAnswer": "Sumatriptan",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "164",
+        "questions":[{
+        "question": "L.G. is a 37-year-old pregnant female patient who is near term and whose medical history is remarkable for migraine, asthma, and depression for which she is stable on budesonide-formoterol inhalation and oral citalopram. If L.G. complains of nausea and vomiting that is associated with her migraine headaches, what would be the most appropriate therapeutic recommendation?",
+        "options": [
+            "Doxylamine-pyridoxine",
+            "Ondansetron",
+            "Prochlorperazine",
+            "Ginger"
+        ],
+        "correctAnswer": "Prochlorperazine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "165",
+        "questions":[{
+        "question": "L.G. is a 37-year-old pregnant female patient who is near term and whose medical history is remarkable for migraine, asthma, and depression for which she is stable on budesonide-formoterol inhalation and oral citalopram. If L.G.'s physician decides to initiate L.G. on a migraine prophylactic regimen, what would be an appropriate preventive therapy?",
+        "options": [
+            "Propranolol",
+            "Magnesium",
+            "Nifedipine",
+            "Butterbur"
+        ],
+        "correctAnswer": "Magnesium",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "166",
+        "questions":[{
+        "question": "L.G. is a 37-year-old pregnant female patient who is near term and whose medical history is remarkable for migraine, asthma, and depression for which she is stable on budesonide-formoterol inhalation and oral citalopram. If you were aware that L.G. is on topiramate for migraine prophylaxis before becoming pregnant, what would you recommend to her regarding folate supplementation?",
+        "options": [
+            "0.4 - 1 mg started 3 months before pregnancy and throughout pregnancy along with the early post-partum period",
+            "5 mg started on day one of pregnancy and throughout pregnancy along with the early post-partum period",
+            "0.4 mg started 3 months before pregnancy and throughout pregnancy but not necessarily post-partum",
+            "1 mg started 3 months before pregnancy and throughout pregnancy but not necessarily post-partum"
+        ],
+        "correctAnswer": "1 mg started 3 months before pregnancy and throughout pregnancy but not necessarily post-partum",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "167",
+        "questions":[{
+        "question": "HR is a 29-year-old woman who visits the pharmacy today for recommendations regarding therapies that can reduce the frequency of her migraine headaches. HR tells the pharmacist that she is currently on moclobemide 450 mg/day for depression. HR adds that she moved recently to live with her boyfriend and that she is planning to start a family in the next 6-12 months. The pharmacist checks HR's medication records and notices that she is currently on combined hormonal contraceptives.\n\nWhat would be an appropriate agent to recommend to HR's family physician as an initial trial for migraine prophylaxis?",
+        "options": [
+            "Metoprolol",
+            "Magnesium",
+            "Topiramate",
+            "Amitriptyline"
+        ],
+        "correctAnswer": "Metoprolol",
+        "section": "CNS"
+    },
+    {
+        "question": "HR is a 29-year-old woman who visits the pharmacy today for recommendations regarding therapies that can reduce the frequency of her migraine headaches. HR tells the pharmacist that she is currently on moclobemide 450 mg/day for depression. HR adds that she moved recently to live with her boyfriend and that she is planning to start a family in the next 6-12 months. The pharmacist checks HR's medication records and notices that she is currently on combined hormonal contraceptives. HR's physician calls the pharmacist inquiring about the most adequate switching approach from moclobemide to fluoxetine in order to minimize withdrawal symptoms.\n\nWhat is an appropriate response by the pharmacist?",
+        "options": [
+            "Gradually reduce the dose of moclobemide and allow a 2-week washout period before starting fluoxetine",
+            "Gradually reduce the dose of moclobemide and allow a washout period of 35 days before starting fluoxetine",
+            "Start fluoxetine at a low dose while on moclobemide, then gradually reduce moclobemide while titrating fluoxetine dose up",
+            "Gradually reduce the dose of moclobemide and allow a washout period of 1-5 days before starting fluoxetine"
+        ],
+        "correctAnswer": "Gradually reduce the dose of moclobemide and allow a washout period of 1-5 days before starting fluoxetine",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "168",
+        "questions":[{
+        "question": "AS. is an obese 44-year-old black woman with disabling, chronic migraine headaches who was recently initiated on frovatriptan 2.5 mg tablets to be used STAT for her headaches and not to exceed 8 doses per month. A.S.’ current medications include hydrochlorothiazide 12.5 mg/day, amlodipine 2.5 mg/day, escitalopram 20 mg/day and fluticasone-salmeterol inhaler for hypertension, depression, and asthma, respectively. A.S. is also on trimonthly medroxyprogesterone acetate contraceptive injection. A.S.’s medical history is also remarkable for angioedema on ramipril. A.S.’ most recent blood pressure log of 28 readings shows an average reading of 140/90 mmHg, and her asthma and depression are stable on current medications.\n\nWhich of the following would be an appropriate migraine prophylactic therapy in A.S.?",
+        "options": [
+            "Nortriptyline",
+            "Topiramate",
+            "Candesartan",
+            "Propranolol"
+        ],
+        "correctAnswer": "Topiramate",
+        "section": "CNS"
+    },
+    {
+        "question": "Knowing that A.S complained to her family phisician that she had little success with frovatriptan for acute migraines, what would be a suitable next step in her treatment plan?",
+        "options": [
+            "Add acetaminophen-codeine",
+            "Switch to eletriptan",
+            "Add naproxen",
+            "Switch to dihydroergotamine"
+        ],
+        "correctAnswer": "Switch to eletriptan",
+        "section": "CNS"
+    }]
+    },
+
+    {
+        "blockId": "169",
+        "questions":[{
+        "question": "UR is a 27-year-old epileptic patient who has been stable on valproic acid and phenytoin for tonic-clonic seizure since the age of 10. UR is on a high-dose hormonal contraceptive. Recently, UR’s neurologist made a diagnosis of migraine headaches and started her on zolmitriptan orally dispersible tablets (ZOMIG® RAPIMELT) at a starting dose of 2.5 mg at the onset of headache to be increased to 5 mg at the onset of headache based on the headache severity. The pharmacist has just received the new prescription.\n\nUpon assessment of the newly prescribed triptan, which of the following is an appropriate action by the pharmacist?",
+        "options": [
+            "Fax the prescribing physician to recommend almotriptan instead of zolmitriptan",
+            "Suggest to start by zolmitriptan 1.25 mg at the onset of headache",
+            "Fill the prescription as is and counsel the patient on the proper use",
+            "Suggest to start by zolmitriptan 5 mg at the onset of headache"
+        ],
+        "correctAnswer": "Fill the prescription as is and counsel the patient on the proper use",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "170",
+        "questions":[{
+        "question": "AJ is a 39-year-old elementary grade teacher who presents to the walk-in clinic today with obvious dark circles under her eyes. AJ complains to the physician that she has trouble sleep, mainly with staying asleep. It takes her about 20 minutes to fall asleep, but after about a couple of hours, she wakes up and cannot fall asleep again for several hours. This pattern has taken a toll on her job, and she feels tired most of the time. AJ once took over-the-counter diphenhydramine for sleep but had to miss work the next day because of significant hangover in the morning. She wonders whether there are any other medications that she can take. AJ medical history is remarkable for hypothyroidism, hypertension, chronic back pain, and anxiety. AJ also started a diet 4 months ago and lost 25 pounds. AJ’s medications are shown below for your reference. Patient's Medication Record Levothyroxine: 125 mcg in the morning Chlorthalidone: 25 mg in the morning Ibuprofen: 800 mg 3 times per day Escitalopram: 10 mg in the morning. Which of AJ's medications is most likely contributing to her insomnia?",
+        "options": [
+            "Escitalopram",
+            "Ibuprofen",
+            "Levothyroxine",
+            "Chlorthalidone"
+        ],
+        "correctAnswer": "Levothyroxine",
+        "section": "CNS"
+    },
+    {
+        "question": "AJ is a 39-year-old elementary grade teacher who presents to the walk-in clinic today with obvious dark circles under her eyes. AJ complains to the physician that she has trouble sleep, mainly with staying asleep. It takes her about 20 minutes to fall asleep, but after about a couple of hours, she wakes up and cannot fall asleep again for several hours. This pattern has taken a toll on her job, and she feels tired most of the time. AJ once took over-the-counter diphenhydramine for sleep but had to miss work the next day because of significant hangover in the morning. She wonders whether there are any other medications that she can take. AJ medical history is remarkable for hypothyroidism, hypertension, chronic back pain, and anxiety. AJ also started a diet 4 months ago and lost 25 pounds. AJ’s medications are shown below for your reference. Patient's Medication Record Levothyroxine: 125 mcg in the morning Chlorthalidone: 25 mg in the morning Ibuprofen: 800 mg 3 times per day Escitalopram: 10 mg in the morning. Which of the following medications would be an appropriate choice for AJ to manage her acute insomnia on the short-term?",
+        "options": [
+            "Quetiapine",
+            "Zolpidem",
+            "Oxazepam",
+            "Trazodone"
+        ],
+        "correctAnswer": "Zolpidem",
+        "section": "CNS"
+    },
+    {
+        "question": "AJ is a 39-year-old elementary grade teacher who presents to the walk-in clinic today with obvious dark circles under her eyes. AJ complains to the physician that she has trouble sleep, mainly with staying asleep. It takes her about 20 minutes to fall asleep, but after about a couple of hours, she wakes up and cannot fall asleep again for several hours. This pattern has taken a toll on her job, and she feels tired most of the time. AJ once took over-the-counter diphenhydramine for sleep but had to miss work the next day because of significant hangover in the morning. She wonders whether there are any other medications that she can take. AJ medical history is remarkable for hypothyroidism, hypertension, chronic back pain, and anxiety. AJ also started a diet 4 months ago and lost 25 pounds. AJ’s medications are shown below for your reference. Patient's Medication Record Levothyroxine: 125 mcg in the morning Chlorthalidone: 25 mg in the morning Ibuprofen: 800 mg 3 times per day Escitalopram: 10 mg in the morning. Which adverse effect should AJ be most concerned about if she is going to get started on zolpidem?",
+        "options": [
+            "Seizures at high doses of the drug",
+            "Abnormal behaviors while asleep",
+            "Bitter taste",
+            "Disorientation"
+        ],
+        "correctAnswer": "Abnormal behaviors while asleep",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "171",
+        "questions":[{
+        "question": "Which of the following conditions is the least possible cause of secondary insomnia?",
+        "options": [
+            "Menopause",
+            "Angina",
+            "Restless leg syndrome",
+            "Pregnancy"
+        ],
+        "correctAnswer": "Angina",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "172",
+        "questions":[{
+        "question": "Which of the following nonpharmacological approaches carries the highest evidence for the management of insomnia secondary to chronic low back pain in a 52-year-old patient who is otherwise healthy?",
+        "options": [
+            "Cognitive therapy",
+            "Electroconvulsive therapy",
+            "Prolotherapy",
+            "Aromatherapy"
+        ],
+        "correctAnswer": "Cognitive therapy",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "173",
+        "questions":[{
+        "question": "What would be your recommendation regarding a natural health product for insomnia in an 82-year-old male whose medical history is remarkable for hypertension, atrial fibrillation, depression, moderate-severe benign prostatic hyperplasia, and chronic constipation?",
+        "options": [
+            "L-tryptophan",
+            "German chamomile",
+            "Kava kava",
+            "Melatonin"
+        ],
+        "correctAnswer": "Melatonin",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "174",
+        "questions":[{
+        "question": "A 54-year-old woman with psychoneurotic depression who is on tranylcypromine has been given a prescription for a sleeping pill. Of the medications listed below, which one is the most likely prescribed medication?",
+        "options": [
+            "Quetiapine 25 mg QHS po x 1 week",
+            "Zopiclone 3.75 mg QHS po x 1 week",
+            "Oxazepam 10 mg QHS po x 1 week",
+            "Trazodone 25 mg QHS po x 1 week"
+        ],
+        "correctAnswer": "Zopiclone 3.75 mg QHS po x 1 week",
+        "section": "CNS"
+    }]
+    },
+    {
+        "blockId": "175",
+        "questions":[{
+        "question": "R.R. is a 76-year-old male customer (body weight: 67 kg) who visits your pharmacy today and complains of difficulty falling asleep for several nights in a row. He explains that he was not able to sleep at all and that he had his eyes wide open while in bed until the early morning hours. He adds that he was not able to complete a summer project in the family’s cottage because of his sleeping issue. R.R. denies smoking or drinking alcohol. His medical history is unremarkable except for a few episodes of syncope, and he is currently not on any medications; however, when asked about any nocturnal washroom visits, he mentions that he usually visits the washroom once or twice at night, but this did not pose any sleep problems to him previously. Additionally, when R.R. was asked about the urine flow, he explains that he suffers some hesitancy, that the flow is intermittent, and that he usually dribbles at the end of micturition. When you inquire from R.R. about his lifestyle, he mentions that he gardens regularly and that he is consistent with a 30- to 60-minute daily walk. Furthermore, R.R.'s social history shows that he is married and lives with his wife in their owned house. Finally, the customer denies any mental or psychological problems. Which of the following would be considered the most appropriate nondrug measure to be initially trialed by RR?",
+        "options": [
+            "Stick to a regular sleep schedule, as keeping your sleep times consistent, even on weekends, can help maintain your body's natural sleep rhythm.",
+            "If you are unable to fall asleep after 15 minutes, get out of bed and try to do something relaxing, such as reading.",
+            "Avoid large meals or beverages before bed.",
+            "Use your bed and bedroom only for sleeping and intimate relations."
+        ],
+        "correctAnswer": "If you are unable to fall asleep after 15 minutes, get out of bed and try to do something relaxing, such as reading.",
+        "section": "CNS"
+    },
+    {
+        "question": "R.R. is a 76-year-old male customer (body weight: 67 kg) who visits your pharmacy today and complains of difficulty falling asleep for several nights in a row. He explains that he was not able to sleep at all and that he had his eyes wide open while in bed until the early morning hours. He adds that he was not able to complete a summer project in the family’s cottage because of his sleeping issue. R.R. denies smoking or drinking alcohol. His medical history is unremarkable except for a few episodes of syncope, and he is currently not on any medications; however, when asked about any nocturnal washroom visits, he mentions that he usually visits the washroom once or twice at night, but this did not pose any sleep problems to him previously. Additionally, when R.R. was asked about the urine flow, he explains that he suffers some hesitancy, that the flow is intermittent, and that he usually dribbles at the end of micturition. When you inquire from R.R. about his lifestyle, he mentions that he gardens regularly and that he is consistent with a 30- to 60-minute daily walk. Furthermore, R.R.'s social history shows that he is married and lives with his wife in their owned house. Finally, the customer denies any mental or psychological problems. Which of the following options should be considered and evaluated initially for R.R.?",
+        "options": [
+            "Silodosin and temazepam",
+            "Terazosin and zopiclone",
+            "Tamsulosin and clonazepam",
+            "Tadalafil and melatonin"
+        ],
+        "correctAnswer": "Silodosin and temazepam",
+        "section": "CNS"
+    }]
+    }
+]
+    

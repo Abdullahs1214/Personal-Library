@@ -34,11 +34,11 @@ def InD_Slayer():
         while flag2 == True:
             x = random.randint(0,3)
             listcoop.append(x)
-            for i in range(4):
+            for i in range(3):
                 if listcoop.count(i) == 3:
                     flag2 = False
                     print(cnames[i])
-
+InD_Slayer()
                
 
 

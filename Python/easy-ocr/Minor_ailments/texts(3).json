@@ -1,0 +1,1307 @@
+[
+      {
+        "question": "Which of the following laboratory monitoring is NOT required at baseline before starting the FOLFOX regimen?",
+        "options": [
+          "Serum creatinine",
+          "Complete blood count",
+          "Lipid battery",
+          "Liver function tests"
+        ],
+        "correctAnswer": "Lipid battery",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following describes the role of leucovorin in the FOLFOX combination?",
+        "options": [
+          "To guard against megaloblastic anemia due to an anticipated folic acid deficiency",
+          "To enhance the effectiveness of fluorouracil",
+          "To exert an indirect killing effect on cancer cells",
+          "To act as a 'chemoprotectant' by reducing the toxicity of concomitantly administered chemotherapeutic agents"
+        ],
+        "correctAnswer": "To enhance the effectiveness of fluorouracil",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Knowing that the oncologist tells the oncology pharmacist that the FOLFOX regimen is considered of moderate emetogenicity, which of the following seems like an appropriate antiemetic regimen for NA?",
+        "options": [
+          "Oral ondansetron, aprepitant, dexamethasone, and olanzapine 15-30 minutes prior to chemotherapy along with take home oral nabilone to be used when required",
+          "Oral granisetron and aprepitant 15-30 minutes prior to chemotherapy along with a take home oral domperidone to be used when required",
+          "Oral ondansetron 15-30 minutes prior to chemotherapy along with take home oral metoclopramide to be used when required",
+          "Oral ondansetron and dexamethasone 15-30 minutes prior to chemotherapy along with take home oral metoclopramide to be used when required"
+        ],
+        "correctAnswer": "Oral ondansetron and dexamethasone 15-30 minutes prior to chemotherapy along with take home oral metoclopramide to be used when required",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "What is an appropriate first step to manage NA’s symptoms?",
+        "options": [
+          "No action would be required at this time.",
+          "To administer an anxiolytic and continue the infusion",
+          "To stop the infusion immediately and observe the patient",
+          "To reduce the infusion rate and prolong the infusion time"
+        ],
+        "correctAnswer": "To stop the infusion immediately and observe the patient",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following is NOT an appropriate measure to help NA?",
+        "options": [
+          "To avoid oranges, lemons and grapefruits",
+          "To talk to the doctor to consider anticancer dose reduction",
+          "To chew sugarless gum",
+          "To drink plenty of fluids"
+        ],
+        "correctAnswer": "To talk to the doctor to consider anticancer dose reduction",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following is an appropriate measure to resolve NA’s complaint?",
+        "options": [
+          "To use a urea-based moisturizer twice daily until the symptoms subside",
+          "To use warm compresses throughout the day",
+          "To delay the next chemotherapy cycle",
+          "To use oral acetaminophen and inform the oncologist if any blisters or swollen areas develop"
+        ],
+        "correctAnswer": "To delay the next chemotherapy cycle",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following statement most accurately describes the evidence supporting the use of cannabis and cannabinoids in patients with cancer?",
+        "options": [
+          "Cannabis and cannabinoids are not recommended as first line options for treating most health problems, including cancer symptoms or cancer treatment side effects.",
+          "Cannabis and cannabinoids are recommended as first-line agents for pain in people who are getting palliative care.",
+          "Cannabis and cannabinoids should not be recommended for refractory neuropathic pain caused by nerve damage or other problems with the nervous system.",
+          "There is enough research to show that cannabis and cannabinoids may help loss of appetite associated with cancer symptoms and cancer treatment side effects."
+        ],
+        "correctAnswer": "Cannabis and cannabinoids are not recommended as first line options for treating most health problems, including cancer symptoms or cancer treatment side effects.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following statements is true regarding the management of chemotherapy-induced nausea and vomiting?",
+        "options": [
+          "Granisetron may prolong QTc in certain patient populations.",
+          "Chemotherapy-associated emesis with highly emetogenic regimens can be prevented with a 5-HT3 antagonist, a neurokinin-1 receptor antagonist, and olanzapine.",
+          "The side effect profile of dexamethasone consists of sedation, immunosuppression, and psychosis.",
+          "Olanzapine dosage forms include tablets and oral disintegrating tablets."
+        ],
+        "correctAnswer": "Granisetron may prolong QTc in certain patient populations.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "All of the following statements are true regarding the management of chemotherapy-induced nausea and vomiting, EXCEPT:",
+        "options": [
+          "Domperidone can be used for chemotherapy-induced breakthrough nausea and vomiting.",
+          "Dexamethasone cannot be used alone to cover nausea and vomiting associated with chemotherapy with low-emetogenic potential.",
+          "Fosaprepitant works by inhibiting binding of substance P and should be given as a one-time dose of 150 mg in adults.",
+          "The administration of metoclopramide for chemotherapy-induced breakthrough nausea and vomiting should be avoided in patients who received prophylactic olanzapine."
+        ],
+        "correctAnswer": "Dexamethasone cannot be used alone to cover nausea and vomiting associated with chemotherapy with low-emetogenic potential.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following organizations or institutions can be requested by health authorities to review the clinical effectiveness of medical cannabis for the treatment of chronic pain?",
+        "options": [
+          "Institute of Safe Medication Practice Canada",
+          "Canadian Agency for Drugs and Technologies in Health",
+          "MedEffect Canada",
+          "Health Canada"
+        ],
+        "correctAnswer": "Canadian Agency for Drugs and Technologies in Health",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following adverse drug reaction classes most accurately describes infusion reactions?",
+        "options": [
+          "G",
+          "E",
+          "F",
+          "A"
+        ],
+        "correctAnswer": "B",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "All of the following are common signs or symptoms that are likely associated with an infusion reaction within minutes to hours after exposure to a chemotherapeutic drug, EXCEPT:",
+        "options": [
+          "Nausea",
+          "Rash",
+          "Rigors",
+          "Edema"
+        ],
+        "correctAnswer": "Edema",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following classes of anticancer agents is least likely associated with infusion reactions?",
+        "options": [
+          "Taxanes",
+          "Platinum compounds",
+          "Fluoropyrimidines",
+          "Monoclonal antibodies"
+        ],
+        "correctAnswer": "Fluoropyrimidines",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following recommendations is adequate for a patient receiving intravenous cisplatin who complains of flushing, rash, and nausea?",
+        "options": [
+          "Administer dimenhydrinate and ibuprofen",
+          "Administer acetaminophen and ondansetron",
+          "Administer epinephrine and hydrocortisone",
+          "Administer diphenhydramine and dimenhydrinate"
+        ],
+        "correctAnswer": "Administer diphenhydramine and dimenhydrinate",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "The above patient's creatinine clearance dropped to 48 mL/min after starting cisplatin. Which of the following is an appropriate course of action?",
+        "options": [
+          "Discontinue chemotherapy; investigate alternative protocols",
+          "Delay chemotherapy; recheck in 1 week",
+          "Continue chemotherapy; this is an expected transient side effect",
+          "Hydrate orally; continue chemotherapy"
+        ],
+        "correctAnswer": "Delay chemotherapy; recheck in 1 week",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following pre-medication protocol is recommended to reduce the risk of infusion reactions for rituximab?",
+        "options": [
+          "Salbutamol and ibuprofen",
+          "Ondansetron and hydrocortisone",
+          "Acetaminophen and diphenhydramine",
+          "Dexamethasone and dimenhydrinate"
+        ],
+        "correctAnswer": "Acetaminophen and diphenhydramine",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following statements about chemotherapy and radiotherapy treatment is false?",
+        "options": [
+          "Mucositis is a common side effect to both radiation and chemotherapy treatments.",
+          "Cancer chemotherapy can lower white blood cell count but not platelet count.",
+          "Chemotherapy can negatively affect a patient's attention or memory and this effect is referred to as 'chemo brain'.",
+          "Sexual dysfunction resulting from chemotherapy and radiation therapy appears as erectile and orgasmic dysfunction."
+        ],
+        "correctAnswer": "Cancer chemotherapy can lower white blood cell count but not platelet count.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "A patient with non-Hodgkin’s lymphoma is receiving a chemotherapeutic regimen that consists of idarubicin, ifosfamide, and etoposide. Which of the following would indicate that the patient is experiencing an adverse reaction specifically attributed to idarubicin?",
+        "options": [
+          "Neuropathy",
+          "Systolic dysfunction",
+          "Stomatitis",
+          "Vomiting"
+        ],
+        "correctAnswer": "Systolic dysfunction",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following statements about doxorubicin-associated cardiotoxicity is NOT true?",
+        "options": [
+          "Cardiotoxicity is dose-dependent and may be irreversible.",
+          "Doxorubicin is more effective and less cardiotoxic than its epimer, epirubicin.",
+          "It can result in both arrhythmia and heart failure.",
+          "A liposomal formulation of doxorubicin can result in lower cardiac damage."
+        ],
+        "correctAnswer": "Doxorubicin is more effective and less cardiotoxic than its epimer, epirubicin.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "All of the following are appropriate steps to detect and manage anthracycline-induced cardiotoxicity, EXCEPT:",
+        "options": [
+          "Limiting the cumulative anthracycline dose is considered the most effective strategy in reducing cardiac risk.",
+          "Screening for obesity, diabetes, metabolic syndrome, and hypertension before starting therapy is recommended.",
+          "Applying radiotherapy is expected to reduce the susceptibility to cardiac damage when combined with anthracyclines.",
+          "ACE inhibitors and beta-blockers can significantly reduce the occurrence of cardiac events if used prophylactically."
+        ],
+        "correctAnswer": "Applying radiotherapy is expected to reduce the susceptibility to cardiac damage when combined with anthracyclines.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "A meta-analysis of randomized controlled trials comparing doxorubicin with other first-line chemotherapeutic options for metastatic soft tissue sarcoma is a:",
+        "options": [
+          "Secondary research.",
+          "Peer-reviewed review article.",
+          "Tertiary research.",
+          "Primary research."
+        ],
+        "correctAnswer": "Secondary research.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following is an important type of bias to be avoided in meta-analytical studies?",
+        "options": [
+          "Publication bias",
+          "Attrition bias",
+          "Selection bias",
+          "Confirmation bias"
+        ],
+        "correctAnswer": "Publication bias",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following factors increase the risk of deep vein thrombosis the most in ZG?",
+        "options": [
+          "Dyslipidemia",
+          "Breast cancer",
+          "Age",
+          "Tamoxifen"
+        ],
+        "correctAnswer": "Breast cancer",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Knowing that ZG endured an event of deep vein thrombosis, which of the following treatment strategies is recommended for her?",
+        "options": [
+          "Start heparin; continue for at least 3-6 months, then reassess",
+          "Start dabigatran; continue indefinitely",
+          "Start warfarin; continue indefinitely",
+          "Start dalteparin; continue for at least 3-6 months, then reassess"
+        ],
+        "correctAnswer": "Start dalteparin; continue for at least 3-6 months, then reassess",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following monitoring parameters is NOT necessary for ZG, whether at baseline or once the previously selected anticoagulant has been started?",
+        "options": [
+          "Anti-xa levels",
+          "aPTT",
+          "Platelet count",
+          "GFR"
+        ],
+        "correctAnswer": "aPTT",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "After administering filgrastim, OP complains of mild to moderate bone pain. Which of the following is the most appropriate solution for this drug therapy problem?",
+        "options": [
+          "Reduce the dose of filgrastim",
+          "Hold off filgrastim temporarily",
+          "Administer hydromorphone",
+          "Administer acetaminophen"
+        ],
+        "correctAnswer": "Administer acetaminophen",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "The oncologist orders dexamethasone 20 mg IV in NS 50 mL over 15 minutes along with diphenhydramine 50 mg IV in NS 50 mL over 15 minutes and famotidine 20 mg IV in NS 100 mL over 15 minutes 30 minutes prior to starting the chemotherapy protocol. Which of the following explains the rationale for the regimen ordered?",
+        "options": [
+          "As part of the antiemetic protocol to prevent chemotherapy-induced nausea and vomiting",
+          "As a general measure to avoid procedure-related anxiety and gastric upset",
+          "As a prophylaxis for paclitaxel-associated hypersensitivity reactions",
+          "As an adjunct to control neuropathic pain associated with the chemotherapy"
+        ],
+        "correctAnswer": "As a prophylaxis for paclitaxel-associated hypersensitivity reactions",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following actions is NOT an appropriate measure to manage and prevent extravasation while administering an infusion of doxorubicin?",
+        "options": [
+          "Administer low molecular weight heparin subcutaneously throughout the extravasation area.",
+          "Apply DMSO topically TID to the extravasated area for 1 week.",
+          "Use a central venous catheter.",
+          "Apply cold compresses for 20 min 4 times daily for up to 48 hours if extravasation occurs."
+        ],
+        "correctAnswer": "Administer low molecular weight heparin subcutaneously throughout the extravasation area.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "A 32-year-old male patient is scheduled to undergo radiotherapy to the pelvic area for Hodgkin’s lymphoma. He expresses concern to the pharmacist about the effect of radiotherapy on his sexual function. Which of the following pharmacist’s responses involves empathetic active listening, the most?",
+        "options": [
+          "The radiation will make you sterile, but your ability to have sexual intercourse will not be changed by the treatment.",
+          "You may have some temporary impotence during the course of the radiation, but normal sexual function will resume eventually.",
+          "Radiation does not cause the problems with sexual functioning that occur with chemotherapy used to treat cancer.",
+          "It is possible that you may have some changes in your sexual function, and you may want to consider pretreatment harvesting of sperm if you want to parent."
+        ],
+        "correctAnswer": "It is possible that you may have some changes in your sexual function, and you may want to consider pretreatment harvesting of sperm if you want to parent.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "All of the following non-pharmacological measures can reduce the feeling of nausea associated with cancer chemotherapy, EXCEPT:",
+        "options": [
+          "Biofeedback.",
+          "Warm and creamy foods rather than cold and dry foods.",
+          "Frequent snacks rather than regular meals at fixed intervals.",
+          "Bed rest."
+        ],
+        "correctAnswer": "Warm and creamy foods rather than cold and dry foods.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following is an important drug to control her nausea and vomiting?",
+        "options": [
+          "Nabilone",
+          "Olanzapine",
+          "Lorazepam",
+          "Netupitant"
+        ],
+        "correctAnswer": "Netupitant",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Based on the previous choices, what is the most appropriate drug to control nausea and vomiting?",
+        "options": [
+          "Olanzapine",
+          "Metoclopramide",
+          "Dimenhydrinate",
+          "Prochlorperazine"
+        ],
+        "correctAnswer": "Metoclopramide",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "What is the most appropriate for S.K. experiencing mild nausea and vomiting?",
+        "options": [
+          "Buspirone",
+          "Zolpidem",
+          "Progressive muscle relaxation with guided imagery",
+          "Prochlorperazine"
+        ],
+        "correctAnswer": "Progressive muscle relaxation with guided imagery",
+        "section": "Chemo Respiratory"
+      },
+    
+
+  
+  
+      {
+        "question": "Which of the following is true regarding nalbuphine?",
+        "options": [
+          "It may reverse the respiratory depression in opioid addicts who overdose on hydromorphone.",
+          "It is not expected to precipitate withdrawal symptoms in patients taking U-opioid receptor agonists.",
+          "It is commonly used for the treatment of pain during labor and delivery.",
+          "It is subject to a ceiling effect which limits its use as analgesic for cancer pain."
+        ],
+        "correctAnswer": "It is not expected to precipitate withdrawal symptoms in patients taking U-opioid receptor agonists.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following statement about morphine is true?",
+        "options": [
+          "It is the most commonly used opioid because it shows the mildest adverse reactions.",
+          "Morphine-6-glucuronide may lead to respiratory depression in patients with renal impairment.",
+          "Its metabolite, morphine-3-glucuronide, contributes to the drug’s analgesic effect.",
+          "When given orally, it has the fastest onset of analgesia of all the opioids."
+        ],
+        "correctAnswer": "Morphine-6-glucuronide may lead to respiratory depression in patients with renal impairment.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following statement about fentanyl is NOT true?",
+        "options": [
+          "It is a safe option in opioid tolerant renal failure patients.",
+          "It is contraindicated in patients with chronic functional constipation.",
+          "It is likely a safe option in patients with morphine-induced anaphylaxis.",
+          "Its dose should be reduced if combined with protease inhibitors in patients with HIV."
+        ],
+        "correctAnswer": "It is contraindicated in patients with chronic functional constipation.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following drugs is the most appropriate option for use in a patient with severe renal impairment to manage severe pain?",
+        "options": [
+          "Codeine",
+          "Tapentadol",
+          "Buprenorphine",
+          "Meperidine"
+        ],
+        "correctAnswer": "Buprenorphine",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following patients is the most appropriate candidate to start treatment with the fentanyl transdermal patch?",
+        "options": [
+          "A patient presenting to the emergency room with acute excruciating pain due to multiple fractures.",
+          "An HIV patient with Kaposi’s sarcoma causing severe abdominal pain.",
+          "A patient who has been taking 5 mg immediate-release oxycodone every 4-6 hours for chronic bone cancer pain.",
+          "A patient taking 6 mg controlled-release hydromorphone every 12 hours for chronic lung cancer pain."
+        ],
+        "correctAnswer": "A patient taking 6 mg controlled-release hydromorphone every 12 hours for chronic lung cancer pain.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "All of the following are appropriate counseling tips for a patient getting started on fentanyl patch, EXCEPT:",
+        "options": [
+          "You should not swim or shower while wearing the patch.",
+          "Do not use the patch if the seal of the protective pouch is broken.",
+          "If the patch does not stick well, or loosens after application, tape only the edges down.",
+          "Hold palm of hand over patch for 30 seconds when applying the patch."
+        ],
+        "correctAnswer": "You should not swim or shower while wearing the patch.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "All of the following are appropriate advice by the pharmacist regarding the safe disposal of used fentanyl patches at home, EXCEPT:",
+        "options": [
+          "Never place used patches in the garbage and avoid flushing it down the toilet.",
+          "Return used patches to the pharmacy.",
+          "Remove the patch from the skin and fold it in half, sticky side to sticky side.",
+          "Clean your hands with plenty of soap and water if the sticky adhesive side of the patch accidentally touches the skin."
+        ],
+        "correctAnswer": "Clean your hands with plenty of soap and water if the sticky adhesive side of the patch accidentally touches the skin.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "What is the drug therapy problem for the 77-year-old woman who fell asleep in the sun while on vacation?",
+        "options": [
+          "A too high fentanyl dose",
+          "A drug-drug interaction involving the patient's medications",
+          "The patient needs additional therapy or non-drug measures",
+          "An adverse drug reaction due to unsafe use of the patch"
+        ],
+        "correctAnswer": "An adverse drug reaction due to unsafe use of the patch.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following measures would be the least appropriate to prevent diversion of fentanyl in tertiary care settings?",
+        "options": [
+          "Each time a partial dose of a fentanyl injectable is dispensed, the nurse should waste the unused portion with a witness.",
+          "Implementing barcoded electronic medication administration records in the respective ward(s).",
+          "Forbidding borrowing narcotics from another nursing unit under any circumstances.",
+          "Implementing automated dispensing cabinets for fentanyl orders."
+        ],
+        "correctAnswer": "Forbidding borrowing narcotics from another nursing unit under any circumstances.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which statement regarding buccal fentanyl citrate (FENTORA™) is true?",
+        "options": [
+          "It is indicated for the relief of postoperative pain after surgery for cancer.",
+          "It is contraindicated in opioid-tolerant cancer patients with oral mucositis.",
+          "It is approved only for the management of breakthrough pain in opioid-tolerant cancer patients.",
+          "A cancer patient who has been using opioids intermittently should be started on the lowest possible strength."
+        ],
+        "correctAnswer": "It is approved only for the management of breakthrough pain in opioid-tolerant cancer patients.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following is NOT true regarding the buccal administration of fentanyl citrate (FENTORA™)?",
+        "options": [
+          "The sublingual route enhances patient compliance and is especially useful for patients with xerostomia.",
+          "Sucking the tablet will decrease the absorption and peak levels of fentanyl.",
+          "All patients are initiated on 100 mcg sublingual tablet then titrated upwards to 800 mcg.",
+          "The tablet should be placed between the upper cheek and gum until it disintegrates."
+        ],
+        "correctAnswer": "The sublingual route enhances patient compliance and is especially useful for patients with xerostomia.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following side effects is least likely to occur upon using immediate release oxycodone tablets?",
+        "options": [
+          "Xerostomia",
+          "Aggression",
+          "Hyperhidrosis",
+          "Headache"
+        ],
+        "correctAnswer": "Aggression.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following oxycodone adverse drug reactions is expected, the least, to be transient and to become tolerated over time?",
+        "options": [
+          "Nausea",
+          "Decreased gastrointestinal motility",
+          "Sedation",
+          "Decreased respiratory rate"
+        ],
+        "correctAnswer": "Decreased gastrointestinal motility.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following 'anti-constipation' regimens is recommended as a prophylactic monotherapy for a patient starting chronic opioid therapy?",
+        "options": [
+          "Glycerin suppositories",
+          "Polyethylene Glycol 3350 (RestoraLAX)",
+          "Docusate sodium capsules (COLACE)",
+          "Psyllium hydrophilic mucilloid (METAMUCIL)"
+        ],
+        "correctAnswer": "Polyethylene Glycol 3350 (RestoraLAX).",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following is the most appropriate initial drug management for a cancer patient suffering from opioid-induced constipation?",
+        "options": [
+          "Long-term use of standardized sennosides-polyethylene glycol combination (SENOKOT™-S tablets)",
+          "PRN standardized sennosides (SENOKOT™ tablets) with daily long-term docusate sodium BID",
+          "PRN standardized sennosides-docusate sodium combination (SENOKOT™-S tablets) HS",
+          "Long-term use of standardized sennosides (SENOKOT™ tablets) HS"
+        ],
+        "correctAnswer": "Long-term use of standardized sennosides (SENOKOT™ tablets) HS.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "All of the following can be considered signs of physical dependence when an opioid is withdrawn abruptly, EXCEPT:",
+        "options": [
+          "Dilated pupil and runny nose.",
+          "Sleepiness and increased appetite.",
+          "Flu-like symptoms and chills.",
+          "Irritability and sweating."
+        ],
+        "correctAnswer": "Sleepiness and increased appetite.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "A patient is chatting with the pharmacist about opioid use. Which of the following statements is true?",
+        "options": [
+          "If I stop my opioid suddenly, I will be in pain.",
+          "If my current opioid dose isn’t helping my pain anymore, a bigger dose is always expected to help.",
+          "A higher dose of my opioid cannot make my pain worse.",
+          "If I take my opioid exactly as prescribed, I won't have any side effects."
+        ],
+        "correctAnswer": "If I stop my opioid suddenly, I will be in pain.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "All of the following definitions correctly describe physical dependence pertinent to opioid therapy, EXCEPT:",
+        "options": [
+          "It is associated with compulsive opioid use.",
+          "It is likely associated with withdrawal symptoms.",
+          "The onset of withdrawal symptoms generally ranges from 8 to 12 hours.",
+          "Other drug classes, such as corticosteroids can also be associated with physical dependence."
+        ],
+        "correctAnswer": "It is associated with compulsive opioid use.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following is NOT considered a risk factor for opioid use disorder?",
+        "options": [
+          "Female gender",
+          "Genetics",
+          "Psychiatric disorders",
+          "Younger age"
+        ],
+        "correctAnswer": "Female gender.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "The criteria which distinguish drug dependence from drug addiction the most are that:",
+        "options": [
+          "In the former, an offended individual will be only craving, whereas in the latter condition a person will show a compulsive drug use behavior.",
+          "Drug dependence is unpredictable, whereas drug addiction is predictable in nature.",
+          "The former is characterized by tolerance and withdrawal, whereas the latter is a combination of mental and physical dependence with uncontrollable behavior in obtaining and using a drug.",
+          "Drug dependence can be managed easier than drug addiction."
+        ],
+        "correctAnswer": "The former is characterized by tolerance and withdrawal, whereas the latter is a combination of mental and physical dependence with uncontrollable behavior in obtaining and using a drug.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following are signs and/or symptoms of opioid abuse?",
+        "options": [
+          "None of the given signs and/or symptoms apply.",
+          "Fast heartbeats.",
+          "Dry skin.",
+          "Dilated pupil."
+        ],
+        "correctAnswer": "None of the given signs and/or symptoms apply.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following patient's attitudes will designate, the least, a probable aberrant opioid-related behavior in an opioid-tolerant patient?",
+        "options": [
+          "Frequent requests of opioids for travel.",
+          "Request of early refills.",
+          "Intolerance to a nonopioid prescription.",
+          "Feeling high after taking the opioid medication."
+        ],
+        "correctAnswer": "Intolerance to a nonopioid prescription.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following are signs and/or symptoms of opioid withdrawal?",
+        "options": [
+          "Fever, rapid heart rate, goose bumps.",
+          "All the given answers apply.",
+          "Diarrhea, vomiting, yawning.",
+          "Muscle spasms, agitation, tremors."
+        ],
+        "correctAnswer": "All the given answers apply.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Mr. J.M., age 55, with lower limbs sarcoma and pain, was started on oral morphine 10mg every 4 hours. What is an empathetic response the pharmacist could convey to J.M. concerning his narcotic analgesic therapy?",
+        "options": [
+          "The dose of morphine may increase for the first few days as the dose is titrated but once the pain is controlled, you can stay on the same dose for weeks or months.",
+          "Needing higher and higher doses with diminishing analgesic effect is likely to occur when morphine is used to control chronic cancer pain.",
+          "The fear of tolerance to morphine is not a misconception, if morphine is used in pains, such as nerve pain or bone pain.",
+          "Talk to your oncologist because it looks like you are having a hard time with morphine use for your pain."
+        ],
+        "correctAnswer": "The dose of morphine may increase for the first few days as the dose is titrated but once the pain is controlled, you can stay on the same dose for weeks or months.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "J.M. had one leg amputated. After some weeks on morphine, J.M. notices some drowsiness. Which of the following is NOT true regarding narcotic analgesia in cancer patients?",
+        "options": [
+          "Post-amputation pain that is felt in the lower limb which no longer exists responds adequately to morphine.",
+          "Narcotic addicts with cancer pain respond normally to morphine.",
+          "Morphine could be switched to fentanyl if the pain is not relieved by escalating doses of morphine.",
+          "Addiction does not appear to be a problem when treating acute or terminal pain with opioids, but can develop during chronic pain treatment."
+        ],
+        "correctAnswer": "Post-amputation pain that is felt in the lower limb which no longer exists responds adequately to morphine.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following is true concerning the use of opioid therapy in palliative care?",
+        "options": [
+          "It is recommended to rotate opioids every 3 to 6 months to minimize tolerance.",
+          "There is no maximal recommended dose for strong opioids in advanced illness.",
+          "Medical use of opioids for pain associated with advanced illness predisposes to drug abuse.",
+          "Opioid use though effective it might shorten survival."
+        ],
+        "correctAnswer": "There is no maximal recommended dose for strong opioids in advanced illness.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "All of the following statements are true regarding the recommended dosing for opioid analgesics when used for terminal cancer pain, EXCEPT:",
+        "options": [
+          "When starting sustained-release regimens, the use of rapid-onset opioids should be discontinued.",
+          "A second dose of an immediate-release opioid may be administered within 4 h of the first dose if appropriate analgesia has not been achieved.",
+          "Cross-tolerance among opioids is incomplete, and therefore, a suggested new opioid dose will be 50-75% of the dose of the previous opioid.",
+          "To reach adequate analgesia, opioids can be titrated upwards indefinitely until side effects are intolerable."
+        ],
+        "correctAnswer": "When starting sustained-release regimens, the use of rapid-onset opioids should be discontinued.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Subcutaneous morphine 10 mg Q4H has just been administered around the clock to a cancer patient with terminal illness. When is the pharmacist expected to assess the patient's pain?",
+        "options": [
+          "In 48h",
+          "In 24h",
+          "In 12h",
+          "In 8h"
+        ],
+        "correctAnswer": "In 24h.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "A.M. is a colon cancer patient who has been prescribed oral sustained-release morphine for palliative care at a dose of 40 mg every 12 hours. What is an appropriate time interval after which the pharmacist can assess the need for a morphine dose increase in A.M.?",
+        "options": [
+          "24 hours",
+          "12 hours",
+          "48 hours",
+          "6 hours"
+        ],
+        "correctAnswer": "48 hours.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Opioid rotation is NOT an appropriate option in which of the following scenarios?",
+        "options": [
+          "A cancer patient who is titrated on morphine and develops bothersome pruritus.",
+          "A cancer patient who develops severe nausea when initiating morphine for pain.",
+          "Cancer pain requiring frequent dose titration of morphine.",
+          "A cancer patient who develops breakthrough pain on morphine time-release preparation."
+        ],
+        "correctAnswer": "A cancer patient who develops breakthrough pain on morphine time-release preparation.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following is false about the implementation of time-release scheduled opioid treatment for cancer pain?",
+        "options": [
+          "An immediate-release opioid is initiated first until adequate pain relief is reached, then its total daily dose is converted to a sustained-release regimen.",
+          "While on controlled-release opioids, keep immediate 'PRN' rescue doses for breakthrough pain at around 10% of the total daily opioid requirement.",
+          "It should be started if pain is persistent throughout the day.",
+          "When switching from immediate-release opioids to sustained-release regimens, the lowest dose available should be tried first."
+        ],
+        "correctAnswer": "When switching from immediate-release opioids to sustained-release regimens, the lowest dose available should be tried first.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following is false about the implementation of extended-release or slow-release oral opioids in palliative care?",
+        "options": [
+          "They can be prescribed as a 'Q6H' regimen to limit episodes of breakthrough pain.",
+          "They may limit episodes of breakthrough pain.",
+          "They are not recommended for use in the management of patients with acute pain.",
+          "They are not suitable for cancer patients with ileostomies."
+        ],
+        "correctAnswer": "They can be prescribed as a 'Q6H' regimen to limit episodes of breakthrough pain.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following questions, if asked by an oncology pharmacist, will help the least in the assessment of breakthrough cancer pain?",
+        "options": [
+          "How many pain episodes do you usually have per week?",
+          "How much is your usual baseline pain controlled on your current analgesic medications?",
+          "What triggers your pain episode(s)?",
+          "What does the pain feel like?"
+        ],
+        "correctAnswer": "How much is your usual baseline pain controlled on your current analgesic medications?",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following analgesic options would be most appropriate to control a breakthrough idiopathic pain episode with a score of 8 on a 10-point numerical scale?",
+        "options": [
+          "Hydromorphone immediate release tablets as soon as the pain starts.",
+          "Fentanyl injectable solution held sublingually for 5 minutes.",
+          "Fentanyl transdermal patches.",
+          "Subcutaneous continuous morphine infusion."
+        ],
+        "correctAnswer": "Fentanyl injectable solution held sublingually for 5 minutes.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "A 58-year-old female patient with a history of breast cancer in remission complains of episodic lower back pain after lifting some heavy objects. Which of the following pain types best describes this patient's pain?",
+        "options": [
+          "Idiopathic breakthrough pain",
+          "Background persistent pain",
+          "Acute pain",
+          "Incidental, predictable breakthrough pain"
+        ],
+        "correctAnswer": "Acute pain.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which opioid is the safest choice to control severe postoperative pain in a patient who previously developed difficulty breathing and angioedema on morphine?",
+        "options": [
+          "Hydromorphone immediate release tablets",
+          "Fentanyl transdermal system",
+          "Sufentanil epidural injection",
+          "Oxycodone sustained release tablets"
+        ],
+        "correctAnswer": "Sufentanil epidural injection.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following alternatives is an appropriate choice for a patient who is responsive to analgesia offered by codeine but develops flushing and pruritus?",
+        "options": [
+          "Hydromorphone",
+          "Methadone",
+          "Fentanyl",
+          "Meperidine"
+        ],
+        "correctAnswer": "Hydromorphone.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "Which of the following would be the most appropriate opioid therapy to control persistent pain in a hospitalized opioid-tolerant cancer patient with renal insufficiency who is suffering from dysphagia?",
+        "options": [
+          "Morphine patient-controlled analgesia infusion pump",
+          "Hydromorphone rectal suppositories",
+          "Fentanyl sublingual tablets",
+          "Fentanyl transdermal patch"
+        ],
+        "correctAnswer": "Fentanyl transdermal patch.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "All of the following could be used for the management of postoperative pain in a conscious patient, EXCEPT:",
+        "options": [
+          "Naproxen tablets.",
+          "Morphine patient-controlled analgesia (PCA) pump.",
+          "Hydromorphone rectal suppositories.",
+          "Fentanyl sublingual."
+        ],
+        "correctAnswer": "Fentanyl sublingual.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "All of the following are educational advice that can be provided to a patient using patient-controlled analgesia (PCA) pump, EXCEPT:",
+        "options": [
+          "If the patient's pain is not being relieved, the nurse should be called.",
+          "The patient should be instructed not to accidentally roll over on the button.",
+          "If the patient depresses the button before the lockout interval has elapsed, no extra opioid would be administered.",
+          "The PCA pump is programmed to deliver constant doses of opioids."
+        ],
+        "correctAnswer": "The patient should be instructed not to accidentally roll over on the button.",
+        "section": "Chemo Respiratory"
+      },
+      {
+        "question": "A cancer patient was initiated on morphine immediate release 1 week ago; however, he could not tolerate the constipating side effect. Which of the following therapeutic strategies can best solve the patient's problem?",
+        "options": [
+          "Add daily polyethylene glycol.",
+          "Switch the patient to sustained-release morphine.",
+          "Add acetaminophen and reduce the morphine dose.",
+          "Switch the patient to fentanyl patch."
+        ],
+        "correctAnswer": "Add daily polyethylene glycol.",
+        "section": "Chemo Respiratory"
+      },
+          {
+            "question": "D.C. is a 40-year-old terminally ill lung cancer patient suffering from severe continuous pain. He was initially started on 10 mg morphine analgesia q4h then, titrated upwards to 250 mg q24 h of sustained release morphine (KADIAN®). Using the provided conversion table, what is the most appropriate strategy for transdermal analgesia in D.C.?",
+            "options": [
+              "Apply 50-microgram along with a 12-microgram fentanyl patch concurrently with the last dose of long-acting oral morphine allowing prn immediate release morphine.",
+              "Apply 75-microgram fentanyl patch 12h before the last dose of long-acting oral morphine allowing prn immediate release morphine.",
+              "Apply 75-microgram fentanyl patch concurrently with the last dose of long-acting oral morphine allowing prn immediate release morphine.",
+              "Apply 50-microgram along with a 12-microgram fentanyl patch 12h after the last dose of long-acting oral morphine allowing prn immediate release morphine."
+            ],
+            "correctAnswer": "Apply 75-microgram fentanyl patch concurrently with the last dose of long-acting oral morphine allowing prn immediate release morphine.",
+            "section": "Chemo Respiratory"
+          },
+          {
+            "question": "M.L.L. is a 43-year-old cancer patient who has been stabilized on 30 mg extended-release morphine BID. Lately, M.L. has been complaining of acute-onset, annoying pain in the early dawn. What is the most appropriate initial recommendation to the patient?",
+            "options": [
+              "Administer the 30 mg long-acting morphine TID instead of BID.",
+              "Increase the dose of the long-acting morphine to 45 mg BID.",
+              "Decrease morning dose to 20 mg and increase the evening dose to 40 mg long-acting morphine.",
+              "Add immediate release morphine PRN for acute-onset pain."
+            ],
+            "correctAnswer": "Increase the dose of the long-acting morphine to 45 mg BID.",
+            "section": "Chemo Respiratory"
+          },
+          {
+            "question": "J.C. is a 53-year-old female patient prescribed controlled release morphine (MS CONTIN™) 100 mg BID. She has taken 8 relief doses of 20 mg immediate release morphine. Based on J.C.’s information, what would be the adequate long-acting oxycodone (OxyNEO*) dose regimen?",
+            "options": [
+              "80 mg BID",
+              "120 mg BID",
+              "40 mg BID",
+              "60 mg BID"
+            ],
+            "correctAnswer": "60 mg BID",
+            "section": "Chemo Respiratory"
+          },
+          {
+            "question": "Knowing that short-acting oxycodone is commercially available as Oxy.IR in 3 strengths, which PRN doses of immediate-release oxycodone (Oxy.IR) for J.C. per breakthrough episode should be?",
+            "options": [
+              "One tablet of Oxy.IR 5 mg along with one tablet of the 10 mg every 1 hour as needed.",
+              "One tablet of Oxy.IR 5 mg every 7 hour as needed.",
+              "One tablet of Oxy.IR 10 mg every 1 hour as needed.",
+              "One tablet of Oxy.IR 20 mg every 1 hour as needed."
+            ],
+            "correctAnswer": "One tablet of Oxy.IR 10 mg every 1 hour as needed.",
+            "section": "Chemo Respiratory"
+          },
+          {
+            "question": "A female cancer patient had undergone an ileostomy and is awaiting her surgeon to prescribe an analgesic for excruciating pain. Which medication would be the most appropriate?",
+            "options": [
+              "STATEX™ (10 mg morphine sulfate) tablets PO q4h",
+              "Ratio-codeine™ (5 mg codeine) liquid PO q4h",
+              "OXYNEO™ (15 mg oxycodone controlled release) tablets PO BID",
+              "ARTHROTEC™ (75 mg/200 mcg diclofenac/misoprostol) tablets PO BID"
+            ],
+            "correctAnswer": "STATEX™ (10 mg morphine sulfate) tablets PO q4h",
+            "section": "Chemo Respiratory"
+          },
+          {
+            "question": "M.T. is a 67-year-old female with e-GFR of 43 mL/min/1.73m. She developed a rash when given morphine and is on acetaminophen for knee osteoarthritis. What would be the most appropriate add-on therapy?",
+            "options": [
+              "Oxycodone/acetaminophen (5 mg/325 mg Q6H prn)",
+              "Naproxen IR (500 mg TID)",
+              "Tapentadol IR (100 mg Q6H prn)",
+              "Buprenorphine buccal film (75 mcg Q12H)"
+            ],
+            "correctAnswer": "Buprenorphine buccal film (75 mcg Q12H)",
+            "section": "Chemo Respiratory"
+          },
+          {
+            "question": "E.S. is a 52-year-old female patient diagnosed with stage III-B breast cancer. She is on morphine immediate release for moderate pain. What is the most appropriate management for E.S.’ case?",
+            "options": [
+              "Administer lorazepam.",
+              "Switch her morphine to fentanyl patch.",
+              "Administer ondansetron.",
+              "Switch her morphine to hydromorphone."
+            ],
+            "correctAnswer": "Switch her morphine to hydromorphone.",
+            "section": "Chemo Respiratory"
+          },
+          {
+            "question": "Which of the following is a common therapeutic strategy for pain relief in terminal cancer pain?",
+            "options": [
+              "Avoiding a morphine equivalent dose (MED) exceeding 90 mg/day",
+              "Urine drug screening",
+              "Minimizing dependence risk",
+              "Functional improvement"
+            ],
+            "correctAnswer": "Minimizing dependence risk",
+            "section": "Chemo Respiratory"
+          },
+          {
+            "question": "Which of the following statements about opioids use for noncancer pain is correct?",
+            "options": [
+              "There is a maximum monthly limit on the amount of opioids to be sold at one single pharmacy.",
+              "Opioid medications are safe to be taken for a long time.",
+              "Opioid overdose cannot happen if a patient is taking the medication as directed by the prescriber.",
+              "All opioids even mild opioids such as codeine legally require a warning sticker and patient information handout."
+            ],
+            "correctAnswer": "All opioids even mild opioids such as codeine legally require a warning sticker and patient information handout.",
+            "section": "Chemo Respiratory"
+          },
+          {
+            "question": "Which of the following drugs might precipitate asthma attacks in susceptible individuals?",
+            "options": [
+              "Dextromethorphan.",
+              "Fentanyl.",
+              "Pseudoephedrine.",
+              "Naproxen."
+            ],
+            "correctAnswer": "Pseudoephedrine.",
+            "section": "Chemo Respiratory"
+          },
+          {
+            "question": "An obese, smoker patient is admitted with difficulty breathing. The medical resident diagnoses chronic bronchitis. Which of the following advice is least appropriate for this patient?",
+            "options": [
+              "Drink at least 2 liters of fluid daily",
+              "Eat a high-carb snack at bedtime",
+              "Reduce your weight",
+              "Eat small, frequent meals up to six a day"
+            ],
+            "correctAnswer": "Eat a high-carb snack at bedtime.",
+            "section": "Chemo Respiratory"
+        },
+      
+      
+              {
+                "question": "In order to minimize activity intolerance related to inadequate oxygenation, the pharmacist could instruct the aforementioned patient to avoid conditions that increase oxygen demands. All of the following conditions can increase oxygen demands, EXCEPT:",
+                "options": [
+                  "Exposure to temperature extremes.",
+                  "Use of rescue puffers several times a day.",
+                  "Smoking.",
+                  "Stress."
+                ],
+                "correctAnswer": "Use of rescue puffers several times a day.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "The physiotherapist is teaching N.H. about breathing exercises to help her with her chronic obstructive pulmonary disease. Which of the following should the physiotherapist include in the teaching?",
+                "options": [
+                  "Make inhalation longer than exhalation.",
+                  "Use pursed-lip breathing.",
+                  "Use chest breathing.",
+                  "Exhale through an open mouth."
+                ],
+                "correctAnswer": "Use pursed-lip breathing.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "Which of the following findings is least likely associated with chronic asthma?",
+                "options": [
+                  "High levels of exhaled nitric oxide in the breath.",
+                  "Positive methacholine challenge test.",
+                  "Abnormal chest X-ray.",
+                  "Low forced expiratory volume in the first second (FEV1) on spirometry."
+                ],
+                "correctAnswer": "Abnormal chest X-ray.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "Which of the following factors could trigger asthma in a susceptible individual the least?",
+                "options": [
+                  "Cold air.",
+                  "Pregnancy.",
+                  "Rhinovirus.",
+                  "Sulfites."
+                ],
+                "correctAnswer": "Pregnancy.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "All of the following drugs might precipitate asthma attacks in susceptible individuals, EXCEPT:",
+                "options": [
+                  "Carvedilol.",
+                  "Diltiazem.",
+                  "Naproxen.",
+                  "Morphine."
+                ],
+                "correctAnswer": "Diltiazem.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "The family physician prescribes salbutamol inhaler for a patient with newly diagnosed asthma. When counseling the patient about this drug, the pharmacist should explain that it may cause:",
+                "options": [
+                  "Nervousness.",
+                  "Hyperkalemia.",
+                  "Nasal congestion.",
+                  "Lethargy."
+                ],
+                "correctAnswer": "Nervousness.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "AA. is a 28-year-old male patient with a history of mild-moderate asthma. What would be the most appropriate initial counseling to this patient?",
+                "options": [
+                  "Advise the patient to see his doctor for an oral corticosteroid.",
+                  "Develop an asthma action plan with the patient.",
+                  "Advise the patient to use his puffer before exercise.",
+                  "Advise the patient about flu and pneumonia shots."
+                ],
+                "correctAnswer": "Develop an asthma action plan with the patient.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "Which of the following tests can provide A.A. with the most practical and reliable monitoring parameter to assess his asthma control at home?",
+                "options": [
+                  "Forced Expiratory Volume in one second (FEV1).",
+                  "Absence of nocturnal cough.",
+                  "Forced Vital Capacity (FVC).",
+                  "Peak Expiratory Flow Rate (PEF)."
+                ],
+                "correctAnswer": "Peak Expiratory Flow Rate (PEF).",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "Which of the following tests is suitable to assess an elderly patient with chronic obstructive pulmonary disease and a suspected chest bacterial infection on chest radiography?",
+                "options": [
+                  "Forced expiratory volume/forced vital capacity ratio (FEV1/FVC).",
+                  "Peak expiratory flow (PEF).",
+                  "Sputum culture.",
+                  "Pulse oximetry."
+                ],
+                "correctAnswer": "Pulse oximetry.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "AM, a 13-year-old child, is in the pharmacy today with his father for a refill of his salbutamol inhaler. What is the key to the mechanism of action of budesonide/formoterol as a reliever?",
+                "options": [
+                  "Reduces the number of times that a bronchodilator is needed so that exacerbations occur less often.",
+                  "Starts relieving inflammation earlier through higher doses of budesonide when it is needed.",
+                  "Ensures that the patient is receiving enough maintenance budesonide.",
+                  "The formoterol portion of the combination opens the airways for a longer period of time in order that the corticosteroid can work better."
+                ],
+                "correctAnswer": "Starts relieving inflammation earlier through higher doses of budesonide when it is needed.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "G.G. is a 45-year-old male patient whose doctor switched him to ADVAIR™. What is the most appropriate initial action by the pharmacist regarding G.G.’s hand shaking?",
+                "options": [
+                  "Advise the patient to avoid excessive use of the VENTOLIN™ puffer.",
+                  "Refer the patient to his doctor and advise to use FLOVENT™ puffer in the interim.",
+                  "Advise the patient to hold off the ADVAIR™ puffer.",
+                  "Suggest relaxation techniques to make sure that the patient's anxiety is well controlled."
+                ],
+                "correctAnswer": "Refer the patient to his doctor and advise to use FLOVENT™ puffer in the interim.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "If the ADVAIR™ puffer is to be discontinued by G.G., what would be the least appropriate alternative approach to manage his asthma?",
+                "options": [
+                  "Add umeclidinium once a day to his FLOVENT™ 250 microgram BID regimen.",
+                  "Use fluticasone 500 micrograms inhalation BID.",
+                  "Weight reduction and avoidance of environmental allergens.",
+                  "Add montelukast 10 mg once daily to his FLOVENT™ 250 microgram BID regimen."
+                ],
+                "correctAnswer": "Add umeclidinium once a day to his FLOVENT™ 250 microgram BID regimen.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "Which of the following can be considered the most common adverse drug reaction to montelukast in infants and young children?",
+                "options": [
+                  "Insomnia and rash.",
+                  "Headache and somnolence.",
+                  "Diarrhea and thirst.",
+                  "Dyspepsia and constipation."
+                ],
+                "correctAnswer": "Diarrhea and thirst.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "A 38-year-old female with chronic asthmatic bronchitis is inadequately controlled with an inhaled corticosteroid. What is an appropriate choice for her?",
+                "options": [
+                  "Roflumilast.",
+                  "Oxtriphylline.",
+                  "Omalizumab.",
+                  "Montelukast."
+                ],
+                "correctAnswer": "Omalizumab.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "Which of the following is a clinically significant drug-drug interaction for roflumilast?",
+                "options": [
+                  "Carvedilol.",
+                  "Omeprazole.",
+                  "Ritonavir.",
+                  "Clarithromycin."
+                ],
+                "correctAnswer": "Carvedilol.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "A 42-year-old obese female patient has been stable on an inhaled formoterol-budesonide. What is an appropriate management for this patient?",
+                "options": [
+                  "Add tiotropium once a day.",
+                  "Add mepolizumab every 4 weeks.",
+                  "Advise the patient to avoid smoke, air pollutants and asthma triggers.",
+                  "Refer the patient to a dietitian for weight management."
+                ],
+                "correctAnswer": "Add mepolizumab every 4 weeks.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "Which of the following is a common side effect of roflumilast?",
+                "options": [
+                  "Weight gain.",
+                  "Dry mouth.",
+                  "Diarrhea.",
+                  "Somnolence."
+                ],
+                "correctAnswer": "Diarrhea.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "M.E. is a 45-year-old asthmatic patient who endured a severe attack of bronchial asthma. What is the most likely corticosteroid therapy he might receive at the hospital?",
+                "options": [
+                  "Intravenous methylprednisolone.",
+                  "Intramuscular hydrocortisone.",
+                  "Nebulized budesonide.",
+                  "Oral prednisone."
+                ],
+                "correctAnswer": "Intravenous methylprednisolone.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "S.L. is a 38-year-old asthmatic female whose drug profile reveals salbutamol and salmeterol/fluticasone. What is the most appropriate advice that should be given to S.L.?",
+                "options": [
+                  "An 'asthma action plan' should help enable you to adjust your medications when needed.",
+                  "You might benefit from increasing the dose of your current controller medication.",
+                  "You might like to try finding an alternative job with minimal occupational hazard.",
+                  "An add-on oral montelukast and inhaled ipratropium to your current regimen should be considered."
+                ],
+                "correctAnswer": "An 'asthma action plan' should help enable you to adjust your medications when needed.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "LC is a 60-year-old patient with chronic obstructive pulmonary disease. What would be the first line pharmacotherapeutic treatment option for L.C.?",
+                "options": [
+                  "Budesonide turbuhaler.",
+                  "Lung rehabilitation.",
+                  "Glycopyrronium breezhaler.",
+                  "Salmeterol-fluticasone diskhaler."
+                ],
+                "correctAnswer": "Glycopyrronium breezhaler.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "A 54-year-old male who was diagnosed with chronic bronchitis is using salbutamol and aclidinium/formoterol. What is an appropriate add-on medication to his current care plan?",
+                "options": [
+                  "Montelukast.",
+                  "Theophylline.",
+                  "Prednisone.",
+                  "Budesonide."
+                ],
+                "correctAnswer": "Budesonide.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "A heavy smoker female customer who decides to quit smoking and has been started on nicotine transdermal system visits the pharmacy complaining of rash. What is an appropriate advice by the pharmacist?",
+                "options": [
+                  "Use over-the-counter hydrocortisone 1% cream.",
+                  "Use a nicotine patch with lower nicotine content.",
+                  "Switch to nicotine inhaler.",
+                  "Switch to varenicline."
+                ],
+                "correctAnswer": "Use over-the-counter hydrocortisone 1% cream.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "In which of the following special populations is varenicline not a preferred option for smoking cessation due to lack of studies to support safe use?",
+                "options": [
+                  "Patients with chronic kidney disease with a CrCl of 240 mL/min.",
+                  "Patients with bipolar depression.",
+                  "Patients with hepatic disease.",
+                  "Patients with recent myocardial infarction."
+                ],
+                "correctAnswer": "Patients with recent myocardial infarction.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "A male client is using nicotine patch daily to stop smoking. At a pharmacy follow-up visit 4 weeks after his quit date, what is an appropriate recommendation by the pharmacist?",
+                "options": [
+                  "To keep the good work up and to check back with the pharmacist in another 4 weeks.",
+                  "To add a 14 mg patch to the current patch.",
+                  "To use 4 mg nicotine lozenges.",
+                  "To add a 7 mg patch to the current patch."
+                ],
+                "correctAnswer": "To add a 7 mg patch to the current patch.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "A light smoker female client visits the pharmacy and tells the pharmacist that she has already started a trial of nicotine gum. What is an appropriate advice to this client?",
+                "options": [
+                  "Biting down on the gum until a mild tingling sensation is felt then rest the gum between your cheek and gums for 1 minute.",
+                  "Chewing the gum for 5 minutes, then parking it between gum and teeth for 5 minutes.",
+                  "Continuous slow chewing of the nicotine gum.",
+                  "Considering a switch to varenicline after consulting the family doctor."
+                ],
+                "correctAnswer": "Biting down on the gum until a mild tingling sensation is felt then rest the gum between your cheek and gums for 1 minute.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "A male customer who decided to quit smoking is on varenicline 1 mg twice daily. What is an appropriate advice by the pharmacist?",
+                "options": [
+                  "Switch to bupropion.",
+                  "Switch to nicotine patch.",
+                  "Talk to your doctor about reducing the dose.",
+                  "Talk to your doctor about omitting the evening dose."
+                ],
+                "correctAnswer": "Talk to your doctor about omitting the evening dose.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "A heavy smoker female customer who decides to quit smoking has just started on nicotine transdermal system. What is an appropriate advice by the pharmacist?",
+                "options": [
+                  "Use over-the-counter hydrocortisone 1% cream.",
+                  "Use a nicotine patch with lower nicotine content.",
+                  "Switch to nicotine inhaler.",
+                  "Switch to varenicline."
+                ],
+                "correctAnswer": "Use over-the-counter hydrocortisone 1% cream.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "Which of the following smoking cessation methods is the least acceptable to encourage abstinence during pregnancy?",
+                "options": [
+                  "Counseling.",
+                  "Nicotine replacement.",
+                  "Cytisine.",
+                  "Bupropion."
+                ],
+                "correctAnswer": "Cytisine.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "Which of the following statements about cannabis consumption and driving is NOT true?",
+                "options": [
+                  "Cannabis use causes acute impairment of the psychomotor and cognitive functions required for driving.",
+                  "A roadside saliva test can detect the presence of cannabis’ active ingredient, cannabidiol (CBD).",
+                  "It is illegal to drive when impaired by cannabis regardless of whether the driver is authorized to use it for medical purposes.",
+                  "Physicians are required to report to the Ministry of Transportation a patient who has a diagnosis of an uncontrolled substance use disorder and is non-compliant with treatment."
+                ],
+                "correctAnswer": "A roadside saliva test can detect the presence of cannabis’ active ingredient, cannabidiol (CBD).",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "The degree of impaired motor function caused by cannabis will depend on all of the following, EXCEPT:",
+                "options": [
+                  "Cannabidiol concentration in the cannabis.",
+                  "Route of administration.",
+                  "Lean body mass.",
+                  "Duration of cannabis use."
+                ],
+                "correctAnswer": "Cannabidiol concentration in the cannabis.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "All of the following are appropriate recommendations regarding the consumption of cannabis for medical purposes and driving, EXCEPT:",
+                "options": [
+                  "Impairment levels can vary among individuals based on the THC-to-CBD ratio in the cannabis product and the route of administration.",
+                  "There is no one-size fits all recommendation for a safe amount of time to wait before driving after consuming cannabis.",
+                  "Physicians instruct patients who are consuming cannabis for medical purposes to refrain from driving for an absolute minimum of 4 hours after oral ingestion.",
+                  "Patients who are consuming cannabis for medical purposes should avoid driving for as long as they experience a 'high' from the substance."
+                ],
+                "correctAnswer": "Physicians instruct patients who are consuming cannabis for medical purposes to refrain from driving for an absolute minimum of 4 hours after oral ingestion.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "The peak cognitive and psychomotor impairment after vaporized and oral cannabis is:",
+                "options": [
+                  "2 and 3 hours, respectively.",
+                  "30 and 90 minutes, respectively.",
+                  "1 and 2 hours, respectively.",
+                  "1 and 4 hours, respectively."
+                ],
+                "correctAnswer": "1 and 4 hours, respectively.",
+                "section": "Chemo Respiratory"
+              },
+              {
+                "question": "An adolescent is smoking weed. Which of the following statements does NOT reflect a confrontational communication style?",
+                "options": [
+                  "Why don’t you stop doing marijuana? If you really wanted to, you would.",
+                  "You're wrecking your life because of your drug use.",
+                  "You're going to hurt your family if you don’t stop using weed.",
+                  "Your family and friends and not letting them down really matter to you."
+                ],
+                "correctAnswer": "Your family and friends and not letting them down really matter to you.",
+                "section": "Chemo Respiratory"
+              }
+            ]
+          

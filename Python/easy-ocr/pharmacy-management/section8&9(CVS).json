@@ -1,0 +1,2074 @@
+[
+{
+    "question": "All of the following drugs when taken orally might result in increased blood pressure in treated individuals, EXCEPT: celecoxib, tacrolimus, bosentan, ethinyl estradiol-drospirenone. Bosentan is an endothelin receptor antagonist. Bosentan decreases both pulmonary and systemic vascular resistance, resulting in increased cardiac output without increasing heart rate. Bosentan is indicated for the treatment of pulmonary arterial hypertension.",
+    "options": [
+        "celecoxib",
+        "tacrolimus",
+        "bosentan",
+        "ethinyl estradiol-drospirenone"
+    ],
+    "correctAnswer": "bosentan",
+    "section": "CVS"
+},
+{
+    "question": "All of the following drugs would require blood pressure and heart rate monitoring, EXCEPT: pregabalin, levodopa, venlafaxine, clozapine. Pregabalin binds with high affinity to the alpha2-delta protein (a calcium channel subunit) of brain tissues and has analgesic, antiepileptic, and anxiolytic activity. In contrast to vascular calcium channel blockers, pregabalin does NOT alter systemic blood pressure or cardiac function. Common ADRs of pregabalin include CNS ADRs such as dizziness, somnolence, ataxia, & confusion; CV & metabolic ADRs like peripheral edema & weight gain, and dry mouth.",
+    "options": [
+        "pregabalin",
+        "levodopa",
+        "venlafaxine",
+        "clozapine"
+    ],
+    "correctAnswer": "pregabalin",
+    "section": "CVS"
+},
+{
+    "question": "All of the following drugs are commonly associated with increased blood pressure side effect, EXCEPT: cyclosporine, phenylephrine, doxepin, darbepoetin alpha.",
+    "options": [
+        "cyclosporine",
+        "phenylephrine",
+        "doxepin",
+        "darbepoetin alpha"
+    ],
+    "correctAnswer": "doxepin",
+    "section": "CVS"
+},
+{
+    "question": "All of the following drugs or natural supplements can result in clinically significant hyperkalemia in susceptible patients, EXCEPT: alfalfa, trimethoprim, licorice, aliskiren.",
+    "options": [
+        "alfalfa",
+        "trimethoprim",
+        "licorice",
+        "aliskiren"
+    ],
+    "correctAnswer": "licorice",
+    "section": "CVS"
+},
+{
+    "question": "Possible side effects of hydrochlorothiazide include all of the following, EXCEPT: hypercalciuria and renal stones, hyperuricemia and hyperglycemia, dyslipidemia and erectile dysfunction, hypokalemia and muscle cramping. Thiazide diuretics can be used for the prophylaxis of renal calculus formation since they increase both proximal and distal tubular reabsorption of calcium in the renal tubule, thus decreasing calcium concentrations in the urine.",
+    "options": [
+        "hypercalciuria and renal stones",
+        "hyperuricemia and hyperglycemia",
+        "dyslipidemia and erectile dysfunction",
+        "hypokalemia and muscle cramping"
+    ],
+    "correctAnswer": "hypercalciuria and renal stones",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following about angiotensin converting enzyme inhibitors-induced cough is NOT true: Patients who carry the HLA-B*5701 allele are at higher risk, Reduced formation of the vasopressor angiotensin II does not play a role, The cough may occur any time after initiation, The cough is dry and persistent, disappearing after drug withdrawal.",
+    "options": [
+        "Patients who carry the HLA-B*5701 allele are at higher risk",
+        "Reduced formation of the vasopressor angiotensin II does not play a role",
+        "The cough may occur any time after initiation",
+        "The cough is dry and persistent, disappearing after drug withdrawal"
+    ],
+    "correctAnswer": "Patients who carry the HLA-B*5701 allele are at higher risk",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following about ACE inhibitors-induced angioedema in a black patient with heart failure (NYHA III) is NOT true: Medically supervised administration of an angiotensin receptor antagonist, Hydralazine/isosorbide dinitrate therapy is an option, Treatment is mainly supportive, The race is a risk factor for this side effect.",
+    "options": [
+        "Medically supervised administration of an angiotensin receptor antagonist",
+        "Hydralazine/isosorbide dinitrate therapy is an option",
+        "Treatment is mainly supportive",
+        "The race is a risk factor for this side effect"
+    ],
+    "correctAnswer": "Medically supervised administration of an angiotensin receptor antagonist",
+    "section": "CVS"
+},
+{
+    "question": "A patient with high blood pressure & cholesterol is taking trandolapril and complains of a dry cough. What should the pharmacist advise: Reduce dose, Use beta-2 agonist inhaler, Continue medication until doctor visit, Start dextromethorphan.",
+    "options": [
+        "Reduce dose",
+        "Use beta-2 agonist inhaler",
+        "Continue medication until doctor visit",
+        "Start dextromethorphan"
+    ],
+    "correctAnswer": "Continue medication until doctor visit",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following is a contraindication to the use of enalapril: Bilateral renal artery stenosis, Breastfeeding, Dialysis, In combination with sacubitril.",
+    "options": [
+        "Bilateral renal artery stenosis",
+        "Breastfeeding",
+        "Dialysis",
+        "In combination with sacubitril"
+    ],
+    "correctAnswer": "In combination with sacubitril",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following contributes the least to the Framingham risk calculator for cardiovascular disease: Family history, Ethnicity, Age, Blood pressure.",
+    "options": [
+        "Family history",
+        "Ethnicity",
+        "Age",
+        "Blood pressure"
+    ],
+    "correctAnswer": "Ethnicity",
+    "section": "CVS"
+},
+{
+    "question": "What is the target systolic blood pressure for DT using an automated office blood pressure monitoring device: <130 mmHg, <120 mmHg, <140 mmHg, <135 mmHg.",
+    "options": [
+        "<130 mmHg",
+        "<120 mmHg",
+        "<140 mmHg",
+        "<135 mmHg"
+    ],
+    "correctAnswer": "<120 mmHg",
+    "section": "CVS"
+},
+{
+    "question": "What is the appropriate recommendation for DT at this point: Home BP monitoring, Visit doctor for BP measurement, Add chlorthalidone, Add perindopril.",
+    "options": [
+        "Home BP monitoring",
+        "Visit doctor for BP measurement",
+        "Add chlorthalidone",
+        "Add perindopril"
+    ],
+    "correctAnswer": "Home BP monitoring",
+    "section": "CVS"
+},
+{
+    "question": "What is the best management for DT's BP of 142/91 mmHg: Increase amlodipine dose, Observe BP further, Start bisoprolol, Start lisinopril.",
+    "options": [
+        "Increase amlodipine dose",
+        "Observe BP further",
+        "Start bisoprolol",
+        "Start lisinopril"
+    ],
+    "correctAnswer": "Start lisinopril",
+    "section": "CVS"
+},
+{
+    "question": "A patient with high cardiovascular risk and CKD asks if they should be on lipid-lowering therapy. What should the pharmacist tell them: Low risk and only needs to lower LDL if elevated above 5 mmol/L, Intermediate risk and does not need to worry about cholesterol now, High risk and needs to lower LDL <2.0 mmol/L or by >50% reduction, Visit doctor for consultation.",
+    "options": [
+        "Low risk and only needs to lower LDL if elevated above 5 mmol/L",
+        "Intermediate risk and does not need to worry about cholesterol now",
+        "High risk and needs to lower LDL <2.0 mmol/L or by >50% reduction",
+        "Visit doctor for consultation"
+    ],
+    "correctAnswer": "High risk and needs to lower LDL <2.0 mmol/L or by >50% reduction",
+    "section": "CVS"
+},
+{
+    "question": "What is a drug therapy problem for DT's atorvastatin 10 mg prescription: Inappropriate medication, Unnecessary drug, No drug therapy problems, Drug-drug interaction.",
+    "options": [
+        "Inappropriate medication",
+        "Unnecessary drug",
+        "No drug therapy problems",
+        "Drug-drug interaction"
+    ],
+    "correctAnswer": "No drug therapy problems",
+    "section": "CVS"
+},
+{
+    "question": "If a pharmacist fills a prescription without assessing it, which ethical principle is violated the most: Nonmaleficence, Beneficence, Loyalty, Autonomy.",
+    "options": [
+        "Nonmaleficence",
+        "Beneficence",
+        "Loyalty",
+        "Autonomy"
+    ],
+    "correctAnswer": "Beneficence",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following is a potential drug therapy problem that is expected to be identified by the pharmacist who assesses DS's medications and the new prescription: Drug-drug interaction, A too low a dose of the correct medication, An inappropriate medication, A too high dose of the correct medication.",
+    "options": [
+        "Drug-drug interaction",
+        "A too low a dose of the correct medication",
+        "An inappropriate medication",
+        "A too high dose of the correct medication"
+    ],
+    "correctAnswer": "An inappropriate medication",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following medications can be recommended by the pharmacist to reduce mortality in DS: Clopidogrel and varenicline, Aspirin and atorvastatin, Aspirin only, Rosuvastatin only.",
+    "options": [
+        "Clopidogrel and varenicline",
+        "Aspirin and atorvastatin",
+        "Aspirin only",
+        "Rosuvastatin only"
+    ],
+    "correctAnswer": "Aspirin and atorvastatin",
+    "section": "CVS"
+},
+{
+    "question": "Doubling of the serum creatinine concentration shortly after starting trandolapril suggests: Expected renal effects of ACE inhibitor, Hemodynamically significant bilateral renal artery stenosis, Primary aldosteronism, Emboli from arteriosclerosis obliterans.",
+    "options": [
+        "Expected renal effects of ACE inhibitor",
+        "Hemodynamically significant bilateral renal artery stenosis",
+        "Primary aldosteronism",
+        "Emboli from arteriosclerosis obliterans"
+    ],
+    "correctAnswer": "Hemodynamically significant bilateral renal artery stenosis",
+    "section": "CVS"
+},
+{
+    "question": "If the pharmacist reassures DS regarding the elevation of his serum creatinine and recommends a 1-week watchful waiting period, which ethical principle is relevant the most: Veracity, Nonmaleficence, Beneficence, Autonomy.",
+    "options": [
+        "Veracity",
+        "Nonmaleficence",
+        "Beneficence",
+        "Autonomy"
+    ],
+    "correctAnswer": "Nonmaleficence",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following situations would warrant close monitoring of serum creatinine and potassium when initiating an ACE inhibitor or ARB, EXCEPT: Congestive heart failure, Vomiting and diarrhea, Concurrent use of diuretics, Concurrent use of beta-blockers.",
+    "options": [
+        "Congestive heart failure",
+        "Vomiting and diarrhea",
+        "Concurrent use of diuretics",
+        "Concurrent use of beta-blockers"
+    ],
+    "correctAnswer": "Concurrent use of beta-blockers",
+    "section": "CVS"
+},
+{
+    "question": "In a randomized clinical trial, a true outcome that can predict a clinical benefit for a new antihypertensive drug would be a reduction in: Ankle-brachial blood pressure index, Non-fatal stroke, Left ventricular hypertrophy, Blood pressure.",
+    "options": [
+        "Ankle-brachial blood pressure index",
+        "Non-fatal stroke",
+        "Left ventricular hypertrophy",
+        "Blood pressure"
+    ],
+    "correctAnswer": "Non-fatal stroke",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following comorbidities does NOT suggest a secondary cause of hypertension: Cushing syndrome, Hypothyroidism, Addison's disease, Renal artery stenosis.",
+    "options": [
+        "Cushing syndrome",
+        "Hypothyroidism",
+        "Addison's disease",
+        "Renal artery stenosis"
+    ],
+    "correctAnswer": "Addison's disease",
+    "section": "CVS"
+},
+{
+    "question": "All of the following laboratory parameters, signs, and/or symptoms might suggest specific causes of secondary hypertension, EXCEPT: Heat intolerance and diarrhea, Snoring and daytime sleepiness, Hypokalemia and tingling, Cough and shortness of breath.",
+    "options": [
+        "Heat intolerance and diarrhea",
+        "Snoring and daytime sleepiness",
+        "Hypokalemia and tingling",
+        "Cough and shortness of breath"
+    ],
+    "correctAnswer": "Cough and shortness of breath",
+    "section": "CVS"
+},
+{
+    "question": "Home measurement of blood pressure is least useful for: Identifying white coat effect, Improving adherence to medications, Identifying secondary hypertension, Helping diagnose high blood pressure.",
+    "options": [
+        "Identifying white coat effect",
+        "Improving adherence to medications",
+        "Identifying secondary hypertension",
+        "Helping diagnose high blood pressure"
+    ],
+    "correctAnswer": "Identifying secondary hypertension",
+    "section": "CVS"
+},
+{
+    "question": "The average blood pressure of a 42-year-old man over 2 visits is 170/100 mmHg. What would be an appropriate response by the pharmacist: If the reading remains the same on your next visit, your doctor will likely discuss treatment options, You need to confirm it by one-month home readings, Do not worry, chances of hypertension at your age are low, Your most recent clinic reading is diagnostic of hypertension and I recommend talking to your doctor about medications.",
+    "options": [
+        "If the reading remains the same on your next visit, your doctor will likely discuss treatment options",
+        "You need to confirm it by one-month home readings",
+        "Do not worry, chances of hypertension at your age are low",
+        "Your most recent clinic reading is diagnostic of hypertension and I recommend talking to your doctor about medications"
+    ],
+    "correctAnswer": "If the reading remains the same on your next visit, your doctor will likely discuss treatment options",
+    "section": "CVS"
+},
+{
+    "question": "All of the following are appropriate tips for developing a home blood pressure log, EXCEPT: Place the cuff so the lower edge touches the elbow crease, Rest for 5 minutes before reading, Use a cuff matching arm size on the nondominant arm if the difference between arms is <10 mmHg, Do not place the cuff over a rolled-up sleeve.",
+    "options": [
+        "Place the cuff so the lower edge touches the elbow crease",
+        "Rest for 5 minutes before reading",
+        "Use a cuff matching arm size on the nondominant arm if the difference between arms is <10 mmHg",
+        "Do not place the cuff over a rolled-up sleeve"
+    ],
+    "correctAnswer": "Place the cuff so the lower edge touches the elbow crease",
+    "section": "CVS"
+},
+{
+    "question": "All of the following factors can be possible causes of falsely elevated blood pressure readings using electronic blood pressure monitors, EXCEPT: Leg crossing, Arm unsupported at heart level, A large bladder relative to the patient's arm, Cuff placed on arm over clothes.",
+    "options": [
+        "Leg crossing",
+        "Arm unsupported at heart level",
+        "A large bladder relative to the patient's arm",
+        "Cuff placed on arm over clothes"
+    ],
+    "correctAnswer": "A large bladder relative to the patient's arm",
+    "section": "CVS"
+},
+
+{
+    "question": "What is the blood pressure target in a 77-year-old diabetic patient with stable angina whose average glomerular filtration rate over the last year is 35 mL/min/1.73 m²? <135/85 mmHg, <120/80 mmHg, <140/90 mmHg, <130/80 mmHg. BP targets for different patients are given.",
+    "options": [
+        "<135/85 mmHg",
+        "<120/80 mmHg",
+        "<140/90 mmHg",
+        "<130/80 mmHg"
+    ],
+    "correctAnswer": "<130/80 mmHg",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following is an evidence-based lifestyle intervention which a pharmacist is expected to recommend first for a hypertensive male patient who smokes 5 cigarettes a day, drinks 5 ounces of wine daily, works in a stressful job, and enjoys salty food? To limit salt intake to less than 5 g per day, refrain from smoking and limit alcohol, exercise daily and try cognitive therapy, follow DASH diet.",
+    "options": [
+        "To limit salt intake to less than 5 g per day",
+        "Refrain from smoking and limit alcohol",
+        "Exercise daily and try cognitive therapy",
+        "Follow DASH diet"
+    ],
+    "correctAnswer": "To limit salt intake to less than 5 g per day",
+    "section": "CVS"
+},
+{
+    "question": "All of the following are appropriate non-drug measures for an obese patient diagnosed with hypertension, EXCEPT: reducing weight, drinking hibiscus tea daily, exercising regularly, increasing dietary potassium intake to reduce blood pressure.",
+    "options": [
+        "Reducing weight",
+        "Drinking hibiscus tea daily",
+        "Exercising regularly",
+        "Increasing dietary potassium intake"
+    ],
+    "correctAnswer": "Drinking hibiscus tea daily",
+    "section": "CVS"
+},
+{
+    "question": "All of the following are recommendations for a pregnant woman at 30 weeks gestation diagnosed with severe preeclampsia, EXCEPT: keep active and mobile, limit fluid intake to 1.5 liters per day, magnesium, nifedipine extended release.",
+    "options": [
+        "Keep active and mobile",
+        "Limit fluid intake to 1.5 liters per day",
+        "Magnesium",
+        "Nifedipine extended release"
+    ],
+    "correctAnswer": "Limit fluid intake to 1.5 liters per day",
+    "section": "CVS"
+},
+{
+    "question": "A 62-year-old male patient was admitted to the hospital with amphetamine intoxication, resulting in hypertensive crisis. What is the most appropriate intravenous treatment? Enalaprilat, phentolamine, labetalol, hydralazine.",
+    "options": [
+        "Enalaprilat",
+        "Phentolamine",
+        "Labetalol",
+        "Hydralazine"
+    ],
+    "correctAnswer": "Labetalol",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following antihypertensive drugs would be the least appropriate choice to control preoperative blood pressure in a patient diagnosed with pheochromocytoma? Phenoxybenzamine, chlorthalidone, prazosin, nicardipine.",
+    "options": [
+        "Phenoxybenzamine",
+        "Chlorthalidone",
+        "Prazosin",
+        "Nicardipine"
+    ],
+    "correctAnswer": "Chlorthalidone",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following drugs is a first-line antihypertensive of choice in a 64-year-old African Canadian diagnosed with isolated systolic hypertension with no other comorbidities? Bumetanide, lisinopril, nifedipine, hydralazine.",
+    "options": [
+        "Bumetanide",
+        "Lisinopril",
+        "Nifedipine",
+        "Hydralazine"
+    ],
+    "correctAnswer": "Nifedipine",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following drugs is a first-line antihypertensive for a 58-year-old male with mild COPD diagnosed with diastolic hypertension (175/105 mmHg)? Prazosin, amiloride, benazepril and amlodipine, atenolol and chlorthalidone.",
+    "options": [
+        "Prazosin",
+        "Amiloride",
+        "Benazepril and amlodipine",
+        "Atenolol and chlorthalidone"
+    ],
+    "correctAnswer": "Benazepril and amlodipine",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following drugs is a first-line antihypertensive in a 59-year-old female with primary Raynaud's phenomenon and stress urinary incontinence? Ramipril, felodipine, atenolol, hydralazine.",
+    "options": [
+        "Ramipril",
+        "Felodipine",
+        "Atenolol",
+        "Hydralazine"
+    ],
+    "correctAnswer": "Felodipine",
+    "section": "CVS"
+},
+{
+    "question": "PP is on doxazosin for hypertension and was prescribed tolterodine for urinary incontinence. What is a drug therapy problem in this case? Inappropriate prescription, adverse drug reaction, drug-drug interaction, adherence issue.",
+    "options": [
+        "Inappropriate prescription",
+        "Adverse drug reaction",
+        "Drug-drug interaction",
+        "Adherence issue"
+    ],
+    "correctAnswer": "Adverse drug reaction",
+    "section": "CVS"
+},
+{
+    "question": "What is an appropriate pharmacist action for PP who is on doxazosin and tolterodine? Hold the new prescription and suggest pelvic floor muscle exercises, fill the new prescription and suggest dose reduction, educate about urge and stress incontinence, hold the new prescription and recommend changing the blood pressure medication.",
+    "options": [
+        "Hold the new prescription and suggest pelvic floor muscle exercises",
+        "Fill the new prescription and suggest dose reduction",
+        "Educate about urge and stress incontinence",
+        "Hold the new prescription and recommend changing the blood pressure medication"
+    ],
+    "correctAnswer": "Hold the new prescription and recommend changing the blood pressure medication",
+    "section": "CVS"
+},
+{
+    "question": "A patient diagnosed with left ventricular hypertrophy (LVH) has blood pressure readings of 144/94 and 142/92 mmHg. Which medication would be least appropriate? Indapamide, metoprolol, prazosin, perindopril.",
+    "options": [
+        "Indapamide",
+        "Metoprolol",
+        "Prazosin",
+        "Perindopril"
+    ],
+    "correctAnswer": "Prazosin",
+    "section": "CVS"
+},
+{
+    "question": "A 41-year-old African Canadian businessman with hypertension and diabetes should be prescribed which drug based on his target BP of <130/80 mmHg? Increase hydrochlorothiazide, add angiotensin receptor blocker, add potassium-sparing diuretic, switch to ACE inhibitor.",
+    "options": [
+        "Increase hydrochlorothiazide",
+        "Add angiotensin receptor blocker",
+        "Add potassium-sparing diuretic",
+        "Switch to ACE inhibitor"
+    ],
+    "correctAnswer": "Add angiotensin receptor blocker",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following clinical monitoring parameters seem reasonable for JD at this point? Blood pressure and serum K, CK and ALT, heart rate and peripheral edema, blood sugar and BP once daily.",
+    "options": [
+        "Blood pressure and serum K",
+        "CK and ALT",
+        "Heart rate and peripheral edema",
+        "Blood sugar and BP once daily"
+    ],
+    "correctAnswer": "Blood pressure and serum K",
+    "section": "CVS"
+},
+{
+    "question": "JD's kidneys are leaking protein, and his BP average is 128/77 mmHg. The pharmacist recommends initiating which combination? Canagliflozin and irbesartan, liraglutide and telmisartan, switch indapamide to candesartan, increase metformin dose.",
+    "options": [
+        "Canagliflozin and irbesartan",
+        "Liraglutide and telmisartan",
+        "Switch indapamide to candesartan",
+        "Increase metformin dose"
+    ],
+    "correctAnswer": "Canagliflozin and irbesartan",
+    "section": "CVS"
+},
+{
+    "question": "What is the most appropriate initial antihypertensive agent for SC, a 58-year-old African Canadian with mild asthma and diastolic hypertension? Metoprolol, chlorthalidone, terazosin, perindopril.",
+    "options": [
+        "Metoprolol",
+        "Chlorthalidone",
+        "Terazosin",
+        "Perindopril"
+    ],
+    "correctAnswer": "Chlorthalidone",
+    "section": "CVS"
+},
+{
+    "question": "What is the blood pressure target for SC if measured using an oscillometric BP monitor by a nurse in the clinic? <135/85 mmHg, <120/80 mmHg, <140/90 mmHg, <130/80 mmHg.",
+    "options": [
+        "<135/85 mmHg",
+        "<120/80 mmHg",
+        "<140/90 mmHg",
+        "<130/80 mmHg"
+    ],
+    "correctAnswer": "<140/90 mmHg",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following is the most appropriate therapy modification for FR, a 55-year-old female with stable CAD and dyslipidemia with a mildly elevated triglyceride level? No changes, switch rosuvastatin to simvastatin, add ezetimibe, increase rosuvastatin dose.",
+    "options": [
+        "No changes",
+        "Switch rosuvastatin to simvastatin",
+        "Add ezetimibe",
+        "Increase rosuvastatin dose"
+    ],
+    "correctAnswer": "Add ezetimibe",
+    "section": "CVS"
+},
+{
+    "question": "What is the most clinically relevant routine monitoring parameter for atorvastatin-related ADRs? CK, GFR, ALT, A1C.",
+    "options": [
+        "CK",
+        "GFR",
+        "ALT",
+        "A1C"
+    ],
+    "correctAnswer": "ALT",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following is the most relevant monitoring parameter for atorvastatin effectiveness in a dyslipidemic patient with CAD? HDL-C, TG, LDH, Apo-B.",
+    "options": [
+        "HDL-C",
+        "TG",
+        "LDH",
+        "Apo-B"
+    ],
+    "correctAnswer": "Apo-B",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following statements about statins drug-drug interactions and/or metabolism is NOT true? The gemfibrozil-statin interaction is mediated by CYP P450, all statins except rosuvastatin are substrates of p-glycoprotein, fluvastatin is metabolized by CYP 2C9, all statins except pravastatin undergo phase 1 metabolism by CYP.",
+    "options": [
+        "The gemfibrozil-statin interaction is mediated by CYP P450",
+        "All statins except rosuvastatin are substrates of p-glycoprotein",
+        "Fluvastatin is metabolized by CYP 2C9",
+        "All statins except pravastatin undergo phase 1 metabolism by CYP"
+    ],
+    "correctAnswer": "The gemfibrozil-statin interaction is mediated by CYP P450",
+    "section": "CVS"
+},
+{
+    "question": "A 48-year-old patient with MI 6 months ago presents with cough, muscle aches, chills, loss of taste & smell. Which of the following diagnoses would be most consistent with these symptoms? Possible COVID-19, fibromyalgia, opioid withdrawal, atorvastatin-induced myopathy.",
+    "options": [
+        "Possible COVID-19",
+        "Fibromyalgia",
+        "Opioid withdrawal",
+        "Atorvastatin-induced myopathy"
+    ],
+    "correctAnswer": "Possible COVID-19",
+    "section": "CVS"
+},
+{
+    "question": "MD, a 58-year-old female with osteoarthritis and high cholesterol on atorvastatin, presents with flu-like body aches and stomach upset. All of the following are factors to consider for a drug therapy problem, EXCEPT: age and analgesic use, possible food interaction, type of exercise, atorvastatin dose.",
+    "options": [
+        "Age and analgesic use",
+        "Possible food interaction",
+        "Type of exercise",
+        "Atorvastatin dose"
+    ],
+    "correctAnswer": "Age and analgesic use",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following blood work would you initially recommend for MD with flu-like symptoms and atorvastatin use? CBC and ALT, Influenza rapid antigen test, Myoglobin and SCr, CK and SCr.",
+    "options": [
+        "CBC and ALT",
+        "Influenza rapid antigen test",
+        "Myoglobin and SCr",
+        "CK and SCr"
+    ],
+    "correctAnswer": "CK and SCr",
+    "section": "CVS"
+},
+{
+    "question": "A 35-year-old female on nifedipine and rosuvastatin is planning to start a family but just discovered she is pregnant. What is the appropriate recommendation? Keep nifedipine but stop rosuvastatin, keep rosuvastatin but stop nifedipine, switch to methyldopa and keep rosuvastatin, stop none of the medications.",
+    "options": [
+        "Keep nifedipine but stop rosuvastatin",
+        "Keep rosuvastatin but stop nifedipine",
+        "Switch to methyldopa and keep rosuvastatin",
+        "Stop none of the medications"
+    ],
+    "correctAnswer": "Keep nifedipine but stop rosuvastatin",
+    "section": "CVS"
+},
+
+{
+    "question": "NM is a 79-year-old patient with hypertension and coronary artery disease. His blood pressure remains persistently elevated. Which of the following medications should be considered for NM’s blood pressure management? Bisoprolol, Amlodipine, Perindopril, Hydrochlorothiazide.",
+    "options": [
+        "Bisoprolol",
+        "Amlodipine",
+        "Perindopril",
+        "Hydrochlorothiazide"
+    ],
+    "correctAnswer": "Perindopril",
+    "section": "CVS"
+},
+{
+    "question": "A week later, NM tells the pharmacist that he is sick of taking so many medications. What is an empathetic response by the pharmacist? I hear you, we can remove some pills. I believe your healthcare providers are addressing your conditions. I think that you don’t want to take more medications. Polypharmacy is to be discouraged.",
+    "options": [
+        "I hear you, we can remove some pills",
+        "I believe your healthcare providers are addressing your conditions",
+        "I think that you don’t want to take more medications",
+        "Polypharmacy is to be discouraged"
+    ],
+    "correctAnswer": "I think that you don’t want to take more medications",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following reflects a professional action by the pharmacist regarding NM’s new prescription? To fill the new prescription anyway. To respect the patient’s autonomy and abstain from filling the new prescription. To endorse the doctor's recommendation and let the patient decide. To persuade the patient to fill the new prescription.",
+    "options": [
+        "To fill the new prescription anyway",
+        "To respect the patient’s autonomy and abstain from filling the new prescription",
+        "To endorse the doctor's recommendation and let the patient decide",
+        "To persuade the patient to fill the new prescription"
+    ],
+    "correctAnswer": "To endorse the doctor's recommendation and let the patient decide",
+    "section": "CVS"
+},
+{
+    "question": "NM’s average office blood pressure while on ramipril 5 mg/day is found to be 138/88 mmHg on 3 consecutive doctor visits. Today, NM visits the pharmacy with a new prescription for ramipril 10 mg once daily. The pharmacist assesses the prescription and finds that the pharmacy does not carry ramipril 10 mg capsules. What is the appropriate action by the pharmacist? Fill the order as prescribed using 2 capsules of ramipril 5 mg without informing the prescribing physician. Recommend combination therapy of ramipril and amlodipine. Explain to the patient that the blood pressure target is met and no further dose increase is needed. Tell the patient that the pills will be ordered and ready tomorrow for pickup.",
+    "options": [
+        "Fill the order as prescribed using 2 capsules of ramipril 5 mg without informing the prescribing physician",
+        "Recommend combination therapy of ramipril and amlodipine",
+        "Explain to the patient that the blood pressure target is met and no further dose increase is needed",
+        "Tell the patient that the pills will be ordered and ready tomorrow for pickup"
+    ],
+    "correctAnswer": "Tell the patient that the pills will be ordered and ready tomorrow for pickup",
+    "section": "CVS"
+},
+{
+    "question": "All of the following statements regarding plasma homocysteine are true, EXCEPT: vitamin B12 deficiency raises homocysteine levels. Vitamin B6 and folic acid lower homocysteine levels. Elevated levels increase the risk of atherosclerotic vascular disease. Interventions to lower homocysteine reduce mortality from coronary artery disease.",
+    "options": [
+        "Vitamin B12 deficiency raises homocysteine levels",
+        "Vitamin B6 and folic acid lower homocysteine levels",
+        "Elevated levels increase the risk of atherosclerotic vascular disease",
+        "Interventions to lower homocysteine reduce mortality from coronary artery disease"
+    ],
+    "correctAnswer": "Interventions to lower homocysteine reduce mortality from coronary artery disease",
+    "section": "CVS"
+},
+{
+    "question": "The risk score that can be used to anticipate the incidence rate of stroke in a hypertensive 76-year-old female patient with diabetes and heart failure is: SPARC tool, Framingham score, CRUSADE score, CHA₂DS₂-VASc score.",
+    "options": [
+        "SPARC tool",
+        "Framingham score",
+        "CRUSADE score",
+        "CHA₂DS₂-VASc score"
+    ],
+    "correctAnswer": "Framingham score",
+    "section": "CVS"
+},
+{
+    "question": "S.H. is a 77-year-old male with type-2 diabetes who has atrial fibrillation. What is a risk factor for a cardioembolic cerebrovascular accident that is NOT applicable to S.H.? Hypertension, Diabetes, EF <35%, Dyslipidemia.",
+    "options": [
+        "Hypertension",
+        "Diabetes",
+        "EF <35%",
+        "Dyslipidemia"
+    ],
+    "correctAnswer": "Dyslipidemia",
+    "section": "CVS"
+},
+{
+    "question": "A.E. is a 62-year-old female with coronary artery disease, peripheral arterial disease, and dyslipidemia. What are the two most important clinical recommendations to optimize her current therapy? Continue on life-long aspirin and reduce atorvastatin dose. Switch aspirin to apixaban and switch telmisartan to ramipril. Add apixaban to aspirin and increase atorvastatin dose. Switch aspirin to apixaban and increase atorvastatin dose.",
+    "options": [
+        "Continue on life-long aspirin and reduce atorvastatin dose",
+        "Switch aspirin to apixaban and switch telmisartan to ramipril",
+        "Add apixaban to aspirin and increase atorvastatin dose",
+        "Switch aspirin to apixaban and increase atorvastatin dose"
+    ],
+    "correctAnswer": "Switch aspirin to apixaban and increase atorvastatin dose",
+    "section": "CVS"
+},
+{
+    "question": "A.E.'s Framingham risk score should be documented in which part of follow-up service SOAP notes? Objective, Assessment, Subjective, Plan.",
+    "options": [
+        "Objective",
+        "Assessment",
+        "Subjective",
+        "Plan"
+    ],
+    "correctAnswer": "Objective",
+    "section": "CVS"
+},
+{
+    "question": "What is the extent of the risk of non-cardiogenic ischemic stroke in A.E., a 62-year-old female with a history of coronary artery disease and peripheral arterial disease, whose parents were healthy and never suffered heart attacks or strokes? Low, Moderate, Extremely low, High.",
+    "options": [
+        "Low",
+        "Moderate",
+        "Extremely low",
+        "High"
+    ],
+    "correctAnswer": "High",
+    "section": "CVS"
+},
+{
+    "question": "Five months later, A.E. underwent elective coronary angiography with percutaneous coronary intervention and stenting. What is an appropriate antithrombotic regimen for A.E.? Ticagrelor plus apixaban, Aspirin plus apixaban, Clopidogrel plus aspirin plus apixaban, Clopidogrel plus apixaban.",
+    "options": [
+        "Ticagrelor plus apixaban",
+        "Aspirin plus apixaban",
+        "Clopidogrel plus aspirin plus apixaban",
+        "Clopidogrel plus apixaban"
+    ],
+    "correctAnswer": "Clopidogrel plus aspirin plus apixaban",
+    "section": "CVS"
+},
+{
+    "question": "What is the minimum duration of therapy for the previously selected antithrombotic regimen (Clopidogrel plus aspirin plus apixaban)? Indefinitely, 1 month, 3 months, 12 months.",
+    "options": [
+        "Indefinitely",
+        "1 month",
+        "3 months",
+        "12 months"
+    ],
+    "correctAnswer": "3 months",
+    "section": "CVS"
+},
+{
+    "question": "Which factor is least linked to the risk of myocardial infarctions? Diabetes, Alcohol, Stress, Obesity.",
+    "options": [
+        "Diabetes",
+        "Alcohol",
+        "Stress",
+        "Obesity"
+    ],
+    "correctAnswer": "Alcohol",
+    "section": "CVS"
+},
+{
+    "question": "Which individual is predisposed the most to an ischemic cardiovascular risk irrespective of the sex-specific 10-year global cardiovascular risk score? A 67-year-old patient with vascular dementia, A 42-year-old heavy smoker male with high cholesterol, A 68-year-old non-smoker female with an average systolic BP ≥ 164 mmHg, A 75-year-old postmenopausal smoker female with low HDL-C.",
+    "options": [
+        "A 67-year-old patient with vascular dementia",
+        "A 42-year-old heavy smoker male with high cholesterol",
+        "A 68-year-old non-smoker female with an average systolic BP ≥ 164 mmHg",
+        "A 75-year-old postmenopausal smoker female with low HDL-C"
+    ],
+    "correctAnswer": "A 67-year-old patient with vascular dementia",
+    "section": "CVS"
+},
+{
+    "question": "Which disease state represents the most target organ damage secondary to uncontrolled hypertension? Retinopathy, Lewy body dementia, Liver failure, Erectile dysfunction.",
+    "options": [
+        "Retinopathy",
+        "Lewy body dementia",
+        "Liver failure",
+        "Erectile dysfunction"
+    ],
+    "correctAnswer": "Retinopathy",
+    "section": "CVS"
+},
+{
+    "question": "All of the following complications can be expected in a 63-year-old hypertensive male patient with poor blood pressure control, EXCEPT: Peripheral neuropathy, Left ventricular hypertrophy, Erectile dysfunction, Kidney disease.",
+    "options": [
+        "Peripheral neuropathy",
+        "Left ventricular hypertrophy",
+        "Erectile dysfunction",
+        "Kidney disease"
+    ],
+    "correctAnswer": "Peripheral neuropathy",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following statements regarding therapeutic choices for unstable and chronic stable angina is true? Beta-blockers should not be initiated in patients with unstable angina. Low molecular weight heparins and antiplatelet therapy are the cornerstones for unstable angina. Nitrate sprays should only be used for patients with stable angina. Statin prophylaxis is only indicated in patients with stable angina.",
+    "options": [
+        "Beta-blockers should not be initiated in patients with unstable angina",
+        "Low molecular weight heparins and antiplatelet therapy are the cornerstones for unstable angina",
+        "Nitrate sprays should only be used for patients with stable angina",
+        "Statin prophylaxis is only indicated in patients with stable angina"
+    ],
+    "correctAnswer": "Low molecular weight heparins and antiplatelet therapy are the cornerstones for unstable angina",
+    "section": "CVS"
+},
+{
+    "question": "NZ, a 73-year-old man with hypertension and stable angina, uses buccal nitroglycerin for chest pain. Which of the following is incorrect about nitroglycerin use? It should not be used prophylactically before exercise. Call 911 if chest pain persists after one dose. Do not use with sildenafil. The container must not be shaken before use.",
+    "options": [
+        "It should not be used prophylactically before exercise",
+        "Call 911 if chest pain persists after one dose",
+        "Do not use with sildenafil",
+        "The container must not be shaken before use"
+    ],
+    "correctAnswer": "It should not be used prophylactically before exercise",
+    "section": "CVS"
+},
+{
+    "question": "After increasing chest pain episodes, NZ's doctor asks the pharmacist how to manage NZ's angina. What is the most appropriate option? Add ramipril, Add amlodipine, Add nitroglycerin patches, Increase metoprolol dose.",
+    "options": [
+        "Add ramipril",
+        "Add amlodipine",
+        "Add nitroglycerin patches",
+        "Increase metoprolol dose"
+    ],
+    "correctAnswer": "Increase metoprolol dose",
+    "section": "CVS"
+},
+{
+    "question": "If N.Z. visits your pharmacy after implementing the most appropriate approach and tells you that he still gets tired with minimal exertion and had to use his rescue nitrate while moving some boxes, what would be your recommendation?",
+    "options": [
+        "Refer to the doctor for stress test, troponins, and angiography",
+        "Refer to the doctor for antiplatelet and ACE inhibitor consideration",
+        "Add verapamil SR 80 mg BID to further control angina symptoms",
+        "Add atorvastatin 80 mg/day because of possible unstable angina"
+    ],
+    "correctAnswer": "Refer to the doctor for stress test, troponins, and angiography",
+    "section": "CVS"
+},
+{
+    "question": "A few months later, N.Z.'s doctor initiates ramipril as add-on to his medications. What is the main reason for this addition?",
+    "options": [
+        "Reducing the total number of anginal attacks per year",
+        "Controlling symptoms further",
+        "Increasing quality of life",
+        "Reducing the risk of a nonfatal heart attack"
+    ],
+    "correctAnswer": "Reducing the risk of a nonfatal heart attack",
+    "section": "CVS"
+},
+{
+    "question": "The pharmacist reviews N.Z.'s care plan and is interested in detailed evidence for ramipril's role in this case. Which of the following sources would be the most useful?",
+    "options": [
+        "A review article",
+        "The Compendium of Therapeutic Choices",
+        "The Cochrane Library",
+        "A primary journal article"
+    ],
+    "correctAnswer": "A review article",
+    "section": "CVS"
+},
+{
+    "question": "After the medication review, which of the following is an expected recommendation regarding ramipril prescription for N.Z.?",
+    "options": [
+        "It is an unnecessary therapy",
+        "It is a beneficial therapy",
+        "It is an unfavorable therapy",
+        "It is a recommended therapy"
+    ],
+    "correctAnswer": "It is an unfavorable therapy",
+    "section": "CVS"
+},
+{
+    "question": "One year later, N.Z. was referred for elective coronary angiography after an acute coronary event. Which of the following is an appropriate maintenance antithrombotic agent for N.Z.?",
+    "options": [
+        "Clopidogrel 75 mg once daily",
+        "Rivaroxaban 2.5 mg twice daily",
+        "Ticagrelor 90 mg twice daily",
+        "No additional antithrombotic agents are required at this time"
+    ],
+    "correctAnswer": "Ticagrelor 90 mg twice daily",
+    "section": "CVS"
+},
+{
+    "question": "N.Z.'s family physician would like to start a proton pump inhibitor (PPI) for cytoprotection. Which of the following PPIs is the most suitable?",
+    "options": [
+        "Omeprazole",
+        "Pantoprazole",
+        "Rabeprazole",
+        "Any PPI can be started as appropriate"
+    ],
+    "correctAnswer": "Any PPI can be started as appropriate",
+    "section": "CVS"
+},
+{
+    "question": "All of the following are appropriate counseling tips regarding the use of nitroglycerin patches, EXCEPT:",
+    "options": [
+        "Apply the patch to a non-hairy area of the arm or leg",
+        "Headaches usually resolve if the patient persists with therapy",
+        "It may cause mild itching and skin redness that responds to topical corticosteroids",
+        "Apply the patch in the morning for 12-14 hours then remove afterwards"
+    ],
+    "correctAnswer": "It may cause mild itching and skin redness that responds to topical corticosteroids",
+    "section": "CVS"
+},
+{
+    "question": "A patient is diagnosed with chronic stable angina. His ECG reveals a second-degree heart block with a resting heart rate of 43 bpm. What would be the most appropriate antianginal medication for this patient?",
+    "options": [
+        "Bisoprolol",
+        "Amlodipine",
+        "Transdermal nitrate",
+        "Perindopril"
+    ],
+    "correctAnswer": "Amlodipine",
+    "section": "CVS"
+},
+{
+    "question": "A 45-year-old male presents to the emergency department with substernal chest pressure and elevated troponin levels consistent with a large myocardial infarction. Which intervention can optimally decrease myocardial oxygen demand and potentially reduce infarct size?",
+    "options": [
+        "Metoprolol administration",
+        "Furosemide administration",
+        "Aspirin administration",
+        "Nitroglycerine infusion"
+    ],
+    "correctAnswer": "Metoprolol administration",
+    "section": "CVS"
+},
+{
+    "question": "What is the significance of the Thrombolysis In Myocardial Infarction (TIMI) score for M.M., a 72-year-old smoker diagnosed with non-ST-segment elevation myocardial infarction (NSTEMI)?",
+    "options": [
+        "It distinguishes NSTEMI from STEMI",
+        "It estimates mortality in patients with acute coronary syndromes",
+        "It guides decisions for the number of stents to be inserted during revascularization",
+        "It allows clinicians to confirm NSTEMI diagnosis"
+    ],
+    "correctAnswer": "It estimates mortality in patients with acute coronary syndromes",
+    "section": "CVS"
+},
+{
+    "question": "Which of M.M.’s medications should the pharmacist recommend holding off until the patient's condition stabilizes?",
+    "options": [
+        "Aspirin",
+        "Amlodipine",
+        "Metformin",
+        "Ramipril"
+    ],
+    "correctAnswer": "Metformin",
+    "section": "CVS"
+},
+{
+    "question": "For M.M.’s ongoing acute chest pain, which of the following agents is NOT a proper STAT medication to address the pain?",
+    "options": [
+        "Oxygen",
+        "Metoprolol",
+        "Aspirin",
+        "Morphine"
+    ],
+    "correctAnswer": "Aspirin",
+    "section": "CVS"
+},
+{
+    "question": "All of the following are possible side effects of morphine when administered to M.M., EXCEPT:",
+    "options": [
+        "Vomiting",
+        "Hyperhidrosis",
+        "Bronchospasm",
+        "Somnolence"
+    ],
+    "correctAnswer": "Bronchospasm",
+    "section": "CVS"
+},
+{
+    "question": "The emergency doctor contacts the pharmacist to ask about the most appropriate anticoagulant for peri-interventional anticoagulation in M.M. with a CrCl of 45 mL/min and a history of heparin-induced thrombocytopenia (HIT). What would be the pharmacist's recommendation?",
+    "options": [
+        "No anticoagulation is indicated",
+        "Enoxaparin",
+        "Warfarin",
+        "Fondaparinux"
+    ],
+    "correctAnswer": "Fondaparinux",
+    "section": "CVS"
+},
+{
+    "question": "M.M. has undergone coronary ballooning with the implantation of 3 drug-eluting stents. Which of the following medications should NOT be recommended to M.M. upon discharge?",
+    "options": [
+        "Rivaroxaban",
+        "Clopidogrel",
+        "Perindopril",
+        "Atorvastatin"
+    ],
+    "correctAnswer": "Rivaroxaban",
+    "section": "CVS"
+},
+{
+    "question": "At discharge, M.M. was prescribed ticagrelor 90 mg BID. After a few weeks, he repeatedly complains of intolerable dyspnea. What would be the most appropriate care plan?",
+    "options": [
+        "Increase aspirin dose to 160 mg/day",
+        "No need to continue antiplatelet combination if aspirin 81 mg/day is administered regularly",
+        "Reduce ticagrelor dose to 90 mg once daily",
+        "Switch ticagrelor to clopidogrel 75 mg/day"
+    ],
+    "correctAnswer": "Switch ticagrelor to clopidogrel 75 mg/day",
+    "section": "CVS"
+},
+{
+    "question": "M.M. complains of stomach upset and acid reflux after switching to clopidogrel. Which proton pump inhibitor (PPI) would be the most appropriate choice?",
+    "options": [
+        "Pantoprazole",
+        "Any PPI if the antiplatelet dose is increased by 30-50%",
+        "Omeprazole",
+        "Any PPI as per the patient’s public coverage plan"
+    ],
+    "correctAnswer": "Pantoprazole",
+    "section": "CVS"
+},
+{
+    "question": "LO, a 63-year-old patient, was admitted for acute coronary syndrome and stented with everolimus-eluting stents. What is the appropriate antithrombotic management for LO?",
+    "options": [
+        "Continue rivaroxaban and start aspirin plus ticagrelor",
+        "Continue rivaroxaban and start aspirin alone",
+        "Reduce rivaroxaban dose and start aspirin plus clopidogrel",
+        "Omit rivaroxaban and start aspirin plus ticagrelor"
+    ],
+    "correctAnswer": "Reduce rivaroxaban dose and start aspirin plus clopidogrel",
+    "section": "CVS"
+},
+{
+    "question": "Which auxiliary label is appropriate for rivaroxaban 20 mg tablets for primary stroke prophylaxis?",
+    "options": [
+        "Take with meals",
+        "Avoid concomitant aluminum- and calcium-containing antacids",
+        "The pill can be crushed and taken with food",
+        "It can cause a pink tinge to urine"
+    ],
+    "correctAnswer": "Take with meals",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following is NOT a contraindication to fibrinolysis in an ST-segment elevation acute myocardial infarction (STEMI)?",
+    "options": [
+        "Blood glucose of 14 mmol/L at presentation",
+        "History of cerebral hemorrhage",
+        "Presentation more than 12 hours from symptom onset",
+        "Embolic cerebrovascular accident 1 month ago"
+    ],
+    "correctAnswer": "Blood glucose of 14 mmol/L at presentation",
+    "section": "CVS"
+},
+{
+    "question": "S.S., a 62-year-old heavy smoker with myocardial infarction, is eligible for percutaneous coronary intervention (PCI). What is the most appropriate approach for managing his acute coronary syndrome?",
+    "options": [
+        "Coronary bypass surgery",
+        "Percutaneous coronary intervention",
+        "Reperfusion using thrombolysis with alteplase",
+        "Medical management"
+    ],
+    "correctAnswer": "Percutaneous coronary intervention",
+    "section": "CVS"
+},
+{
+    "question": "S.S. is discharged on dual antiplatelet therapy (DAPT). Which DAPT regimen is recommended for S.S.?",
+    "options": [
+        "Aspirin and rivaroxaban",
+        "Aspirin and ticagrelor",
+        "Aspirin alone",
+        "Aspirin and clopidogrel"
+    ],
+    "correctAnswer": "Aspirin and ticagrelor",
+    "section": "CVS"
+},
+{
+    "question": "Which discharge medication for S.S. is NOT likely to be associated with reduced mortality?",
+    "options": [
+        "Atorvastatin",
+        "Varenicline",
+        "Bisoprolol",
+        "Perindopril"
+    ],
+    "correctAnswer": "Varenicline",
+    "section": "CVS"
+},
+{
+    "question": "A few weeks later, S.S. endures a car accident, and the doctor wants to prescribe a painkiller for him. What is the most appropriate painkiller with the least adverse cardiovascular effect if S.S. describes his pain as 10/10 on a visual pain scale?",
+    "options": [
+        "Celecoxib",
+        "Hydromorphone",
+        "Acetaminophen-codeine",
+        "Naproxen"
+    ],
+    "correctAnswer": "Hydromorphone",
+    "section": "CVS"
+},
+{
+    "question": "A year later, S.S.’ condition is stable and uneventful. Based on S.S.’ bleeding risk, what would be an appropriate recommendation regarding S.S.’ duration of DAPT in order to reduce the risk of stent thrombosis?",
+    "options": [
+        "The patient should continue on his current blood thinner(s) for up to 3 years.",
+        "The patient should discontinue his current blood thinner(s).",
+        "Aspirin alone should be considered indefinitely at this point.",
+        "A low-dose blood thinner(s) should be considered for another 12 months."
+    ],
+    "correctAnswer": "A low-dose blood thinner(s) should be considered for another 12 months.",
+    "section": "CVS"
+},
+{
+    "question": "A.Z. has an aspirin allergy and a drug-eluting stent implanted 9 months ago. What is an appropriate recommendation regarding his blood thinners before dental surgery?",
+    "options": [
+        "It is safe and sufficient to temporarily stop your blood thinner(s) for 72 hours prior to the anticipated dental procedure.",
+        "It may be dangerous if the patient stops blood thinner therapy, and any dental procedures need to be postponed after consultation with the treating cardiologist.",
+        "The common practice protocol of cessation of blood thinning therapy for at least 7 days should be followed.",
+        "It is important to continue on the current blood-thinning regimen, and the dental procedure should be performed with close monitoring of bleeding."
+    ],
+    "correctAnswer": "It is important to continue on the current blood-thinning regimen, and the dental procedure should be performed with close monitoring of bleeding.",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following antibiotics is the most appropriate for Mr. A.Z. before his dental procedure to reduce the risk of infective endocarditis?",
+    "options": [
+        "Antibiotic prophylaxis is not indicated",
+        "Cephalexin",
+        "Amoxicillin",
+        "Clindamycin"
+    ],
+    "correctAnswer": "Antibiotic prophylaxis is not indicated",
+    "section": "CVS"
+},
+{
+    "question": "What is an appropriate painkiller after the dental procedure for Mr. A.Z.?",
+    "options": [
+        "Tramadol",
+        "Acetaminophen-codeine",
+        "Ibuprofen",
+        "Hydromorphone"
+    ],
+    "correctAnswer": "Tramadol",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following blood thinners or blood thinner combinations would most likely be found on A.Z.'s drug profile?",
+    "options": [
+        "Dabigatran",
+        "Clopidogrel",
+        "Rivaroxaban-ticagrelor",
+        "Ticagrelor-clopidogrel"
+    ],
+    "correctAnswer": "Clopidogrel",
+    "section": "CVS"
+},
+{
+    "question": "A 44-year-old police officer was brought to the hospital with an out-of-hospital cardiac arrest due to an acute anterolateral myocardial infarction. What would be the appropriate recommendation for his atorvastatin therapy?",
+    "options": [
+        "Switch to fenofibrate, 145 mg daily",
+        "Increase atorvastatin to 80 mg",
+        "Add niacin, 500 mg BID",
+        "Arrange to recheck lipid and aspartate aminotransferase values in 3 months"
+    ],
+    "correctAnswer": "Increase atorvastatin to 80 mg",
+    "section": "CVS"
+},
+{
+    "question": "Z.L. is a 61-year-old female with a history of hypertension, stable angina, and chronic kidney disease. What is an appropriate antithrombotic for Z.L. to reduce her stroke risk?",
+    "options": [
+        "Rivaroxaban 20 mg once daily with meals",
+        "Warfarin adjusted to an INR of 2 to 3",
+        "Rivaroxaban 15 mg once daily with meals",
+        "Apixaban 2.5 mg twice daily and aspirin 81 mg per day"
+    ],
+    "correctAnswer": "Rivaroxaban 15 mg once daily with meals",
+    "section": "CVS"
+},
+{
+    "question": "Z.L. has just endured a heart attack and has one drug-eluting stent inserted. What is an appropriate antithrombotic management for Z.L. after discharge?",
+    "options": [
+        "Hold off the anticoagulant; start ticagrelor and aspirin for 6 months then discontinue ticagrelor and resume the anticoagulant.",
+        "Continue the anticoagulant after necessary dose adjustment; add short-term ticagrelor and aspirin.",
+        "Discontinue the anticoagulant; start aspirin and ticagrelor.",
+        "Continue the anticoagulant after necessary dose adjustment; add short-term clopidogrel and aspirin."
+    ],
+    "correctAnswer": "Continue the anticoagulant after necessary dose adjustment; add short-term clopidogrel and aspirin.",
+    "section": "CVS"
+},
+{
+    "question": "OM, a 77-year-old female with non-valvular atrial fibrillation and prior stroke, is scheduled for elective hip replacement. What is an appropriate perioperative antithrombotic management?",
+    "options": [
+        "Hold off warfarin 24 hours before the procedure and start postoperative bridging using dalteparin 24 hours after the procedure.",
+        "Omit warfarin 5 days before the procedure and start preoperative bridging using fondaparinux then resume warfarin 72 hours after the procedure.",
+        "Omit warfarin for 5 days before the procedure and resume 24 hours after while using perioperative bridging with tinzaparin.",
+        "Switch warfarin to apixaban 5 days before surgery then hold off apixaban 24 hours before surgery."
+    ],
+    "correctAnswer": "Omit warfarin for 5 days before the procedure and resume 24 hours after while using perioperative bridging with tinzaparin.",
+    "section": "CVS"
+},
+
+{
+    "question": "Which of the following medications should be stored refrigerated in the hospital pharmacy?",
+    "options": [
+        "Apixaban",
+        "Abciximab",
+        "Ticagrelor",
+        "Enoxaparin"
+    ],
+    "correctAnswer": "Abciximab",
+    "section": "CVS"
+},
+{
+    "question": "EMS was called for DF, a 65-year-old male with altered mental status, suspected stroke, and atrial fibrillation. Which of the following factors does NOT support the use of alteplase for DF’s stroke?",
+    "options": [
+        "The time elapsed from stroke onset",
+        "The patient's current use of aspirin and his blood pressure prior to admission",
+        "The patient's history of prior stroke",
+        "The lack of CT scan to confirm the diagnosis"
+    ],
+    "correctAnswer": "The lack of CT scan to confirm the diagnosis",
+    "section": "CVS"
+},
+{
+    "question": "After DF received IV tPA in the hospital for stroke treatment, what would be an appropriate medication to prevent another stroke?",
+    "options": [
+        "Clopidogrel",
+        "Apixaban",
+        "Warfarin",
+        "Aspirin"
+    ],
+    "correctAnswer": "Warfarin",
+    "section": "CVS"
+},
+{
+    "question": "M.H., a 60-year-old man, had a transient ischemic attack (TIA) one month ago. What would be the most appropriate approach for long-term prophylaxis of a secondary ischemic stroke in M.H.?",
+    "options": [
+        "Aspirin-rivaroxaban combination",
+        "Aspirin-clopidogrel combination",
+        "Dabigatran",
+        "Warfarin"
+    ],
+    "correctAnswer": "Aspirin-rivaroxaban combination",
+    "section": "CVS"
+},
+{
+    "question": "You receive a prescription for cardiac dose aspirin for M.H., but he has a prior allergy to ibuprofen. What blood thinner would you recommend?",
+    "options": [
+        "Dabigatran",
+        "Aspirin",
+        "Clopidogrel",
+        "Rivaroxaban"
+    ],
+    "correctAnswer": "Clopidogrel",
+    "section": "CVS"
+},
+{
+    "question": "Several months later, M.H. is diagnosed with hypertension. What would be the most appropriate blood pressure medication for M.H.?",
+    "options": [
+        "Perindopril-indapamide",
+        "Hydralazine",
+        "Bisoprolol",
+        "Amlodipine"
+    ],
+    "correctAnswer": "Perindopril-indapamide",
+    "section": "CVS"
+},
+{
+    "question": "An 84-year-old male with a history of emphysema and a prior myocardial infarction becomes short of breath with exertion. Physical examination reveals a III/VI holosystolic murmur at the cardiac apex, an S3 heart sound, and rales in the lower lung fields. No lower extremity edema is present. Which of the following is the most likely diagnosis?",
+    "options": [
+        "Pneumothorax",
+        "Left-sided congestive heart failure",
+        "Right-sided congestive heart failure",
+        "Cor pulmonale"
+    ],
+    "correctAnswer": "Cor pulmonale",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following statements is correct regarding heart failure with preserved ejection fraction (HFpEF)?",
+    "options": [
+        "It is treated the same way as HFrEF.",
+        "Non-dihydropyridine calcium channel blockers can be considered for comorbid atrial fibrillation and HFpEF.",
+        "It is usually less severe than heart failure with reduced ejection fraction (HFrEF).",
+        "Digoxin therapy plays a more prominent role in the treatment of HFpEF than in HFrEF."
+    ],
+    "correctAnswer": "Non-dihydropyridine calcium channel blockers can be considered for comorbid atrial fibrillation and HFpEF.",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following is a biomarker for heart failure?",
+    "options": [
+        "NT-proBNP",
+        "Troponin I",
+        "LDH",
+        "CK-MB"
+    ],
+    "correctAnswer": "NT-proBNP",
+    "section": "CVS"
+},
+{
+"question": "A 72-year-old male patient with heart failure is treated with furosemide, perindopril, bisoprolol and spironolactone. He has a broken arm, for which he was given diclofenac-misoprostol 50mg/200 mcg BID. Which of the following represents the worst possible scenario of this drug treatment?",
+"options": [
+    "Perindopril could reduce the painkilling effect of diclofenac, so the patient's pain might not be adequately controlled.",
+    "Diclofenac could reduce the antihypertensive effect of perindopril, so the patient’s blood pressure might not be properly controlled.",
+    "This patient might develop acute renal failure.",
+    "The heightened risk of diclofenac-induced peptic ulcer in the senior population."
+],
+"correctAnswer": "This patient might develop acute renal failure.",
+"section": "CVS"
+},
+{
+"question": "M.E. is an elderly patient with hypertension, atrial fibrillation, and left systolic dysfunction. His current medications include: furosemide, perindopril, carvedilol, spironolactone and apixaban. M.E. endures his first acute gout attack, for which his family doctor prescribes indomethacin 25 mg TID x 5 days. In relation to M.E.’s new presentation, which of the following would represent the least concern to the pharmacist?",
+"options": [
+    "Indomethacin can increase the risk of bleeding in this patient.",
+    "The need to assess the patient for the initiation of urate-lowering agent.",
+    "Indomethacin can cause renal failure in patients with heart failure who are treated with angiotensin converting enzyme inhibitors.",
+    "Indomethacin is not the safest nonsteroidal anti-inflammatory drug for this patient."
+],
+"correctAnswer": "Indomethacin is not the safest nonsteroidal anti-inflammatory drug for this patient.",
+"section": "CVS"
+},
+{
+"question": "All of the following medications can exacerbate and/or cause heart failure, EXCEPT:",
+"options": [
+    "itraconazole.",
+    "flecainide.",
+    "methotrexate.",
+    "pioglitazone."
+],
+"correctAnswer": "methotrexate.",
+"section": "CVS"
+},
+{
+"question": "Which of the following symptoms would be of least concern to a pharmacist for a 74-year-old patient with heart failure who is stable on furosemide, lisinopril, metoprolol, spironolactone and digoxin?",
+"options": [
+    "Increased heart rate",
+    "Polyuria",
+    "Sudden weight gain",
+    "Wheezing"
+],
+"correctAnswer": "Polyuria",
+"section": "CVS"
+},
+{
+"question": "All of the following are appropriate strategies to avoid or minimize hypotension that can complicate the titration of evidence-based therapies in patients with heart failure, EXCEPT:",
+"options": [
+    "splitting medications into smaller, more frequent dosages.",
+    "staggering of ACEis, ARBs or beta-blockers such that no 2 such drugs are given within 2 hours of each other.",
+    "discontinuing, whenever possible, other medications that lower the blood pressure but do not alter the disease prognosis, such as calcium or alpha-blockers.",
+    "prescribing beta-blockers to be taken on an empty stomach."
+],
+"correctAnswer": "prescribing beta-blockers to be taken on an empty stomach.",
+"section": "CVS"
+},
+{
+"question": "M.Z. is a 60-year-old man diagnosed with heart failure (NYHA-II) for which he was initiated on ramipril 2.5 mg/day and bisoprolol 2.5 mg/day. His current medications also include hydrochlorothiazide 25 mg/day and atorvastatin 40 mg/day. After 4 weeks of starting ramipril, his glomerular filtration is reduced to 49 down from 57 mL/min/1.73m² at baseline. M.Z.’s family doctor calls you to discuss what is the most appropriate approach for the management of M.Z.’s current condition. What do you advise?",
+"options": [
+    "Tell the doctor that ramipril is renoprotective and is unlikely to be the cause of the decline in glomerular filtration, therefore, other causes should be further investigated.",
+    "Tell the doctor that atorvastatin-induced rhabdomyolysis should be ruled out by ordering serum CK as it might result in a clinically significant drop in kidney function.",
+    "Tell the doctor that ramipril may cause a decrease in glomerular filtration rate in some patients, and that it should not be stopped unless the filtration rate drops below 40 mL/min/1.73m².",
+    "Tell the doctor that it is important to temporarily withhold ramipril, as M.Z. is suspected to have bilateral renal artery stenosis which needs to be ruled out by CT angiography."
+],
+"correctAnswer": "Tell the doctor that ramipril may cause a decrease in glomerular filtration rate in some patients, and that it should not be stopped unless the filtration rate drops below 40 mL/min/1.73m².",
+"section": "CVS"
+},
+{
+"question": "M.Z. drops by a few weeks later complaining of increasing shortness of breath on exertion and bilateral pedal edema without other symptoms. His most recent automated pharmacy blood pressure is 110/65 mmHg. You would contact the family doctor and advise him that:",
+"options": [
+    "M.Z. should temporarily hold off his beta-blocker because this might exacerbate his current condition.",
+    "M.Z.’s hydrochlorothiazide should be held off and furosemide should be prescribed given that it is a more potent diuretic.",
+    "M.Z. should be prescribed spironolactone to treat his edema and further assist with heart failure.",
+    "M.Z. should be given sacubitril/valsartan instead of ramipril as he suffers decompensated heart failure."
+],
+"correctAnswer": "M.Z.’s hydrochlorothiazide should be held off and furosemide should be prescribed given that it is a more potent diuretic.",
+"section": "CVS"
+},
+{
+"question": "L.R. is a 69-year-old man whose medical history reveals stable angina and heart failure with an ejection fraction of 30%. His blood pressure is 158/97 mmHg, and his resting heart rate is 50 bpm. His most recent A1C and eGFR are 6.3% and 28 mL/min/1.73m². He is currently on valsartan 320 mg/day and long-acting metoprolol 100 mg/day. Lately, L.R. complains of episodes of chest discomfort on exertion and fatigue that are immediately relieved by using his nitrate spray. L.R.’s condition is otherwise stable, and he has no edema or orthopnea. The doctor asks your advice regarding an appropriate medication that can reduce L.R.’s symptoms. What would be the most appropriate recommendation?",
+"options": [
+    "Transdermal nitrate",
+    "Add empagliflozin",
+    "Increase metoprolol dose to 200 mg/day",
+    "Amlodipine"
+],
+"correctAnswer": "Amlodipine",
+"section": "CVS"
+},
+{
+"question": "L.R. currently complains of less frequent chest pain. On his most recent doctor's visit, his blood pressure was 148/92 mmHg with a heart rate of 52 bpm. His cardiologist wants to start him on a medication that can further improve his blood pressure control as well as his residual chest pain without interfering with his angina or heart failure. Which of the following will be the most appropriate choice?",
+"options": [
+    "Sacubitril-valsartan",
+    "Furosemide",
+    "Hydralazine-isosorbide dinitrate",
+    "Ivabradine"
+],
+"correctAnswer": "Hydralazine-isosorbide dinitrate",
+"section": "CVS"
+},
+{
+"question": "GH is a 47-year-old asthmatic man complaining of shortness of breath and mild ankle edema. He was diagnosed with heart failure with preserved ejection fraction, stable angina, and hypertension. GH was prescribed perindopril, carvedilol and spironolactone. He heard from one of his relatives that there are newly marketed medications that are effective for heart failure. Today, he visits his pharmacy to inquire from the pharmacist about those new medications, especially since he feels that he can do better with daily activities. Which of the following pharmacist’s responses to GH is considered professional and appropriate?",
+"options": [
+    "It seems more appropriate to get health advice from your doctor who knows what works best for you.",
+    "These newer medications are not expected to work in the type of heart failure you have.",
+    "These newer medications have not been sufficiently studied in the type of heart failure you have.",
+    "My advice is to continue on your 'triple combination' since it has been proven to reduce mortality."
+],
+"correctAnswer": "These newer medications have not been sufficiently studied in the type of heart failure you have.",
+"section": "CVS"
+},
+{
+"question": "A 55-year-old female patient with congestive heart failure who is stable on ramipril, bisoprolol, spironolactone, and furosemide was recently diagnosed with persistent atrial fibrillation. Consequently, the cardiologist increased bisoprolol dose in order to further control the patient's heart rate to a target range of 50-60 bpm. One week later, the patient returns to her cardiologist complaining of symptoms of decompensated heart failure, but her blood pressure seems to be within target. Which of the following is of least concern to you as a pharmacist?",
+"options": [
+    "Aspirin and a statin need to be considered in order to further reduce heart failure mortality.",
+    "A non-vitamin K oral anticoagulant needs to be considered despite the patient's young age.",
+    "Bisoprolol dose needs not to be increased further during an episode of heart failure decompensation.",
+    "Furosemide dose needs to be assessed for possible increases."
+],
+"correctAnswer": "Aspirin and a statin need to be considered in order to further reduce heart failure mortality.",
+"section": "CVS"
+},
+{
+    "question": "AT, 81-year-old male patient (body weight 65 kg), presents to the emergency department with nausea and vomiting. He also states that everything in his field of vision has been tinted yellow since last night. AT’s current medications include carvedilol, lisinopril, spironolactone, empagliflozin, digoxin, repaglinide, apixaban, and furosemide. The clinical team suspects digoxin toxicity. Which of the following electrolyte abnormalities increases the risk of digoxin toxicity?",
+    "options": [
+    "Hyperphosphatemia",
+    "Hyperchloremia",
+    "Hypomagnesemia",
+    "Hypocalcemia"
+    ],
+    "correctAnswer": "Hypomagnesemia",
+    "section": "CVS"
+},
+{
+    "question": "What is an expected dosing regimen for apixaban in AT?",
+    "options": [
+    "5 mg twice daily on an empty stomach",
+    "5 mg once daily without regard to meals",
+    "2.5 mg twice daily without regard to meals",
+    "2.5 mg twice with food"
+    ],
+    "correctAnswer": "2.5 mg twice daily without regard to meals",
+    "section": "CVS"
+},
+{
+    "question": "HS is an 84-year-old female suspected to have endured acute digoxin toxicity. HS is thought to have ingested an unknown amount of digoxin about 2 hours ago. Her digoxin serum level taken 30 minutes ago is 2.8 nmol/L. The cardiologist is evaluating the use of DIGOXIN IMMUNE FAB (DigiFab). What is the pharmacist's interpretation of HS’ serum digoxin level?",
+    "options": [
+    "The current digoxin serum level reflects the suspected acute ingestion.",
+    "A digoxin serum level is not needed in this patient's case.",
+    "At least 6 hours are required for equilibration between serum and tissue after an oral dose.",
+    "Digoxin serum levels do not generally correlate with acute ingestions of the drug."
+    ],
+    "correctAnswer": "At least 6 hours are required for equilibration between serum and tissue after an oral dose.",
+    "section": "CVS"
+},
+{
+    "question": "The cardiologist decided to start HS on DigiFab. Which of the following monitoring parameters is NOT required in HS?",
+    "options": [
+    "Continuous electrocardiogram",
+    "Serum electrolytes",
+    "Body temperature",
+    "Serum digoxin level"
+    ],
+    "correctAnswer": "Serum digoxin level",
+    "section": "CVS"
+},
+{
+    "question": "HS’ serum potassium is 5.9 mmol/L. What is an appropriate action?",
+    "options": [
+    "Administer sodium polystyrene sulfonate",
+    "Monitor potassium levels and kidney function closely",
+    "Avoid any potassium-rich diet",
+    "Start insulin and glucose"
+    ],
+    "correctAnswer": "Start insulin and glucose",
+    "section": "CVS"
+},
+{
+    "question": "Zj is a 61-year-old female patient who has been started recently on digoxin. Her current medications include metoprolol, perindopril, spironolactone, empagliflozin, and amiodarone. ZJ presents to an ophthalmologist with yellowish tint in her vision. What is the mechanism underlying the most likely drug therapy problem?",
+    "options": [
+    "Reduced hepatic metabolism of the offending drug",
+    "Enhanced uptake of the offending drug molecules by cardiomyocytes",
+    "Enhanced gastrointestinal absorption of the offending drug",
+    "Reduced renal clearance of the offending drug"
+    ],
+    "correctAnswer": "Enhanced gastrointestinal absorption of the offending drug",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following monitoring is the least clinically relevant for ivabradine in a 64-year-old white female patient who has heart failure with reduced ejection fraction and who is stable on ramipril, bisoprolol, spironolactone, and empagliflozin?",
+    "options": [
+    "Blood pressure",
+    "Pulse",
+    "Serum creatinine",
+    "Night vision"
+    ],
+    "correctAnswer": "Serum creatinine",
+    "section": "CVS"
+},
+{
+    "question": "A cardiologist is planning to initiate a malnourished senior female patient (BMI: 16) on digoxin and spironolactone for her recently diagnosed atrial fibrillation and edema. The patient’s medical history is remarkable for non-alcoholic fatty liver disease. The patient’s estimated glomerular filtration rate (e-GFR) is 53 mL/min/1.73m², her alanine aminotransferase (ALT) is 109 U/L (Normal: 3-36 U/L) & her serum calcium is 1.92 mmol/L (Normal: 2.10 - 2.60 mmol/L). The patient’s community pharmacy drug profile shows that she is stable on metoprolol, amlodipine, and aspirin. All of the following conditions might predispose this patient to a risk of digoxin toxicity, EXCEPT:",
+    "options": [
+    "BMI",
+    "Liver disease",
+    "Concomitant spironolactone",
+    "Hypocalcemia"
+    ],
+    "correctAnswer": "Hypocalcemia",
+    "section": "CVS"
+},
+{
+    "question": "Digoxin dosing considerations include all of the following, EXCEPT:",
+    "options": [
+    "Infants require a higher digitalizing parenteral dose than adults.",
+    "Dose calculations should be based on the patient's lean (ideal) body weight not the total body weight.",
+    "Digoxin dose needs to be reduced in patients with kidney disease.",
+    "Digoxin doses required for patients with NYHA-III heart failure are higher than those with atrial fibrillation."
+    ],
+    "correctAnswer": "Digoxin doses required for patients with NYHA-III heart failure are higher than those with atrial fibrillation.",
+    "section": "CVS"
+},
+{
+    "question": "M.E. is an 82-year-old heart failure patient who is currently treated with ramipril 5 mg once daily, bisoprolol 2.5 mg BID, furosemide 40 mg BID, and digoxin 0.25 mg once daily. He was admitted to the emergency room with nausea, vomiting, ventricular tachycardia on ECG, and confusion. His lab values were all normal except for potassium which was 5.9 mmol/L and for digoxin level which was 2.7 ng/mL. Which of the following measures would be the least appropriate measure to treat M.E.'s digoxin toxicity?",
+    "options": [
+    "Administer IV calcium",
+    "Administer insulin/glucose",
+    "Discontinue digoxin immediately",
+    "Start digoxin-specific antibody"
+    ],
+    "correctAnswer": "Administer IV calcium",
+    "section": "CVS"
+},
+{
+    "question": "A 75-year-old patient was initiated on digoxin 0.125 mg per day for heart failure associated with atrial fibrillation. His serum digoxin level taken 10 days later 1 hour before the dose was 1.5 nmol/L. The patient has no signs of digoxin toxicity. What is a sound action to be taken?",
+    "options": [
+    "Withhold digoxin for 2 days then restart at 0.0625 mg",
+    "Repeat the serum level as the blood sampling is improper",
+    "Reduce digoxin dose to 0.0625 mg on all weekdays except Sundays",
+    "Continue digoxin as prescribed and monitor serum levels more frequently"
+    ],
+    "correctAnswer": "Withhold digoxin for 2 days then restart at 0.0625 mg",
+    "section": "CVS"
+},
+{
+    "question": "Which type of the following arrhythmias is associated with the highest rate of fatalities?",
+    "options": [
+    "Atrial fibrillation",
+    "Torsade de Pointes",
+    "Atrioventricular nodal re-entry tachycardia",
+    "Atrial flutter"
+    ],
+    "correctAnswer": "Torsade de Pointes",
+    "section": "CVS"
+},
+{
+    "question": "The most reliable means to diagnose paroxysmal atrial fibrillation is:",
+    "options": [
+    "a 12-lead EKG",
+    "Holter monitoring",
+    "Cardiac stress testing",
+    "An echocardiogram"
+    ],
+    "correctAnswer": "Holter monitoring",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following is an electrocardiographic diagnostic feature for atrial fibrillation that would distinguish it from atrial flutter?",
+    "options": [
+    "Absence of T-waves",
+    "Variable RR interval with consistent lack of a specific pattern",
+    "Regular atrial rate",
+    "Narrow QRS complexes"
+    ],
+    "correctAnswer": "Variable RR interval with consistent lack of a specific pattern",
+    "section": "CVS"
+},
+{
+    "question": "All of the following statements are true regarding atrial flutter and atrial fibrillation, EXCEPT that:",
+    "options": [
+    "There is no significant difference between rate and rhythm control in terms of reduced mortality or stroke prevention in both cases.",
+    "Both forms of supraventricular tachyarrhythmias are expected to show typically narrow QRS complexes on EKG.",
+    "Atrial flutter is more dangerous than atrial fibrillation.",
+    "Catheter ablation for atrial fibrillation is an option for patients who have failed at least one antiarrhythmic drug, but for atrial flutter, it should be considered first-line."
+    ],
+    "correctAnswer": "Atrial flutter is more dangerous than atrial fibrillation.",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following is true in a physically active 51-year-old female who suffers from unremitting shortness of breath and dizzy spells because of persistent atrial fibrillation but who is otherwise healthy?",
+    "options": [
+    "A significant health risk in this patient is the possibility of enduring a heart attack at a young age.",
+    "Digoxin and anticoagulation should be considered in this patient.",
+    "Atrial fibrillation can lead to a hemorrhagic stroke in this patient.",
+    "Rhythm control should be considered in favour of rate control in this patient."
+    ],
+    "correctAnswer": "Rhythm control should be considered in favour of rate control in this patient.",
+    "section": "CVS"
+},
+{
+    "question": "R.P. is a 76-year-old female patient with a prior history of heart attack who presents to the emergency room with severe palpitations and shortness of breath due to polymorphic ventricular fibrillation. What is the therapeutic management of choice for this patient?",
+    "options": [
+    "Cardioversion",
+    "Intravenous amiodarone",
+    "Defibrillation",
+    "Intravenous magnesium"
+    ],
+    "correctAnswer": "Defibrillation",
+    "section": "CVS"
+},
+{
+    "question": "Which is the most likely effect caused by medications implicated with a potential risk of Torsade de Pointe (TdP)?",
+    "options": [
+    "A delay in the repolarization of the ventricles",
+    "Arrhythmias or sudden death",
+    "A delay in the depolarization of the ventricles",
+    "A possible supraventricular fibrillation and cardiac arrest"
+    ],
+    "correctAnswer": "A delay in the repolarization of the ventricles",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following is NOT a patient risk factor for drug-induced QT prolongation?",
+    "options": [
+    "Malnutrition",
+    "Male sex",
+    "Hypokalemia",
+    "Heart failure"
+    ],
+    "correctAnswer": "Male sex",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following drug classes, when administered alone, is NOT associated with QT prolongation?",
+    "options": [
+    "Antidepressants",
+    "Nonsteroidal anti-inflammatory drugs",
+    "Antibiotics",
+    "Antiarrhythmics"
+    ],
+    "correctAnswer": "Nonsteroidal anti-inflammatory drugs",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following medications is considered to have the most torsadogenic potential?",
+    "options": [
+    "Sotalol",
+    "Escitalopram",
+    "Clarithromycin",
+    "Salbutamol"
+    ],
+    "correctAnswer": "Sotalol",
+    "section": "CVS"
+},
+{
+    "question": "M.Z. is a 62-year-old businessman diagnosed with atrial fibrillation. He was found unconscious in his office and transferred to the emergency room. His ECG reveals torsade de pointes. What is the most appropriate treatment for this type of arrhythmia?",
+    "options": [
+    "IV digoxin",
+    "IV amiodarone",
+    "IV sotalol",
+    "IV magnesium"
+    ],
+    "correctAnswer": "IV magnesium",
+    "section": "CVS"
+},
+{
+    "question": "R.B. is a 60-year-old male with left systolic dysfunction, diabetes mellitus, and dyslipidemia. He has recently been diagnosed with atrial fibrillation and is experiencing heart failure symptoms. What would be the most appropriate therapeutic choice to manage R.B.'s current cardiac symptoms?",
+    "options": [
+    "To add spironolactone",
+    "To increase bisoprolol dose",
+    "To start amiodarone",
+    "To implement propafenone single-dose pill-in-the-pocket approach"
+    ],
+    "correctAnswer": "To start amiodarone",
+    "section": "CVS"
+},
+{
+    "question": "What is R.B.'s CHADS₂ score, and what would be your recommendation to R.B.'s doctor regarding the prevention of systemic embolism?",
+    "options": [
+    "Two and start warfarin",
+    "One and assess lipid battery",
+    "Three and start aspirin",
+    "Two and start apixaban"
+    ],
+    "correctAnswer": "Two and start apixaban",
+    "section": "CVS"
+},
+{
+    "question": "ICD is considered first-line for all of the following patients with arrhythmia, EXCEPT:",
+    "options": [
+    "Patients with atrial flutter and tachyarrhythmia",
+    "Patients with long QT syndrome",
+    "Patients with sustained ventricular tachycardia on Holter",
+    "Patients who survived a cardiac arrest due to ventricular fibrillation"
+    ],
+    "correctAnswer": "Patients with atrial flutter and tachyarrhythmia",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following factors is least associated with an increased risk of stroke in a female diabetic patient with intermittent claudication, kidney disease, and non-valvular atrial fibrillation who is on warfarin?",
+    "options": [
+    "Diabetes",
+    "Kidney disease",
+    "Female gender",
+    "Peripheral arterial disease"
+    ],
+    "correctAnswer": "Kidney disease",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following is the least clinically significant risk factor associated with atrial flutter?",
+    "options": [
+    "Excessive alcohol intake",
+    "Advancing age",
+    "Hypertension",
+    "High-fat diet"
+    ],
+    "correctAnswer": "High-fat diet",
+    "section": "CVS"
+},
+{
+    "question": "B.L. is a 71-year-old businessman diagnosed with atrial fibrillation two years ago. He also suffers from systolic heart failure, hypertension, and dyslipidemia. Which of the following would be the most important recommendation to B.L.'s doctor?",
+    "options": [
+    "Aspirin should be changed to apixaban because of a high probability of stroke",
+    "Spironolactone should be added to the current drug regimen",
+    "Simvastatin should be changed to rosuvastatin because of a less interacting potential with amiodarone",
+    "Carvedilol should be discontinued because of a potential drug-drug interaction with amiodarone"
+    ],
+    "correctAnswer": "Aspirin should be changed to apixaban because of a high probability of stroke",
+    "section": "CVS"
+},
+{
+    "question": "A 77-year-old male diagnosed with atrial fibrillation is taking warfarin to prevent thromboembolic complications. His INR has become very unstable, and he experienced two minor bleeding incidents. What is the most appropriate approach to manage his case?",
+    "options": [
+    "Stop warfarin until his INR is 2, give him half the last dose, and monitor INR every two weeks",
+    "Stop warfarin until his INR is 2, give him half the last dose, and start dabigatran, then stop warfarin after two weeks",
+    "Stop warfarin until his INR is 2 and start dabigatran",
+    "Stop warfarin until his INR is 3, give him half the last dose, and monitor INR every week"
+    ],
+    "correctAnswer": "Stop warfarin until his INR is 2 and start dabigatran",
+    "section": "CVS"
+},
+{
+    "question": "All of the following statements are true regarding obstructive sleep apnea (OSA), EXCEPT that:",
+    "options": [
+    "Continuous positive airway pressure is a first-line treatment",
+    "Most people who snore have obstructive sleep apnea, but most people who have apnea do not necessarily snore",
+    "It has been linked with heart arrhythmias, heart failure, heart attacks, and strokes",
+    "Weight reduction in obese patients may lead to remission of OSA symptoms"
+    ],
+    "correctAnswer": "Most people who snore have obstructive sleep apnea, but most people who have apnea do not necessarily snore",
+    "section": "CVS"
+},
+{
+    "question": "A 55-year-old Asian female patient with atrial fibrillation and hypertension is stabilized on rivaroxaban and losartan. Her neurologist wants to start carbamazepine for trigeminal neuralgia. What is the primary concern for this patient if carbamazepine is initiated?",
+    "options": [
+    "There are no major concerns associated with this decision",
+    "Increased risk of poor neuropathic pain control",
+    "Increased risk of excessive anticoagulation",
+    "Increased risk of thromboembolism"
+    ],
+    "correctAnswer": "Increased risk of thromboembolism",
+    "section": "CVS"
+},
+{
+    "question": "After assessing for thromboembolic risk, a cardiologist is planning to initiate a senior female patient on warfarin. Which of the following conditions might predispose this patient the least to a risk of warfarin toxicity?",
+    "options": [
+    "Hyperthyroidism",
+    "Liver disease",
+    "Renal impairment",
+    "Concomitantly administered drugs"
+    ],
+    "correctAnswer": "Renal impairment",
+    "section": "CVS"
+},
+{
+    "question": "L.G. is a female patient whose medical history is remarkable for hypertension, diabetes, and atrial fibrillation. After INR monitoring, her INR on day 3 was 4.9. What is the most appropriate recommendation for this patient regarding her antithrombotic therapy?",
+    "options": [
+    "Omit 1-2 doses of warfarin then resume therapy at 3 mg/day",
+    "Omit 2 doses, administer vitamin K 2.5 mg orally, recheck INR, and switch to rivaroxaban 20 mg/day when INR is <2.5",
+    "Reduce the dose to 2 mg/day and recheck INR in 48 hours",
+    "Omit 2 doses, administer vitamin K 2.5 mg orally, recheck INR, and restart at 2.5 mg/day"
+    ],
+    "correctAnswer": "Omit 2 doses, administer vitamin K 2.5 mg orally, recheck INR, and restart at 2.5 mg/day",
+    "section": "CVS"
+},
+{
+    "question": "All of the following statements are correct regarding warfarin therapy, EXCEPT:",
+    "options": [
+    "For patients with previously stable INR values who present with a single INR of 0.5 units above the target, omit 1-2 doses and repeat INR in 2 days",
+    "Three or more drinks of alcohol on one occasion such as a weekend party will transiently increase INR",
+    "INR can be monitored every 3 months in patients who have stable INR for 23 months",
+    "There is no maximal or minimal dose to maintain a therapeutic range"
+    ],
+    "correctAnswer": "For patients with previously stable INR values who present with a single INR of 0.5 units above the target, omit 1-2 doses and repeat INR in 2 days",
+    "section": "CVS"
+},
+{
+    "question": "A senior female patient suffering from atrial fibrillation has been stable on warfarin for 6 months now. Her doctor wants to initiate her on levothyroxine due to symptomatic hypothyroidism. What is a correct recommendation?",
+    "options": [
+    "Switch warfarin to apixaban, and then initiate levothyroxine when the INR < 2",
+    "Withhold temporarily warfarin therapy until levothyroxine maintenance dose is achieved",
+    "Start levothyroxine at 25 mcg/day and monitor prothrombin time",
+    "Start levothyroxine at full replacement dose of 1.6 mcg/kg/day and monitor TSH"
+    ],
+    "correctAnswer": "Start levothyroxine at 25 mcg/day and monitor prothrombin time",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following drugs or food is expected to result in the least change in INR for a female patient on warfarin therapy, if concomitantly administered with the anticoagulant?",
+    "options": [
+    "Metronidazole",
+    "Red yeast rice",
+    "Grapefruit juice",
+    "Fenugreek"
+    ],
+    "correctAnswer": "Grapefruit juice",
+    "section": "CVS"
+},
+{
+    "question": "All of the following drugs are expected to result in diminishing the effect of warfarin, if concomitantly administered with this anticoagulant, EXCEPT:",
+    "options": [
+    "Propylthiouracil",
+    "Ethinylestradiol-levonorgestrel",
+    "Trimethoprim",
+    "Rifaximin"
+    ],
+    "correctAnswer": "Trimethoprim",
+    "section": "CVS"
+},
+{
+    "question": "All of the following factors might result in increased prothrombin time or the bleeding risk in patients on warfarin anticoagulation, EXCEPT:",
+    "options": [
+    "Clopidogrel",
+    "Sulfinpyrazone",
+    "Binge alcohol drinking",
+    "Calcium carbonate"
+    ],
+    "correctAnswer": "Calcium carbonate",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following is true regarding the implementation of vitamin K in warfarin over-anticoagulation?",
+    "options": [
+    "Intravenous vitamin K should be avoided as it can cause hypotension, dyspnea, and/or anaphylaxis",
+    "Intramuscular vitamin K should be given only in emergency situations",
+    "Oral vitamin K should be avoided as it may be erratically absorbed",
+    "The effect of a single dose of vitamin K on the INR can only be expected after 24-48 hours"
+    ],
+    "correctAnswer": "The effect of a single dose of vitamin K on the INR can only be expected after 24-48 hours",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following tests can be used to monitor warfarin anticoagulation therapy?",
+    "options": [
+    "Vitamin K level",
+    "PTT",
+    "PT",
+    "Fibrinogen activity"
+    ],
+    "correctAnswer": "PT",
+    "section": "CVS"
+},
+{
+    "question": "Which of the following tests might provide the most suitable means to gauge the safety of rivaroxaban (Xarelto™) in a patient with atrial fibrillation who complains to the family physician of pronounced bruising?",
+    "options": [
+    "PT",
+    "INR",
+    "Not applicable",
+    "Factor-Xa assay"
+    ],
+    "correctAnswer": "Factor-Xa assay",
+    "section": "CVS"
+},
+{
+    "question": "The drug of choice for left femoral and popliteal arteries occlusive disease is:",
+    "options": [
+    "Aspirin",
+    "Dabigatran",
+    "Clopidogrel",
+    "Warfarin"
+    ],
+    "correctAnswer": "Aspirin",
+    "section": "CVS"
+},
+{
+    "question": "The drug of choice to protect a hypertensive 58-year-old female with a history of transient ischemic attack is:",
+    "options": [
+    "Warfarin",
+    "Aspirin",
+    "Clopidogrel",
+    "Rivaroxaban"
+    ],
+    "correctAnswer": "Aspirin",
+    "section": "CVS"
+},
+{
+    "question": "In the above case, if the patient endures recurrent transient ischemic attacks on the first line therapy for stroke prophylaxis, the least appropriate second line option would be to:",
+    "options": [
+    "Switch the previously selected therapy to clopidogrel or add dipyridamole",
+    "Switch the previously selected therapy to clopidogrel",
+    "Keep the previously selected therapy or add dipyridamole",
+    "Keep the previously selected therapy or add clopidogrel"
+    ],
+    "correctAnswer": "Keep the previously selected therapy or add clopidogrel",
+    "section": "CVS"
+},
+{
+    "question": "The drug of choice for vascular prophylaxis in atrial fibrillation in an otherwise healthy 60-year-old female is:",
+        "options": [
+        "Warfarin",
+        "None",
+        "Aspirin",
+        "Rivaroxaban"
+        ],
+        "correctAnswer": "None",
+        "section": "CVS"
+    },
+    {
+        "question": "The drug of choice for primary stroke prevention in a 58-year-old male patient with pre-treatment systolic blood pressure of 168 mm Hg and with a history of NYHA-II heart failure who has just been confirmed to experience paroxysmal atrial fibrillation is:",
+        "options": [
+        "Rivaroxaban",
+        "Warfarin",
+        "Aspirin",
+        "Clopidogrel"
+        ],
+        "correctAnswer": "Rivaroxaban",
+        "section": "CVS"
+    },
+    {
+        "question": "The drug of choice for long-term prophylaxis of embolic stroke in a 65-year-old male patient with a bioprosthetic mitral heart valve is:",
+        "options": [
+        "Warfarin",
+        "Clopidogrel",
+        "Dabigatran",
+        "Aspirin"
+        ],
+        "correctAnswer": "Aspirin",
+        "section": "CVS"
+    },
+    {
+        "question": "The drug of choice for prophylaxis of embolic stroke in a 72-year-old female patient with a mechanical tricuspid heart valve is:",
+        "options": [
+        "Warfarin",
+        "Dabigatran",
+        "Aspirin",
+        "Clopidogrel"
+        ],
+        "correctAnswer": "Warfarin",
+        "section": "CVS"
+    },
+    {
+        "question": "What is an appropriate antithrombotic monotherapy or combination therapy for J.L. to reduce his arterial thromboembolic risk?",
+        "options": [
+        "Clopidogrel-aspirin combination",
+        "Warfarin-aspirin combination",
+        "Warfarin",
+        "Apixaban"
+        ],
+        "correctAnswer": "Warfarin-aspirin combination",
+        "section": "CVS"
+    },
+    {
+        "question": "Which of the following is NOT a risk factor known to be associated with deep vein thrombosis?",
+        "options": [
+        "Central venous catheters",
+        "Dyslipidemia",
+        "Thrombophlebitis",
+        "Cancer"
+        ],
+        "correctAnswer": "Dyslipidemia",
+        "section": "CVS"
+    },
+    {
+        "question": "All of the following pharmacological agents can be used for the initial treatment of deep vein thrombosis, EXCEPT:",
+        "options": [
+        "Warfarin",
+        "Alteplase",
+        "Apixaban",
+        "Dalteparin"
+        ],
+        "correctAnswer": "Warfarin",
+        "section": "CVS"
+    },
+    {
+        "question": "What would be the most appropriate antithrombotics to be considered and assessed in this case?",
+        "options": [
+        "Apixaban",
+        "Dalteparin and warfarin",
+        "Enoxaparin",
+        "Alteplase and unfractionated heparin"
+        ],
+        "correctAnswer": "Alteplase and unfractionated heparin",
+        "section": "CVS"
+    },
+    {
+        "question": "Which of the following scores is suitable to estimate the probability for acute pulmonary embolism (PE) in the aforementioned patient?",
+        "options": [
+        "Child Pugh Score",
+        "APACHE II Score",
+        "Wells’ Score",
+        "The Modified Rankin Scale (mRS)"
+        ],
+        "correctAnswer": "Wells’ Score",
+        "section": "CVS"
+    },
+    {
+        "question": "Which of the following tests is needed to confirm the diagnosis of pulmonary embolism in the aforementioned patient?",
+        "options": [
+        "A cardiac echocardiogram",
+        "Prothrombin time",
+        "A chest x-ray",
+        "A D-dimer test"
+        ],
+        "correctAnswer": "A cardiac echocardiogram",
+        "section": "CVS"
+    },
+    {
+        "question": "Which of the following is NOT true about the administration of dalteparin (FRAGMIN®) pre-filled syringes?",
+        "options": [
+        "Inject the needle at a 45- to 90-degree angle into a skin fold made by the thumb and forefinger in the belly area",
+        "Administer the injection while seated or lying down",
+        "Rotate the injection site by using the area around the navel, the upper outer aspect of the thigh, or the upper outer quadrangle of the buttock",
+        "Gently tap the syringe to move the air bubble to the top and expel it before the injection"
+        ],
+        "correctAnswer": "Gently tap the syringe to move the air bubble to the top and expel it before the injection",
+        "section": "CVS"
+    },
+    {
+        "question": "Which of the following is the least relevant risk factor for M.S.’s deep vein thrombosis?",
+        "options": [
+        "Hormone therapy",
+        "Tobacco smoking",
+        "The length of flight",
+        "Alcohol intake"
+        ],
+        "correctAnswer": "Alcohol intake",
+        "section": "CVS"
+    },
+    {
+        "question": "What would be the most appropriate treatment strategy to manage M.S.’s acute condition?",
+        "options": [
+        "Start and continue on rivaroxaban monotherapy",
+        "Start warfarin titration to a target INR of 2-3",
+        "Start unfractionated heparin in the hospital for 5 days, then continue on edoxaban",
+        "Start rivaroxaban and warfarin simultaneously, monitor INR, and stop rivaroxaban while maintaining warfarin when INR > 2 for at least 24 hours"
+        ],
+        "correctAnswer": "Start and continue on rivaroxaban monotherapy",
+        "section": "CVS"
+    },
+    {
+        "question": "What would be an appropriate response and/or action when M.S. prefers shots over oral medications?",
+        "options": [
+        "Call her doctor suggesting a switch to fondaparinux",
+        "Advise her about the risk of infections associated with injections",
+        "Reinforce the importance of using oral medications for convenience and compliance purposes",
+        "Call her doctor suggesting a switch to enoxaparin"
+        ],
+        "correctAnswer": "Call her doctor suggesting a switch to fondaparinux",
+        "section": "CVS"
+    },
+    {
+        "question": "All of the following can be considered disadvantages of dabigatran when compared to warfarin, EXCEPT:",
+        "options": [
+        "It can cause significant gastric upset than warfarin",
+        "It has a shorter half-life than warfarin necessitating a twice daily dosing",
+        "It is more expensive than warfarin even after accounting for the laboratory cost of INR",
+        "It does not have a reliable antidote"
+        ],
+        "correctAnswer": "It does not have a reliable antidote",
+        "section": "CVS"
+    },
+    {
+        "question": "For how long does M.S. need to continue on the prescribed medication?",
+        "options": [
+        "For at least 3 months",
+        "Indefinitely",
+        "Once the vein thrombi cannot be detected on CT contrast venography",
+        "For at least 28 days after her symptoms completely resolve"
+        ],
+        "correctAnswer": "For at least 3 months",
+        "section": "CVS"
+    },
+    {
+        "question": "Which of the following measures would be least recommended in order to prevent air travel-related thrombosis?",
+        "options": [
+        "Stretching legs regularly and frequent ambulation",
+        "Taking a short course of prophylactic-dose anticoagulation",
+        "Wearing loose fitting clothing",
+        "Staying hydrated and avoiding alcohol while traveling"
+        ],
+        "correctAnswer": "Taking a short course of prophylactic-dose anticoagulation",
+        "section": "CVS"
+    },
+    {
+        "question": "Which of the following tests can be used to monitor warfarin anticoagulation therapy?",
+        "options": [
+        "Vitamin K level",
+        "PTT",
+        "PT",
+        "Fibrinogen activity"
+        ],
+        "correctAnswer": "PT",
+        "section": "CVS"
+    },
+    {
+        "question": "Which of the following vasopressors would be recommended as a first-line agent in the management of anaphylactic shock?",
+        "options": [
+        "Dopamine",
+        "Dobutamine",
+        "Epinephrine",
+        "Norepinephrine"
+        ],
+        "correctAnswer": "Epinephrine",
+        "section": "CVS"
+    }
+]
+                            

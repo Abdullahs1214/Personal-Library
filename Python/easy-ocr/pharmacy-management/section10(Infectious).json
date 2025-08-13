@@ -1,0 +1,2708 @@
+[
+    {
+        "blockId": "1",
+        "questions":[{
+      "question": "Which of the following pathogens is most likely associated with acute meningitis?",
+      "options": [
+        "Haemophilus influenzae type-B",
+        "Echovirus",
+        "Streptococci",
+        "Meningococci"
+      ],
+      "correctAnswer": "Echovirus",
+      "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "2",
+        "questions":[{
+      "question": "Which of the following risk factors is least associated with community acquired bacterial meningitis?",
+      "options": [
+        "Travel",
+        "Injection drug use",
+        "Obesity",
+        "Younger age"
+      ],
+      "correctAnswer": "Obesity",
+      "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "3",
+        "questions":[{
+      "question": "Which of the following cases represent a mode of transmission of meningitis due to a direct contiguous spread?",
+      "options": [
+        "Nasopharyngeal colonization",
+        "Bacteremia secondary to acute otitis media",
+        "Mastoiditis",
+        "Brain surgery"
+      ],
+      "correctAnswer": "Mastoiditis",
+      "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "4",
+        "questions":[{
+      "question": "All of the following diagnostic features are likely associated with viral meningitis, EXCEPT:",
+      "options": [
+        "elevated CSF proteins",
+        "elevated lymphocytes and monocytes of the CSF differential",
+        "elevated CSF lactate",
+        "pain on flexion of the neck"
+      ],
+      "correctAnswer": "elevated CSF lactate",
+      "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "5",
+        "questions":[{
+      "question": "Which of the following is NOT true regarding the etiology, diagnosis, prognosis, and prophylaxis of bacterial meningitis?",
+      "options": [
+        "Meningococcal meningitis cannot be acquired by droplets of respiratory or throat secretions through exposure to asymptomatic carriers.",
+        "Lumbar punctures are routinely performed for diagnosis.",
+        "Secondary prevention is recommended in case of day care contacts of a child diagnosed with meningococcal meningitis.",
+        "Routine pneumococcal vaccination helps prevent pneumococcal meningitis."
+      ],
+      "correctAnswer": "Meningococcal meningitis cannot be acquired by droplets of respiratory or throat secretions through exposure to asymptomatic carriers.",
+      "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "6",
+        "questions":[{
+      "question": "Which of the following therapies is the most appropriate prophylactic treatment for a 2-year-old child who was exposed to an index case of meningococcal meningitis in a daycare facility and whose medical history is remarkable for anaphylaxis to penicillin?",
+      "options": [
+        "Rifampicin",
+        "Quadrivalent meningococcal conjugate vaccine",
+        "Ceftriaxone",
+        "Ciprofloxacin"
+      ],
+      "correctAnswer": "Rifampicin",
+      "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "7",
+        "questions":[{
+      "question": "All of the following statements are true regarding infectious bacterial meningitis in adult patients, EXCEPT:",
+      "options": [
+        "Cefotaxime is a first-line option in neonates with meningitis due to L. monocytogenes.",
+        "Ciprofloxacin is an effective 2nd line antibacterial for prophylactic therapy.",
+        "Ceftriaxone is the antibiotic of choice for the prophylaxis of a 32-year-old pregnant female after coming into contact with an index case diagnosed with meningococcal meningitis.",
+        "High-dose 3rd generation cephalosporins and vancomycin parenterally administered for 14 days constitute the cornerstone of empiric antibiotic treatment."
+      ],
+      "correctAnswer": "Cefotaxime is a first-line option in neonates with meningitis due to L. monocytogenes.",
+      "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "8",
+        "questions":[{
+      "question": "A 23-day male child was admitted to the emergency department for treatment and management of presumed neonatal sepsis and meningitis. The child was found to be irritable, tachycardic, and febrile to 39.2°C. No other abnormal examination findings were identified. Cerebrospinal fluid obtained by lumbar puncture was collected prior to administration of antimicrobials and submitted for culture and laboratory studies. His initial CSF was significant for a CSF white blood cell count of 1,800 cells/mm³, as well as abnormally elevated protein and normal glucose. The child's mother reported a prior history of herpes simplex virus genital infection, and no genital lesions were noted on examination. What is an appropriate empiric antimicrobial regimen for this patient?",
+      "options": [
+        "Cefotaxime, ampicillin, and gentamicin",
+        "Ampicillin and acyclovir",
+        "Cefotaxime and vancomycin",
+        "Cefotaxime, ampicillin, and acyclovir"
+      ],
+      "correctAnswer": "Cefotaxime, ampicillin, and acyclovir",
+      "section": "Infectious"
+    },
+    {
+      "question": "A 23-day male child was admitted to the emergency department for treatment and management of presumed neonatal sepsis and meningitis. The child was found to be irritable, tachycardic, and febrile to 39.2°C. No other abnormal examination findings were identified. Cerebrospinal fluid obtained by lumbar puncture was collected prior to administration of antimicrobials and submitted for culture and laboratory studies. His initial CSF was significant for a CSF white blood cell count of 1,800 cells/mm³, as well as abnormally elevated protein and normal glucose. The child's mother reported a prior history of herpes simplex virus genital infection, and no genital lesions were noted on examination. A subsequent gram stain reveals small, Gram-positive rods or coccobacilli, and the CSF culture turns positive for Listeria monocytogenes. Which of the following are appropriate modifications to be implemented for the antimicrobial regimen?",
+      "options": [
+        "Switch ampicillin to penicillin G and add gentamicin",
+        "Discontinue cefotaxime and add dexamethasone",
+        "Switch ampicillin to penicillin G and add dexamethasone",
+        "Discontinue cefotaxime and add gentamicin"
+      ],
+      "correctAnswer": "Discontinue cefotaxime and add gentamicin",
+      "section": "Infectious"
+    },
+    {
+      "question": "A 23-day male child was admitted to the emergency department for treatment and management of presumed neonatal sepsis and meningitis. The child was found to be irritable, tachycardic, and febrile to 39.2°C. No other abnormal examination findings were identified. Cerebrospinal fluid obtained by lumbar puncture was collected prior to administration of antimicrobials and submitted for culture and laboratory studies. His initial CSF was significant for a CSF white blood cell count of 1,800 cells/mm³, as well as abnormally elevated protein and normal glucose. The child's mother reported a prior history of herpes simplex virus genital infection, and no genital lesions were noted on examination. A subsequent gram stain reveals small, Gram-positive rods or coccobacilli, and the CSF culture turns positive for Listeria monocytogenes. What is an adequate duration of antimicrobial therapy for the aforementioned child?",
+      "options": [
+        "21 days",
+        "28 days",
+        "14 days",
+        "42 days"
+      ],
+      "correctAnswer": "21 days",
+      "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "8",
+        "questions":[{
+            "question": "Which of the following is not true regarding the treatment and prevention of community acquired bacterial meningitis?",
+            "options":[
+                "Ceftriaxone is contraindicated in neonated with acute bacterial meningitis",
+                "Routine infant immunization programs using conjugated H. influenza type b and S. pneumoniae vaccines help reduce the rates of bacterial meningitis.",
+                "Corticosteroids should be withheld in children with H. influenzae type b meningitis.",
+                "Routine use of monovalent meningococcal vaccine (Men-C-C_ is recommended for all infants at 12 months of age with a booster dose at the age of 12."
+            ],
+            "correctAnswer": "Corticosteroids should be withheld in children with H. influenzae type b meningitis.",
+            "section": "Infectious"
+        }]
+    },
+    {
+        "blockId": "9",
+        "questions":[{
+      "question": "Which of the following antibiotics should be administered to a meningitis patient whose cerebrospinal fluid culture reveals beta-lactamase negative Haemophilus influenzae?",
+      "options": [
+        "Ceftriaxone IV",
+        "Rifampin PO",
+        "Ampicillin PO",
+        "Penicillin G IV"
+      ],
+      "correctAnswer": "Ceftriaxone IV",
+      "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "10",
+        "questions":[{
+      "question": "A patient is admitted with sepsis. The patient has a temperature of 40.2°C and is experiencing chills. On assessment, the physician notes a mitral murmur and dark, small lines on the patient's fingernails. The patient social history reveals an IV drug use in the past. However, the patient states they are no longer using street drugs. The physician suspects infective endocarditis. What diagnostic test do you expect the physician to order in order to confirm the presence of infective endocarditis?",
+      "options": [
+        "Blood culture",
+        "White blood cell count",
+        "Abdominal ultrasound",
+        "Heart catheterization"
+      ],
+      "correctAnswer": "Blood culture",
+      "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "11",
+        "questions":[{
+      "question": "Right-sided infective endocarditis in nosocomial endocarditis due to a catheter-related sepsis is most likely caused by:",
+      "options": [
+        "Coagulase-negative staphylococci",
+        "Enterococcus faecium",
+        "Viridans group streptococci",
+        "Clostridioides difficile"
+      ],
+      "correctAnswer": "Coagulase-negative staphylococci",
+      "section": "Infectious"
+    }]
+    },
+    
+    {
+        "blockId": "12",
+        "questions":[{
+        "question": "V.D. is a 62-year-old female with a history of atrial fibrillation and heart failure who has just had an elective surgery for mitral valve replacement. Her surgery was complicated by AV-block, and a pacemaker was inserted to control her heartbeats. Before discharge, V.D. had episodes of intermittent fever and developed a heart murmur on auscultation, which led her cardiologist to request a transesophageal echocardiography; this revealed endocardial vegetation as mobile echodense masses implanted in the mitral valve. A blood culture was ordered, and this shows coagulase negative non-hemolytic cocci. The most likely organism that caused V.D.'s endocarditis is:",
+        "options": [
+        "S. aureus",
+        "S. viridans",
+        "S. epidermidis",
+        "E. faecalis"
+        ],
+        "correctAnswer": "S. epidermidis",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "13",
+        "questions":[{
+        "question": "Viridans streptococci could be a highly suspected underlying etiological factor in which of the following conditions?",
+        "options": [
+        "Pericarditis",
+        "Cellulitis",
+        "Heart valve disease",
+        "Meningitis"
+        ],
+        "correctAnswer": "Heart valve disease",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "14",
+        "questions":[{
+        "question": "A 67-year-old female patient presents to her dentist with a dental abscess that warrants surgical drainage. The patient history is remarkable for the replacement of two heart valves with bovine prosthetic materials. What is NOT an appropriate antibiotic prophylaxis?",
+        "options": [
+        "Doxycycline 100 mg PO",
+        "Cefazolin 1000 mg IV",
+        "Clarithromycin 500 mg PO",
+        "Ciprofloxacin 500 mg PO"
+        ],
+        "correctAnswer": "Ciprofloxacin 500 mg PO",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "15",
+        "questions":[{
+        "question": "Which of the following risk factors would be least likely associated with infective endocarditis?",
+        "options": [
+        "Coronary artery bypass surgery",
+        "Rheumatic heart disease",
+        "Central venous line",
+        "Dental surgery"
+        ],
+        "correctAnswer": "Coronary artery bypass surgery",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "16",
+        "questions":[{
+        "question": "Which of the following is false regarding bacterial endocarditis?",
+        "options": [
+        "There is elevated risk of bacterial endocarditis with atrial septal defects.",
+        "Enterococci are associated with the majority of infective endocarditis cases.",
+        "Bacterial endocarditis can lead to hemorrhagic lesions in the retina or within the skin of the hands or feet.",
+        "Bacterial endocarditis is usually fatal if untreated."
+        ],
+        "correctAnswer": "Enterococci are associated with the majority of infective endocarditis cases.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "17",
+        "questions":[{
+        "question": "Which of the following is the least possible symptom for subacute infective endocarditis?",
+        "options": [
+        "Bradycardia",
+        "Bleeding into the skin and nails",
+        "Fatigability",
+        "Flu-like symptoms"
+        ],
+        "correctAnswer": "Bradycardia",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "18",
+        "questions":[{
+        "question": "All of the following might be signs, symptoms or laboratory findings secondary to subacute infective endocarditis, EXCEPT:",
+        "options": [
+        "Elevated prothrombin time",
+        "painful finger lumps",
+        "persistent bacteremia",
+        "Elevated erythrocyte sedimentation rate"
+        ],
+        "correctAnswer": "Elevated prothrombin time",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "19",
+        "questions":[{
+        "question": "Which of the following risk factors in a patient’s medical and social history is least relevant to a case of suspected infective endocarditis?",
+        "options": [
+        "A history of cancer",
+        "A history of valve replacement surgery",
+        "IV drug use",
+        "Oral hygiene"
+        ],
+        "correctAnswer": "A history of cancer",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "20",
+        "questions":[{
+        "question": "SF is a 58-year-old male patient with a prosthetic mitral valve who was diagnosed with enterococcal infective endocarditis, which was evident on a transesophageal echocardiogram. The patient’s physical examination on admission reveals low-grade fever (38.1°C), leukocytosis, delirium, heart murmur, pulmonary crackles, cough, and dyspnea. A single blood culture was positive for Enterococcus faecalis. SF's liver and kidney functions are normal. Which of the following is an antimicrobial regimen of choice for SF?",
+        "options": [
+        "Cloxacillin 2 g Q4H plus rifampin 300 mg Q8H iv",
+        "Ampicillin continuous infusion 12g/day",
+        "Cefazolin 2 g Q8H iv",
+        "Ciprofloxacin 400 mg Q12H iv"
+        ],
+        "correctAnswer": "Ampicillin continuous infusion 12g/day",
+        "section": "Infectious"
+    },
+    {
+        "question": "Which of the following antimicrobial agents the clinician should consider as an indicated additive to the previously selected regimen to enhance the killing effect?",
+        "options": [
+        "Ceftriaxone 2 g Q24H",
+        "Gentamicin 1 mg/kg Q8H",
+        "Clindamycin 600 mg orally Q6H",
+        "Vancomycin 15 mg/kg Q12H"
+        ],
+        "correctAnswer": "Gentamicin 1 mg/kg Q8H",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "21",
+        "questions":[{
+        "question": "After consultation with the infectious diseases department and ordering the antimicrobial regimen, the nurse mentions to the hospital pharmacist that there is a Y-site incompatibility concerning the administration of the antimicrobials of choice for SF. Which of the following is an appropriate advice by the hospital pharmacist?",
+        "options": [
+        "Use a large-bore syringe",
+        "Administer the second antibiotic by an intravenous piggyback infusion",
+        "Switch the route of the antimicrobial regimen to oral administration",
+        "Use a central venous catheter"
+        ],
+        "correctAnswer": "Use a central venous catheter",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "22",
+        "questions":[{
+        "question": "Repeated blood cultures were performed every 24 hours after the initial positive blood culture for E. faecalis, and 72 hours after starting antimicrobial therapy, the blood cultures turned negative. What is the minimal acceptable duration in days the antimicrobial regimen should continue for after Enterococcus faecalis has been undetectable in the blood stream?",
+        "options": [
+        "21",
+        "25",
+        "42",
+        "39"
+        ],
+        "correctAnswer": "42",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "23",
+        "questions":[{
+        "question": "Which of the following antibiotics is of choice for an 8-year-old child who received amoxicillin for acute pharyngitis due to group A streptococci (GAS) 4 weeks ago and now presents to his family doctor with symptoms of sore throat & catarrh with a positive test for group A beta-hemolytic streptococci after a throat swab?",
+        "options": [
+        "Clarithromycin",
+        "Consider a viral infection in an asymptomatic GAS carrier",
+        "Doxycycline",
+        "Cefixime"
+        ],
+        "correctAnswer": "Consider a viral infection in an asymptomatic GAS carrier",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "24",
+        "questions":[{
+        "question": "Group A beta-hemolytic streptococci would be a least likely etiological cause in the following disease condition:",
+        "options": [
+        "community-acquired pneumonia",
+        "diabetic foot ulcer",
+        "heart valve disease",
+        "acute pharyngitis"
+        ],
+        "correctAnswer": "community-acquired pneumonia",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "25",
+        "questions":[{
+        "question": "A 4-year-old girl (body weight 18 kg) who regularly attends a daycare during weekdays had just completed a course of amoxicillin granules for oral suspension (11 mL TID x 5 days) for acute otitis media; however, today she presents, accompanied by her mother, to the pediatrician with another middle ear infection. What is the most appropriate antibacterial therapeutic regimen?",
+        "options": [
+        "Cefprozil for 5 days",
+        "Amoxicillin 90 mg/kg for 5 days",
+        "Cephalexin for 10 days",
+        "Amoxicillin-clavulanate for 10 days"
+        ],
+        "correctAnswer": "Amoxicillin-clavulanate for 10 days",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "26",
+        "questions":[{
+        "question": "ZS is a 59-year-old white woman who was referred to an oral and maxillofacial surgeon with a primary complaint of episodic pain around an extraction site of a decayed right-side molar for the previous month. The oral lesion is associated with swelling and erythema of the surrounding tissue. A panoramic radiograph reveals an irregular, mixed radiopaque appearance of the posterior mandible around the extracted site. ZS has no known allergies. ZS' medical history is remarkable for rheumatoid arthritis and Crohn's disease. In addition, ZS had hypertension, osteoporosis, right total hip replacement surgery without complications 3 years prior. ZS is diagnosed with osteonecrosis of the jaw. A wound debridement was performed and multiple sequestra of devitalized bone were curetted out down to vital-appearing, bleeding bone. The biopsy was positive for necrotic bone with mandibular osteomyelitis. ZS’ social history is remarkable for drinking alcohol, but she denies smoking. ZS’ medications are displayed below. What is the most significant risk factor for ZS’ osteonecrosis of the jaw?",
+        "options": [
+        "Denosumab",
+        "Prednisone",
+        "Osteoporosis",
+        "Alcohol"
+        ],
+        "correctAnswer": "Denosumab",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "27",
+        "questions":[{
+        "question": "Knowing that culture of a lesion sample shows catalase negative cocci growing in chains, what is the most likely pathogen associated with ZS’ osteomyelitis?",
+        "options": [
+        "Klebsiella",
+        "Staphylococci",
+        "Candida",
+        "Streptococci"
+        ],
+        "correctAnswer": "Streptococci",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "28",
+        "questions":[{
+        "question": "Which of the following empiric antimicrobial regimens is appropriate for ZS at this time?",
+        "options": [
+        "Vancomycin",
+        "Cefazolin",
+        "Penicillin G potassium",
+        "Metronidazole"
+        ],
+        "correctAnswer": "Penicillin G potassium",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "29",
+        "questions":[{
+        "question": "S.M. is a 60-year-old female diabetic patient who visits your pharmacy today complaining of a painful ulcerative lesion on her sole (plantar diabetic foot ulcer) which is oozing a pale yellowish-green fluid and is surrounded by a nonraised erythematous spot of about 5 centimeters. The patient is stable on metformin, glyburide, insulin glargine, ramipril, atorvastatin, and duloxetine. Her A1c% is 6.7 and her e-GFR is 52 mL/min/1.73 mm. S.M.'s medical history is otherwise unremarkable except for a previous complaint of prickly and tingly toes that feel like “pins and needles”. However, S.M.'s social history shows that she smokes 5-7 cigarettes/day and drinks 2 glasses of wine/day. She also enjoys daily Epsom salt foot soaks. This lesion is most likely:",
+        "options": [
+        "cellulitis",
+        "a plantar abscess",
+        "a decubitus ulcer",
+        "osteomyelitis"
+        ],
+        "correctAnswer": "cellulitis",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "30",
+        "questions":[{
+        "question": "Which of the following is a significant risk factor that is most likely associated with S.M.’s current disease condition?",
+        "options": [
+        "Damage to the peripheral nerves",
+        "Uncontrolled blood sugar",
+        "Cigarette smoking",
+        "Age"
+        ],
+        "correctAnswer": "Damage to the peripheral nerves",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "31",
+        "questions":[{
+        "question": "Which of the following microorganisms would be likely involved, the least, with S.M.’s foot infection?",
+        "options": [
+        "Bacteroides fragilis",
+        "Pseudomonas aeruginosa",
+        "Staphylococcus aureus",
+        "Viridans group streptococci"
+        ],
+        "correctAnswer": "Viridans group streptococci",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "32",
+        "questions":[{
+        "question": "Which of the following is an appropriate empiric antimicrobial regimen for S.M.’s foot infection?",
+        "options": [
+        "Amoxicillin-clavulanate",
+        "Cephalexin and metronidazole",
+        "Ciprofloxacin and clindamycin",
+        "Piperacillin-tazobactam"
+        ],
+        "correctAnswer": "Ciprofloxacin and clindamycin",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "33",
+        "questions":[{
+        "question": "What is the suggested minimal duration of antimicrobial treatment for S.M.?",
+        "options": [
+        "14 days",
+        "7 days",
+        "5 days",
+        "10 days"
+        ],
+        "correctAnswer": "7 days",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "34",
+        "questions":[{
+        "question": "Which of the following antibiotics is the least effective against anaerobic bacteria commonly involved in diabetic foot infections?",
+        "options": [
+        "Amoxicillin-clavulanate",
+        "Metronidazole",
+        "Ciprofloxacin",
+        "Moxifloxacin"
+        ],
+        "correctAnswer": "Ciprofloxacin",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "35",
+        "questions":[{
+        "question": "C.Z. is a 9-year-old child who presents to the hospital emergency room with decreased appetite and intermittent tactile fever for the last 5 days. He complains of pain in his right leg, and he has been having an increasingly difficult time walking over the last 2 days. His mother denies reports of recent weight loss, cough, or dysuria. He has no previous medical problems. C.Z.’s mother admits a trivial skin infection after a soccer game a few weeks ago. Exam: VS T 39.4, P 110, R 16, BP 95/50, O, saturation 99% RA. He is alert and non-toxic appearing. His heart, lungs and abdomen are normal. Examination of his extremities reveals swelling, warmth, and tenderness to his right proximal tibia. He has some palpable inguinal lymphadenopathy on the right. He has difficulty bearing weight and walks with a slight limp. There are no cutaneous skin lesions. His neurologic and joint exams are non-contributory. Laboratory studies show WBC 18,000, 68% segs, 7% bands, 20% lymphs, 5% monos, H/H 13.4/40, Platelet count 290,000. Plain radiographs of his right tibia and fibula are normal. An MRI scan shows a hyperintense signal in the marrow with a small pocket pus elevating the periosteum and soft tissue swelling of the right proximal tibia suggestive of osteomyelitis. An orthopedic consultation is obtained, and IV vancomycin (500 mg q6h) is started empirically. The patient's fever declined, and his vital signs and functions are significantly improving. Subsequent bone aspirate cultures grow out methicillin-sensitive coagulase-positive Staphylococcus aureus. Surgical debridement was carried out and laboratory results at routine intervals were followed to monitor clinical progress. Which of the following is the most likely cause for C.Z.’s bone infection?",
+        "options": [
+        "A puncture wound",
+        "Hematogenous seeding",
+        "Spread from a contiguous site",
+        "Chronic cellulitis"
+        ],
+        "correctAnswer": "Spread from a contiguous site",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "36",
+        "questions":[{
+        "question": "All of the following markers might be elevated in case of C.Z.’s bone infection, EXCEPT:",
+        "options": [
+        "CRP",
+        "ANAS",
+        "ESR",
+        "Body temperature"
+        ],
+        "correctAnswer": "ANAS",
+        "section": "Infectious"
+    }]
+    },
+
+    {
+        "blockId": "37",
+        "questions":[{
+        "question": "Which of the following therapeutic managements, if any, should be made now for C.Z.?",
+        "options": [
+        "Step down to cephalexin 1000 mg po Q6H for 6 weeks",
+        "Stop vancomycin and start cloxacillin 1 g iv Q4H for 2 weeks",
+        "Switch to ceftazidime iv 150 mg/kg/day Q8H to account for pseudomonas",
+        "No changes should be made and continue monitoring vital signs"
+        ],
+        "correctAnswer": "Stop vancomycin and start cloxacillin 1 g iv Q4H for 2 weeks",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "38",
+        "questions":[{
+        "question": "While in the hospital, C.Z. became clinically stable. A step-down therapy in this case could be best implemented by which of the following therapeutic interventions:",
+        "options": [
+        "Place peripherally inserted central IV catheters for home vancomycin administration over 4 weeks.",
+        "Discharge and prescribe cephalexin powder for suspension 1 g po Q6H for 4 weeks",
+        "Keep hospitalized and start cloxacillin 500 mg iv Q4H for 1 week",
+        "Keep hospitalized and switch to cloxacillin 1000 mg QGH po for 4 weeks"
+        ],
+        "correctAnswer": "Discharge and prescribe cephalexin powder for suspension 1 g po Q6H for 4 weeks",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "39",
+        "questions":[{
+        "question": "All of the following could be considered advantages for a step-down treatment for C.Z., EXCEPT:",
+        "options": [
+        "reducing healthcare costs.",
+        "improving convenience.",
+        "attenuating drug resistance.",
+        "minimizing the likelihood of nosocomial infection."
+        ],
+        "correctAnswer": "attenuating drug resistance.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "40",
+        "questions":[{
+        "question": "Which of the following allied health professionals would be required the least for C.Z.?",
+        "options": [
+        "An orthopedist",
+        "An occupational therapist",
+        "A physical therapist",
+        "A social worker"
+        ],
+        "correctAnswer": "A social worker",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "41",
+        "questions":[{
+        "question": "An iv-oral switch may NOT advisable in all of the following infections, EXCEPT:",
+        "options": [
+        "osteomyelitis.",
+        "infections during chemotherapy-related severe neutropenia.",
+        "meningitis.",
+        "infective endocarditis."
+        ],
+        "correctAnswer": "osteomyelitis.",
+        "section": "Chemo Respiratory"
+    }]
+    },
+    {
+        "blockId": "42",
+        "questions":[{
+        "question": "Which of the following is the least appropriate measure to be taken to reduce the risk of infection in this patient?",
+        "options": [
+        "Start a prophylactic regimen of piperacillin-tazobactam",
+        "Showering daily and using an unscented lotion to prevent skin dryness",
+        "Administer pegfilgrastim 24 hours after the chemotherapeutic regimen",
+        "Asking family members to wash their hands thoroughly and frequently with soap and water"
+        ],
+        "correctAnswer": "Start a prophylactic regimen of piperacillin-tazobactam",
+        "section": "Chemo Respiratory"
+    }]
+    },
+    {
+        "blockId": "43",
+        "questions":[{
+        "question": "What is the most likely diagnosis for SKh’s presentation?",
+        "options": [
+        "Systemic complications due to failure to give albumin during paracentesis",
+        "Hepatorenal syndrome",
+        "Spontaneous bacterial peritonitis",
+        "Jaundice"
+        ],
+        "correctAnswer": "Spontaneous bacterial peritonitis",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "44",
+        "questions":[{
+        "question": "What is an appropriate management plan for SKh?",
+        "options": [
+        "Start lactulose",
+        "Start norfloxacin",
+        "Start furosemide",
+        "Start cefotaxime"
+        ],
+        "correctAnswer": "Start cefotaxime",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "45",
+        "questions":[{
+        "question": "How would you complete the management of SKh?",
+        "options": [
+        "Discontinue all treatments and consider starting diuretics",
+        "Observe recurrences and consider suppressive antibiotic therapy only in case of a recurrent episode",
+        "Start ciprofloxacin twice daily for 7 days",
+        "Start trimethoprim-sulfamethoxazole and continue indefinitely"
+        ],
+        "correctAnswer": "Start trimethoprim-sulfamethoxazole and continue indefinitely",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "46",
+        "questions":[{
+        "question": "Which of the following diuretic regimens is an appropriate choice for SKh after discharge?",
+        "options": [
+        "Eplerenone and furosemide",
+        "Furosemide and metolazone",
+        "Amiloride and furosemide",
+        "Spironolactone and furosemide"
+        ],
+        "correctAnswer": "Amiloride and furosemide",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "47",
+        "questions":[{
+        "question": "All of the following are typical signs of septic shock, EXCEPT:",
+        "options": [
+        "tachycardia.",
+        "tachypnea.",
+        "responsive to adequate fluid resuscitation.",
+        "hypotension and confusion."
+        ],
+        "correctAnswer": "responsive to adequate fluid resuscitation.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "48",
+        "questions":[{
+        "question": "All of the following are acute management or prophylactic drugs and/or procedures initiated for a patient with septic shock in the ICU, EXCEPT:",
+        "options": [
+        "keep the patient in a supine position.",
+        "unfractionated heparin to prevent deep vein thrombosis.",
+        "norepinephrine in normal saline via a central venous catheter.",
+        "enteral tube feeding along with trace element and vitamin supplements."
+        ],
+        "correctAnswer": "keep the patient in a supine position.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "49",
+        "questions":[{
+        "question": "Which vasopressors and inotropes should be used in an emergency department patient with distributive shock due to an anaphylactic reaction which did not respond to intramuscular or intravenous bolus epinephrine?",
+        "options": [
+        "Dobutamine infusion",
+        "Epinephrine infusion",
+        "Vasopressin infusion",
+        "Norepinephrine infusion"
+        ],
+        "correctAnswer": "Epinephrine infusion",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "50",
+        "questions":[{
+        "question": "What is the clinical severity of the Clostridioides difficile illness and what is an appropriate initial treatment?",
+        "options": [
+        "Nonsevere colitis and vancomycin po",
+        "Severe colitis and vancomycin po",
+        "Severe colitis and vancomycin po plus metronidazole iv",
+        "Nonsevere colitis and metronidazole po"
+        ],
+        "correctAnswer": "Nonsevere colitis and vancomycin po",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "51",
+        "questions":[{
+        "question": "Upon admission to the hospital, the aforementioned patient develops a fever of 39 °C and his average systolic blood pressure is 90 mm Hg. What is an appropriate management at this point?",
+        "options": [
+        "Oral vancomycin plus oral metronidazole",
+        "Low-dose oral vancomycin plus intravenous metronidazole",
+        "High-dose oral vancomycin plus intravenous metronidazole",
+        "High-dose intravenous vancomycin"
+        ],
+        "correctAnswer": "High-dose oral vancomycin plus intravenous metronidazole",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "52",
+        "questions":[{
+        "question": "All of the following are typical pathogens implicated in community acquired pneumonia, EXCEPT:",
+        "options": [
+        "Moraxella catarrhalis.",
+        "Haemophilus influenzae.",
+        "Chlamydophila pneumoniae.",
+        "Streptococcus pneumoniae."
+        ],
+        "correctAnswer": "Chlamydophila pneumoniae.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "53",
+        "questions":[{
+        "question": "All of the following factors correlate with the risk of mortality due to community-acquired pneumonia, EXCEPT:",
+        "options": [
+        "altered mentation.",
+        "hypertension.",
+        "residence in a nursing home.",
+        "hyperventilation."
+        ],
+        "correctAnswer": "hypertension.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "54",
+        "questions":[{
+        "question": "Which of the following factors contributes the least to whether a patient initially diagnosed with community acquired pneumonia by the emergency room physician should be admitted to the hospital ward for treatment?",
+        "options": [
+        "Chest X-ray findings",
+        "Older age",
+        "Female gender",
+        "Body temperature"
+        ],
+        "correctAnswer": "Female gender",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "55",
+        "questions":[{
+        "question": "All of the following factors will inform a hospital physician whether a patient suspected to have community acquired pneumonia should be dismissed or kept under supervision, EXCEPT:",
+        "options": [
+        "patient's pulse oximetry.",
+        "patient's arterial pH.",
+        "patient’s BUN.",
+        "patient's urinalysis."
+        ],
+        "correctAnswer": "patient's urinalysis.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "56",
+        "questions":[{
+        "question": "Which of the following antimicrobial choices is NOT an appropriate empiric regimen for community-acquired pneumonia which shows focal consolidation in the right lobe on CXR with pleural effusion in a febrile inpatient 62-year-old male who is alert and hemodynamically stable with a Pneumonia Severity Index (PSI) score of 107?",
+        "options": [
+        "Cefotaxime",
+        "Cefazolin",
+        "Amoxicillin-clavulanic acid",
+        "Amoxicillin"
+        ],
+        "correctAnswer": "Cefazolin",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "57",
+        "questions":[{
+        "question": "Using a “DAP” documentation style, the PSI score (107) for the aforementioned patient should be documented under which of the following “DAP” sections?",
+        "options": [
+        "None",
+        "P",
+        "A",
+        "D"
+        ],
+        "correctAnswer": "D",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "58",
+        "questions":[{
+        "question": "Which of the following is the most appropriate antimicrobial for S.M.?",
+        "options": [
+        "Levofloxacin",
+        "Trimethoprim-sulfamethoxazole",
+        "Azithromycin",
+        "Doxycycline"
+        ],
+        "correctAnswer": "Levofloxacin",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "59",
+        "questions":[{
+        "question": "The risk of death due to community acquired pneumonia in case of J.A. correlates the most with her:",
+        "options": [
+        "CURB-65",
+        "chest x-ray findings.",
+        "PSI score.",
+        "history of hepatitis."
+        ],
+        "correctAnswer": "CURB-65",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "60",
+        "questions":[{
+        "question": "What is the most appropriate pathogen-directed antibiotic therapy for J.A.?",
+        "options": [
+        "Meropenem",
+        "Ceftriaxone",
+        "Piperacillin-tazobactam",
+        "Cefepime"
+        ],
+        "correctAnswer": "Meropenem",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "61",
+        "questions":[{
+        "question": "An intravenous route for the administration of the antibiotic of choice is the most appropriate route in J.A. because of:",
+        "options": [
+        "a PSI score >91 points.",
+        "an eminent risk of death.",
+        "hemoptysis.",
+        "bacteremia."
+        ],
+        "correctAnswer": "an eminent risk of death.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "62",
+        "questions":[{
+        "question": "What is the minimum duration for J.A. to become afebrile?",
+        "options": [
+        "72h",
+        "96h",
+        "48h",
+        "24h"
+        ],
+        "correctAnswer": "48h",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "63",
+        "questions":[{
+        "question": "Which of the following healthcare professionals is needed the most for J.A. after her anticipated hospital discharge?",
+        "options": [
+        "Nurse",
+        "Physiotherapist",
+        "Social worker",
+        "Occupational therapist"
+        ],
+        "correctAnswer": "Social worker",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "64",
+        "questions":[{
+        "question": "A patient is diagnosed with methicillin-resistant Staphylococcus aureus pneumonia. What type of isolation is most appropriate for this client?",
+        "options": [
+        "Contact precautions",
+        "Droplet precautions",
+        "Reverse isolation",
+        "Airborne precautions"
+        ],
+        "correctAnswer": "Droplet precautions",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "65",
+        "questions":[{
+        "question": "What is a suitable oral antimicrobial option for the aforementioned patient?",
+        "options": [
+        "Azithromycin",
+        "Linezolid",
+        "Cefepime",
+        "Vancomycin"
+        ],
+        "correctAnswer": "Linezolid",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "66",
+        "questions":[{
+        "question": "The most appropriate antibiotic for R.R.’s pneumonia would be:",
+        "options": [
+        "cephalexin.",
+        "levofloxacin.",
+        "amoxicillin-clavulanate.",
+        "azithromycin."
+        ],
+        "correctAnswer": "levofloxacin.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "67",
+        "questions":[{
+        "question": "Which of the following is an appropriate auxiliary label for the antibacterial of choice in the aforementioned case?",
+        "options": [
+        "It should be taken with meals.",
+        "Concomitant multivitamins containing iron should be avoided.",
+        "Dairy products should be avoided at least for 2 hours before or after taking this medication.",
+        "It should be taken with plenty of water."
+        ],
+        "correctAnswer": "Concomitant multivitamins containing iron should be avoided.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "68",
+        "questions":[{
+        "question": "What is the drug of choice for treating legionnaires’ disease?",
+        "options": [
+        "Clarithromycin",
+        "Amphotericin B",
+        "Rifampin",
+        "Amantadine"
+        ],
+        "correctAnswer": "Clarithromycin",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "69",
+        "questions":[{
+        "question": "Which of the following antimicrobials is the most appropriate choice for a 6-year-old child diagnosed with Lyme disease due to Borrelia burgdorferi?",
+        "options": [
+        "Amoxicillin for 14 days",
+        "A single dose of doxycycline",
+        "Azithromycin for 10 days",
+        "A watchful waiting of 30 days"
+        ],
+        "correctAnswer": "Amoxicillin for 14 days",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "70",
+        "questions":[{
+        "question": "Complications of Lyme disease include all of the following, EXCEPT:",
+        "options": [
+        "Neuropathy",
+        "Carditis",
+        "Arthritis",
+        "Hepatitis"
+        ],
+        "correctAnswer": "Hepatitis",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "71",
+        "questions":[{
+        "question": "Which of the following is true regarding Shingles vaccine (SHINGRIX II™)?",
+        "options": [
+        "The vaccine should be avoided in individuals aged 60 years or over with a prior Shingles history.",
+        "The vaccine might alleviate postherpetic neuropathic pain associated with existing Shingles.",
+        "The vaccine is expected to cause excessive adverse effects in VZV-seronegative adults.",
+        "The vaccine has no maximum recommended age."
+        ],
+        "correctAnswer": "The vaccine has no maximum recommended age.",
+        "section": "Infectious"
+    }]
+    },
+    
+    {
+        "blockId": "72",
+        "questions":[{
+        "question": "Which of the following statements is true regarding Shingles vaccine (ZOSTAVAX II™)?",
+        "options": [
+        "It is contraindicated in patients who are on steroid replacement therapy.",
+        "For individuals with a prior history of Shingles, vaccination after 6 months of the active infection is recommended.",
+        "If a dose of the Shingles vaccine was given erroneously in place of the Varicella vaccine, it should not be counted as a single valid dose of varicella vaccine.",
+        "It can be administered concurrently with the pneumococcal polysaccharide vaccine."
+        ],
+        "correctAnswer": "It can be administered concurrently with the pneumococcal polysaccharide vaccine.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "73",
+        "questions":[{
+        "question": "Which of the following is NOT a correct fact regarding the storage and administration of the urea-containing Shingles vaccine (ZOSTAVAX II™)?",
+        "options": [
+        "The diluent drawn into the syringe should be slowly injected into the lyophilized vaccine vial to avoid excessive foaming.",
+        "The lyophilized vaccine should be kept refrigerated and the reconstituted vaccine is stable at room temperature for 2 hours.",
+        "The diluent of the vaccine is preservative-free.",
+        "The vaccine is administered subcutaneously in the deltoid muscle as a single dose."
+        ],
+        "correctAnswer": "The lyophilized vaccine should be kept refrigerated and the reconstituted vaccine is stable at room temperature for 2 hours.",
+        "section": "Infectious"
+        }]
+    },
+    {
+        "blockId": "74",
+        "questions":[{
+        "question": "What is an appropriate action by the pharmacist after noticing a patient used valacyclovir recently when administering the subunit Shingles vaccine?",
+        "options": [
+        "Reassure the client that her vaccination is valid and reliable.",
+        "Administer a second dose of varicella zoster vaccine in 14 days.",
+        "Administer a second dose of herpes zoster vaccine in 42 days.",
+        "Administer a booster dose of herpes zoster vaccine in 12 months."
+        ],
+        "correctAnswer": "Reassure the client that her vaccination is valid and reliable.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "75",
+        "questions":[{
+        "question": "All of the following factors warrant referral to a physician or a dermatologist in case of a confirmed diagnosis of Shingles, EXCEPT for:",
+        "options": [
+        "a patient on adalimumab and methotrexate.",
+        "rash that develops on one side of the body.",
+        "vesicles on the nose.",
+        "a fever of 38.5 °C."
+        ],
+        "correctAnswer": "rash that develops on one side of the body.",
+        "section": "Infectious"
+        }]
+    },
+    {
+        "blockId": "76",
+        "questions":[{
+        "question": "Which of the following is the most likely uropathogen in case of a male patient with an indwelling catheter after valve replacement and bypass surgeries?",
+        "options": [
+        "Klebsiella",
+        "Escherichia coli",
+        "Enterococci",
+        "Staphylococcus epidermidis"
+        ],
+        "correctAnswer": "Escherichia coli",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "77",
+        "questions":[{
+        "question": "Which pathogen is suspected the most in a patient who develops acute infective endocarditis as confirmed by a transesophageal echocardiogram and a positive blood culture revealing a beta-hemolytic coagulase-negative Gram-positive cocci?",
+        "options": [
+        "Viridans group streptococci",
+        "Enterococcus faecalis",
+        "Staphylococcus epidermidis",
+        "Escherichia coli"
+        ],
+        "correctAnswer": "Enterococcus faecalis",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "78",
+        "questions":[{
+        "question": "All of the following symptomatic infections can be considered secondary to colonization of C. albicans in humans, EXCEPT:",
+        "options": [
+        "diaper rash.",
+        "candidal pneumonia.",
+        "candidal stomatitis.",
+        "candiduria."
+        ],
+        "correctAnswer": "candidal pneumonia.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "79",
+        "questions":[{
+        "question": "All of the following are risk factors for feminine urinary tract infections, EXCEPT:",
+        "options": [
+        "combined hormonal contraceptives.",
+        "menopause.",
+        "sexual activity.",
+        "spermicide foam."
+        ],
+        "correctAnswer": "combined hormonal contraceptives.",
+        "section": "contraception"
+    }]
+    },
+    {
+        "blockId": "80",
+        "questions":[{
+        "question": "Which of the following symptoms least flags a suspected acute uncomplicated urinary tract infection in a 53-year-old female?",
+        "options": [
+        "Blood in urine",
+        "Visiting the washroom frequently",
+        "Cloudiness of urine",
+        "Burning upon peeing"
+        ],
+        "correctAnswer": "Cloudiness of urine",
+        "section": "Infectious"
+        }]
+    },
+    {
+        "blockId": "81",
+        "questions":[{
+        "question": "What would be the most appropriate recommendation in the case of an asymptomatic 78-year-old male resident of a long-term care facility who grew methicillin-resistant S. aureus in his urine culture?",
+        "options": [
+        "Vancomycin iv",
+        "Do not treat",
+        "Cloxacillin po",
+        "Vancomycin po"
+        ],
+        "correctAnswer": "Do not treat",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "82",
+        "questions":[{
+        "question": "Which antimicrobial agent is suitable for outpatient treatment of a 32-year-old male with methicillin-resistant Staphylococcus aureus cystitis?",
+        "options": [
+        "Ciprofloxacin",
+        "Linezolid",
+        "Cephalexin",
+        "Vancomycin"
+        ],
+        "correctAnswer": "Linezolid",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "83",
+        "questions":[{
+        "question": "Which of the following antiinfectives is least suitable to a pregnant female having bacteriuria in her 8th week of gestation?",
+        "options": [
+        "Amoxicillin",
+        "Trimethoprim",
+        "Fosfomycin",
+        "Nitrofurantoin"
+        ],
+        "correctAnswer": "Trimethoprim",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "84",
+        "questions":[{
+        "question": "Which of the following is the most appropriate empiric treatment for a pregnant woman in her 37th gestational week with asymptomatic bacteriuria and a prior reaction to penicillin?",
+        "options": [
+        "Nitrofurantoin",
+        "No treatment is indicated",
+        "Ciprofloxacin",
+        "Trimethoprim"
+        ],
+        "correctAnswer": "Trimethoprim",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "85",
+        "questions":[{
+        "question": "What is the most appropriate empiric choice for a 72-year-old female with costovertebral angle tenderness and a sulfa allergy?",
+        "options": [
+        "Nitrofurantoin 100 mg BID for 5 days",
+        "Sulfamethoxazole-trimethoprim 800/160 mg BID for 3 days",
+        "Amoxicillin-clavulanic acid 500-125 mg TID for 10 days",
+        "Moxifloxacin 400 mg once daily for 10 days"
+        ],
+        "correctAnswer": "Amoxicillin-clavulanic acid 500-125 mg TID for 10 days",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "86",
+        "questions":[{
+        "question": "What is the most appropriate empiric therapy for a pregnant lady in her 10th gestational week suspected of having an upper urinary tract infection?",
+        "options": [
+        "Sulfamethoxazole-trimethoprim",
+        "Ceftriaxone",
+        "Amoxicillin-clavulanate",
+        "Nitrofurantoin"
+        ],
+        "correctAnswer": "Ceftriaxone",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "87",
+        "questions":[{
+        "question": "Which of the following is NOT an appropriate prophylactic measure for a 56-year-old woman with recurrent urinary tract infections?",
+        "options": [
+        "Trimethoprim-sulfamethoxazole 160/800 twice daily",
+        "Vaginal estrogen ring",
+        "Cranberry products",
+        "Nitrofurantoin 50 mg once daily"
+        ],
+        "correctAnswer": "Trimethoprim-sulfamethoxazole 160/800 twice daily",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "88",
+        "questions":[{
+        "question": "What is a possible drug therapy problem in a diabetic patient with oral candidiasis after a course of ciprofloxacin?",
+        "options": [
+        "The dose of ciprofloxacin was not adjusted according to the patient's kidney function.",
+        "The antibacterial selected was not the first-line choice for this patient.",
+        "Empiric antibacterial treatment in this patient should have not been implemented unless culture was obtained first.",
+        "The patient's urinary symptoms are more consistent with non-infectious etiologies, such as benign prostatic hyperplasia."
+        ],
+        "correctAnswer": "Empiric antibacterial treatment in this patient should have not been implemented unless culture was obtained first.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "89",
+        "questions":[{
+        "question": "What is an appropriate initial recommendation for the aforementioned patient's oral symptoms?",
+        "options": [
+        "Topical nystatin suspension 100,000 units/mL 5 mL QID for 14 days or until 2 days after symptoms clear",
+        "Oral hygiene",
+        "Chlorhexidine gluconate oral rinse 0.12% 2 times a day for 5 days",
+        "Fluconazole 150 mg as a single oral dose STAT"
+        ],
+        "correctAnswer": "Topical nystatin suspension 100,000 units/mL 5 mL QID for 14 days or until 2 days after symptoms clear",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "90",
+        "questions":[{
+        "question": "The primary auxiliary label for the correct choice above is:",
+        "options": [
+        "shake well prior to use, swish and gargle before meals, then swallow.",
+        "take with meals.",
+        "swish and gargle in the mouth then spit.",
+        "shake well prior to use, swish and gargle after meals, then swallow."
+        ],
+        "correctAnswer": "shake well prior to use, swish and gargle after meals, then swallow.",
+        "section": "Infectious"
+    }]
+    },
+
+    {
+        "blockId": "91",
+        "questions":[{
+        "question": "What is an appropriate recommendation regarding the patient's residual urinary symptoms?",
+        "options": [
+        "If symptoms did not disappear within 48-72 hours, you should see your doctor.",
+        "Urodynamics will be needed before any further possible interventions.",
+        "See your family physician as per your earliest convenience.",
+        "This is typical after an antibacterial course as your body is still fighting the bladder bug."
+        ],
+        "correctAnswer": "See your family physician as per your earliest convenience.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "92",
+        "questions":[{
+        "question": "What is the most appropriate recommendation for a pregnant female with symptoms of upper urinary tract infection, dysuria, low-grade fever, and nausea?",
+        "options": [
+        "Sulfamethoxazole-trimethoprim",
+        "Ceftriaxone",
+        "Amoxicillin-clavulanate",
+        "Nitrofurantoin"
+        ],
+        "correctAnswer": "Ceftriaxone",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "93",
+        "questions":[{
+        "question": "What is an appropriate recommendation to reduce the risk of oral candidiasis recurrence for a patient needing a second antibacterial therapy for bladder infection?",
+        "options": [
+        "Rational selection of antibiotic regimen to avoid broad-spectrum antibiotics.",
+        "Recommending over-the-counter probiotics, such as lactobacillus strains during stress periods.",
+        "Allow at least a 3-month washout period between successive antibiotic courses.",
+        "General oral hygiene, including brushing the gums, tongue, and inside the mouth with a soft brush twice a day."
+        ],
+        "correctAnswer": "Rational selection of antibiotic regimen to avoid broad-spectrum antibiotics.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "94",
+        "questions":[{
+        "question": "All of the following are risk factors for gingivitis, EXCEPT:",
+        "options": [
+        "Dental plaque",
+        "Carbohydrate intake",
+        "Tobacco smoking",
+        "Hormonal changes"
+        ],
+        "correctAnswer": "Carbohydrate intake",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "95",
+        "questions":[{
+        "question": "Which of the following factors contributes the least to oropharyngeal candidiasis?",
+        "options": [
+        "Diabetes",
+        "The use of broad-spectrum antibiotics",
+        "The use of inhaled corticosteroids",
+        "The use of first-generation antipsychotics"
+        ],
+        "correctAnswer": "The use of first-generation antipsychotics",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "96",
+        "questions":[{
+        "question": "Which of the following advice is the least appropriate for a sexually active 37-year-old female with recurrent cystitis?",
+        "options": [
+        "Cranberry capsules may help reduce the rate of recurrence.",
+        "An antibiotic pill right after vaginal intercourse may help reduce the risk of recurrence.",
+        "Avoiding the use of spermicides along with diaphragms for birth control may help reduce the risk of recurrence.",
+        "The use of latex condoms by the male partner may help reduce the risk of recurrence."
+        ],
+        "correctAnswer": "The use of latex condoms by the male partner may help reduce the risk of recurrence.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "97",
+        "questions":[{
+        "question": "Which of the following guidelines is NOT true regarding recurrent urinary tract infection?",
+        "options": [
+        "Continuous daily antibiotic prophylaxis for 6-12 months should be offered to women with recurrent cystitis.",
+        "Pregnant women at risk of recurrent urinary tract infection should be offered post-coital prophylaxis with sulfamethoxazole-trimethoprim or nitrofurantoin, except during the first trimester and near term.",
+        "Sexually active women suffering from recurrent urinary tract infections should be encouraged to consider hormonal contraception.",
+        "Vaginal estrogen creams may reduce the risk of recurrent cystitis in postmenopausal women."
+        ],
+        "correctAnswer": "Sexually active women suffering from recurrent urinary tract infections should be encouraged to consider hormonal contraception.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "98",
+        "questions":[{
+        "question": "S.G. is a 28-year-old female with mild-moderate vaginitis who had been prescribed metronidazole 2 g PO STAT. S.G. has multiple sexual partners. Which of the following is the most appropriate counseling tip for S.G.?",
+        "options": [
+        "Take your medication with meals.",
+        "Consider male or female condoms.",
+        "Abstain from sexual intercourse until 1 week after treatment.",
+        "Use a vaginal douche daily."
+        ],
+        "correctAnswer": "Consider male or female condoms.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "99",
+        "questions":[{
+        "question": "Trichomonas vaginalis infection is characterized by:",
+        "options": [
+        "A copious purulent vaginal discharge and dysuria.",
+        "A white curdy vaginal discharge, a normal vaginal pH, and vaginal itchiness.",
+        "A grey thin vaginal discharge, an elevated vaginal pH, and a 'fishy' odor.",
+        "A yellowish frothy vaginal discharge, an elevated vaginal pH, and vaginal itchiness."
+        ],
+        "correctAnswer": "A yellowish frothy vaginal discharge, an elevated vaginal pH, and vaginal itchiness.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "100",
+        "questions":[{
+        "question": "Which of the following would be considered the least relevant risk factor for a female with vaginitis who uses spermicidal foam and has a cheating partner?",
+        "options": [
+        "Her spermicidal foam.",
+        "Her acne medication.",
+        "Her diabetes.",
+        "Her boyfriend's non-monogamous relationships."
+        ],
+        "correctAnswer": "Her boyfriend's non-monogamous relationships.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "101",
+        "questions":[{
+        "question": "What is an appropriate advice to a female with vulvovaginal candidiasis who was started on miconazole vaginal ovules?",
+        "options": [
+        "These ovules can only be dispensed pursuant to a physician's prescription.",
+        "These ovules should be avoided during pregnancy.",
+        "Your partner should be treated simultaneously.",
+        "You can use your ovules during the period."
+        ],
+        "correctAnswer": "You can use your ovules during the period.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "102",
+        "questions":[{
+        "question": "What would be the treatment of choice for a pregnant female who suffers from vaginal yeast infection?",
+        "options": [
+        "Fluconazole 150 mg single oral dose",
+        "Clotrimazole vaginal cream for 7 days",
+        "Miconazole vaginal ovules for 3 days",
+        "Nystatin vaginal cream for 14 days"
+        ],
+        "correctAnswer": "Clotrimazole vaginal cream for 7 days",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "103",
+        "questions":[{
+        "question": "All of the following disease conditions could likely be caused by N. gonorrhea, EXCEPT:",
+        "options": [
+        "pelvic inflammatory disease.",
+        "conjunctivitis.",
+        "urethritis.",
+        "genital ulcers."
+        ],
+        "correctAnswer": "genital ulcers.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "104",
+        "questions":[{
+        "question": "The most appropriate treatment for a pregnant female in her 10th week of pregnancy who has just been diagnosed with gonococcal infection would be:",
+        "options": [
+        "single oral doses of cefixime 800mg and azithromycin 1000mg.",
+        "one dose of oral cefixime and 7 days of 200 mg doxycycline q24 h.",
+        "to abstain from sexual intercourse until delivery.",
+        "ceftriaxone 125 mg intramuscular."
+        ],
+        "correctAnswer": "single oral doses of cefixime 800mg and azithromycin 1000mg.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "105",
+        "questions":[{
+        "question": "All of the following antimicrobials can be recommended to treat uncomplicated chlamydial infections, EXCEPT:",
+        "options": [
+        "Erythromycin",
+        "Amoxicillin",
+        "Doxycycline",
+        "Ciprofloxacin"
+        ],
+        "correctAnswer": "Ciprofloxacin",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "106",
+        "questions":[{
+        "question": "The most appropriate therapeutic choice for a female who is in her 12th week of pregnancy with a recurrent outbreak of genital herpes would be:",
+        "options": [
+        "continuous acyclovir (ZOVIRAX™) topical cream.",
+        "do not treat and start oral acyclovir 400 mg TID from 36 weeks until delivery.",
+        "famciclovir (FAMVIR™) 125 mg TID po for 7 days.",
+        "valacyclovir (VALTREX™) 2000 mg BID po for 1 day."
+        ],
+        "correctAnswer": "do not treat and start oral acyclovir 400 mg TID from 36 weeks until delivery.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "107",
+        "questions":[{
+        "question": "Which of the following is NOT true regarding HPV?",
+        "options": [
+        "Anogenital warts can progress to cervical cancer.",
+        "HPV causes skin and genital warts in humans.",
+        "Anogenital warts can be prevented by a vaccine.",
+        "Nononcogenic HPV types can cause anogenital warts."
+        ],
+        "correctAnswer": "Anogenital warts can progress to cervical cancer.",
+        "section": "Infectious"
+    }]
+    },
+    
+    {
+        "blockId": "108",
+        "questions":[{
+        "question": "A safe sex practice can help the most to prevent the risk of:",
+        "options": [
+        "Treponema pallidum.",
+        "Herpes simplex.",
+        "Gardnerella vaginalis.",
+        "Human papillomavirus."
+        ],
+        "correctAnswer": "Treponema pallidum.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "109",
+        "questions":[{     
+               "question": "The treatment of choice for Treponema pallidum in a pregnant female whose medical history reveals a remote history of penicillin allergy is:",
+        "options": [
+        "Ceftriaxone 1g intramuscular",
+        "Oral azithromycin 1 g and cefixime 800 mg",
+        "Metronidazole 500 mg BID po for 7 days.",
+        "Desensitization to intramuscular benzathine benzylpenicillin"
+        ],
+        "correctAnswer": "Desensitization to intramuscular benzathine benzylpenicillin",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "110",
+        "questions":[{
+        "question": "The co-treatment of the sex partner is warranted in all of the following disease conditions, EXCEPT:",
+        "options": [
+        "Bacterial vaginosis.",
+        "Syphilis.",
+        "Anorectal chlamydial infection.",
+        "Pharyngeal gonorrheal infection."
+        ],
+        "correctAnswer": "Bacterial vaginosis.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "111",
+        "questions":[{
+        "question": "Which of the following is the least likely means of HIV transmission?",
+        "options": [
+        "Oral sex",
+        "Sharing needles during IV drug use",
+        "Anal sex",
+        "From a mother to a fetus during breastfeeding"
+        ],
+        "correctAnswer": "Oral sex",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "112",
+        "questions":[{
+        "question": "All of the following are possible signs and symptoms of acute or primary human immunodeficiency virus-1 (HIV-1) infection, EXCEPT:",
+        "options": [
+        "Cough",
+        "Pharyngitis",
+        "Myalgia",
+        "Rash"
+        ],
+        "correctAnswer": "Cough",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "113",
+        "questions":[{
+        "question": "Which of the following antiviral drugs interferes with the catalytic activity of HIV integrase, preventing the insertion of the HIV genome into the host cell genome during the early phase of infection?",
+        "options": [
+        "Abacavir",
+        "Raltegravir",
+        "Rilpivirine",
+        "Ritonavir"
+        ],
+        "correctAnswer": "Raltegravir",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "114",
+        "questions":[{
+        "question": "Which of the following antiviral drugs inhibits the interaction of the HIV envelope glycoprotein with the C-C human chemokine receptor type 5 (CCR5), preventing the entry of the HIV-1 into the T-cell?",
+        "options": [
+        "Maraviroc",
+        "Didanosine",
+        "Enfuvirtide",
+        "Efavirenz"
+        ],
+        "correctAnswer": "Maraviroc",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "115",
+        "questions":[{
+        "question": "GENVOYA™ is a fixed-dose combination of elvitegravir, cobicistat, emtricitabine and tenofovir alafenamide. Knowing that cobicistat is a pharmacokinetic enhancer that acts by selectively inhibiting cytochromes P450 of the CYP3A subfamily, which of the following drugs would be contraindicated with GENVOYA™ due to the risk of development of resistance?",
+        "options": [
+        "Paroxetine",
+        "Phenytoin",
+        "Warfarin",
+        "Clarithromycin"
+        ],
+        "correctAnswer": "Phenytoin",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "116",
+        "questions":[{
+        "question": "The susceptibility of HIV-positive patients to specific opportunistic infections:",
+        "options": [
+        "Increases as the viral load increases.",
+        "Increases as the CD4 count increases.",
+        "Increases as the CD4/CD8 ratio declines.",
+        "Increases as the viral load declines."
+        ],
+        "correctAnswer": "Increases as the CD4/CD8 ratio declines.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "117",
+        "questions":[{
+        "question": "All of the following are indications for HIV drug-resistance testing using genotyping, EXCEPT:",
+        "options": [
+        "Antiretroviral therapy-naive HIV patients",
+        "HIV treated patients with suboptimal viral load suppression",
+        "HIV treated female patients who become pregnant after treatment",
+        "HIV treated patients with HIV RNA levels >1,000 copies/mL"
+        ],
+        "correctAnswer": "HIV treated female patients who become pregnant after treatment",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "118",
+        "questions":[{
+        "question": "Which of the following HIV-1 RNA cutoffs by PCR denotes failure of combination antiretroviral therapy to maintain a successful virologic response?",
+        "options": [
+        "40 copies/mL",
+        "100 copies/mL",
+        "50 copies/mL",
+        "200 copies/mL"
+        ],
+        "correctAnswer": "200 copies/mL",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "119",
+        "questions":[{
+        "question": "For which of the following occasions is a combined antiretroviral (CART) therapy initiation, irrespective of the CD4 count, warranted the least?",
+        "options": [
+        "A pregnant woman who has just been diagnosed with HIV",
+        "An HIV patient with hepatitis B coinfection",
+        "A CART should be considered for all the given patients.",
+        "An asymptomatic HIV patient"
+        ],
+        "correctAnswer": "A CART should be considered for all the given patients.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "120",
+        "questions":[{
+        "question": "Which of the following represents the least likely class of sexually active male clients/patients who are at high risk of HIV infections, for which the consistent use of pre-exposure prophylactic anti-HIV regimen is recommended?",
+        "options": [
+        "Trans women who report condomless anal sex and have a history of sexually transmitted infections",
+        "Men who are incarcerated and sentenced for a life sentence",
+        "Men who have condomless sex with men and who used post-exposure prophylaxis more than once",
+        "Men who use illicit drugs and share needles"
+        ],
+        "correctAnswer": "Men who are incarcerated and sentenced for a life sentence",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "121",
+        "questions":[{
+        "question": "Which of the following is the most important parameter or factor to ensure the efficacy of an anti-HIV regimen in an HIV-positive patient?",
+        "options": [
+        "An HIV viral load <200 copies/mL",
+        "Adherence to combined antiretroviral drugs",
+        "A CD4 count >500 cells/μL",
+        "A combination of 4 or more antiretroviral drugs"
+        ],
+        "correctAnswer": "Adherence to combined antiretroviral drugs",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "122",
+        "questions":[{
+        "question": "To which of the following individuals is the disclosure of an HIV status by an HIV-positive male patient mandated by the Canadian law?",
+        "options": [
+        "His regular work colleagues",
+        "His employer",
+        "His dentist",
+        "His occasional sexual partners"
+        ],
+        "correctAnswer": "His occasional sexual partners",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "123",
+        "questions":[{
+        "question": "H.Y. is a 38-year-old HIV patient whose doctor reports that the number of HIV virus particles in his blood has become undetectable. However, the treatment is causing side effects. What is NOT a true conclusion of H.Y.’s most recent lab results?",
+        "options": [
+        "They imply a possible prolonged survival.",
+        "They imply a possible dose reduction to a once-daily regimen.",
+        "They imply reduced incidence of opportunistic pneumonia.",
+        "They imply a decreased risk of HIV transmission."
+        ],
+        "correctAnswer": "They imply a possible dose reduction to a once-daily regimen.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "124",
+        "questions":[{
+        "question": "All of the following are appropriate tips to H.Y. to reduce the likelihood of HIV resistance, EXCEPT:",
+        "options": [
+        "Increase gradually the dose of your anti-HIV medications to minimize adverse drug reactions.",
+        "Take your anti-HIV medications even if you do not feel sick.",
+        "Take anti-HIV medications on time daily.",
+        "Ask your pharmacist before taking any over-the-counter medications to reduce or avoid drug-drug interactions."
+        ],
+        "correctAnswer": "Increase gradually the dose of your anti-HIV medications to minimize adverse drug reactions.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "125",
+        "questions":[{
+        "question": "L.R., an HIV-positive female with a CD4 count of 100 cells/uL, presents with high fever, slurred speech, and weakness in her right arm. Which of the following organisms can most likely result in a life-threatening opportunistic brain infection in L.R.?",
+        "options": [
+        "Cryptococcus neoformans",
+        "Cytomegalovirus",
+        "Cryptosporidium",
+        "Bartonella Quintana"
+        ],
+        "correctAnswer": "Cryptococcus neoformans",
+        "section": "Infectious"
+    }]
+    },
+    
+    {
+        "blockId": "126",
+        "questions": [{
+        "question": "E.L. was later diagnosed with T. gondii encephalitis as confirmed by positive IgG to the T. gondii parasite in the cerebrospinal fluid. Which of the following is the treatment regimen of choice for E.L.’s toxoplasmosis?",
+        "options": [
+        "Sulfamethoxazole-trimethoprim 800/160 mg po on 3 days a week indefinitely",
+        "Sulfamethoxazole-trimethoprim 800/160 mg po daily until CD4 >200 cells/uL x 23 mo",
+        "Sulfamethoxazole-trimethoprim 1600/320 mg po BID x 6 wk",
+        "Atovaquone po 1500 mg BID po x 8 wk"
+        ],
+        "correctAnswer": "Sulfamethoxazole-trimethoprim 1600/320 mg po BID x 6 wk",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "127",
+        "questions": [{
+        "question": "What should be your next step after E.L. completes her antimicrobial regimen for toxoplasmosis?",
+        "options": [
+        "Discontinue the antimicrobial therapy and start only if the CD4 counts <50 cells/uL.",
+        "Continue a lower dose of the antimicrobial regimen until the CD4 count is >400 cells/uL for at least 3 months.",
+        "Discontinue the antimicrobial therapy and start only if the CD4 counts <200 cells/uL.",
+        "Continue a lower dose of the antimicrobial regimen until the CD4 count is >200 cells/uL for at least 6 months."
+        ],
+        "correctAnswer": "Continue a lower dose of the antimicrobial regimen until the CD4 count is >200 cells/uL for at least 6 months.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "128",
+        "questions": [{
+        "question": "All of the following infectious diseases should be considered along with relevant preventive immunization in M.S., a 24-year-old male patient with a CD4 count of 350 cells/uL who has just been diagnosed with asymptomatic HIV, EXCEPT:",
+        "options": [
+        "Varicella zoster",
+        "Human papilloma virus",
+        "Bacille Calmette-Guerin",
+        "Neisseria meningitides"
+        ],
+        "correctAnswer": "Bacille Calmette-Guerin",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "129",
+        "questions": [{
+        "question": "Which of the following vaccine regimens should also be considered for M.S.?",
+        "options": [
+        "Diphtheria, tetanus and rabies vaccines",
+        "Polio, pertussis and typhoid vaccines",
+        "Hepatitis B, Haemophilus influenzae type b and cholera vaccines",
+        "Hepatitis B pneumococcal and influenza vaccines"
+        ],
+        "correctAnswer": "Hepatitis B pneumococcal and influenza vaccines",
+        "section": "Infectious"
+    }
+]
+    },
+    {
+        "blockId": "130",
+        "questions": [{
+        "question": "What is your recommendation regarding initiation of a combined anti-retroviral regimen for M.S.?",
+        "options": [
+        "M.S. should start on efavirenz, nevirapine and tenofovir",
+        "M.S. should start on abacavir, lamivudine and dolutegravir",
+        "M.S. should start on emtricitabine, tenofovir and zidovudine",
+        "M.S.' lab testing can be monitored and M.S. should only start on antiretroviral therapy if his CD4 levels become <200 cells/uL"
+        ],
+        "correctAnswer": "M.S. should start on abacavir, lamivudine and dolutegravir",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "131",
+        "questions": [{
+        "question": "Based on your choice for M.S. in the previous questions, which of the following laboratory tests is the most important before starting therapy?",
+        "options": [
+        "LDL-C",
+        "HLA-B*5701 screening",
+        "ALT",
+        "Genotyping"
+        ],
+        "correctAnswer": "HLA-B*5701 screening",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "132",
+        "questions": [{
+        "question": "M.S. was started on efavirenz, emtricitabine and tenofovir 600/200/300 mg (Atripla®) by the infectious disease specialist. All of the following are appropriate advice to M.S., EXCEPT:",
+        "options": [
+        "You may experience headaches, nausea, diarrhea, muscle pain or dizziness while your body adjusts to the new medication; however, these side effects may disappear in 2-6 weeks.",
+        "Take one pill of your medication by mouth once daily after the supper meal.",
+        "Efavirenz might result in somnolence, insomnia, abnormal dreams, dizziness, unfocused thinking, feelings of paranoia or 'the blues'; however, these symptoms usually subside after 2 to 4 weeks.",
+        "Your antiretroviral drugs have been associated with fat loss or accumulation and changes in body weight and/or body shape."
+        ],
+        "correctAnswer": "Take one pill of your medication by mouth once daily after the supper meal.",
+        "section": "Infectious"
+        }]
+    },
+    {
+        "blockId": "133",
+        "questions": [{
+        "question": "All of the following are appropriate advice by the pharmacist to M.S. to reduce the emotional and mental health problems associated with efavirenz, EXCEPT:",
+        "options": [
+        "Take efavirenz on an empty stomach",
+        "Talk to your doctor about natural supplements such as St. John's Wort and melatonin",
+        "Avoid alcohol when starting efavirenz",
+        "Start efavirenz on a weekend or take a few days off from work"
+        ],
+        "correctAnswer": "Talk to your doctor about natural supplements such as St. John's Wort and melatonin",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "134",
+        "questions": [{
+        "question": "H.K., an HIV-positive female patient, visits your pharmacy and says she is contemplating skipping her Sunday morning pills because she has been invited to brunch and does not want to be sick to her stomach. All of the following are appropriate advice by the pharmacist, EXCEPT:",
+        "options": [
+        "You must not skip any doses of your antiretroviral therapy to avoid resistance.",
+        "Feeling sick to your stomach is a common side effect of almost all antiretroviral drugs, especially protease inhibitors such as ritonavir.",
+        "Your antimicrobial medication is not a likely cause of feeling sick to the stomach.",
+        "Try a children’s dose of dimenhydrinate (Gravol®) if you develop symptoms of nausea."
+        ],
+        "correctAnswer": "Your antimicrobial medication is not a likely cause of feeling sick to the stomach.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "135",
+        "questions": [{
+        "question": "What is the main reason for starting sulfamethoxazole/trimethoprim in H.K.?",
+        "options": [
+        "The primary prophylaxis of pneumocystis pneumonia",
+        "The treatment of pneumocystis pneumonia",
+        "The treatment of toxoplasmosis",
+        "The treatment of community-acquired pneumonia"
+        ],
+        "correctAnswer": "The treatment of pneumocystis pneumonia",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "136",
+        "questions": [{
+        "question": "H.A. is a pregnant 34-year-old HIV-positive female admitted with productive cough, fatigue, night sweats, and a fever of 39.5 °C. Sputum cultures reveal Mycobacterium avium complex pulmonary infection. What is the most appropriate course of treatment for H.A.?",
+        "options": [
+        "Start clarithromycin and rifabutin for 8 weeks and continue treatment until CD4 > 100 cells/uL for at least 6 months",
+        "Start azithromycin for 12 weeks",
+        "Start azithromycin and amikacin for 12 weeks",
+        "Start azithromycin and ethambutol for 8 weeks and continue treatment until CD4 > 100 cells/uL for at least 6 months"
+        ],
+        "correctAnswer": "Start azithromycin and ethambutol for 8 weeks and continue treatment until CD4 > 100 cells/uL for at least 6 months",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "137",
+        "questions": [{
+        "question": "Which of the following treatment and preventive medications used in the setting of HIV infection can suppress bone marrow and lead to anemia and neutropenia the least?",
+        "options": [
+        "The pneumocystis pneumonia and toxoplasma encephalitis 2nd line drug atovaquone",
+        "The cytomegalovirus drug valganciclovir",
+        "The antiretroviral drug zidovudine",
+        "The sulfa antibacterial"
+        ],
+        "correctAnswer": "The pneumocystis pneumonia and toxoplasma encephalitis 2nd line drug atovaquone",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "138",
+        "questions": [{
+        "question": "M.J. is an HIV-positive 52-year-old male who has just started a combination of efavirenz, lamivudine, and tenofovir. He complains to his pharmacist that he is having a hard time taking his treatment due to repetitive nausea and diarrhea. What is an appropriate counseling by the pharmacist?",
+        "options": [
+        "Talk to your doctor regarding antiretroviral dual combination therapy, as it is more tolerable and causes only mild and transient gastrointestinal side effects.",
+        "Nausea and diarrhea are common side effects for any antiretroviral therapy and they usually resolve in a few weeks once your body adjusts to the HIV medications.",
+        "Talk to your doctor to switch you to an antiretroviral regimen that incorporates a protease inhibitor.",
+        "Efavirenz is the main cause of your symptoms."
+        ],
+        "correctAnswer": "Nausea and diarrhea are common side effects for any antiretroviral therapy and they usually resolve in a few weeks once your body adjusts to the HIV medications.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "139",
+        "questions": [{
+        "question": "M.J. visits his pharmacy again and presents a prescription for sulfamethoxazole-trimethoprim 800/160mg PO daily on Mondays, Wednesdays, and Fridays. He inquires about the indication for the prescribed medication. The most appropriate answer by the pharmacist would be:",
+        "options": [
+        "The prescribed medication is given as a protective treatment to prevent a serious opportunistic respiratory fungal infection.",
+        "The prescribed medication is given to treat a serious opportunistic respiratory bacterial infection.",
+        "The prescription is for long-term postcoital bladder infection prophylaxis.",
+        "The prescribed medication is for the prophylaxis against MRSA pneumonia."
+        ],
+        "correctAnswer": "The prescribed medication is given as a protective treatment to prevent a serious opportunistic respiratory fungal infection.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "140",
+        "questions": [{
+        "question": "The most reliable indicator to monitor the completion of the treatment for M.J. is:",
+        "options": [
+        "A viral load",
+        "A urine culture",
+        "A CD4 count",
+        "Serial chest X-rays"
+        ],
+        "correctAnswer": "A CD4 count",
+        "section": "Infectious"
+    }]
+    },
+
+    {
+        "blockId": "141",
+        "questions": [{
+        "question": "Knowing that in the past M.J. developed hives, respiratory distress, and hypotension minutes after ingesting a celecoxib capsule, which was identified as a type-I immunoglobulin E-mediated reaction to the sulfonamide component of celecoxib. What would be an alternative medication for M.J. to cover the desired indication above?",
+        "options": [
+        "Atovaquone",
+        "Sulfadiazine",
+        "Primaquine",
+        "Dapsone"
+        ],
+        "correctAnswer": "Atovaquone",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "142",
+        "questions": [{
+        "question": "N.Y. is a 33-year-old female and a mother of four kids who visits you in the pharmacy and tells you that her husband who is a rehabilitated former intravenous drug user has just been diagnosed with HIV and has been initiated on a combination antiretroviral therapy. N.Y. is contemplating to continue her life with her husband in order to raise her four children and was wondering about reliable methods to reduce HIV transmission, including long-term prophylactic HIV drugs. Which of the following is the least appropriate action by the pharmacist in order to reduce the risk of HIV transmission among this serodiscordant heterosexual couple?",
+        "options": [
+        "Advise the client that currently there are no preventive antiretroviral regimens available in Canada",
+        "Advise the client that her husband needs to be adherent to his HIV medications",
+        "Offer to counsel both partners in the relationship at the same time regarding intimacy, conception, and monogamy or non-monogamy",
+        "Recommend the consistent and correct use of condoms before sexual intercourse"
+        ],
+        "correctAnswer": "Advise the client that currently there are no preventive antiretroviral regimens available in Canada",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "143",
+        "questions": [{
+        "question": "R.G. is a 32-year-old, HIV-negative female customer who visits an outpatient pharmacy affiliated to an urgent care clinic and hands the pharmacist a prescription related to an unprotected anal sex she had yesterday with her X-husband right after the funeral of her mother, as the condom broke during the intercourse. The X-husband is a 27-year old man who disclosed to R.G. that he is HIV-positive before the sexual intercourse and whose most recent viral load is 100 copies/mL. R.G.'s current creatinine clearance is 107 mL/min. Her prescription reads: Zidovudine 300 mg x 2/day, Lamivudine 150 mg x 2/day, Raltegravir 400 mg x 2/day. R.G. is extremely confused and worried and inquires about the prescribed medication. In particular, she did not understand why the urgent care clinic doctor gave her those medications and she was a bit reluctant to fill her prescription because of the risk of adverse drug reactions. Finally, R.G. mentions to the pharmacist that she is regularly using birth control pills. Which of the following is the least appropriate advice by the pharmacist?",
+        "options": [
+        "The prescription drugs need to be taken every day, exactly as directed, for four full weeks without missing any doses.",
+        "Your prescription is for emergency non-occupational post-exposure prophylaxis to reduce the risk of HIV transmission; however, there is no guarantee that it will prevent HIV infection.",
+        "You could develop drug resistance if you become infected with HIV while taking the prescribed medications.",
+        "The prescribed post-exposure prophylaxis medications must be ideally taken as soon as possible after HIV exposure and within a 'window of opportunity' of 120 hours."
+        ],
+        "correctAnswer": "The prescribed post-exposure prophylaxis medications must be ideally taken as soon as possible after HIV exposure and within a 'window of opportunity' of 120 hours.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "144",
+        "questions": [{
+        "question": "Which of the following parameters is to be monitored the least for zidovudine therapy when used in combination with lamivudine-lopinavir-ritonavir regimen for a 26-year-old HIV-positive pregnant female?",
+        "options": [
+        "Serum creatinine",
+        "Serum lactate",
+        "Serum glucose",
+        "Bone mineral density"
+        ],
+        "correctAnswer": "Serum creatinine",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "145",
+        "questions": [{
+        "question": "Which of the following adverse reactions occurs most commonly on lopinavir therapy?",
+        "options": [
+        "Jaundice",
+        "Bleeding",
+        "Kidney stones",
+        "Dyslipidemia"
+        ],
+        "correctAnswer": "Dyslipidemia",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "146",
+        "questions": [{
+        "question": "A patient has viral hepatitis and blood work is pending. Which statement shows the need for more patient education?",
+        "options": [
+        "'I am not hungry, but I eat small meals every few hours.'",
+        "'I know not to take any medication without speaking first to the doctor.'",
+        "'I know I should use my own washcloth.'",
+        "'My baby seems to be breastfeeding well.'"
+        ],
+        "correctAnswer": "'My baby seems to be breastfeeding well.'",
+        "section": "Infectious"
+    }]
+
+    },
+    {
+        "blockId": "147",
+        "questions": [{
+        "question": "RG is a 28-year-old Caucasian man with a 4-year history of intravenous drug use who presents to his doctor for a one-week history of jaundice. Although RG is icteric, he is in no distress. He reports a low-grade fever and fullness of the right side of his abdomen but denies severe abdominal pain. RG denies prior blood transfusion or exposure to others with known jaundice or liver disease. RG has one tattoo on his left arm, and he occasionally smokes marijuana and drinks one glass of wine daily. What is the most likely diagnosis?",
+        "options": [
+        "Acute hepatitis A and acute hepatitis C superimposed on chronic hepatitis B",
+        "Acute hepatitis C superimposed on chronic hepatitis B",
+        "Acute hepatitis A superimposed on chronic hepatitis B",
+        "Alcoholic hepatitis superimposed on chronic hepatitis B"
+        ],
+        "correctAnswer": "Acute hepatitis C superimposed on chronic hepatitis B",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "148",
+        "questions": [{
+        "question": "UY, a 17-year-old female student, presents to her family doctor with signs of jaundice. She reports being in good health until a week before, at which time she began having flu-like symptoms of headache, low-grade fever, nausea, loss of appetite, and malaise. UY self-treated the fever with acetaminophen, but her symptoms persisted. Upon awakening this morning, she noticed that her eyes and skin were yellow. Which of the following is the most likely diagnosis?",
+        "options": [
+        "Acetaminophen toxicity",
+        "Hepatitis B",
+        "Hepatitis A",
+        "Escherichia coli infection"
+        ],
+        "correctAnswer": "Hepatitis A",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "149",
+        "questions": [{
+        "question": "ER is a 51-year-old patient who was diagnosed earlier this week with hepatitis C. ER's serology tests for hepatitis A and B are given below. HBsAg: Negative, Anti-HBc: Negative, Anti-HBs: Positive, Anti-HAV IgG: Positive. Which vaccine should ER receive?",
+        "options": [
+        "Hepatitis B only",
+        "Hepatitis A and B",
+        "Hepatitis A only",
+        "None"
+        ],
+        "correctAnswer": "Hepatitis B only",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "150",
+        "questions": [{
+        "question": "Which of the following represents the least likely mode of transmission of Hepatitis C virus?",
+        "options": [
+        "Illicit IV drug use",
+        "A baby born to a mother who has Hepatitis C and who was delivered via a caesarean section",
+        "A needle stick that carried infected blood",
+        "Having sex with an HCV-infected person"
+        ],
+        "correctAnswer": "Having sex with an HCV-infected person",
+        "section": "Infectious"
+    }]
+    },
+
+    {
+        "blockId": "151",
+        "questions": [{
+        "question": "Knowing that in the past M.J. developed hives, respiratory distress, and hypotension minutes after ingesting a celecoxib capsule, which was identified as a type-I immunoglobulin E-mediated reaction to the sulfonamide component of celecoxib. What would be an alternative medication for M.J. to cover the desired indication above?",
+        "options": [
+        "Atovaquone",
+        "Sulfadiazine",
+        "Primaquine",
+        "Dapsone"
+        ],
+        "correctAnswer": "Atovaquone",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "152",
+        "questions": [{
+        "question": "N.Y. is a 33-year-old female and a mother of four kids who visits you in the pharmacy and tells you that her husband who is a rehabilitated former intravenous drug user has just been diagnosed with HIV and has been initiated on a combination antiretroviral therapy. N.Y. is contemplating to continue her life with her husband in order to raise her four children and was wondering about reliable methods to reduce HIV transmission, including long-term prophylactic HIV drugs. Which of the following is the least appropriate action by the pharmacist in order to reduce the risk of HIV transmission among this serodiscordant heterosexual couple?",
+        "options": [
+        "Advise the client that currently there are no preventive antiretroviral regimens available in Canada",
+        "Advise the client that her husband needs to be adherent to his HIV medications",
+        "Offer to counsel both partners in the relationship at the same time regarding intimacy, conception, and monogamy or non-monogamy",
+        "Recommend the consistent and correct use of condoms before sexual intercourse"
+        ],
+        "correctAnswer": "Advise the client that currently there are no preventive antiretroviral regimens available in Canada",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "153",
+        "questions": [{
+        "question": "R.G. is a 32-year-old, HIV-negative female customer who visits an outpatient pharmacy affiliated to an urgent care clinic and hands the pharmacist a prescription related to an unprotected anal sex she had yesterday with her X-husband right after the funeral of her mother, as the condom broke during the intercourse. The X-husband is a 27-year old man who disclosed to R.G. that he is HIV-positive before the sexual intercourse and whose most recent viral load is 100 copies/mL. R.G.'s current creatinine clearance is 107 mL/min. Her prescription reads: Zidovudine 300 mg x 2/day, Lamivudine 150 mg x 2/day, Raltegravir 400 mg x 2/day. R.G. is extremely confused and worried and inquires about the prescribed medication. In particular, she did not understand why the urgent care clinic doctor gave her those medications and she was a bit reluctant to fill her prescription because of the risk of adverse drug reactions. Finally, R.G. mentions to the pharmacist that she is regularly using birth control pills. Which of the following is the least appropriate advice by the pharmacist?",
+        "options": [
+        "The prescription drugs need to be taken every day, exactly as directed, for four full weeks without missing any doses.",
+        "Your prescription is for emergency non-occupational post-exposure prophylaxis to reduce the risk of HIV transmission; however, there is no guarantee that it will prevent HIV infection.",
+        "You could develop drug resistance if you become infected with HIV while taking the prescribed medications.",
+        "The prescribed post-exposure prophylaxis medications must be ideally taken as soon as possible after HIV exposure and within a 'window of opportunity' of 120 hours."
+        ],
+        "correctAnswer": "The prescribed post-exposure prophylaxis medications must be ideally taken as soon as possible after HIV exposure and within a 'window of opportunity' of 120 hours.",
+        "section": "Infectious"
+        }]
+    },
+    {
+        "blockId": "154",
+        "questions": [{
+        "question": "Which of the following parameters is to be monitored the least for zidovudine therapy when used in combination with lamivudine-lopinavir-ritonavir regimen for a 26-year-old HIV-positive pregnant female?",
+        "options": [
+        "Serum creatinine",
+        "Serum lactate",
+        "Serum glucose",
+        "Bone mineral density"
+        ],
+        "correctAnswer": "Serum creatinine",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "155",
+        "questions": [{
+        "question": "Which of the following adverse reactions occurs most commonly on lopinavir therapy?",
+        "options": [
+        "Jaundice",
+        "Bleeding",
+        "Kidney stones",
+        "Dyslipidemia"
+        ],
+        "correctAnswer": "Dyslipidemia",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "156",
+        "questions": [{
+        "question": "A patient has viral hepatitis and blood work is pending. Which statement shows the need for more patient education?",
+        "options": [
+        "'I am not hungry, but I eat small meals every few hours.'",
+        "'I know not to take any medication without speaking first to the doctor.'",
+        "'I know I should use my own washcloth.'",
+        "'My baby seems to be breastfeeding well.'"
+        ],
+        "correctAnswer": "'My baby seems to be breastfeeding well.'",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "157",
+        "questions": [{
+        "question": "RG is a 28-year-old Caucasian man with a 4-year history of intravenous drug use who presents to his doctor for a one-week history of jaundice. Although RG is icteric, he is in no distress. He reports a low-grade fever and fullness of the right side of his abdomen but denies severe abdominal pain. RG denies prior blood transfusion or exposure to others with known jaundice or liver disease. RG has one tattoo on his left arm, and he occasionally smokes marijuana and drinks one glass of wine daily. What is the most likely diagnosis?",
+        "options": [
+        "Acute hepatitis A and acute hepatitis C superimposed on chronic hepatitis B",
+        "Acute hepatitis C superimposed on chronic hepatitis B",
+        "Acute hepatitis A superimposed on chronic hepatitis B",
+        "Alcoholic hepatitis superimposed on chronic hepatitis B"
+        ],
+        "correctAnswer": "Acute hepatitis C superimposed on chronic hepatitis B",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "158",
+        "questions": [{
+        "question": "UY, a 17-year-old female student, presents to her family doctor with signs of jaundice. She reports being in good health until a week before, at which time she began having flu-like symptoms of headache, low-grade fever, nausea, loss of appetite, and malaise. UY self-treated the fever with acetaminophen, but her symptoms persisted. Upon awakening this morning, she noticed that her eyes and skin were yellow. Which of the following is the most likely diagnosis?",
+        "options": [
+        "Acetaminophen toxicity",
+        "Hepatitis B",
+        "Hepatitis A",
+        "Escherichia coli infection"
+        ],
+        "correctAnswer": "Hepatitis A",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "159",
+        "questions": [{
+        "question": "ER is a 51-year-old patient who was diagnosed earlier this week with hepatitis C. ER's serology tests for hepatitis A and B are given below. HBsAg: Negative, Anti-HBc: Negative, Anti-HBs: Positive, Anti-HAV IgG: Positive. Which vaccine should ER receive?",
+        "options": [
+        "Hepatitis B only",
+        "Hepatitis A and B",
+        "Hepatitis A only",
+        "None"
+        ],
+        "correctAnswer": "Hepatitis B only",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "160",
+        "questions": [{
+        "question": "Which of the following represents the least likely mode of transmission of Hepatitis C virus?",
+        "options": [
+        "Illicit IV drug use",
+        "A baby born to a mother who has Hepatitis C and who was delivered via a caesarean section",
+        "A needle stick that carried infected blood",
+        "Having sex with an HCV-infected person"
+        ],
+        "correctAnswer": "Having sex with an HCV-infected person",
+        "section": "Infectious"
+    }]
+    },
+    
+    {
+        "blockId": "161",
+        "questions": [{
+        "question": "All of the following are appropriate measures after a dog bite on the hand of an adolescent whose immunization records show that he received 3 doses of each of the tetanus and rabies vaccines, EXCEPT:",
+        "options": [
+        "Tetanus immunoglobulins",
+        "Rabies post-exposure prophylaxis",
+        "Meticulous wound care using generous irrigation with saline solution and debridement",
+        "Empiric antibiotic prophylaxis"
+        ],
+        "correctAnswer": "Tetanus immunoglobulins",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "162",
+        "questions": [{
+        "question": "An unvaccinated 36-year-old female Canadian citizen spent 15 days in an Eastern Mediterranean country that is a known HAV-endemic area. Ten days after her arrival back home, she was diagnosed with acute viral hepatitis that yielded a positive HAV IgM. All of the following are measures to be taken for her, EXCEPT:",
+        "options": [
+        "Monitor ALT, serum albumin, and INR",
+        "Counsel to avoid fatty meals",
+        "Recommend the discontinuation of any oral contraceptives",
+        "Vaccinate her family members against hepatitis A"
+        ],
+        "correctAnswer": "Counsel to avoid fatty meals",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "163",
+        "questions": [{
+        "question": "A wife of a just diagnosed hepatitis B male patient was tested for HBV and the test result shows positive anti-HBs. Which of the following is the most appropriate action?",
+        "options": [
+        "Offer hepatitis B vaccine",
+        "Administer HBig immediately",
+        "Monitor liver aminotransferases",
+        "Counsel about the use of dental dams and male latex condoms"
+        ],
+        "correctAnswer": "Counsel about the use of dental dams and male latex condoms",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "164",
+        "questions": [{
+        "question": "Which of the following is NOT true regarding the live, attenuated varicella virus vaccine and the varicella zoster immune globulin?",
+        "options": [
+        "Following a continuous household contact with a child diagnosed with varicella, a pregnant woman with a negative history of varicella vaccination or disease should be administered varicella zoster immune globulin (VarIG) if serology results for immunity cannot be obtained within 96 hours.",
+        "Pregnant women who are not immune to varicella should have vaccination offered post-partum.",
+        "Healthy children 12 months to 12 years of age should receive one dose of varicella-containing vaccine either the univalent varicella vaccine or the combined multivalent measles-mumps-rubella-varicella (MMRV) vaccine for primary immunization.",
+        "Adults less than 50 years of age who are not immune to varicella should receive 2 doses of univalent varicella vaccine 4 weeks apart."
+        ],
+        "correctAnswer": "Healthy children 12 months to 12 years of age should receive one dose of varicella-containing vaccine either the univalent varicella vaccine or the combined multivalent measles-mumps-rubella-varicella (MMRV) vaccine for primary immunization.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "165",
+        "questions": [{
+        "question": "Which of the following is true regarding vaccination of a 35-year-old male who sustained a motorcycle accident and endured multiple wounds?",
+        "options": [
+        "The patient should immediately receive Tdap vaccine",
+        "The patient should immediately receive Td vaccine",
+        "The patient should not receive any prophylactic tetanus vaccination",
+        "The patient should receive Td only if his immunization is not updated for more than 5 years"
+        ],
+        "correctAnswer": "The patient should receive Td only if his immunization is not updated for more than 5 years",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "166",
+        "questions": [{
+        "question": "A 67-year-old male visits your pharmacy and tells you that he just became a grandpa. He asks you whether he should receive any vaccination in order to avoid any disease transmission to the newborn, knowing that his flu shot is updated this year. The customer tells you that he did not receive any vaccines in his adulthood other than his yearly flu shots. What is an appropriate response by the pharmacist?",
+        "options": [
+        "Pneumococcal vaccine",
+        "Td vaccine",
+        "Tdap vaccine",
+        "Meningococcal vaccine"
+        ],
+        "correctAnswer": "Tdap vaccine",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "167",
+        "questions": [{
+        "question": "Two young adventurers decide to make a trip around the world in 90 days. What are the most important bio- and/or chemo-prophylactic measures you would recommend to them?",
+        "options": [
+        "HPV vaccination and malaria prophylaxis",
+        "Flu and hepatitis vaccination",
+        "Typhoid and yellow fever vaccination",
+        "Flu, tetanus, and diphtheria vaccination"
+        ],
+        "correctAnswer": "Flu and hepatitis vaccination",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "168",
+        "questions": [{
+        "question": "A newly married couple visits your pharmacy today and inquires about the most important vaccines before travelling to the Caribbean. What would be a proper response from the pharmacist?",
+        "options": [
+        "Typhoid and traveler's diarrhea",
+        "Typhoid and cholera",
+        "Hepatitis A and B",
+        "Hepatitis A and typhoid"
+        ],
+        "correctAnswer": "Hepatitis A and B",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "169",
+        "questions": [{
+        "question": "Two senior female friends decided to travel to Vietnam and Cambodia for leisure. The two friends are planning to camp and trek in the mountains. All of the following vaccines could be beneficially recommended to the travelling friends before their planned trip, EXCEPT:",
+        "options": [
+        "Shingles vaccine",
+        "Hepatitis A and typhoid",
+        "Japanese encephalitis vaccine",
+        "Tetanus and diphtheria"
+        ],
+        "correctAnswer": "Shingles vaccine",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "170",
+        "questions": [{
+        "question": "A.L. is a 33-year-old breastfeeding female who visits the pharmacy to pick a refill of her eldest child’s atomoxetine prescription (40 mg twice daily). A.L. asks the pharmacist to also to give her a bottle of her prenatal vitamins which her physician advised her to continue to take while breastfeeding. At the pharmacy till, she asks the pharmacist about malaria prevention measures as she will be travelling in 4 weeks to spend a 2-week holiday in Brazil with her three kids, aged 9 months (11.5 kg), and 6 & 9 years (19 and 29 kg, respectively). The small family is planning to spend quality time together in Rio de Janeiro, and a 4-night cruise is planned in the Amazon River. What is NOT an appropriate advice to prevent mosquito bites?",
+        "options": [
+        "Apply a sunscreen of SPF 15 first, then apply DEET afterwards.",
+        "Avoid evening shores since mosquitos are mainly active during this period.",
+        "The more expensive loratadine is equally effective as the cheaper diphenhydramine at relieving the itching from mosquito bites.",
+        "Use insect repellents containing 30% DEET before outdoor activity and up to TID."
+        ],
+        "correctAnswer": "Use insect repellents containing 30% DEET before outdoor activity and up to TID.",
+        "section": "Infectious"
+    }]
+    },
+
+    {
+        "blockId": "171",
+        "questions": [{
+        "question": "Which of the following information resources you will consult in order to retrieve up-to-date guidelines for malaria chemoprophylaxis to help A.L.?",
+        "options": [
+        "Committee to Advise on Tropical Medicine and Travel (CATMAT)",
+        "Medline",
+        "CECPs",
+        "Canadian Pharmacist’s Letter"
+        ],
+        "correctAnswer": "Committee to Advise on Tropical Medicine and Travel (CATMAT)",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "172",
+        "questions": [{
+        "question": "Which of the following medications or medication combinations is a cost-effective agent of choice to prevent malaria in A.L. when used along with personal protective measures?",
+        "options": [
+        "Mefloquine",
+        "Chloroquine",
+        "Doxycycline",
+        "Atovaquone-proguanil"
+        ],
+        "correctAnswer": "Mefloquine",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "173",
+        "questions": [{
+        "question": "Which of the following preventive malaria therapies should be recommended to A.L.’s children to be used along with personal protective measures?",
+        "options": [
+        "Atovaquone-proguanil for the 9-year-old child, mefloquine for the 6-year-old child, and only personal protective measures for the 9-month-old infant",
+        "Atovaquone-proguanil for all 3 children",
+        "Chloroquine for all 3 children",
+        "Mefloquine for all 3 children"
+        ],
+        "correctAnswer": "Atovaquone-proguanil for the 9-year-old child, mefloquine for the 6-year-old child, and only personal protective measures for the 9-month-old infant",
+    "section": "Infectious"
+        }]
+    },
+    {
+        "blockId": "174",
+        "questions": [{
+        "question": "Which of the following statements is true regarding the selected chemoprophylactic agent?",
+        "options": [
+        "It should be taken with meals to minimize stomach upset.",
+        "It should be started 2 days before travelling and continued for 4 weeks after leaving the endemic malaria area.",
+        "It should be avoided in travellers with a history of depression.",
+        "It should be administered as a once daily dose on the same time of the day."
+        ],
+        "correctAnswer": "It should be taken with meals to minimize stomach upset.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "175",
+        "questions": [{
+        "question": "Which of the following is the most common adverse reaction to mefloquine?",
+        "options": [
+        "Blurred vision",
+        "Diarrhea",
+        "Seizures",
+        "Vivid dreams"
+        ],
+        "correctAnswer": "Diarrhea",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "176",
+        "questions": [{
+        "question": "Which of the following resources is the most appropriate to obtain up-to-date information concerning antimalarial drug resistance?",
+        "options": [
+        "Canadian Pharmacist’s Letter",
+        "Medline",
+        "Travel clinic",
+        "e-CTC"
+        ],
+        "correctAnswer": "Travel clinic",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "177",
+        "questions": [{
+        "question": "What is a suitable malaria prophylactic choice for a 62-year-old female traveller who presents to a travel clinic 24 hours before her 2-week planned trip to India? The traveller's history is remarkable for recurrent vulvovaginal candidiasis.",
+        "options": [
+        "Chloroquine",
+        "Atovaquone-proguanil",
+        "Mefloquine",
+        "Doxycycline"
+        ],
+        "correctAnswer": "Atovaquone-proguanil",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "178",
+        "questions": [{
+        "question": "A 24-year-old male client with a G6PD deficiency presents to the pharmacy requesting malaria prophylaxis before his trip to West Africa. All of the following malaria prophylactic medications are safe for this client, EXCEPT:",
+        "options": [
+        "Doxycycline",
+        "Primaquine",
+        "Atovaquone-proguanil",
+        "Mefloquine"
+        ],
+        "correctAnswer": "Primaquine",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "179",
+        "questions": [{
+        "question": "Several weeks after returning from his trip, the same client visits the pharmacy again complaining of being feverish and of night sweats. What is an appropriate pharmacist recommendation?",
+        "options": [
+        "Ask the patient to see his family doctor",
+        "Refer for urgent medical care",
+        "A watchful wait for 48 hours along with increasing fluid intake",
+        "Advise the patient to use acetaminophen 650 mg Q6H for 48 hours"
+        ],
+        "correctAnswer": "Refer for urgent medical care",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "180",
+        "questions": [{
+        "question": "Which of the following antimalarials would be indicated the most for the post-exposure prophylaxis of Plasmodium vivax malaria in a patient who has just left a malarious area in the Southwest Pacific?",
+        "options": [
+        "Chloroquine",
+        "Mefloquine",
+        "Atovaquone-proguanil",
+        "Primaquine"
+        ],
+        "correctAnswer": "Primaquine",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "181",
+        "questions": [{
+        "question": "For the antimalarial agent selected above, what would be an essential test to be carried out before starting the prophylactic treatment?",
+        "options": [
+        "G6PD",
+        "SCr",
+        "ALT",
+        "TSH"
+        ],
+        "correctAnswer": "ALT",
+        "section": "Infectious"
+    }]
+    },
+    
+    {
+        "blockId": "182",
+        "questions": [{
+        "question": "L.D., a 24-year-old woman, drops off a prescription for atovaquone-proguanil 250/100 mg (MALARONE™). She mentions that she would be travelling next week to Gabon in a humanitarian mission for 3 weeks. What is the most appropriate action the pharmacist should take?",
+        "options": [
+        "Tell her to take 1 tablet daily for 7 days before her trip.",
+        "Tell her to take 1 tablet daily 1-2 days before her trip and to stop once she leaves the endemic area.",
+        "Tell her to take 4 tablets as a single dose for 3 consecutive days only if she feels ill in the destination country.",
+        "Tell her to take 1 tablet 1 day before her trip, then daily during her stay, and to continue using it for 1 week after she returns."
+        ],
+        "correctAnswer": "Tell her to take 1 tablet 1 day before her trip, then daily during her stay, and to continue using it for 1 week after she returns.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "183",
+        "questions": [{
+        "question": "Counseling tips regarding non-pharmacologic options related to L.D.'s medication before her travel to Gabon could include all of the following, EXCEPT:",
+        "options": [
+        "Use 30% diethyltoluamide every 4 hours to be sprayed 20 min before applying sunscreens.",
+        "Wear long sleeves, long pants, and a wide-brimmed hat.",
+        "Use permethrin-impregnated clothing and sleep in a permethrin-treated bednet.",
+        "Perform your outdoor activities before dusk."
+        ],
+        "correctAnswer": "Use 30% diethyltoluamide every 4 hours to be sprayed 20 min before applying sunscreens.",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "184",
+        "questions": [{
+        "question": "Three weeks later, L.D. visited the pharmacy and asked the pharmacist that she got a red tender skin that is tender to touch on her arms, shoulder, and legs after having her usual tanning bed. Which of the drugs L.D. is taking could have contributed the most to this effect?",
+        "options": [
+        "Medroxyprogesterone acetate",
+        "Metronidazole",
+        "Doxycycline",
+        "Atovaquone-proguanil"
+        ],
+        "correctAnswer": "Doxycycline",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "185",
+        "questions": [{
+        "question": "Which of the following neonatal complications is likely if an infected Aedes mosquito, the primary vector of Zika virus, bit a pregnant woman?",
+        "options": [
+        "Epilepsy",
+        "Eyeball enlargement",
+        "Microcephaly",
+        "Interstitial pneumonitis"
+        ],
+        "correctAnswer": "Microcephaly",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "186",
+        "questions": [{
+        "question": "Which of the following infectious diseases that are transmitted by mosquitos has a vaccine in Canada?",
+        "options": [
+        "Malaria",
+        "Dengue fever",
+        "Zika virus",
+        "Japanese encephalitis"
+        ],
+        "correctAnswer": "Japanese encephalitis",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "187",
+        "questions": [{
+        "question": "Zika virus is an arbovirus that is transmitted via mosquito bites in endemic regions of the world. Which of the following is true about Zika virus infection in humans?",
+        "options": [
+        "Human to human transmission occurs via fecal-oral transmission",
+        "Human to human transmission occurs via airborne transmission",
+        "Human to human transmission does not occur for the Zika virus",
+        "Human to human transmission occurs via sexual transmission"
+        ],
+        "correctAnswer": "Human to human transmission occurs via sexual transmission",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "188",
+        "questions": [{
+        "question": "Your patient recently traveled to an area where Zika virus is endemic. What is the most likely initial presentation of Zika virus in the majority of people?",
+        "options": [
+        "Diarrhea",
+        "Rash",
+        "Flu-like symptoms",
+        "Most patients will be asymptomatic"
+        ],
+        "correctAnswer": "Most patients will be asymptomatic",
+        "section": "Infectious"
+    }]
+    },
+    {
+        "blockId": "189",
+        "questions": [{
+        "question": "A 23-year-old woman presents with high-grade fever, headache, lethargy, and joint pain. The patient also reports a maculopapular rash, multiple petechiae on the trunk, vomiting, and abdominal tenderness. She returned from an adventurous trip to Brazil. Which of the following is the most appropriate treatment for this patient's condition?",
+        "options": [
+        "Intravenous fluids, ketorolac, and fresh frozen plasma",
+        "Intravenous fluids, intravenous corticosteroids, and blood transfusion",
+        "Intravenous crystalloids, acetaminophen, and platelet transfusion",
+        "Intravenous crystalloids, acyclovir, and possible platelet transfusion"
+        ],
+        "correctAnswer": "Intravenous crystalloids, acetaminophen, and platelet transfusion",
+        "section": "Infectious"
+    }]
+    }
+]                                  
