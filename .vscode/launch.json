@@ -1,6 +1,11 @@
 {
     "version": "0.2.0",
     "configurations": [
+        
+
+
+
+
         {
             "type": "java",
             "name": "Quickstart",
@@ -362,7 +367,7 @@
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
-            "miDebuggerPath": "C:\\msys64\\mingw64\\bin\\gdb.exe",
+            "miDebuggerPath": "",
             "setupCommands": [
                 {
                     "description": "Enable pretty-printing for gdb",
@@ -376,6 +381,19 @@
                 }
             ],
             "preLaunchTask": "C/C++: g++.exe build active file"
+        },
+        {
+            "name": "C/C++: clang++ build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}/${fileBasenameNoExtension}",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "lldb",
+            "preLaunchTask": "C/C++: clang++ build active file"
         }
     ]
 }

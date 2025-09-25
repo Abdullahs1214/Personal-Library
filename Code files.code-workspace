@@ -8,5 +8,9 @@
 			"path": "Personal"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"unordered_map": "cpp"
+		}
+	}
 }
