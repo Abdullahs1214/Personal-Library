@@ -1,0 +1,68 @@
+name: heartbeat-attributed-fallback
+
+# permissions: give the workflow write access so the GITHUB_TOKEN can push
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"   # every Monday at 03:00 UTC — edit if you like
+  workflow_dispatch: {}
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: heartbeat-${{ github.ref }}
+      cancel-in-progress: true
+
+    env:
+      # secrets may be empty if not set; we pick them up in the shell step and fallback.
+      COMMIT_NAME: ${{ secrets.COMMIT_NAME }}
+      COMMIT_EMAIL: ${{ secrets.COMMIT_EMAIL }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Update activity file (timestamp)
+        run: |
+          ACTIVITY_FILE="activity.md"
+          if [ ! -f "$ACTIVITY_FILE" ]; then
+            echo "# Activity log" > $ACTIVITY_FILE
+            echo "" >> $ACTIVITY_FILE
+          fi
+          # Keep header (first line), write a timestamp as the last line
+          head -n 1 $ACTIVITY_FILE > tmp_activity.md || true
+          echo "" >> tmp_activity.md
+          echo "- last heartbeat: $(date -u +%Y-%m-%dT%H:%M:%SZ)" >> tmp_activity.md
+          mv tmp_activity.md $ACTIVITY_FILE
+          git status --porcelain
+
+      - name: Configure git author (use secrets if present)
+        run: |
+          # Use provided secrets if set, otherwise fall back to bot defaults
+          AUTHOR_NAME="${COMMIT_NAME:-github-actions[bot]}"
+          AUTHOR_EMAIL="${COMMIT_EMAIL:-41898282+github-actions[bot]@users.noreply.github.com}"
+
+          git config user.name "$AUTHOR_NAME"
+          git config user.email "$AUTHOR_EMAIL"
+
+          echo "Git author set to: $(git config user.name) <$(git config user.email)>"
+
+      - name: Commit & push if changed
+        run: |
+          git add activity.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: heartbeat (action)"
+          # show commit metadata for logs
+          git --no-pager show -s --format="Committed: %h by %an <%ae> on %ad" HEAD
+          # push to the same branch the workflow ran on
+          git push origin HEAD:${{ github.ref_name }}
