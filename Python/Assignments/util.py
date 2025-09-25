@@ -6,7 +6,7 @@ def read_tree(tree_stream):
   tree = pickle.load(tree_stream)
   return tree
 
-def decode_byte(tree, bitreader):
+def decode_byte(tree, bitreader): 
 
   while not isinstance(tree, huffman.TreeLeaf): 
     #splits depending if the bit is 1 or 0, right or left
