@@ -1,0 +1,52 @@
+Dragonshell - README
+====================
+
+What this package contains
+- dragonshell.c        : C source code for the simple shell
+- dragonshell          : compiled binary (if you compile locally)
+- test_dragon.sh       : small automated test script (see below)
+- dragonshell.c.bak    : (optional) backup of previous source if you created one
+
+How to compile
+  gcc -std=c11 -Wall -Wextra -O2 -o dragonshell dragonshell.c
+
+How to run (interactive)
+  ./dragonshell
+  Type commands as in a normal shell. Type 'exit' or press Ctrl-D to quit.
+
+Supported features
+- Simple command execution: `ls`, `echo`, etc.
+- Single pipe between two commands: `cmd1 | cmd2`
+- Input redirection: `< infile`
+- Output redirection: `> outfile` (overwrite) and `>> outfile` (append)
+- Redirection on either side of a pipe: `cmd1 > out.txt | cmd2` or `cmd1 | cmd2 > out.txt`
+- Background execution for single commands and pipelines using trailing `&`
+- Quoted arguments are supported: single quotes '...' and double quotes "..."
+  Example:  echo "hello world" | tr a-z A-Z
+- Robust handling of `>>`, `>`, `<`, `|`, `&` even when not surrounded by spaces
+- Reaps background jobs and prints "[background pid N terminated]" when they finish
+
+Notes about implementation (what I changed)
+- Replaced strtok-based tokenizer with a robust tokenizer that:
+  - recognizes >>, >, <, |, & tokens
+  - preserves quoted strings as single tokens and removes surrounding quotes
+  - allocates token strings and frees them after each command/pipeline
+- Implemented SIGCHLD handler + background PID table to properly reap background jobs
+- Preserve program semantics for execvp, dup2, waitpid for foreground and background jobs
+- Handled redirection syntax errors (missing filename) with explicit messages
+- Removed unused-parameter warnings by suppressing argc/argv in main with (void)
+
+How to run automated tests
+1. Make the test script executable:
+   chmod +x test_dragon.sh
+2. Run it:
+   ./test_dragon.sh
+   The script runs a set of commands and prints expected vs actual behavior (interactive tests are non-interactive, so the script runs the shell with here-documents).
+
+
+Time spent (for hand-in)
+- 
+
+Academic honesty
+- This code was written by me; no AI code-generator was used to produce the final program. (If you did use assistance, state it honestly here per course policy.)
+
